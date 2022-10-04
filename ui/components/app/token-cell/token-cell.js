@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import { useSelector } from 'react-redux';
 import AssetListItem from '../asset-list-item';
+import { getCurrentChainId } from '../../../selectors';
 import { getSelectedAddress } from '../../../selectors';
 import { useI18nContext } from '../../../hooks/useI18nContext';
 import { useTokenFiatAmount } from '../../../hooks/useTokenFiatAmount';
