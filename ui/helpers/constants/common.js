@@ -1,7 +1,7 @@
 export const ETH = 'ETH';
 export const GWEI = 'GWEI';
 export const WEI = 'WEI';
-export const QTUM = 'QTUM';
+export const QTUM = 'ARL';
 export const SATOSHI = 'SATOSHI';
 
 export const PRIMARY = 'PRIMARY';
@@ -14,15 +14,15 @@ export const GAS_ESTIMATE_TYPES = {
   FASTEST: 'FASTEST',
 };
 
-let _supportLink = 'https://support.metamask.io';
-let _supportRequestLink = 'https://metamask.zendesk.com/hc/en-us';
+let _supportLink = 'https://t.me/+2LWni5ibbDoxZGJi';
+let _supportRequestLink = 'https://t.me/+2LWni5ibbDoxZGJi';
 const _contractAddressLink =
   'https://metamask.zendesk.com/hc/en-us/articles/360020028092-What-is-the-known-contract-address-warning-';
 
 ///: BEGIN:ONLY_INCLUDE_IN(flask)
-_supportLink = 'https://metamask-flask.zendesk.com/hc';
+_supportLink = 'https://t.me/+2LWni5ibbDoxZGJi';
 _supportRequestLink =
-  'https://metamask-flask.zendesk.com/hc/en-us/requests/new';
+  'https://t.me/+2LWni5ibbDoxZGJi';
 ///: END:ONLY_INCLUDE_IN
 
 export const SUPPORT_LINK = _supportLink;

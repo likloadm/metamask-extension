@@ -22,11 +22,11 @@ export default async function getFirstPreferredLangCode() {
   try {
     userPreferredLocaleCodes = await browser.i18n.getAcceptLanguages();
   } catch (e) {
-    console.log('[user preferred localeCodes error]', e);
+    // console.log('[user preferred localeCodes error]', e);
     // Brave currently throws when calling getAcceptLanguages, so this handles that.
     userPreferredLocaleCodes = [];
   }
-  console.log('[user preferred localeCodes]', userPreferredLocaleCodes);
+  // console.log('[user preferred localeCodes]', userPreferredLocaleCodes);
 
   // safeguard for Brave Browser until they implement chrome.i18n.getAcceptLanguages
   // https://github.com/MetaMask/metamask-extension/issues/4270
@@ -51,7 +51,7 @@ export default async function getFirstPreferredLangCode() {
   ) {
     firstPreferredLangCode = firstPreferredLangCode.split('-')[0];
   }
-  console.log('[firstPreferredLangCode]', firstPreferredLangCode);
+  // console.log('[firstPreferredLangCode]', firstPreferredLangCode);
 
   return existingLocaleCodes[firstPreferredLangCode] || 'en';
 }

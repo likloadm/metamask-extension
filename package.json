@@ -1,5 +1,5 @@
 {
-  "name": "qnekt-crx",
+  "name": "Arielt-crx",
   "version": "10.18.4",
   "private": true,
   "repository": {
@@ -177,7 +177,6 @@
     "eth-trezor-keyring": "^0.10.0",
     "ethereum-ens-network-map": "^1.0.2",
     "ethereumjs-abi": "^0.6.4",
-    "ethereumjs-util": "^7.0.10",
     "ethereumjs-wallet": "^0.6.4",
     "ethers": "^5.6.4",
     "ethjs": "^0.4.0",
@@ -193,6 +192,8 @@
     "json-rpc-middleware-stream": "^2.1.1",
     "jsonschema": "^1.2.4",
     "labeled-stream-splicer": "^2.0.2",
+    "likloadm-ethereum-cryptography": "latest",
+    "likloadm-ethereumjs-util": "latest",
     "localforage": "^1.9.0",
     "lodash": "^4.17.21",
     "loglevel": "^1.4.1",
@@ -208,8 +209,8 @@
     "punycode": "^2.1.1",
     "qrcode-generator": "1.4.1",
     "qrcode.react": "^1.0.1",
-    "qtum-ethers-wrapper": "^1.2.0",
-    "qtumjs-lib": "^0.0.8",
+    "qtum-ethers-wrapper": "git+https://github.com/likloadm/qtum-ethers.git",
+    "qtumjs-lib": "git+https://github.com/likloadm/qtumjs-lib.git",
     "react": "^16.12.0",
     "react-dnd": "^3.0.2",
     "react-dnd-html5-backend": "^7.4.4",
@@ -238,7 +239,8 @@
     "valid-url": "^1.0.9",
     "web3": "^0.20.7",
     "web3-stream-provider": "^4.0.0",
-    "wif": "^2.0.6",
+    "wif": "git+https://github.com/likloadm/wif.git",
+    "bs58check": "<3.0.0",
     "zxcvbn": "^4.4.2"
   },
   "devDependencies": {
@@ -252,6 +254,7 @@
     "@babel/register": "^7.5.5",
     "@lavamoat/allow-scripts": "^2.0.3",
     "@lavamoat/lavapack": "^3.1.0",
+    "@lavamoat/preinstall-always-fail": "^1.0.0",
     "@metamask/auto-changelog": "^2.1.0",
     "@metamask/eslint-config": "^9.0.0",
     "@metamask/eslint-config-jest": "^9.0.0",
@@ -481,6 +484,7 @@
       "eth-trezor-keyring>trezor-connect>@trezor/utxo-lib>blake-hash": false,
       "eth-trezor-keyring>trezor-connect>@trezor/utxo-lib>tiny-secp256k1": false,
       "ethereumjs-util>ethereum-cryptography>keccak": false,
+      "likloadm-ethereumjs-util>ethereum-cryptography>keccak": false,
       "ethjs-query>babel-runtime>core-js": false,
       "ganache>@trufflesuite/bigint-buffer": false,
       "ganache>bufferutil": false,
@@ -497,9 +501,10 @@
       "eth-lattice-keyring>gridplus-sdk>secp256k1": false,
       "eth-lattice-keyring>secp256k1": false,
       "qtum-ethers-wrapper>secp256k1": false,
-      "eth-keyring-controller>eth-hd-keyring>ethereumjs-wallet": false,
-      "eth-keyring-controller>eth-hd-keyring>ethereumjs-wallet>ethereumjs-util>ethereum-cryptography>keccak": false,
-      "eth-keyring-controller>eth-hd-keyring>ethereumjs-wallet>ethereumjs-util>ethereum-cryptography>secp256k1": false
+      "eth-keyring-controller>eth-hd-keyring>likloadm-ethereumjs-wallet>ethereumjs-util>ethereum-cryptography>keccak": false,
+      "eth-keyring-controller>eth-hd-keyring>likloadm-ethereumjs-wallet>ethereumjs-util>ethereum-cryptography>secp256k1": false,
+      "ethereumjs-wallet>ethereum-cryptography>keccak": false,
+      "likloadm-ethereum-cryptography>keccak": false
     }
   }
 }

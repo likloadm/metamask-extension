@@ -30,7 +30,7 @@
     "message": "log ng aktibidad"
   },
   "addAcquiredTokens": {
-    "message": "Idagdag ang mga token na nakuha mo gamit ang Qnekt"
+    "message": "Idagdag ang mga token na nakuha mo gamit ang Arielt"
   },
   "addAlias": {
     "message": "Magdagdag ng alias"
@@ -51,19 +51,19 @@
     "message": "Halaga"
   },
   "appDescription": {
-    "message": "Isang Ethereum Wallet sa iyong Browser",
+    "message": "Isang Arielcoin Wallet sa iyong Browser",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -88,7 +88,7 @@
     "message": "Auto-Logout Timer (minuto)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "I-set ang idle time na minuto bago awtomatikong mag-log out ang Qnekt"
+    "message": "I-set ang idle time na minuto bago awtomatikong mag-log out ang Arielt"
   },
   "back": {
     "message": "Bumalik"
@@ -97,7 +97,7 @@
     "message": "Bumalik sa Lahat"
   },
   "backupApprovalInfo": {
-    "message": "Ang secret code na ito ay kinakailangan para ma-recover ang iyong wallet kung sakaling mawawala mo ang iyong device, nakalimutan mo ang iyong password, kailangan mong i-install ulit ang Qnekt, o gusto mong i-access ang iyong wallet sa ibang device."
+    "message": "Ang secret code na ito ay kinakailangan para ma-recover ang iyong wallet kung sakaling mawawala mo ang iyong device, nakalimutan mo ang iyong password, kailangan mong i-install ulit ang Arielt, o gusto mong i-access ang iyong wallet sa ibang device."
   },
   "backupApprovalNotice": {
     "message": "I-back up ang iyong Secret Recovery code para panatilihing secure ang iyong wallet at pondo."
@@ -125,7 +125,7 @@
     "message": "Bumili ng $1 gamit ang Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Binibigyang-daan ka ng Wyre na gumamit ng credit card para magdeposito ng $1 nang direkta sa iyong Qnekt account."
+    "message": "Binibigyang-daan ka ng Wyre na gumamit ng credit card para magdeposito ng $1 nang direkta sa iyong Arielt account."
   },
   "cancel": {
     "message": "Kanselahin"
@@ -137,7 +137,7 @@
     "message": "Nakansela"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Kailangan mong gamitin ang Qnekt sa Google Chrome upang makakonekta sa iyong Hardware Wallet."
+    "message": "Kailangan mong gamitin ang Arielt sa Google Chrome upang makakonekta sa iyong Hardware Wallet."
   },
   "clickToRevealSeed": {
     "message": "Mag-click dito para ipakita ang iyong secret words"
@@ -176,7 +176,7 @@
     "message": "Kumokonekta sa Kovan Test Network"
   },
   "connectingToMainnet": {
-    "message": "Kumokonekta sa Ethereum Mainnet"
+    "message": "Kumokonekta sa Arielcoin Mainnet"
   },
   "connectingToRinkeby": {
     "message": "Kumokonekta sa Rinkeby Test Network"
@@ -293,19 +293,19 @@
     "message": "Huwag ibahagi ang parirala sa kahit sino."
   },
   "endOfFlowMessage5": {
-    "message": "Mag-ingat sa phishing! Hindi ka basta-basta hihilingin ng Qnekt ang iyong seed phrase."
+    "message": "Mag-ingat sa phishing! Hindi ka basta-basta hihilingin ng Arielt ang iyong seed phrase."
   },
   "endOfFlowMessage6": {
     "message": "Kung kailangan mong i-back up ulit ang iyong seed phrase, makikita mo ito sa Mga Setting -> Seguridad."
   },
   "endOfFlowMessage8": {
-    "message": "Hindi ma-recover ng Qnekt ang iyong seedphrase. Alamin pa."
+    "message": "Hindi ma-recover ng Arielt ang iyong seedphrase. Alamin pa."
   },
   "endOfFlowMessage9": {
     "message": "Matuto pa."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Hindi nakita ang ENS name sa kasalukuyang network. Subukang lumipat sa Ethereum Mainnet."
+    "message": "Hindi nakita ang ENS name sa kasalukuyang network. Subukang lumipat sa Arielcoin Mainnet."
   },
   "ensRegistrationError": {
     "message": "May error sa pagrerehistro ng ENS name"
@@ -320,7 +320,7 @@
     "message": "Tinatantiyang Tagal ng Pagproseso"
   },
   "etherscanView": {
-    "message": "Tingnan ang account sa Etherscan"
+    "message": "Tingnan ang account sa Arielscan"
   },
   "expandView": {
     "message": "I-expand ang View"
@@ -363,7 +363,7 @@
     "message": "Napakababa ng Presyo ng Gas"
   },
   "gasPriceInfoTooltipContent": {
-    "message": "Tinutukoy ng presyo ng gas ang halaga ng Ether na handa kang ibayad para sa bawat unit ng gas."
+    "message": "Tinutukoy ng presyo ng gas ang halaga ng Ariel na handa kang ibayad para sa bawat unit ng gas."
   },
   "gasUsed": {
     "message": "Gas na Ginamit"
@@ -372,11 +372,11 @@
     "message": "Pangkalahatan"
   },
   "getEther": {
-    "message": "Kumuha ng Ether"
+    "message": "Kumuha ng Ariel"
   },
   "getEtherFromFaucet": {
-    "message": "Kumuha ng Ether mula sa isang faucet para sa $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "Kumuha ng Ariel mula sa isang faucet para sa $1",
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Magsimula"
@@ -391,7 +391,7 @@
     "message": "Magkonekta ng hardware wallet"
   },
   "hardwareWalletsMsg": {
-    "message": "Pumili ng hardware wallet na gusto mong gamitin sa Qnekt"
+    "message": "Pumili ng hardware wallet na gusto mong gamitin sa Arielt"
   },
   "here": {
     "message": "dito",
@@ -411,7 +411,7 @@
     "message": "Mag-import ng Account"
   },
   "importAccountMsg": {
-    "message": " Ang mga na-import na account ay hindi iuugnay sa orihinal na seedphrase na ginawa ng iyong Qnekt account. Matuto pa tungkol sa mga na-import na account "
+    "message": " Ang mga na-import na account ay hindi iuugnay sa orihinal na seedphrase na ginawa ng iyong Arielt account. Matuto pa tungkol sa mga na-import na account "
   },
   "importAccountSeedPhrase": {
     "message": "Mag-import ng Account gamit ang Seed Phrase"
@@ -442,7 +442,7 @@
     "message": "Hindi valid ang address ng recipient"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Hindi ito isang ETH network, i-set sa lowercase"
+    "message": "Hindi ito isang ARL network, i-set sa lowercase"
   },
   "invalidBlockExplorerURL": {
     "message": "Hindi valid ang Block Explorer URL"
@@ -493,10 +493,10 @@
     "message": "Mensahe"
   },
   "metamaskDescription": {
-    "message": "Kinokonekta ka sa Ethereum at sa Decentralized Web."
+    "message": "Kinokonekta ka sa Arielcoin at sa Decentralized Web."
   },
   "metamaskVersion": {
-    "message": "Bersyon ng Qnekt"
+    "message": "Bersyon ng Arielt"
   },
   "mustSelectOne": {
     "message": "Dapat pumili ng kahit 1 token."
@@ -509,7 +509,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Hindi makakapagpadala ng mga negative na halaga ng ETH."
+    "message": "Hindi makakapagpadala ng mga negative na halaga ng ARL."
   },
   "networkName": {
     "message": "Pangalan ng Network"
@@ -535,8 +535,8 @@
   "newPassword": {
     "message": "Bagong Password (min 8 char)"
   },
-  "newToQnekt": {
-    "message": "Bago ka ba sa Qnekt?"
+  "newToArielt": {
+    "message": "Bago ka ba sa Arielt?"
   },
   "newTotal": {
     "message": "Bagong Total"
@@ -587,7 +587,7 @@
     "message": "Makilahok sa MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Makilahok sa MetaMetrics para tulungan kaming mas pagandahin ang Qnekt"
+    "message": "Makilahok sa MetaMetrics para tulungan kaming mas pagandahin ang Arielt"
   },
   "passwordNotLongEnough": {
     "message": "Hindi sapat ang haba ng password"
@@ -612,7 +612,7 @@
     "message": "Pangunahing Currency"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Piliin ang native para bigyang priyoridad ang pagpapakita ng mga halaga sa native currency ng chain (hal. ETH). Piliin ang Fiat para bigyang priyoridad ang pagpapakita ng mga halaga sa napili mong fiat currency."
+    "message": "Piliin ang native para bigyang priyoridad ang pagpapakita ng mga halaga sa native currency ng chain (hal. ARL). Piliin ang Fiat para bigyang priyoridad ang pagpapakita ng mga halaga sa napili mong fiat currency."
   },
   "privacyMsg": {
     "message": "Patakaran sa Privacy"
@@ -720,7 +720,7 @@
     "message": "Pinapadali ng iyong secret backup phrase na i-back up at i-restore ang iyong account."
   },
   "secretBackupPhraseWarning": {
-    "message": "BABALA: Huwag ibunyag ang iyong backup phrase. Mananakaw ng kahit sinong may ganitong parirala ang iyong Ether at hindi na ito maibabalik."
+    "message": "BABALA: Huwag ibunyag ang iyong backup phrase. Mananakaw ng kahit sinong may ganitong parirala ang iyong Ariel at hindi na ito maibabalik."
   },
   "securityAndPrivacy": {
     "message": "Seguridad at Privacy"
@@ -837,16 +837,16 @@
     "message": "Tiyaking walang ibang taong tumitingin sa iyong screen kapag sina-scan mo ang code na ito"
   },
   "syncWithMobileComplete": {
-    "message": "Matagumpay na na-sync ang iyong data. I-enjoy ang Qnekt mobile app!"
+    "message": "Matagumpay na na-sync ang iyong data. I-enjoy ang Arielt mobile app!"
   },
   "syncWithMobileDesc": {
-    "message": "Maaari mong i-sync ang iyong mga account at impormasyon sa iyong mobile device. Buksan ang Qnekt mobile app, pumunta sa \"Settings\" at mag-tap sa \"Sync from Browser Extension\""
+    "message": "Maaari mong i-sync ang iyong mga account at impormasyon sa iyong mobile device. Buksan ang Arielt mobile app, pumunta sa \"Settings\" at mag-tap sa \"Sync from Browser Extension\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Kung bubuksan mo ang Qnekt Mobile app sa unang pagkakataon, sundin lang ang mga hakbang sa iyong telepono."
+    "message": "Kung bubuksan mo ang Arielt Mobile app sa unang pagkakataon, sundin lang ang mga hakbang sa iyong telepono."
   },
   "syncWithMobileScanThisCode": {
-    "message": "I-scan ang code na ito sa iyong Qnekt mobile app"
+    "message": "I-scan ang code na ito sa iyong Arielt mobile app"
   },
   "syncWithMobileTitle": {
     "message": "I-sync sa mobile"
@@ -928,7 +928,7 @@
     "message": "Subukang muli"
   },
   "typePassword": {
-    "message": "I-type ang iyong password sa Qnekt"
+    "message": "I-type ang iyong password sa Arielt"
   },
   "unapproved": {
     "message": "Hindi inaprubahan"
@@ -976,7 +976,7 @@
     "message": "Bisitahin ang aming web site"
   },
   "welcome": {
-    "message": "Welcome sa Qnekt"
+    "message": "Welcome sa Arielt"
   },
   "welcomeBack": {
     "message": "Welcome Ulit!"

@@ -84,11 +84,7 @@ function importAllScripts() {
   const endImportScriptsTime = Date.now();
 
   // for performance metrics/reference
-  console.log(
-    `SCRIPTS IMPORT COMPLETE in Seconds: ${
-      (Date.now() - startImportScriptsTime) / 1000
-    }`,
-  );
+//  console.log( `SCRIPTS IMPORT COMPLETE in Seconds: ${(Date.now() - startImportScriptsTime) / 1000 }`,);
 
   // In testMode load time logs are output to console
   if (testMode) {

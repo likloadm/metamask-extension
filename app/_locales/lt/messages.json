@@ -33,7 +33,7 @@
     "message": "veiklos žurnalas"
   },
   "addAcquiredTokens": {
-    "message": "Pridėkite žetonus, kuriuos gavote naudodamiesi „Qnekt“"
+    "message": "Pridėkite žetonus, kuriuos gavote naudodamiesi „Arielt“"
   },
   "addAlias": {
     "message": "Pridėti alternatyvųjį vardą"
@@ -57,19 +57,19 @@
     "message": "Suma"
   },
   "appDescription": {
-    "message": "„Ethereum“ piniginė jūsų naršyklėje",
+    "message": "„Arielcoin“ piniginė jūsų naršyklėje",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Automatinio atjungimo laikmatis (minutės)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Nustatykite laukimo  trukmę minutėmis iki „Qnekt“ automatinio atsijungimo"
+    "message": "Nustatykite laukimo  trukmę minutėmis iki „Arielt“ automatinio atsijungimo"
   },
   "average": {
     "message": "Vidurkis"
@@ -109,7 +109,7 @@
     "message": "Atgal prie visų"
   },
   "backupApprovalInfo": {
-    "message": "Šis slaptas kodas reikalingas norint atkurti jūsų slaptažodinę, jeigu pamestumėte savo įrenginį, pamirštumėte savo slaptažodį, iš naujo įdiegtumėte „Qnekt“, taip pat norint pasiekti slaptažodinę iš kito įrenginio."
+    "message": "Šis slaptas kodas reikalingas norint atkurti jūsų slaptažodinę, jeigu pamestumėte savo įrenginį, pamirštumėte savo slaptažodį, iš naujo įdiegtumėte „Arielt“, taip pat norint pasiekti slaptažodinę iš kito įrenginio."
   },
   "backupApprovalNotice": {
     "message": "Pasidarykite atsarginę savo slapto atkūrimo kodo kopiją, kad jūsų slaptažodinė ir fondai būtų saugūs."
@@ -140,7 +140,7 @@
     "message": "Pirkti $1 su „Wyre“"
   },
   "buyWithWyreDescription": {
-    "message": "„Wyre“ leidžia naudotis kreditine kortele norint įnešti $1 tiesiai į jūsų „Qnekt“ paskyrą."
+    "message": "„Wyre“ leidžia naudotis kreditine kortele norint įnešti $1 tiesiai į jūsų „Arielt“ paskyrą."
   },
   "bytes": {
     "message": "Baitai"
@@ -158,7 +158,7 @@
     "message": "Grandinės ID"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Norėdami prisijungti prie aparatinės įrangos slaptažodinės, „Qnekt“ naudokitės „Google Chrome“ naršyklėje."
+    "message": "Norėdami prisijungti prie aparatinės įrangos slaptažodinės, „Arielt“ naudokitės „Google Chrome“ naršyklėje."
   },
   "clickToRevealSeed": {
     "message": "Spustelėkite čia, kad atidengtumėte slaptus žodžius"
@@ -197,7 +197,7 @@
     "message": "Jungiamasi prie „Kovan“ bandomojo tinklo"
   },
   "connectingToMainnet": {
-    "message": "Jungiamasi prie pagrindinio „Ethereum“ tinklo"
+    "message": "Jungiamasi prie pagrindinio „Arielcoin“ tinklo"
   },
   "connectingToRinkeby": {
     "message": "Jungiamasi prie „Rinkeby“ bandomojo tinklo"
@@ -317,19 +317,19 @@
     "message": "Niekam niekada nepasakykite šios frazės."
   },
   "endOfFlowMessage5": {
-    "message": "Saugokitės informacijos vagių! „Qnekt“ niekada spontaniškai neklaus jūsų atkūrimo frazės."
+    "message": "Saugokitės informacijos vagių! „Arielt“ niekada spontaniškai neklaus jūsų atkūrimo frazės."
   },
   "endOfFlowMessage6": {
     "message": "Jeigu reikia dar kartą padaryti jūsų atkūrimo frazės kopiją, ją galite rasti pasirinkę Nuostatos -> Sauga."
   },
   "endOfFlowMessage8": {
-    "message": "„Qnekt“ negali atkurti jūsų atkūrimo frazės. Sužinokite daugiau."
+    "message": "„Arielt“ negali atkurti jūsų atkūrimo frazės. Sužinokite daugiau."
   },
   "endOfFlowMessage9": {
     "message": "Sužinokite daugiau."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS pavadinimas dabartiniame tinkle nerastas. Mėginkite perjungti į pagrindinį „Ethereum“ tinklą."
+    "message": "ENS pavadinimas dabartiniame tinkle nerastas. Mėginkite perjungti į pagrindinį „Arielcoin“ tinklą."
   },
   "ensRegistrationError": {
     "message": "ENS pavadinimo registracijos klaida"
@@ -344,10 +344,10 @@
     "message": "Numatomos apdorojimo trukmės"
   },
   "ethereumPublicAddress": {
-    "message": "„Ethereum“ viešasis adresas"
+    "message": "„Arielcoin“ viešasis adresas"
   },
   "etherscanView": {
-    "message": "Peržiūrėti paskyrą „Etherscan“ programoje"
+    "message": "Peržiūrėti paskyrą „Arielscan“ programoje"
   },
   "expandView": {
     "message": "Išskleisti rodinį"
@@ -407,7 +407,7 @@
   },
   "getEtherFromFaucet": {
     "message": "Gaukite eterių iš čiaupo $1",
-    "description": "Displays network name for Ether faucet"
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Darbo pradžia"
@@ -454,7 +454,7 @@
     "message": "Importuoti paskyrą"
   },
   "importAccountMsg": {
-    "message": "Importuotos paskyros nebus susietos su pirmiau sukurta „Qnekt“ paskyros atkūrimo fraze. Sužinokite daugiau apie importuotas paskyras"
+    "message": "Importuotos paskyros nebus susietos su pirmiau sukurta „Arielt“ paskyros atkūrimo fraze. Sužinokite daugiau apie importuotas paskyras"
   },
   "importAccountSeedPhrase": {
     "message": "Importuoti paskyrą su atkūrimo fraze"
@@ -485,7 +485,7 @@
     "message": "Gavėjo adresas netinkamas"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Ne ETH tinklas, nustatykite į mažąsias raides"
+    "message": "Ne ARL tinklas, nustatykite į mažąsias raides"
   },
   "invalidBlockExplorerURL": {
     "message": "Netinkamas Block Explorer URL"
@@ -540,7 +540,7 @@
     "message": "Atsijungti"
   },
   "mainnet": {
-    "message": "Pagrindinis „Ethereum“ tinklas"
+    "message": "Pagrindinis „Arielcoin“ tinklas"
   },
   "max": {
     "message": "Maks."
@@ -555,10 +555,10 @@
     "message": "Pranešimas"
   },
   "metamaskDescription": {
-    "message": "Prijungiame jus prie „Ethereum“ ir decentralizuotojo žiniatinklio."
+    "message": "Prijungiame jus prie „Arielcoin“ ir decentralizuotojo žiniatinklio."
   },
   "metamaskVersion": {
-    "message": "„Qnekt“ versija"
+    "message": "„Arielt“ versija"
   },
   "mustSelectOne": {
     "message": "Turite pasirinkti bent 1 žetoną."
@@ -571,7 +571,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Neigiamų ETH sumų siųsti negalima."
+    "message": "Neigiamų ARL sumų siųsti negalima."
   },
   "networkName": {
     "message": "Tinklo pavadinimas"
@@ -601,8 +601,8 @@
   "newPassword": {
     "message": "Naujas slaptažodis (bent 8 ženklai)"
   },
-  "newToQnekt": {
-    "message": "Tik pradedate naudotis „Qnekt“?"
+  "newToArielt": {
+    "message": "Tik pradedate naudotis „Arielt“?"
   },
   "newTotal": {
     "message": "Nauja bendra suma"
@@ -656,7 +656,7 @@
     "message": "Dalyvaukite „MetaMetrics“"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Dalyvaukite „MetaMetrics“ ir padėkite mums tobulinti „Qnekt“"
+    "message": "Dalyvaukite „MetaMetrics“ ir padėkite mums tobulinti „Arielt“"
   },
   "password": {
     "message": "Slaptažodis"
@@ -684,7 +684,7 @@
     "message": "Pagrindinė valiuta"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Rinkitės vietinę, kad vertės pirmiausia būtų rodomos vietine grandinės valiuta (pvz., ETH). Rinkitės standartinę, kad vertės pirmiausia būtų rodomos jūsų pasirinkta standartine valiuta."
+    "message": "Rinkitės vietinę, kad vertės pirmiausia būtų rodomos vietine grandinės valiuta (pvz., ARL). Rinkitės standartinę, kad vertės pirmiausia būtų rodomos jūsų pasirinkta standartine valiuta."
   },
   "privacyMsg": {
     "message": "Privatumo politika"
@@ -925,16 +925,16 @@
     "message": "Pasirūpinkite, kad jums nuskaitant šį kodą niekas nežiūrėtų į jūsų ekraną."
   },
   "syncWithMobileComplete": {
-    "message": "Jūsų duomenys sėkmingai sinchronizuoti. Mėgaukitės „Qnekt“ mobiliąja programa! "
+    "message": "Jūsų duomenys sėkmingai sinchronizuoti. Mėgaukitės „Arielt“ mobiliąja programa! "
   },
   "syncWithMobileDesc": {
-    "message": "Galite sinchronizuoti paskyrą ir informaciją su savo mobiliuoju įrenginiu. Atverkite „Qnekt“ mobiliąją programą, eikite į „Nuostatos“ ir palieskite „Sinchronizuoti iš naršyklės plėtinio“"
+    "message": "Galite sinchronizuoti paskyrą ir informaciją su savo mobiliuoju įrenginiu. Atverkite „Arielt“ mobiliąją programą, eikite į „Nuostatos“ ir palieskite „Sinchronizuoti iš naršyklės plėtinio“"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jeigu „Qnekt“ mobiliąją programą atveriate tik pirmą kartą, tiesiog sekite veiksmus telefone."
+    "message": "Jeigu „Arielt“ mobiliąją programą atveriate tik pirmą kartą, tiesiog sekite veiksmus telefone."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Nuskaitykite šį kodą su savo „Qnekt“ mobiliąja programa"
+    "message": "Nuskaitykite šį kodą su savo „Arielt“ mobiliąja programa"
   },
   "syncWithMobileTitle": {
     "message": "Sinchronizuoti su mobiliuoju"
@@ -1025,7 +1025,7 @@
     "message": "Bandyti dar kartą"
   },
   "typePassword": {
-    "message": "Įveskite savo „Qnekt“ slaptažodį"
+    "message": "Įveskite savo „Arielt“ slaptažodį"
   },
   "unapproved": {
     "message": "Nepatvirtinta"
@@ -1076,7 +1076,7 @@
     "message": "Apsilankykite mūsų svetainėje"
   },
   "welcome": {
-    "message": "Sveiki, tai „Qnekt“"
+    "message": "Sveiki, tai „Arielt“"
   },
   "welcomeBack": {
     "message": "Sveiki sugrįžę!"

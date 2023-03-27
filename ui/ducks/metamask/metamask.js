@@ -15,6 +15,11 @@ import { updateTransactionGasFees } from '../../store/actions';
 import { setCustomGasLimit, setCustomGasPrice } from '../gas/gas.duck';
 import { decGWEIToHexWEI } from '../../helpers/utils/conversions.util';
 
+import {
+  getHexAddressFromQtum,
+  getQtumAddressFromHex
+} from '../../helpers/utils/util';
+
 import { KEYRING_TYPES } from '../../../shared/constants/hardware-wallets';
 import { isEqualCaseInsensitive } from '../../../shared/modules/string-utils';
 
@@ -48,7 +53,7 @@ export default function reduceMetamask(state = {}, action) {
     participateInMetaMetrics: null,
     nextNonce: null,
     conversionRate: null,
-    nativeCurrency: 'QTUM',
+    nativeCurrency: 'ARL',
     qtumBalances: {},
     qtumAddresses: {},
     ...state,
@@ -469,7 +474,7 @@ export function getQtumBalances(state) {
 }
 
 export function getQtumAddress(state, address) {
-  return state.metamask.qtumAddresses[address];
+  return getQtumAddressFromHex(address, 4);
 }
 
 export function getQtumAddressBook(state) {

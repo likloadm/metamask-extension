@@ -33,7 +33,7 @@
     "message": "toimintaloki"
   },
   "addAcquiredTokens": {
-    "message": "Lisää Qnektia käyttämällä hankkimasi tietueet"
+    "message": "Lisää Arieltia käyttämällä hankkimasi tietueet"
   },
   "addAlias": {
     "message": "Lisää alias"
@@ -57,19 +57,19 @@
     "message": "Summa"
   },
   "appDescription": {
-    "message": "Ethereum-kukkaro selaimessasi",
+    "message": "Arielcoin-kukkaro selaimessasi",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Automaattisen uloskirjautumisen ajastin (minuuttia)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Määritä, montako minuuttia Qnekt on ollut joutilaana ennen kuin sinut kirjataan automaattisesti ulos"
+    "message": "Määritä, montako minuuttia Arielt on ollut joutilaana ennen kuin sinut kirjataan automaattisesti ulos"
   },
   "average": {
     "message": "Keskiverto"
@@ -109,7 +109,7 @@
     "message": "Takaisin kaikkiin"
   },
   "backupApprovalInfo": {
-    "message": "Tämä salainen koodi vaaditaan kukkarosi palauttamiseen siinä tapauksessa, että kadotat laitteesi, unohdat salasanasi, joudut asentamaan Qnektin uudestaan tai haluat käyttää lompakkoasi jollakin toisella laitteella."
+    "message": "Tämä salainen koodi vaaditaan kukkarosi palauttamiseen siinä tapauksessa, että kadotat laitteesi, unohdat salasanasi, joudut asentamaan Arieltin uudestaan tai haluat käyttää lompakkoasi jollakin toisella laitteella."
   },
   "backupApprovalNotice": {
     "message": "Varmuuskopioi salainen palautuskoodisi pitääksesi kukkarosi ja varasi turvassa."
@@ -140,7 +140,7 @@
     "message": "Osta $1 :ta Wyrella"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre antaa sinun käyttää luottokorttia, jotta voit tallettaa $1 :ta suoraan Qnekt-tilillesi."
+    "message": "Wyre antaa sinun käyttää luottokorttia, jotta voit tallettaa $1 :ta suoraan Arielt-tilillesi."
   },
   "bytes": {
     "message": "Tavua"
@@ -158,7 +158,7 @@
     "message": "Ketjun tunnus"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Sinun tarvitsee käyttää Qnektia Google Chromessa voidaksesi yhdistää laitteistokukkaroosi."
+    "message": "Sinun tarvitsee käyttää Arieltia Google Chromessa voidaksesi yhdistää laitteistokukkaroosi."
   },
   "clickToRevealSeed": {
     "message": "Paljasta salaiset sanat napsauttamalla tästä"
@@ -317,13 +317,13 @@
     "message": "Älä koskaan luovuta lausetta kenellekään."
   },
   "endOfFlowMessage5": {
-    "message": "Varo tietojenkalastelua! Qnekt ei koskaan pyydä spontaanisti siemenlausettasi."
+    "message": "Varo tietojenkalastelua! Arielt ei koskaan pyydä spontaanisti siemenlausettasi."
   },
   "endOfFlowMessage6": {
     "message": "Jos tarvitse uuden varmuuskopion juurilauseestasi, niin se löytyy osiosta Asetukset -> Turvallisuus."
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt ei pysty palauttamaan salaustekstiäsi. Lue lisää."
+    "message": "Arielt ei pysty palauttamaan salaustekstiäsi. Lue lisää."
   },
   "endOfFlowMessage9": {
     "message": "Lue lisää."
@@ -394,7 +394,7 @@
     "message": "Gas-hinta erittäin alhainen"
   },
   "gasPriceInfoTooltipContent": {
-    "message": "Polttoaineen hinta määrittää Ether-määrän, jonka olet valmis maksamaan jokaisesta polttoaineyksiköstä."
+    "message": "Polttoaineen hinta määrittää Ariel-määrän, jonka olet valmis maksamaan jokaisesta polttoaineyksiköstä."
   },
   "gasUsed": {
     "message": "Käytetty bensaa"
@@ -407,7 +407,7 @@
   },
   "getEtherFromFaucet": {
     "message": "Hanki etheriä faucetista kohteelle $1",
-    "description": "Displays network name for Ether faucet"
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Aloitusopas"
@@ -428,7 +428,7 @@
     "message": "Yhdistä kiinteän laitteiston lompakko"
   },
   "hardwareWalletsMsg": {
-    "message": "Valitse laitteistokukkaro, jota haluaisit käyttää Qnektilla"
+    "message": "Valitse laitteistokukkaro, jota haluaisit käyttää Arieltilla"
   },
   "here": {
     "message": "tässä",
@@ -454,7 +454,7 @@
     "message": "Tuo tili"
   },
   "importAccountMsg": {
-    "message": "Tuotuja tilejä ei liitetä alkuperäisen Qnekt-tilisi siemenlauseeseen. Lue lisää tuoduista tileistä"
+    "message": "Tuotuja tilejä ei liitetä alkuperäisen Arielt-tilisi siemenlauseeseen. Lue lisää tuoduista tileistä"
   },
   "importAccountSeedPhrase": {
     "message": "Tuo tili siemenlauseella"
@@ -485,7 +485,7 @@
     "message": "Vastaanottajan osoite on virheellinen"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Ei ole ETH-verkosto; vaihda pieniin kirjaimiin"
+    "message": "Ei ole ARL-verkosto; vaihda pieniin kirjaimiin"
   },
   "invalidBlockExplorerURL": {
     "message": "Virheellinen Block Explorer URL-osoite"
@@ -558,7 +558,7 @@
     "message": "Sinua yhdistetään Ethereumiin ja hajautettuun verkkoon."
   },
   "metamaskVersion": {
-    "message": "Qnekt-versio"
+    "message": "Arielt-versio"
   },
   "mustSelectOne": {
     "message": "Valittava vähintään 1 poletti."
@@ -571,7 +571,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "ETH:ta ei voi lähettää negatiivista määrää."
+    "message": "ARL:ta ei voi lähettää negatiivista määrää."
   },
   "networkName": {
     "message": "Verkon nimi"
@@ -601,8 +601,8 @@
   "newPassword": {
     "message": "Uusi salasana (väh. 8 merkkiä)"
   },
-  "newToQnekt": {
-    "message": "Onko Qnekt ennestään outo?"
+  "newToArielt": {
+    "message": "Onko Arielt ennestään outo?"
   },
   "newTotal": {
     "message": "Uusi kokonaissumma"
@@ -653,7 +653,7 @@
     "message": "Osallistu MetaMetricsiin"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Osallistu MetaMetricsiin auttaaksesi meitä tekemään Qnektista paremman"
+    "message": "Osallistu MetaMetricsiin auttaaksesi meitä tekemään Arieltista paremman"
   },
   "password": {
     "message": "Salasana"
@@ -681,7 +681,7 @@
     "message": "Ensisijainen valuutta"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Valitse natiivivaihtoehto näyttääksesi arvot ensisijaisesti ketjun natiivivaluutalla (esim. ETH). Valitse oletusmääräys asettaaksesi valitsemasi oletusvaluutan ensisijaiseksi."
+    "message": "Valitse natiivivaihtoehto näyttääksesi arvot ensisijaisesti ketjun natiivivaluutalla (esim. ARL). Valitse oletusmääräys asettaaksesi valitsemasi oletusvaluutan ensisijaiseksi."
   },
   "privacyMsg": {
     "message": "Tietosuojakäytäntö"
@@ -922,16 +922,16 @@
     "message": "Varmista, ettei kukaan muu katsele näyttöäsi, kun skannaat koodin"
   },
   "syncWithMobileComplete": {
-    "message": "Tietojesi synkronoiminen onnistui. Nauti Qnekt-mobiilisovelluksesta!"
+    "message": "Tietojesi synkronoiminen onnistui. Nauti Arielt-mobiilisovelluksesta!"
   },
   "syncWithMobileDesc": {
-    "message": "Voit synkronoida tilisi ja tietosi mobiililaitteidesi kesken. Avaa Qnektin mobiilisovellus, siirry \"Asetukset\"-osioon ja napauta \"Synkronoi selainlaajennuksesta\" -vaihtoehtoa"
+    "message": "Voit synkronoida tilisi ja tietosi mobiililaitteidesi kesken. Avaa Arieltin mobiilisovellus, siirry \"Asetukset\"-osioon ja napauta \"Synkronoi selainlaajennuksesta\" -vaihtoehtoa"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jos avaat Qnektin mobiilisovelluksen vasta ensimmäistä kertaa, noudata vain puhelimesi ilmoittamia vaiheita."
+    "message": "Jos avaat Arieltin mobiilisovelluksen vasta ensimmäistä kertaa, noudata vain puhelimesi ilmoittamia vaiheita."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Lue tämä koodi Qnekt-mobiilisovelluksellasi"
+    "message": "Lue tämä koodi Arielt-mobiilisovelluksellasi"
   },
   "syncWithMobileTitle": {
     "message": "Synkronoi mobiililaitteen kanssa"
@@ -1022,7 +1022,7 @@
     "message": "Yritä uudelleen"
   },
   "typePassword": {
-    "message": "Kirjoita Qnekt-salasanasi"
+    "message": "Kirjoita Arielt-salasanasi"
   },
   "unapproved": {
     "message": "Ei hyväksytty"
@@ -1073,7 +1073,7 @@
     "message": "Vieraile verkkosivustollamme"
   },
   "welcome": {
-    "message": "Tervetuloa Qnektiin"
+    "message": "Tervetuloa Arieltiin"
   },
   "welcomeBack": {
     "message": "Tervetuloa takaisin!"

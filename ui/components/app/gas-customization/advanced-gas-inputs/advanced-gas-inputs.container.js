@@ -35,7 +35,7 @@ function mergeProps(stateProps, dispatchProps, ownProps) {
     updateCustomGasLimit,
     minimumGasLimit,
   } = ownProps;
-  console.log("stateProps", stateProps, "dispatchProps", dispatchProps, "ownProps", ownProps);
+  // console.log("stateProps", stateProps, "dispatchProps", dispatchProps, "ownProps", ownProps);
   return {
     ...ownProps,
     ...stateProps,

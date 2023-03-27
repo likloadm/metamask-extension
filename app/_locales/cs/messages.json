@@ -18,19 +18,19 @@
     "message": "Částka"
   },
   "appDescription": {
-    "message": "Ethereum rozšíření prohlížeče",
+    "message": "Arielcoin rozšíření prohlížeče",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -67,7 +67,7 @@
     "message": "Připojuji se k Kovan Test Network"
   },
   "connectingToMainnet": {
-    "message": "Připojuji se k Ethereum Mainnet"
+    "message": "Připojuji se k Arielcoin Mainnet"
   },
   "connectingToRinkeby": {
     "message": "Připojuji se k Rinkeby Test Network"
@@ -124,7 +124,7 @@
     "message": "Zadejte heslo"
   },
   "etherscanView": {
-    "message": "Prohlédněte si účet na Etherscan"
+    "message": "Prohlédněte si účet na Arielscan"
   },
   "exportPrivateKey": {
     "message": "Exportovat privátní klíč"
@@ -153,11 +153,11 @@
     "message": "Cena paliva (GWEI)"
   },
   "getEther": {
-    "message": "Získejte Ether"
+    "message": "Získejte Ariel"
   },
   "getEtherFromFaucet": {
-    "message": "Získejte Ether z faucetu za $1.",
-    "description": "Displays network name for Ether faucet"
+    "message": "Získejte Ariel z faucetu za $1.",
+    "description": "Displays network name for Ariel faucet"
   },
   "here": {
     "message": "zde",
@@ -173,7 +173,7 @@
     "message": "Import účtu"
   },
   "importAccountMsg": {
-    "message": "Importované účty nebudou spojeny s vaší původní Qnektovou klíčovou frází. Zjistěte více o importovaných účtech "
+    "message": "Importované účty nebudou spojeny s vaší původní Arieltovou klíčovou frází. Zjistěte více o importovaných účtech "
   },
   "imported": {
     "message": "Importováno",
@@ -226,7 +226,7 @@
     "message": "Zpráva"
   },
   "metamaskDescription": {
-    "message": "Qnekt je bezpečný osobní trezor pro Ethereum."
+    "message": "Arielt je bezpečný osobní trezor pro Arielcoin."
   },
   "mustSelectOne": {
     "message": "Musíte zvolit aspoň 1 token."
@@ -239,7 +239,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Nelze odeslat zápornou částku ETH."
+    "message": "Nelze odeslat zápornou částku ARL."
   },
   "networks": {
     "message": "Sítě"
@@ -426,7 +426,7 @@
     "message": "Navštivte naši stránku"
   },
   "welcome": {
-    "message": "Vítejte v Qnekt"
+    "message": "Vítejte v Arielt"
   },
   "youSign": {
     "message": "Podepisujete"

@@ -19,15 +19,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "मेटामास्क/Qnekt",
+    "message": "मेटामास्क/Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -130,7 +130,7 @@
   },
   "getEtherFromFaucet": {
     "message": "$1 के लिए एक नल से ईथर प्राप्त करें",
-    "description": "Displays network name for Ether faucet"
+    "description": "Displays network name for Ariel faucet"
   },
   "here": {
     "message": "यहां",

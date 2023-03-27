@@ -66,7 +66,7 @@
     "message": "Αποκτήστε πρόσβαση στο πορτοφόλι σας με τη Μυστική σας Φράση Ανάκτησης"
   },
   "accessYourWalletWithSRPDescription": {
-    "message": "Το Qnekt δεν μπορεί να ανακτήσει τον κωδικό σας. Θα χρησιμοποιήσουμε τη Μυστική σας Φράση Ανάκτησης για να επιβεβαιώσουμε την κυριότητά σας, να ανακτήσουμε το πορτοφόλι σας και να ορίσουμε ένα νέο κωδικό. Πρώτα, εισάγετε τη Μυστική Φράση σας Ανάκτησης που σας δόθηκε όταν δημιουργήσατε το πορτοφόλι σας. $1",
+    "message": "Το Arielt δεν μπορεί να ανακτήσει τον κωδικό σας. Θα χρησιμοποιήσουμε τη Μυστική σας Φράση Ανάκτησης για να επιβεβαιώσουμε την κυριότητά σας, να ανακτήσουμε το πορτοφόλι σας και να ορίσουμε ένα νέο κωδικό. Πρώτα, εισάγετε τη Μυστική Φράση σας Ανάκτησης που σας δόθηκε όταν δημιουργήσατε το πορτοφόλι σας. $1",
     "description": "$1 is the words 'Learn More' from key 'learnMore', separated here so that it can be added as a link"
   },
   "accessingYourCamera": {
@@ -116,7 +116,7 @@
     "message": "Προσθήκη ενός ψευδωνύμου"
   },
   "addAcquiredTokens": {
-    "message": "Προσθέστε τα token που αποκτήσατε χρησιμοποιώντας το Qnekt"
+    "message": "Προσθέστε τα token που αποκτήσατε χρησιμοποιώντας το Arielt"
   },
   "addAlias": {
     "message": "Προσθήκη ψευδωνύμου"
@@ -129,13 +129,13 @@
   },
   "addCustomTokenByContractAddress": {
     "message": "Αδυναμία εύρεσης token; Μπορείτε να προσθέσετε χειροκίνητα οποιοδήποτε διακριτικό επικολλώντας τη διεύθυνσή του. Οι διευθύνσεις συμβολαίων Token μπορούν να βρεθούν στο $1.",
-    "description": "$1 is a blockchain explorer for a specific network, e.g. Etherscan for Ethereum"
+    "description": "$1 is a blockchain explorer for a specific network, e.g. Arielscan for Arielcoin"
   },
   "addEthereumChainConfirmationDescription": {
-    "message": "Αυτό θα επιτρέψει σε αυτό το δίκτυο να χρησιμοποιηθεί στο Qnekt."
+    "message": "Αυτό θα επιτρέψει σε αυτό το δίκτυο να χρησιμοποιηθεί στο Arielt."
   },
   "addEthereumChainConfirmationRisks": {
-    "message": "Το Qnekt δεν επαληθεύει τα προσαρμοσμένα δίκτυα."
+    "message": "Το Arielt δεν επαληθεύει τα προσαρμοσμένα δίκτυα."
   },
   "addEthereumChainConfirmationRisksLearnMore": {
     "message": "Μάθετε για το $1.",
@@ -252,19 +252,19 @@
     "message": "Ποσό"
   },
   "appDescription": {
-    "message": "Ένα Πορτοφόλι Ethereum στο Πρόγραμμα Περιήγησής σας",
+    "message": "Ένα Πορτοφόλι Arielcoin στο Πρόγραμμα Περιήγησής σας",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -324,7 +324,7 @@
     "message": "Χρονόμετρο Αυτόματης Αποσύνδεσης (λεπτά)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Ρυθμίστε τον χρόνο αδράνειας σε λεπτά πριν αποσυνδεθεί αυτόματα το Qnekt."
+    "message": "Ρυθμίστε τον χρόνο αδράνειας σε λεπτά πριν αποσυνδεθεί αυτόματα το Arielt."
   },
   "average": {
     "message": "Μέσος Όρος"
@@ -336,7 +336,7 @@
     "message": "Πίσω σε Όλα"
   },
   "backupApprovalInfo": {
-    "message": "Αυτός ο μυστικός κωδικός απαιτείται για ανάκτηση του πορτοφολιού σας σε περίπτωση που χάσετε τη συσκευή σας, ξεχάσετε τον κωδικό πρόσβασης, πρέπει να κάνετε επανεγκατάσταση του Qnekt, ή θέλετε να έχετε πρόσβαση στο πορτοφόλι σας από μια άλλη συσκευή."
+    "message": "Αυτός ο μυστικός κωδικός απαιτείται για ανάκτηση του πορτοφολιού σας σε περίπτωση που χάσετε τη συσκευή σας, ξεχάσετε τον κωδικό πρόσβασης, πρέπει να κάνετε επανεγκατάσταση του Arielt, ή θέλετε να έχετε πρόσβαση στο πορτοφόλι σας από μια άλλη συσκευή."
   },
   "backupApprovalNotice": {
     "message": "Δημιουργήστε αντίγραφο ασφαλείας του κώδικα Μυστικής Αποκατάστασης για να διατηρήσετε ασφαλή το πορτοφόλι και τα χρήματά σας."
@@ -357,10 +357,10 @@
     "message": "Βασικά"
   },
   "betaMetamaskDescription": {
-    "message": "Αξιόπιστο για εκατομμύρια, το Qnekt είναι ένα ασφαλές πορτοφόλι που καθιστά τον κόσμο του web3 προσβάσιμο σε όλους."
+    "message": "Αξιόπιστο για εκατομμύρια, το Arielt είναι ένα ασφαλές πορτοφόλι που καθιστά τον κόσμο του web3 προσβάσιμο σε όλους."
   },
   "betaMetamaskDescriptionExplanation": {
-    "message": "Χρησιμοποιήστε αυτήν την έκδοση για να δοκιμάσετε τις επερχόμενες λειτουργίες πριν από την κυκλοφορία τους. Η χρήση και η ανατροφοδότηση σας μας βοηθούν να χτίσουμε την καλύτερη δυνατή έκδοση του Qnekt. Η χρήση του Qnekt Δοκιμαστική Έκδοση υπόκειται στα στάνταρ μας $1, καθώς και $2. Ως Δοκιμαστική Έκδοση, μπορεί να υπάρχει αυξημένος κίνδυνος σφαλμάτων. Συνεχίζοντας, αποδέχεστε και αναγνωρίζετε αυτούς τους κινδύνους, καθώς και τους κινδύνους που εντοπίζονται στους Όρους μας και τους Όρους Δοκιμαστικής Έκδοσης.",
+    "message": "Χρησιμοποιήστε αυτήν την έκδοση για να δοκιμάσετε τις επερχόμενες λειτουργίες πριν από την κυκλοφορία τους. Η χρήση και η ανατροφοδότηση σας μας βοηθούν να χτίσουμε την καλύτερη δυνατή έκδοση του Arielt. Η χρήση του Arielt Δοκιμαστική Έκδοση υπόκειται στα στάνταρ μας $1, καθώς και $2. Ως Δοκιμαστική Έκδοση, μπορεί να υπάρχει αυξημένος κίνδυνος σφαλμάτων. Συνεχίζοντας, αποδέχεστε και αναγνωρίζετε αυτούς τους κινδύνους, καθώς και τους κινδύνους που εντοπίζονται στους Όρους μας και τους Όρους Δοκιμαστικής Έκδοσης.",
     "description": "$1 represents localization item betaMetamaskDescriptionExplanationTermsLinkText.  $2 represents localization item betaMetamaskDescriptionExplanationBetaTermsLinkText"
   },
   "betaMetamaskDescriptionExplanationBetaTermsLinkText": {
@@ -370,10 +370,10 @@
     "message": "Όροι"
   },
   "betaMetamaskVersion": {
-    "message": "Δοκιμαστική έκδοση Qnekt"
+    "message": "Δοκιμαστική έκδοση Arielt"
   },
   "betaWelcome": {
-    "message": "Καλώς ήλθατε στη Δοκιμαστική Έκδοση Qnekt"
+    "message": "Καλώς ήλθατε στη Δοκιμαστική Έκδοση Arielt"
   },
   "blockExplorerAccountAction": {
     "message": "Λογαριασμός",
@@ -385,7 +385,7 @@
   },
   "blockExplorerSwapAction": {
     "message": "Ανταλλαγή",
-    "description": "This is used with viewOnEtherscan e.g View Swap on Etherscan"
+    "description": "This is used with viewOnEtherscan e.g View Swap on Arielscan"
   },
   "blockExplorerUrl": {
     "message": "Εξερευνητής Μπλοκ"
@@ -407,7 +407,7 @@
     "message": "Δημιουργήστε τη λίστα επαφών σας"
   },
   "builtAroundTheWorld": {
-    "message": "Η Qnekt έχει σχεδιαστεί και κατασκευαστεί σε όλο τον κόσμο."
+    "message": "Η Arielt έχει σχεδιαστεί και κατασκευαστεί σε όλο τον κόσμο."
   },
   "busy": {
     "message": "Απασχολημένο"
@@ -432,21 +432,21 @@
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithMoonPayDescription": {
-    "message": "MoonPay supports popular payment methods, including Visa, Mastercard, Apple / Google / Samsung Pay, and bank transfers in 145+ countries. Tokens deposit into your Qnekt account."
+    "message": "MoonPay supports popular payment methods, including Visa, Mastercard, Apple / Google / Samsung Pay, and bank transfers in 145+ countries. Tokens deposit into your Arielt account."
   },
   "buyCryptoWithTransak": {
     "message": "Αγορά $1 με Transak",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithTransakDescription": {
-    "message": "Η Transak υποστηρίζει πιστωτικές και χρεωστικές κάρτες, Apple Pay, MobiKwik και τραπεζικές μεταφορές (ανάλογα με την τοποθεσία) σε περισσότερες από 145 χώρες. Τα $1 κατατίθενται απευθείας στον λογαριασμό σας στο Qnekt.",
+    "message": "Η Transak υποστηρίζει πιστωτικές και χρεωστικές κάρτες, Apple Pay, MobiKwik και τραπεζικές μεταφορές (ανάλογα με την τοποθεσία) σε περισσότερες από 145 χώρες. Τα $1 κατατίθενται απευθείας στον λογαριασμό σας στο Arielt.",
     "description": "$1 represents the crypto symbol to be purchased"
   },
   "buyWithWyre": {
     "message": "Αγοράστε $1 με το Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Εύκολη ενσωμάτωση για αγορές μέχρι και $ 1000. Γρήγορη διαδραστική επαλήθευση αγοράς υψηλού ορίου. Υποστηρίζει χρεωστικές/πιστωτικές κάρτες, Apple Pay, Τραπεζικές Μεταφορές. Διαθέσιμο σε 100+ χώρες. Καταθέσεις token στον λογαριασμό σας Qnekt"
+    "message": "Εύκολη ενσωμάτωση για αγορές μέχρι και $ 1000. Γρήγορη διαδραστική επαλήθευση αγοράς υψηλού ορίου. Υποστηρίζει χρεωστικές/πιστωτικές κάρτες, Apple Pay, Τραπεζικές Μεταφορές. Διαθέσιμο σε 100+ χώρες. Καταθέσεις token στον λογαριασμό σας Arielt"
   },
   "bytes": {
     "message": "Bytes"
@@ -501,7 +501,7 @@
     "description": "$1 is the chain id currently entered in the network form and $2 is the return value of nativeCurrency.symbol from chainlist.network"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Θα πρέπει να χρησιμοποιήσετε το Qnekt στο Google Chrome για να συνδεθείτε στο Πορτοφόλι Υλικού."
+    "message": "Θα πρέπει να χρησιμοποιήσετε το Arielt στο Google Chrome για να συνδεθείτε στο Πορτοφόλι Υλικού."
   },
   "clickToConnectLedgerViaWebHID": {
     "message": "Κάντε κλικ εδώ για να συνδέσετε το Ledger σας μέσω WebHID",
@@ -579,8 +579,8 @@
     "message": "$1 λογαριασμοί",
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
-  "connectWithQnekt": {
-    "message": "Σύνδεση Με Qnekt"
+  "connectWithArielt": {
+    "message": "Σύνδεση Με Arielt"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "Έχετε $1 λογαριασμούς συνδεδεμένους με αυτόν τον ιστότοπο.",
@@ -590,7 +590,7 @@
     "message": "Έχετε 1 λογαριασμό συνδεδεμένο σε αυτόν τον ιστότοπο."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "To Qnekt δεν είναι συνδεδεμένo σε αυτόν τον ιστότοπο. Για να συνδεθείτε σε έναν ιστότοπο web3, βρείτε και κάντε κλικ στο κουμπί σύνδεσης."
+    "message": "To Arielt δεν είναι συνδεδεμένo σε αυτόν τον ιστότοπο. Για να συνδεθείτε σε έναν ιστότοπο web3, βρείτε και κάντε κλικ στο κουμπί σύνδεσης."
   },
   "connectedSites": {
     "message": "Συνδεδεμένοι ιστότοποι"
@@ -620,7 +620,7 @@
     "message": "Σύνδεση στο Δοκιμαστικό Δίκτυο Kovan"
   },
   "connectingToMainnet": {
-    "message": "Σύνδεση στο Κύριο Δίκτυο Ethereum"
+    "message": "Σύνδεση στο Κύριο Δίκτυο Arielcoin"
   },
   "connectingToRinkeby": {
     "message": "Σύνδεση στο Δίκτυο Δοκιμών Rinkeby"
@@ -665,7 +665,7 @@
     "message": "Αλληλεπίδραση Σύμβασης"
   },
   "convertTokenToNFTDescription": {
-    "message": "Εντοπίσαμε ότι αυτό το περιουσιακό στοιχείο είναι NFT. Το Qnekt υποστηρίζει πλέον εξ'ορισμού πλήρως τα NFT. Θέλετε να το αφαιρέσετε από τη λίστα των token σας και να το προσθέσετε ως NFT;"
+    "message": "Εντοπίσαμε ότι αυτό το περιουσιακό στοιχείο είναι NFT. Το Arielt υποστηρίζει πλέον εξ'ορισμού πλήρως τα NFT. Θέλετε να το αφαιρέσετε από τη λίστα των token σας και να το προσθέσετε ως NFT;"
   },
   "convertTokenToNFTExistDescription": {
     "message": "Εντοπίσαμε ότι αυτό το περιουσιακό στοιχείο προστέθηκε ως NFT. Θέλετε να το αφαιρέσετε από τη λίστα των token σας;"
@@ -788,7 +788,7 @@
     "message": "Δεδομένα"
   },
   "dataBackupFoundInfo": {
-    "message": "Ορισμένα από τα δεδομένα του λογαριασμού σας δημιουργήθηκαν σε προηγούμενη εγκατάσταση του Qnekt. Αυτό θα μπορούσε να περιλαμβάνει τις ρυθμίσεις, τις επαφές και τα διακριτικά σας. Θα θέλατε να επαναφέρετε αυτά τα δεδομένα τώρα;"
+    "message": "Ορισμένα από τα δεδομένα του λογαριασμού σας δημιουργήθηκαν σε προηγούμενη εγκατάσταση του Arielt. Αυτό θα μπορούσε να περιλαμβάνει τις ρυθμίσεις, τις επαφές και τα διακριτικά σας. Θα θέλατε να επαναφέρετε αυτά τα δεδομένα τώρα;"
   },
   "dataHex": {
     "message": "Δεκαεξαδικός"
@@ -1066,7 +1066,7 @@
   },
   "enableToken": {
     "message": "ενεργοποίηση $1",
-    "description": "$1 is a token symbol, e.g. ETH"
+    "description": "$1 is a token symbol, e.g. ARL"
   },
   "encryptionPublicKeyNotice": {
     "message": "Το $1 θα ήθελε το δημόσιο σας κλειδί κρυπτογράφησης. Με τη συγκατάθεσή σας, αυτός ο ιστότοπος θα είναι σε θέση να σας συνθέσει κρυπτογραφημένα μηνύματα.",
@@ -1091,7 +1091,7 @@
     "message": "Μην μοιράζεστε ποτέ τη φράση με κανέναν."
   },
   "endOfFlowMessage5": {
-    "message": "Προσέξτε το ηλεκτρονικό \"ψάρεμα\"! Το Qnekt δεν θα ζητήσει ποτέ από μόνο του τη Μυστική Φράση Ανάκτησής σας."
+    "message": "Προσέξτε το ηλεκτρονικό \"ψάρεμα\"! Το Arielt δεν θα ζητήσει ποτέ από μόνο του τη Μυστική Φράση Ανάκτησής σας."
   },
   "endOfFlowMessage6": {
     "message": "Αν χρειάζεται να δημιουργήσετε ξανά αντίγραφο της φράσης επαναφοράς σας, μπορείτε να τη βρείτε στο Ρυθμίσεις -> Ασφάλεια."
@@ -1101,7 +1101,7 @@
     "description": "$1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "endOfFlowMessage8": {
-    "message": "Το Qnekt δεν μπορεί να ανακτήσει τη Μυστική Φράση Ανάκτησής σας. Μάθετε περισσότερα."
+    "message": "Το Arielt δεν μπορεί να ανακτήσει τη Μυστική Φράση Ανάκτησής σας. Μάθετε περισσότερα."
   },
   "endOfFlowMessage9": {
     "message": "Μάθετε περισσότερα."
@@ -1114,7 +1114,7 @@
     "message": "Μη έγκυρος χαρακτήρας για το ENS."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Το όνομα ENS δεν βρέθηκε στο τρέχον δίκτυο. Δοκιμάστε να μεταβείτε στο Κύριο Δίκτυο Ethereum."
+    "message": "Το όνομα ENS δεν βρέθηκε στο τρέχον δίκτυο. Δοκιμάστε να μεταβείτε στο Κύριο Δίκτυο Arielcoin."
   },
   "ensNotSupportedOnNetwork": {
     "message": "Το δίκτυο δεν υποστηρίζει ENS"
@@ -1159,7 +1159,7 @@
     "description": "Message displayed on generic error page in the popup UI, $1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "errorPageTitle": {
-    "message": "Το Qnekt αντιμετώπισε ένα σφάλμα",
+    "message": "Το Arielt αντιμετώπισε ένα σφάλμα",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -1173,16 +1173,16 @@
     "message": "Το εφεδρικό τέλος συναλλαγής που παρέχεται ως η κύρια υπηρεσία εκτίμησης τελών συναλλαγής, δεν είναι διαθέσιμο αυτή τη στιγμή."
   },
   "ethereumPublicAddress": {
-    "message": "Δημόσια Διεύθυνση Ethereum"
+    "message": "Δημόσια Διεύθυνση Arielcoin"
   },
   "etherscan": {
-    "message": "Etherscan"
+    "message": "Arielscan"
   },
   "etherscanView": {
-    "message": "Προβολή λογαριασμού στο Etherscan"
+    "message": "Προβολή λογαριασμού στο Arielscan"
   },
   "etherscanViewOn": {
-    "message": "Προβολή στην Etherscan"
+    "message": "Προβολή στην Arielscan"
   },
   "expandExperience": {
     "message": "Επεκτείνετε την εμπειρία σας στο web3"
@@ -1250,15 +1250,15 @@
   },
   "flaskWelcomeWarning2": {
     "message": "Δεν εγγυόμαστε την ασφάλεια ή τη σταθερότητα αυτής της επέκτασης. Τα νέα API που προσφέρονται από το Flask δεν παρέχουν ισχυρή προστασία κατά των επιθέσεων phishing, πράγμα που σημαίνει ότι οποιοσδήποτε ιστότοπος ή snap απαιτεί το Flask, ενδέχεται να είναι μια κακόβουλη απόπειρα κλοπής των περιουσιακών στοιχείων σας.",
-    "description": "This explains the risks of using Qnekt Flask"
+    "description": "This explains the risks of using Arielt Flask"
   },
   "flaskWelcomeWarning3": {
-    "message": "Όλα τα API του Flask είναι πειραματικά. Μπορεί να αλλάξουν ή να αφαιρεθούν χωρίς προειδοποίηση ή μπορεί να παραμείνουν στο Flask επ' αόριστον, χωρίς ποτέ να μεταφερθούν στο σταθερό Qnekt. Χρησιμοποιήστε τα με δική σας ευθύνη.",
+    "message": "Όλα τα API του Flask είναι πειραματικά. Μπορεί να αλλάξουν ή να αφαιρεθούν χωρίς προειδοποίηση ή μπορεί να παραμείνουν στο Flask επ' αόριστον, χωρίς ποτέ να μεταφερθούν στο σταθερό Arielt. Χρησιμοποιήστε τα με δική σας ευθύνη.",
     "description": "This message warns developers about unstable Flask APIs"
   },
   "flaskWelcomeWarning4": {
-    "message": "Βεβαιωθείτε ότι έχετε απενεργοποιήσει την κανονική σας επέκταση Qnekt όταν χρησιμοποιείτε το Flask.",
-    "description": "This message calls to pay attention about multiple versions of Qnekt running on the same site (Flask + Prod)"
+    "message": "Βεβαιωθείτε ότι έχετε απενεργοποιήσει την κανονική σας επέκταση Arielt όταν χρησιμοποιείτε το Flask.",
+    "description": "This message calls to pay attention about multiple versions of Arielt running on the same site (Flask + Prod)"
   },
   "flaskWelcomeWarningAcceptButton": {
     "message": "Αποδέχομαι τον κίνδυνο",
@@ -1349,7 +1349,7 @@
     "message": "Η εκτίμηση της τιμής του τέλους συναλλαγής απέτυχε λόγω σφάλματος δικτύου."
   },
   "gasPriceInfoTooltipContent": {
-    "message": "Η τιμή καυσίμου καθορίζει το ποσό των Ether που είστε διατεθειμένοι να πληρώσετε για κάθε μονάδα καυσίμου."
+    "message": "Η τιμή καυσίμου καθορίζει το ποσό των Ariel που είστε διατεθειμένοι να πληρώσετε για κάθε μονάδα καυσίμου."
   },
   "gasTimingHoursShort": {
     "message": "$1 ώρες",
@@ -1398,11 +1398,11 @@
     "message": "Γενικά"
   },
   "getEther": {
-    "message": "Λάβετε Ether"
+    "message": "Λάβετε Ariel"
   },
   "getEtherFromFaucet": {
-    "message": "Πάρτε Ether από μια πηγή για το $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "Πάρτε Ariel από μια πηγή για το $1",
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Έναρξη"
@@ -1442,7 +1442,7 @@
     "message": "Συνδέστε ένα πορτοφόλι εξοπλισμού"
   },
   "hardwareWalletsMsg": {
-    "message": "Επιλέξτε ένα πορτοφόλι εξοπλισμού το οποίο θέλετε να χρησιμοποιήσετε με το Qnekt."
+    "message": "Επιλέξτε ένα πορτοφόλι εξοπλισμού το οποίο θέλετε να χρησιμοποιήσετε με το Arielt."
   },
   "here": {
     "message": "εδώ",
@@ -1515,7 +1515,7 @@
     "message": "Εισαγωγή NFT"
   },
   "importNFTAddressToolTip": {
-    "message": "Στο OpenSea, για παράδειγμα, στη σελίδα των NFΤ στην ενότητα Λεπτομέρειες, υπάρχει ένας υπερσύνδεσμος σε μπλε χρώμα με την ένδειξη «Διεύθυνση σύμβασης». Εάν κάνετε κλικ σε αυτόν τον υπερσύνδεσμο, θα σας μεταφέρει στη διεύθυνση της σύμβασης στο Etherscan. Στο επάνω αριστερό μέρος εκείνης της σελίδας, θα πρέπει να υπάρχει ένα εικονίδιο με την ένδειξη «Σύμβαση» και στα δεξιά, μια μεγάλη σειρά από γράμματα και αριθμούς. Αυτή είναι η διεύθυνση της σύμβασης που δημιούργησε το NFT σας. Κάντε κλικ στο εικονίδιο «αντιγραφή» στα δεξιά της διεύθυνσης για να το αντιγράψετε στο πρόχειρό σας."
+    "message": "Στο OpenSea, για παράδειγμα, στη σελίδα των NFΤ στην ενότητα Λεπτομέρειες, υπάρχει ένας υπερσύνδεσμος σε μπλε χρώμα με την ένδειξη «Διεύθυνση σύμβασης». Εάν κάνετε κλικ σε αυτόν τον υπερσύνδεσμο, θα σας μεταφέρει στη διεύθυνση της σύμβασης στο Arielscan. Στο επάνω αριστερό μέρος εκείνης της σελίδας, θα πρέπει να υπάρχει ένα εικονίδιο με την ένδειξη «Σύμβαση» και στα δεξιά, μια μεγάλη σειρά από γράμματα και αριθμούς. Αυτή είναι η διεύθυνση της σύμβασης που δημιούργησε το NFT σας. Κάντε κλικ στο εικονίδιο «αντιγραφή» στα δεξιά της διεύθυνσης για να το αντιγράψετε στο πρόχειρό σας."
   },
   "importNFTPage": {
     "message": "Σελίδα Εισαγωγής NFT"
@@ -1553,7 +1553,7 @@
     "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infuraBlockedNotification": {
-    "message": "Το Qnekt δεν μπορεί να συνδεθεί με τον εξυπηρετητή blockchain. Ανασκόπηση πιθανών λόγων $1.",
+    "message": "Το Arielt δεν μπορεί να συνδεθεί με τον εξυπηρετητή blockchain. Ανασκόπηση πιθανών λόγων $1.",
     "description": "$1 is a clickable link with with text defined by the 'here' key"
   },
   "initialTransactionConfirmed": {
@@ -1586,7 +1586,7 @@
     "message": "Η διεύθυνση παραλήπτη δεν είναι έγκυρη"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Δίκτυο μη ETH, ρυθμίστε σε μικρούς χαρακτήρες"
+    "message": "Δίκτυο μη ARL, ρυθμίστε σε μικρούς χαρακτήρες"
   },
   "invalidAssetType": {
     "message": "Αυτό το περιουσιακό στοιχείο είναι NFT και πρέπει να προστεθεί ξανά στη σελίδα «Εισαγωγή NFT» που βρίσκεται στην καρτέλα των NFT"
@@ -1704,13 +1704,13 @@
     "message": "Ενεργοποίηση χρήσης Ledger Live κάτω από τις Ρυθμίσεις > Για προχωρημένους"
   },
   "ledgerConnectionInstructionStepThree": {
-    "message": "Συνδέστε τη συσκευή Ledger και επιλέξτε την εφαρμογή Ethereum"
+    "message": "Συνδέστε τη συσκευή Ledger και επιλέξτε την εφαρμογή Arielcoin"
   },
   "ledgerConnectionInstructionStepTwo": {
     "message": "Άνοιγμα και ξεκλείδωμα εφαρμογής Ledger Live"
   },
   "ledgerConnectionPreferenceDescription": {
-    "message": "Προσαρμόστε το πώς μπορείτε να συνδέσετε Ledger σας με το Qnekt. Το $1 συνιστάται, αλλά και άλλες επιλογές είναι διαθέσιμες. Διαβάστε περισσότερα εδώ: $2",
+    "message": "Προσαρμόστε το πώς μπορείτε να συνδέσετε Ledger σας με το Arielt. Το $1 συνιστάται, αλλά και άλλες επιλογές είναι διαθέσιμες. Διαβάστε περισσότερα εδώ: $2",
     "description": "A description that appears above a dropdown where users can select between up to three options - Ledger Live, U2F or WebHID - depending on what is supported in their browser. $1 is the recommended browser option, it will be either WebHID or U2f. $2 is a link to an article where users can learn more, but will be the translation of the learnMore message."
   },
   "ledgerDeviceOpenFailureMessage": {
@@ -1718,13 +1718,13 @@
   },
   "ledgerLive": {
     "message": "Ledger Live",
-    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to Qnekt."
+    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to Arielt."
   },
   "ledgerLiveApp": {
     "message": "Εφαρμογή Ledger Live"
   },
   "ledgerLocked": {
-    "message": "Δεν είναι δυνατή η σύνδεση με τη συσκευή Ledger. Βεβαιωθείτε ότι η συσκευή σας είναι ξεκλειδωμένη και ότι η εφαρμογή Ethereum είναι ανοιχτή."
+    "message": "Δεν είναι δυνατή η σύνδεση με τη συσκευή Ledger. Βεβαιωθείτε ότι η συσκευή σας είναι ξεκλειδωμένη και ότι η εφαρμογή Arielcoin είναι ανοιχτή."
   },
   "ledgerTimeout": {
     "message": "Το Ledger Live καθυστερεί πάρα πολύ για να ανταποκριθεί ή τελείωσε το χρονικό όριο σύνδεσης. Βεβαιωθείτε ότι η εφαρμογή Ledger Live είναι ανοικτή και ότι η συσκευή σας είναι ξεκλειδωμένη."
@@ -1793,10 +1793,10 @@
     "message": "Οι μελλοντικές συναλλαγές θα περιμένουν σε αναμονή μετά από αυτή. Αυτή ήταν η τελευταία τιμή που είδαμε."
   },
   "mainnet": {
-    "message": "Κύριο Δίκτυο Ethereum"
+    "message": "Κύριο Δίκτυο Arielcoin"
   },
   "mainnetToken": {
-    "message": "Αυτή η διεύθυνση ταυτίζεται με μια γνωστή διεύθυνση token στο Mainnet της Ethereum. Ελέγξτε ξανά τη διεύθυνση της σύμβασης και το δίκτυο για το token που προσπαθείτε να προσθέσετε."
+    "message": "Αυτή η διεύθυνση ταυτίζεται με μια γνωστή διεύθυνση token στο Mainnet της Arielcoin. Ελέγξτε ξανά τη διεύθυνση της σύμβασης και το δίκτυο για το token που προσπαθείτε να προσθέσετε."
   },
   "makeAnotherSwap": {
     "message": "Δημιουργία νέας ανταλλαγής"
@@ -1840,7 +1840,7 @@
     "message": "Μήνυμα"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "Τώρα έχετε περισσότερο έλεγχο των συνδέσεων του λογαριασμού σας στο Qnekt."
+    "message": "Τώρα έχετε περισσότερο έλεγχο των συνδέσεων του λογαριασμού σας στο Arielt."
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "Κάντε κλικ για να διαχειριστείτε τους συνδεδεμένους λογαριασμούς σας."
@@ -1849,13 +1849,13 @@
     "message": "Το κουμπί κατάστασης σύνδεσης εμφανίζει αν η ιστοσελίδα που επισκέπτεστε είναι συνδεδεμένη με τον τρέχοντα επιλεγμένο λογαριασμό σας."
   },
   "metamaskDescription": {
-    "message": "Σύνδεση με το Ethereum και τον Αποκεντρωμένο Ιστό."
+    "message": "Σύνδεση με το Arielcoin και τον Αποκεντρωμένο Ιστό."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "Συντήρηση των ανταλλαγών Qnekt. Παρακαλούμε ελέγξτε αργότερα."
+    "message": "Συντήρηση των ανταλλαγών Arielt. Παρακαλούμε ελέγξτε αργότερα."
   },
   "metamaskVersion": {
-    "message": "Έκδοση Qnekt"
+    "message": "Έκδοση Arielt"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Σας επιτρέπεται πάντα να εξαιρεθείτε μέσω των Ρυθμίσεων"
@@ -1868,7 +1868,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "Το Qnekt.."
+    "message": "Το Arielt.."
   },
   "metametricsCommitmentsNeverCollect": {
     "message": "Ποτέ δεν θα συλλέγει κλειδιά, διευθύνσεις, συναλλαγές, υπόλοιπα, συναρτήσεις κατατεμαχισμού ή οποιαδήποτε προσωπικά στοιχεία"
@@ -1894,17 +1894,17 @@
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "Στείλτε ανώνυμα γεγονότα κλικ και προβολής ιστοσελίδων"
   },
-  "metametricsHelpImproveQnekt": {
-    "message": "Βοηθήστε μας να βελτιώσουμε το Qnekt"
+  "metametricsHelpImproveArielt": {
+    "message": "Βοηθήστε μας να βελτιώσουμε το Arielt"
   },
   "metametricsOptInDescription": {
-    "message": "Το Qnekt θα ήθελε να συγκεντρώσει δεδομένα χρήσης για να κατανοήσει καλύτερα πώς οι χρήστες μας αλληλεπιδρούν με την επέκταση. Τα δεδομένα αυτά θα χρησιμοποιηθούν για τη συνεχή βελτίωση της χρηστικότητας και της εμπειρίας χρήσης του προϊόντος μας και του οικοσυστήματος Ethereum."
+    "message": "Το Arielt θα ήθελε να συγκεντρώσει δεδομένα χρήσης για να κατανοήσει καλύτερα πώς οι χρήστες μας αλληλεπιδρούν με την επέκταση. Τα δεδομένα αυτά θα χρησιμοποιηθούν για τη συνεχή βελτίωση της χρηστικότητας και της εμπειρίας χρήσης του προϊόντος μας και του οικοσυστήματος Arielcoin."
   },
   "metametricsOptInDescription2": {
     "message": "Θα θέλαμε να συγκεντρώσουμε βασικά δεδομένα χρήσης για τη βελτίωση της χρηστικότητας του προϊόντος μας. Αυτές οι μετρήσεις θα..."
   },
   "metametricsTitle": {
-    "message": "Συμμετάσχετε σε 6εκ+ χρήστες για να βελτιώσετε το Qnekt"
+    "message": "Συμμετάσχετε σε 6εκ+ χρήστες για να βελτιώσετε το Arielt"
   },
   "mismatchedChainLinkText": {
     "message": "επαληθεύστε τα στοιχεία δικτύου",
@@ -1936,7 +1936,7 @@
     "message": "Δεν βλέπετε το token σας;"
   },
   "mobileSyncWarning": {
-    "message": "Η λειτουργία 'Συγχρονισμός με επέκταση' είναι προσωρινά απενεργοποιημένη. Αν θέλετε να χρησιμοποιήσετε το πορτοφόλι της επέκτασής σας στο Qnekt mobile, τότε στην εφαρμογή για το κινητό σας: επιστρέψτε στις επιλογές εγκατάστασης του πορτοφολιού και επιλέξτε την επιλογή 'Εισαγωγή με Μυστική Φράση Ανάκτησης'. Χρησιμοποιήστε τη μυστική φράση του πορτοφολιού της επέκτασής σας για να εισαγάγετε το πορτοφόλι σας στο κινητό."
+    "message": "Η λειτουργία 'Συγχρονισμός με επέκταση' είναι προσωρινά απενεργοποιημένη. Αν θέλετε να χρησιμοποιήσετε το πορτοφόλι της επέκτασής σας στο Arielt mobile, τότε στην εφαρμογή για το κινητό σας: επιστρέψτε στις επιλογές εγκατάστασης του πορτοφολιού και επιλέξτε την επιλογή 'Εισαγωγή με Μυστική Φράση Ανάκτησης'. Χρησιμοποιήστε τη μυστική φράση του πορτοφολιού της επέκτασής σας για να εισαγάγετε το πορτοφόλι σας στο κινητό."
   },
   "mustSelectOne": {
     "message": "Πρέπει να επιλέξετε 1 τουλάχιστον διακριτικό."
@@ -1948,7 +1948,7 @@
     "message": "Όνομα"
   },
   "needCryptoInWallet": {
-    "message": "Για να αλληλεπιδράσετε με αποκεντρωμένες εφαρμογές χρησιμοποιώντας το Qnekt, θα χρειαστείτε $1 στο πορτοφόλι σας.",
+    "message": "Για να αλληλεπιδράσετε με αποκεντρωμένες εφαρμογές χρησιμοποιώντας το Arielt, θα χρειαστείτε $1 στο πορτοφόλι σας.",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "needHelp": {
@@ -1959,7 +1959,7 @@
     "message": "Μοιραστείτε τα σχόλιά σας"
   },
   "needHelpLinkText": {
-    "message": "Υποστήριξη Qnekt"
+    "message": "Υποστήριξη Arielt"
   },
   "needHelpSubmitTicket": {
     "message": "Υποβολή αιτήματος"
@@ -1969,7 +1969,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Δεν μπορεί να γίνει αποστολή αρνητικών ποσών ETH."
+    "message": "Δεν μπορεί να γίνει αποστολή αρνητικών ποσών ARL."
   },
   "network": {
     "message": "Δίκτυο:"
@@ -1996,7 +1996,7 @@
     "message": "Το όνομα που συνδέεται με αυτό το δίκτυο."
   },
   "networkNameEthereum": {
-    "message": "Ethereum"
+    "message": "Arielcoin"
   },
   "networkNamePolygon": {
     "message": "Πολύγωνο"
@@ -2056,7 +2056,7 @@
     "message": "Νέα Σύμβαση"
   },
   "newNFTDetectedMessage": {
-    "message": "Να επιτρέπεται στο Qnekt να εντοπίζει αυτόματα τα NFT από το Opensea και να τα εμφανίζει στο πορτοφόλι σας."
+    "message": "Να επιτρέπεται στο Arielt να εντοπίζει αυτόματα τα NFT από το Opensea και να τα εμφανίζει στο πορτοφόλι σας."
   },
   "newNFTsDetected": {
     "message": "Νέο! Εντοπισμός NFT"
@@ -2067,8 +2067,8 @@
   "newPassword": {
     "message": "Νέος Κωδικός Πρόσβασης (ελάχιστο 8 χαρακτήρες)"
   },
-  "newToQnekt": {
-    "message": "Καινούριος στο Qnekt;"
+  "newToArielt": {
+    "message": "Καινούριος στο Arielt;"
   },
   "newTokensImportedMessage": {
     "message": "Εισάγατε επιτυχώς το $1.",
@@ -2091,7 +2091,7 @@
   },
   "nextNonceWarning": {
     "message": "Το Nonce είναι υψηλότερο από το προτεινόμενο nonce του $1",
-    "description": "The next nonce according to Qnekt's internal logic"
+    "description": "The next nonce according to Arielt's internal logic"
   },
   "nft": {
     "message": "NFT"
@@ -2170,7 +2170,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Visit in Settings' notification. Upon clicking, users will be taken to Settings page."
   },
   "notifications10DescriptionOne": {
-    "message": "Ο βελτιωμένος εντοπισμός token είναι προς το παρόν διαθέσιμος στα δίκτυα Ethereum Mainnet, Polygon, BSC και Avalanche. Περισσότερα προσεχώς!"
+    "message": "Ο βελτιωμένος εντοπισμός token είναι προς το παρόν διαθέσιμος στα δίκτυα Arielcoin Mainnet, Polygon, BSC και Avalanche. Περισσότερα προσεχώς!"
   },
   "notifications10DescriptionThree": {
     "message": "Η λειτουργία εντοπισμού token είναι ΕΝΕΡΓΟΠΟΙΗΜΕΝΗ από προεπιλογή. Μπορείτε να την απενεργοποιήσετε από τις Ρυθμίσεις."
@@ -2207,19 +2207,19 @@
     "message": "Προσθήκη Δημοφιλών Δικτύων"
   },
   "notifications1Description": {
-    "message": "Οι χρήστες του Qnekt Mobile μπορούν τώρα να ανταλλάξουν tokens μέσα στο κινητό τους πορτοφόλι. Σαρώστε τον κωδικό QR για να πάρετε την εφαρμογή για κινητά και να αρχίσετε να ανταλλάζετε.",
+    "message": "Οι χρήστες του Arielt Mobile μπορούν τώρα να ανταλλάξουν tokens μέσα στο κινητό τους πορτοφόλι. Σαρώστε τον κωδικό QR για να πάρετε την εφαρμογή για κινητά και να αρχίσετε να ανταλλάζετε.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the swapping on mobile feature."
   },
   "notifications1Title": {
     "message": "Η ανταλλαγή στο κινητό είναι εδώ!",
-    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use Qnekt Swaps on Mobile."
+    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use Arielt Swaps on Mobile."
   },
   "notifications3ActionText": {
     "message": "Μάθε περισσότερα",
     "description": "The 'call to action' on the button, or link, of the 'Stay secure' notification. Upon clicking, users will be taken to a page about security on the metamask support website."
   },
   "notifications3Description": {
-    "message": "Μείνετε ενημερωμένοι για τις βέλτιστες πρακτικές ασφάλειας Qnekt και λάβετε τις τελευταίες συμβουλές ασφαλείας από την επίσημη υποστήριξη Qnekt.",
+    "message": "Μείνετε ενημερωμένοι για τις βέλτιστες πρακτικές ασφάλειας Arielt και λάβετε τις τελευταίες συμβουλές ασφαλείας από την επίσημη υποστήριξη Arielt.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the information they can get on security from the linked support page."
   },
   "notifications3Title": {
@@ -2231,7 +2231,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Swap on Binance Smart Chain!' notification. Upon clicking, users will be taken to a page where then can swap tokens on Binance Smart Chain."
   },
   "notifications4Description": {
-    "message": "Λάβετε τις καλύτερες τιμές για swaps token ακριβώς μέσα στο πορτοφόλι σας. Το Qnekt τώρα σας συνδέει με πολλαπλούς αποκεντρωμένα ανταλλακτήρια συναλλάγματος και επαγγελματίες διαμορφωτές της αγοράς για έξυπνη αλυσίδα Binance.",
+    "message": "Λάβετε τις καλύτερες τιμές για swaps token ακριβώς μέσα στο πορτοφόλι σας. Το Arielt τώρα σας συνδέει με πολλαπλούς αποκεντρωμένα ανταλλακτήρια συναλλάγματος και επαγγελματίες διαμορφωτές της αγοράς για έξυπνη αλυσίδα Binance.",
     "description": "Description of a notification in the 'See What's New' popup."
   },
   "notifications4Title": {
@@ -2243,11 +2243,11 @@
     "description": "Description of a notification in the 'See What's New' popup. Describes the seed phrase wording update."
   },
   "notifications6DescriptionOne": {
-    "message": "Από την έκδοση 91, το API που ενεργοποίησε την υποστήριξη Ledger (U2F) δεν υποστηρίζει πλέον πορτοφόλια υλικού. Η Qnekt έχει υλοποιήσει μια νέα υποστήριξη Ledger Live που σας επιτρέπει να συνεχίσετε να συνδέεστε με τη συσκευή Ledger μέσω της εφαρμογής επιφάνειας εργασίας Ledger Live.",
+    "message": "Από την έκδοση 91, το API που ενεργοποίησε την υποστήριξη Ledger (U2F) δεν υποστηρίζει πλέον πορτοφόλια υλικού. Η Arielt έχει υλοποιήσει μια νέα υποστήριξη Ledger Live που σας επιτρέπει να συνεχίσετε να συνδέεστε με τη συσκευή Ledger μέσω της εφαρμογής επιφάνειας εργασίας Ledger Live.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionThree": {
-    "message": "Όταν αλληλεπιδράτε με τον λογαριασμό σας Ledger στο Qnekt, θα ανοίξει μια νέα καρτέλα και θα σας ζητηθεί να ανοίξετε την εφαρμογή Ledger Live. Μόλις ανοίξει η εφαρμογή, θα σας ζητηθεί να επιτρέψετε μια σύνδεση WebSocket στον λογαριασμό σας Qnekt. Αυτό ήταν όλο!",
+    "message": "Όταν αλληλεπιδράτε με τον λογαριασμό σας Ledger στο Arielt, θα ανοίξει μια νέα καρτέλα και θα σας ζητηθεί να ανοίξετε την εφαρμογή Ledger Live. Μόλις ανοίξει η εφαρμογή, θα σας ζητηθεί να επιτρέψετε μια σύνδεση WebSocket στον λογαριασμό σας Arielt. Αυτό ήταν όλο!",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionTwo": {
@@ -2259,11 +2259,11 @@
     "description": "Title for a notification in the 'See What's New' popup. Lets users know about the Ledger support update"
   },
   "notifications7DescriptionOne": {
-    "message": "Το Qnekt v10.1.0 περιελάμβανε νέα υποστήριξη για συναλλαγές EIP-1559 όταν χρησιμοποιούσε συσκευές Ledger.",
+    "message": "Το Arielt v10.1.0 περιελάμβανε νέα υποστήριξη για συναλλαγές EIP-1559 όταν χρησιμοποιούσε συσκευές Ledger.",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for ledger and EIP1559 in v10.1.0"
   },
   "notifications7DescriptionTwo": {
-    "message": "Για να ολοκληρώσετε τις συναλλαγές στο Ethereum Mainnet, βεβαιωθείτε ότι η συσκευή Ledger έχει το πιο πρόσφατο υλισμικό.",
+    "message": "Για να ολοκληρώσετε τις συναλλαγές στο Arielcoin Mainnet, βεβαιωθείτε ότι η συσκευή Ledger έχει το πιο πρόσφατο υλισμικό.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the need to update ledger firmware."
   },
   "notifications7Title": {
@@ -2275,7 +2275,7 @@
     "description": "Description on an action button that appears in the What's New popup. Tells the user that if they click it, they will go to our Advanced settings page."
   },
   "notifications8DescriptionOne": {
-    "message": "Από τη Qnekt v10.4.0 και μετά, δεν χρειάζεστε πλέον το Ledger Live για να συνδέσετε τη συσκευή Ledger με το Qnekt.",
+    "message": "Από τη Arielt v10.4.0 και μετά, δεν χρειάζεστε πλέον το Ledger Live για να συνδέσετε τη συσκευή Ledger με το Arielt.",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for how Ledger Live is no longer needed to connect the device."
   },
   "notifications8DescriptionTwo": {
@@ -2345,16 +2345,16 @@
     "message": "Κάντε κλικ στο εικονίδιο επέκτασης προγράμματος περιήγησης"
   },
   "onboardingPinExtensionDescription": {
-    "message": "Καρφίτσωμα του Qnekt στο πρόγραμμα περιήγησής σας ώστε να είναι προσβάσιμες και εύκολα ορατές επιβεβαιώσεις συναλλαγών."
+    "message": "Καρφίτσωμα του Arielt στο πρόγραμμα περιήγησής σας ώστε να είναι προσβάσιμες και εύκολα ορατές επιβεβαιώσεις συναλλαγών."
   },
   "onboardingPinExtensionDescription2": {
-    "message": "Μπορείτε να ανοίξετε το Qnekt κάνοντας κλικ στην επέκταση και να αποκτήσετε πρόσβαση στο πορτοφόλι σας με 1 κλικ."
+    "message": "Μπορείτε να ανοίξετε το Arielt κάνοντας κλικ στην επέκταση και να αποκτήσετε πρόσβαση στο πορτοφόλι σας με 1 κλικ."
   },
   "onboardingPinExtensionDescription3": {
     "message": "Κάντε κλικ στο εικονίδιο επέκτασης προγράμματος περιήγησης για άμεση πρόσβαση"
   },
   "onboardingPinExtensionLabel": {
-    "message": "Καρφίτσωμα Qnekt"
+    "message": "Καρφίτσωμα Arielt"
   },
   "onboardingPinExtensionStep1": {
     "message": "1"
@@ -2363,14 +2363,14 @@
     "message": "2"
   },
   "onboardingPinExtensionTitle": {
-    "message": "Η εγκατάσταση του Qnekt ολοκληρώθηκε!"
+    "message": "Η εγκατάσταση του Arielt ολοκληρώθηκε!"
   },
   "onboardingReturnNotice": {
     "message": "Το \"$1\" θα κλείσει αυτή την καρτέλα και θα επιστρέψει στο $2",
     "description": "Return the user to the site that initiated onboarding"
   },
   "onboardingShowIncomingTransactionsDescription": {
-    "message": "Η εμφάνιση των εισερχόμενων συναλλαγών στο πορτοφόλι σας βασίζεται σε επικοινωνία με το $1. Το Etherscan θα έχει πρόσβαση στη διεύθυνση Ethereum σας και τη διεύθυνση IP σας. Δείτε $2.",
+    "message": "Η εμφάνιση των εισερχόμενων συναλλαγών στο πορτοφόλι σας βασίζεται σε επικοινωνία με το $1. Το Arielscan θα έχει πρόσβαση στη διεύθυνση Arielcoin σας και τη διεύθυνση IP σας. Δείτε $2.",
     "description": "$1 is a clickable link with text defined by the 'etherscan' key. $2 is a clickable link with text defined by the 'privacyMsg' key."
   },
   "onboardingUsePhishingDetectionDescription": {
@@ -2384,8 +2384,8 @@
     "message": "Συνδεθείτε μόνο με ιστότοπους που εμπιστεύεστε."
   },
   "openFullScreenForLedgerWebHid": {
-    "message": "Ανοίξτε το Qnekt σε πλήρη οθόνη για να συνδέσετε το ledger σας μέσω WebHID.",
-    "description": "Shown to the user on the confirm screen when they are viewing Qnekt in a popup window but need to connect their ledger via webhid."
+    "message": "Ανοίξτε το Arielt σε πλήρη οθόνη για να συνδέσετε το ledger σας μέσω WebHID.",
+    "description": "Shown to the user on the confirm screen when they are viewing Arielt in a popup window but need to connect their ledger via webhid."
   },
   "optional": {
     "message": "Προαιρετικό"
@@ -2412,7 +2412,7 @@
     "message": "Συμμετάσχετε στο MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Συμμετέχετε στο MetaMetrics για να μας βοηθήσετε να βελτιώσουμε το Qnekt"
+    "message": "Συμμετέχετε στο MetaMetrics για να μας βοηθήσετε να βελτιώσουμε το Arielt"
   },
   "password": {
     "message": "Κωδικός πρόσβασης"
@@ -2421,7 +2421,7 @@
     "message": "Ο Κωδικός Πρόσβασης δεν είναι αρκετά μεγάλος"
   },
   "passwordSetupDetails": {
-    "message": "Αυτός ο κωδικός πρόσβασης θα ξεκλειδώσει το πορτοφόλι σας Qnekt μόνο σε αυτήν τη συσκευή. Το Qnekt δεν μπορεί να ανακτήσει αυτόν τον κωδικό πρόσβασης."
+    "message": "Αυτός ο κωδικός πρόσβασης θα ξεκλειδώσει το πορτοφόλι σας Arielt μόνο σε αυτήν τη συσκευή. Το Arielt δεν μπορεί να ανακτήσει αυτόν τον κωδικό πρόσβασης."
   },
   "passwordStrength": {
     "message": "Ισχύς κωδικού πρόσβασης: $1",
@@ -2431,7 +2431,7 @@
     "message": "Ένας ισχυρός κωδικός πρόσβασης μπορεί να βελτιώσει την ασφάλεια του πορτοφολιού σας εάν η συσκευή σας κλαπεί ή παραβιαστεί."
   },
   "passwordTermsWarning": {
-    "message": "Καταλαβαίνω ότι το Qnekt δεν μπορεί να ανακτήσει αυτόν τον κωδικό πρόσβασης για μένα. $1"
+    "message": "Καταλαβαίνω ότι το Arielt δεν μπορεί να ανακτήσει αυτόν τον κωδικό πρόσβασης για μένα. $1"
   },
   "passwordsDontMatch": {
     "message": "Οι κωδικοί πρόσβασης δεν ταιριάζουν"
@@ -2468,7 +2468,7 @@
     "description": "The description for the `wallet_snap_*` permission. $1 is the name of the Snap."
   },
   "permission_customConfirmation": {
-    "message": "Εμφάνιση επιβεβαίωσης στο Qnekt.",
+    "message": "Εμφάνιση επιβεβαίωσης στο Arielt.",
     "description": "The description for the `snap_confirm` permission"
   },
   "permission_ethereumAccounts": {
@@ -2525,7 +2525,7 @@
     "message": "Κύριο Νόμισμα"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Επιλέξτε ενδογενές για να δώσετε προτεραιότητα στην προβολή τιμών στο φυσικό νόμισμα της αλυσίδας (π.χ. ETH). Επιλέξτε Παραστατικό για να δώσετε προτεραιότητα στην προβολή τιμών στο επιλεγμένο παραστατικό νόμισμα."
+    "message": "Επιλέξτε ενδογενές για να δώσετε προτεραιότητα στην προβολή τιμών στο φυσικό νόμισμα της αλυσίδας (π.χ. ARL). Επιλέξτε Παραστατικό για να δώσετε προτεραιότητα στην προβολή τιμών στο επιλεγμένο παραστατικό νόμισμα."
   },
   "priorityFee": {
     "message": "Τέλη προτεραιότητας"
@@ -2601,7 +2601,7 @@
     "message": "Ποτέ μην μοιράζεστε τη Μυστική Φράση Ανάκτησης με κανέναν"
   },
   "recoveryPhraseReminderItemTwo": {
-    "message": "Η ομάδα Qnekt δεν θα ζητήσει ποτέ τη Μυστική Φράση Ανάκτησης σας"
+    "message": "Η ομάδα Arielt δεν θα ζητήσει ποτέ τη Μυστική Φράση Ανάκτησης σας"
   },
   "recoveryPhraseReminderSubText": {
     "message": "Η Μυστική Φράση Ανάκτησης σας ελέγχει όλους τους λογαριασμούς σας."
@@ -2677,7 +2677,7 @@
     "message": "Επαναφορά Πορτοφολιού"
   },
   "resetWalletSubHeader": {
-    "message": "Το Qnekt δεν διατηρεί αντίγραφο του κωδικού πρόσβασής σας. Εάν αντιμετωπίζετε κάποιο πρόβλημα με το ξεκλείδωμα του λογαριασμού σας, θα χρειαστεί να πραγματοποιήσετε επαναφορά του πορτοφολιού σας. Μπορείτε να το κάνετε μέσω της Μυστικής Φράσης Ανάκτησης που χρησιμοποιήσατε όταν δημιουργήσατε το πορτοφόλι σας."
+    "message": "Το Arielt δεν διατηρεί αντίγραφο του κωδικού πρόσβασής σας. Εάν αντιμετωπίζετε κάποιο πρόβλημα με το ξεκλείδωμα του λογαριασμού σας, θα χρειαστεί να πραγματοποιήσετε επαναφορά του πορτοφολιού σας. Μπορείτε να το κάνετε μέσω της Μυστικής Φράσης Ανάκτησης που χρησιμοποιήσατε όταν δημιουργήσατε το πορτοφόλι σας."
   },
   "resetWalletUsingSRP": {
     "message": "Αυτή η ενέργεια θα διαγράψει το τρέχον πορτοφόλι σας και την Μυστική Φράση Ανάκτησής σας από αυτή τη συσκευή, μαζί με τη λίστα λογαριασμών που χειρίζεστε. Αφού κάνετε επαναφορά με την Μυστική Φράση Ανάκτησής σας, θα δείτε μια λίστα με λογαριασμούς με βάση τη Μυστική Φράση Ανάκτησης που χρησιμοποιήσατε για την επαναφορά. Αυτή η νέα λίστα θα περιλαμβάνει αυτόματα λογαριασμούς που έχουν κάποιο υπόλοιπο. Θα μπορείτε επίσης να $1 που δημιουργήθηκε προηγουμένως. Οι προσαρμοσμένοι λογαριασμοί που έχετε εισαγάγει θα χρειαστεί να είναι $2 και κάθε προσαρμοσμένο token που προσθέσατε στον λογαριασμό θα πρέπει επίσης να $3."
@@ -2686,7 +2686,7 @@
     "message": "Βεβαιωθείτε ότι χρησιμοποιείτε τη σωστή Μυστική Φράση Ανάκτησης πριν συνεχίσετε. Αυτή η ενέργεια είναι μη αναστρέψιμη."
   },
   "restartMetamask": {
-    "message": "Επανεκκίνηση Qnekt"
+    "message": "Επανεκκίνηση Arielt"
   },
   "restore": {
     "message": "Επαναφορά"
@@ -2770,7 +2770,7 @@
     "message": "Η μυστική φράση δημιουργίας αντιγράφων ασφαλείας σας διευκολύνει να δημιουργήσετε αντίγραφα ασφαλείας και να επαναφέρετε τον λογαριασμού σας."
   },
   "secretBackupPhraseWarning": {
-    "message": "ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Ποτέ μην αποκαλύπτετε την εφεδρική φράση. Όποιος έχει αυτή τη φράση μπορεί να πάρει τα Ether σας για πάντα."
+    "message": "ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Ποτέ μην αποκαλύπτετε την εφεδρική φράση. Όποιος έχει αυτή τη φράση μπορεί να πάρει τα Ariel σας για πάντα."
   },
   "secretPhrase": {
     "message": "Μόνο ο πρώτος λογαριασμός σε αυτό το πορτοφόλι θα φορτώσει αυτόματα. Μετά την ολοκλήρωση αυτής της διαδικασίας, για να προσθέσετε επιπλέον λογαριασμούς, κάντε κλικ στο αναπτυσσόμενο μενού και, στη συνέχεια, επιλέξτε Δημιουργία Λογαριασμού."
@@ -2815,7 +2815,7 @@
     "message": "Αν κάποιος ζητήσει τη φράση ανάκτησης σας είναι πιθανό να προσπαθεί να σας εξαπατήσει και να κλέψει τα χρήματα του πορτοφολιού σας"
   },
   "seedPhraseIntroSidebarCopyTwo": {
-    "message": "Ποτέ μα ποτέ μην μοιραστείτε ποτέ Μυστική Φράση Αποκατάστασης σας, ούτε καν με το Qnekt!"
+    "message": "Ποτέ μα ποτέ μην μοιραστείτε ποτέ Μυστική Φράση Αποκατάστασης σας, ούτε καν με το Arielt!"
   },
   "seedPhraseIntroSidebarTitleOne": {
     "message": "Τι είναι μια Μυστική Φράση Ανάκτησης;"
@@ -2854,7 +2854,7 @@
     "message": "Επιλέξτε Λογαριασμό"
   },
   "selectAnAccountAlreadyConnected": {
-    "message": "Αυτός ο λογαριασμός έχει ήδη συνδεθεί με το Qnekt"
+    "message": "Αυτός ο λογαριασμός έχει ήδη συνδεθεί με το Arielt"
   },
   "selectEachPhrase": {
     "message": "Παρακαλούμε επιλέξτε κάθε φράση, για να βεβαιωθείτε ότι είναι σωστή."
@@ -2898,7 +2898,7 @@
   },
   "sendingNativeAsset": {
     "message": "Αποστολή $1",
-    "description": "$1 represents the native currency symbol for the current network (e.g. ETH or BNB)"
+    "description": "$1 represents the native currency symbol for the current network (e.g. ARL or BNB)"
   },
   "sendingToTokenContractWarning": {
     "message": "Προειδοποίηση: πρόκειται να στείλετε ένα συμβόλαιο token το οποίο ίσως καταλήξει σε απώλεια χρημάτων. $1",
@@ -2908,7 +2908,7 @@
     "message": "Ορίστε ρυθμίσεις απορρήτου για προχωρημένους"
   },
   "setAdvancedPrivacySettingsDetails": {
-    "message": "Το Qnekt χρησιμοποιεί αυτές τις αξιόπιστες υπηρεσίες τρίτων για να ενισχύσει τη χρηστικότητα και την ασφάλεια των προϊόντων."
+    "message": "Το Arielt χρησιμοποιεί αυτές τις αξιόπιστες υπηρεσίες τρίτων για να ενισχύσει τη χρηστικότητα και την ασφάλεια των προϊόντων."
   },
   "setApprovalForAll": {
     "message": "Ρύθμιση Έγκρισης Όλων"
@@ -2961,7 +2961,7 @@
     "message": "Εμφάνιση Εισερχομένων Συναλλαγών"
   },
   "showIncomingTransactionsDescription": {
-    "message": "Επιλέξτε αυτό για να χρησιμοποιήσετε Etherscan για να εμφανίσετε τις εισερχόμενες συναλλαγές στη λίστα συναλλαγών"
+    "message": "Επιλέξτε αυτό για να χρησιμοποιήσετε Arielscan για να εμφανίσετε τις εισερχόμενες συναλλαγές στη λίστα συναλλαγών"
   },
   "showPermissions": {
     "message": "Εμφάνιση δικαιωμάτων"
@@ -3127,7 +3127,7 @@
     "message": "Σφάλμα κατά την ανάκτηση αρχείων καταγραφής κατάστασης."
   },
   "stateLogFileName": {
-    "message": "Καταγραφές Κατάστασης Qnekt"
+    "message": "Καταγραφές Κατάστασης Arielt"
   },
   "stateLogs": {
     "message": "Αρχεία Καταγραφής Κατάστασης"
@@ -3148,7 +3148,7 @@
     "message": "Βεβαιωθείτε ότι το Lattice1 σας είναι έτοιμο να συνδεθεί"
   },
   "step1LatticeWalletMsg": {
-    "message": "Μπορείτε να συνδέσετε το Qnekt με τη συσκευή Lattice1 σας μόλις εγκατασταθεί και είναι συνδεδεμένο στο ίντερνετ. Ξεκλειδώστε τη συσκευή σας και να έχετε το Αναγνωριστικό της Συσκευής σας έτοιμο. Για περισσότερα σχετικά με τη χρήση υλικού πορτοφολιού, $1",
+    "message": "Μπορείτε να συνδέσετε το Arielt με τη συσκευή Lattice1 σας μόλις εγκατασταθεί και είναι συνδεδεμένο στο ίντερνετ. Ξεκλειδώστε τη συσκευή σας και να έχετε το Αναγνωριστικό της Συσκευής σας έτοιμο. Για περισσότερα σχετικά με τη χρήση υλικού πορτοφολιού, $1",
     "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
   },
   "step1LedgerWallet": {
@@ -3169,7 +3169,7 @@
     "message": "Συνδέστε το πορτοφόλι Ledger"
   },
   "step2LedgerWalletMsg": {
-    "message": "Συνδέστε το πορτοφόλι σας απευθείας στον υπολογιστή σας. Ξεκλειδώστε το Ledger και ανοίξτε την εφαρμογή Ethereum. Για περισσότερες πληροφορίες σχετικά με τη χρήση της συσκευής πορτοφολιού σας, $1.",
+    "message": "Συνδέστε το πορτοφόλι σας απευθείας στον υπολογιστή σας. Ξεκλειδώστε το Ledger και ανοίξτε την εφαρμογή Arielcoin. Για περισσότερες πληροφορίες σχετικά με τη χρήση της συσκευής πορτοφολιού σας, $1.",
     "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
   },
   "stillGettingMessage": {
@@ -3206,7 +3206,7 @@
     "message": "Προσπαθήστε ξανά να κάνετε ανταλλαγή. Θα είμαστε εδώ για να σας προστατεύσουμε από παρόμοιους κινδύνους και την επόμενη φορά."
   },
   "stxDescription": {
-    "message": "Οι Ανταλλαγές Qnekt μόλις έγιναν πολύ πιο έξυπνες! Η ενεργοποίηση των Έξυπνων Συναλλαγών θα επιτρέψει στο Qnekt να βελτιώσει προγραμματικά τις Ανταλλαγές σας ώστε να απολαμβάνετε:"
+    "message": "Οι Ανταλλαγές Arielt μόλις έγιναν πολύ πιο έξυπνες! Η ενεργοποίηση των Έξυπνων Συναλλαγών θα επιτρέψει στο Arielt να βελτιώσει προγραμματικά τις Ανταλλαγές σας ώστε να απολαμβάνετε:"
   },
   "stxErrorNotEnoughFunds": {
     "message": "Δεν υπάρχουν αρκετοί πόροι για αυτή την έξυπνη συναλλαγή."
@@ -3241,7 +3241,7 @@
   },
   "stxSuccessDescription": {
     "message": "Τα $1 σας είναι πλέον διαθέσιμα.",
-    "description": "$1 is a token symbol, e.g. ETH"
+    "description": "$1 is a token symbol, e.g. ARL"
   },
   "stxSwapCompleteIn": {
     "message": "Η Ανταλλαγή θα ολοκληρωθεί σε <",
@@ -3329,7 +3329,7 @@
     "message": "Επιβεβαιώστε με το υλικό πορτοφόλι σας"
   },
   "swapContractDataDisabledErrorDescription": {
-    "message": "Στην εφαρμογή Ethereum στο Ledger, μεταβείτε στις \"Ρυθμίσεις\" και επιτρέψτε τα δεδομένα συμβολαίου. Στη συνέχεια, δοκιμάστε ξανά την ανταλλαγή σας."
+    "message": "Στην εφαρμογή Arielcoin στο Ledger, μεταβείτε στις \"Ρυθμίσεις\" και επιτρέψτε τα δεδομένα συμβολαίου. Στη συνέχεια, δοκιμάστε ξανά την ανταλλαγή σας."
   },
   "swapContractDataDisabledErrorTitle": {
     "message": "Τα δεδομένα συμβολαίου δεν είναι ενεργοποιημένα στο Ledger σας"
@@ -3347,12 +3347,12 @@
     "message": "Επεξεργασία ορίου"
   },
   "swapEnableDescription": {
-    "message": "Αυτό απαιτείται και δίνει άδεια στο Qnekt για να ανταλλάξετε το $1 σας.",
+    "message": "Αυτό απαιτείται και δίνει άδεια στο Arielt για να ανταλλάξετε το $1 σας.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEnableTokenForSwapping": {
     "message": "Αυτό θα $1 για ανταλλαγή",
-    "description": "$1 is for the 'enableToken' key, e.g. 'enable ETH'"
+    "description": "$1 is for the 'enableToken' key, e.g. 'enable ARL'"
   },
   "swapEstimatedNetworkFees": {
     "message": "Εκτιμώμενα τέλη δικτύου"
@@ -3397,14 +3397,14 @@
     "message": "Τα τέλη συναλλαγών στην προηγούμενη οθόνη μοιράζονται μεταξύ αυτών των δύο συναλλαγών."
   },
   "swapGasFeesSummary": {
-    "message": "Τα τέλη συναλλαγών καταβάλλονται σε κρυπτο-miners που επεξεργάζονται συναλλαγές στο δίκτυο $1. Το Qnekt δεν επωφελείται από τα τέλη συναλλαγών.",
-    "description": "$1 is the selected network, e.g. Ethereum or BSC"
+    "message": "Τα τέλη συναλλαγών καταβάλλονται σε κρυπτο-miners που επεξεργάζονται συναλλαγές στο δίκτυο $1. Το Arielt δεν επωφελείται από τα τέλη συναλλαγών.",
+    "description": "$1 is the selected network, e.g. Arielcoin or BSC"
   },
   "swapHighSlippageWarning": {
     "message": "Το ποσό ολίσθησης είναι πολύ υψηλό."
   },
   "swapIncludesMMFee": {
-    "message": "Περιλαμβάνει $1% τέλος Qnekt.",
+    "message": "Περιλαμβάνει $1% τέλος Arielt.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapLowSlippageError": {
@@ -3413,10 +3413,10 @@
   "swapMaxSlippage": {
     "message": "Μέγιστη ολίσθηση"
   },
-  "swapQnektFee": {
-    "message": "Τέλος Qnekt"
+  "swapArieltFee": {
+    "message": "Τέλος Arielt"
   },
-  "swapQnektFeeDescription": {
+  "swapArieltFeeDescription": {
     "message": "Βρίσκουμε την καλύτερη τιμή από τις κορυφαίες πηγές ρευστότητας, κάθε φορά. Μια αμοιβή $1% λαμβάνεται αυτόματα υπόψη σε αυτή την προσφορά.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
@@ -3434,7 +3434,7 @@
   },
   "swapPriceDifference": {
     "message": "Πρόκειται να ανταλλάξετε $1 $2 (~$3) για $4 $5 (~$6).",
-    "description": "This message represents the price slippage for the swap.  $1 and $4 are a number (ex: 2.89), $2 and $5 are symbols (ex: ETH), and $3 and $6 are fiat currency amounts."
+    "description": "This message represents the price slippage for the swap.  $1 and $4 are a number (ex: 2.89), $2 and $5 are symbols (ex: ARL), and $3 and $6 are fiat currency amounts."
   },
   "swapPriceDifferenceTitle": {
     "message": "Διαφορά τιμής του ~$1%",
@@ -3551,7 +3551,7 @@
   },
   "swapTokenVerificationMessage": {
     "message": "Πάντα να επιβεβαιώνετε τη διεύθυνση token στο $1.",
-    "description": "Points the user to Etherscan as a place they can verify information about a token. $1 is replaced with the translation for \"Etherscan\" followed by an info icon that shows more info on hover."
+    "description": "Points the user to Arielscan as a place they can verify information about a token. $1 is replaced with the translation for \"Arielscan\" followed by an info icon that shows more info on hover."
   },
   "swapTokenVerificationOnlyOneSource": {
     "message": "Επαληθεύεται μόνο σε 1 πηγή."
@@ -3601,7 +3601,7 @@
     "message": "Προβολή σε δραστηριότητα"
   },
   "switchEthereumChainConfirmationDescription": {
-    "message": "Αυτό θα αλλάξει το επιλεγμένο δίκτυο στο Qnekt σε ένα δίκτυο που έχει προστεθεί προηγουμένως:"
+    "message": "Αυτό θα αλλάξει το επιλεγμένο δίκτυο στο Arielt σε ένα δίκτυο που έχει προστεθεί προηγουμένως:"
   },
   "switchEthereumChainConfirmationTitle": {
     "message": "Επιτρέπετε σε αυτόν τον ιστότοπο να αλλάξει το δίκτυο;"
@@ -3641,16 +3641,16 @@
     "message": "Σιγουρευτείτε ότι κανένας δεν κοιτάζει στην οθόνη σας όταν κάνετε σάρωση αυτού του κωδικού"
   },
   "syncWithMobileComplete": {
-    "message": "Τα δεδομένα σας έχουν συγχρονιστεί με επιτυχία. Απολαύστε την εφαρμογή Qnekt για κινητά!"
+    "message": "Τα δεδομένα σας έχουν συγχρονιστεί με επιτυχία. Απολαύστε την εφαρμογή Arielt για κινητά!"
   },
   "syncWithMobileDesc": {
-    "message": "Μπορείτε να συγχρονίσετε τους λογαριασμούς και τις πληροφορίες σας με την κινητή συσκευή σας. Ανοίξτε την εφαρμογή Qnekt για κινητά, μεταβείτε στην ενότητα \"Ρυθμίσεις\" και πατήστε \"Συγχρονισμός από Επέκταση Προγράμματος Περιήγησης\""
+    "message": "Μπορείτε να συγχρονίσετε τους λογαριασμούς και τις πληροφορίες σας με την κινητή συσκευή σας. Ανοίξτε την εφαρμογή Arielt για κινητά, μεταβείτε στην ενότητα \"Ρυθμίσεις\" και πατήστε \"Συγχρονισμός από Επέκταση Προγράμματος Περιήγησης\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Εάν απλά ανοίξετε την εφαρμογή Qnekt Mobile για πρώτη φορά, απλώς ακολουθήστε τα βήματα στο τηλέφωνό σας."
+    "message": "Εάν απλά ανοίξετε την εφαρμογή Arielt Mobile για πρώτη φορά, απλώς ακολουθήστε τα βήματα στο τηλέφωνό σας."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Σαρώστε αυτόν τον κώδικα με την εφαρμογή Qnekt για κινητά"
+    "message": "Σαρώστε αυτόν τον κώδικα με την εφαρμογή Arielt για κινητά"
   },
   "syncWithMobileTitle": {
     "message": "Συγχρονισμός με κινητό"
@@ -3683,7 +3683,7 @@
     "message": "Θέμα"
   },
   "themeDescription": {
-    "message": "Επιλέξτε το προτιμώμενο θέμα σας για το Qnekt."
+    "message": "Επιλέξτε το προτιμώμενο θέμα σας για το Arielt."
   },
   "thisWillCreate": {
     "message": "Αυτό θα δημιουργήσει ένα νέο πορτοφόλι και Μυστική Φράση Ανάκτησης"
@@ -3782,7 +3782,7 @@
     "message": "Προτεινόμενο από την ιστοσελίδα"
   },
   "transactionDetailDappGasTooltip": {
-    "message": "Επεξεργαστείτε για να χρησιμοποιήσετε το προτεινόμενο τέλος συναλλαγής του Qnekt με βάση το τελευταίο μπλοκ."
+    "message": "Επεξεργαστείτε για να χρησιμοποιήσετε το προτεινόμενο τέλος συναλλαγής του Arielt με βάση το τελευταίο μπλοκ."
   },
   "transactionDetailGasHeading": {
     "message": "Εκτιμώμενο τέλος συναλλαγής"
@@ -3797,7 +3797,7 @@
     "message": "Τα τέλη συναλλαγών καθορίζονται από το δίκτυο και θα αυξάνονται ανάλογα με την κυκλοφορία του δικτύου και την πολυπλοκότητα των συναλλαγών."
   },
   "transactionDetailGasTooltipIntro": {
-    "message": "Τα τέλη συναλλαγών καταβάλλονται σε κρυπτο-miners που επεξεργάζονται συναλλαγές στο δίκτυο $1. Το Qnekt δεν επωφελείται από τα τέλη συναλλαγών."
+    "message": "Τα τέλη συναλλαγών καταβάλλονται σε κρυπτο-miners που επεξεργάζονται συναλλαγές στο δίκτυο $1. Το Arielt δεν επωφελείται από τα τέλη συναλλαγών."
   },
   "transactionDetailGasTotalSubtitle": {
     "message": "Ποσό + τέλος συναλλαγής"
@@ -3867,7 +3867,7 @@
     "description": "$1 is the wallet device name; $2 is a link to wallet connection guide"
   },
   "troubleStarting": {
-    "message": "Το Qnekt αντιμετώπισε πρόβλημα κατά την εκκίνηση. Αυτό το σφάλμα μπορεί να είναι τυχαίο, γι' αυτό προσπαθήστε να επανεκκινήσετε την επέκταση."
+    "message": "Το Arielt αντιμετώπισε πρόβλημα κατά την εκκίνηση. Αυτό το σφάλμα μπορεί να είναι τυχαίο, γι' αυτό προσπαθήστε να επανεκκινήσετε την επέκταση."
   },
   "troubleTokenBalances": {
     "message": "Είχαμε πρόβλημα να φορτώσουμε τα υπόλοιπα του διακριτικού σας. Μπορείτε να τα δείτε ",
@@ -3889,14 +3889,14 @@
     "message": "Οι αναλύσεις συναλλαγών εις βάθος δεν υποστηρίζονται για αυτό το συμβόλαιο αυτή τη στιγμή."
   },
   "typePassword": {
-    "message": "Πληκτρολογήστε τον κωδικό πρόσβασής σας Qnekt"
+    "message": "Πληκτρολογήστε τον κωδικό πρόσβασής σας Arielt"
   },
   "typeYourSRP": {
     "message": "Πληκτρολογήστε τη Μυστική σας Φράση Ανάκτησης"
   },
   "u2f": {
     "message": "U2F",
-    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect Qnekt to Ledger devices."
+    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect Arielt to Ledger devices."
   },
   "unapproved": {
     "message": "Μη εγκεκριμένο"
@@ -3964,7 +3964,7 @@
     "message": "Χρήση Ανίχνευσης Απάτης Ηλεκτρονικού Ψαρέματος"
   },
   "usePhishingDetectionDescription": {
-    "message": "Εμφάνιση μιας προειδοποίησης για τομείς Απάτης Ηλεκτρονικού Ψαρέματος που στοχεύουν χρήστες του Ethereum"
+    "message": "Εμφάνιση μιας προειδοποίησης για τομείς Απάτης Ηλεκτρονικού Ψαρέματος που στοχεύουν χρήστες του Arielcoin"
   },
   "useTokenDetectionPrivacyDesc": {
     "message": "Η αυτόματη εμφάνιση των token που αποστέλλονται στον λογαριασμό σας συνεπάγεται επικοινωνία με διακομιστές τρίτων για τη λήψη εικόνων των token. Αυτοί οι διακομιστές θα έχουν πρόσβαση στη διεύθυνση IP σας."
@@ -4010,7 +4010,7 @@
     "description": "$1 is the action type. e.g (Account, Transaction, Swap) and $2 is the Custom Block Exporer URL"
   },
   "viewOnEtherscan": {
-    "message": "Προβολή $1 στην Etherscan",
+    "message": "Προβολή $1 στην Arielscan",
     "description": "$1 is the action type. e.g (Account, Transaction, Swap)"
   },
   "viewOnOpensea": {
@@ -4030,10 +4030,10 @@
     "message": "Προστατεύσατε με επιτυχία το πορτοφόλι σας. Κρατήστε τη Μυστική Φράση Ανάκτησης σας ασφαλή και μυστική -- είναι δική σας ευθύνη!"
   },
   "walletCreationSuccessReminder1": {
-    "message": "Το Qnekt δεν μπορεί να ανακτήσει τη Μυστική Φράση Ανάκτησής σας."
+    "message": "Το Arielt δεν μπορεί να ανακτήσει τη Μυστική Φράση Ανάκτησής σας."
   },
   "walletCreationSuccessReminder2": {
-    "message": "Το Qnekt δεν θα σας ζητήσει ποτέ τη Μυστική Φράση Ανάκτησής σας."
+    "message": "Το Arielt δεν θα σας ζητήσει ποτέ τη Μυστική Φράση Ανάκτησής σας."
   },
   "walletCreationSuccessReminder3": {
     "message": "$1 με οποιονδήποτε ή να διακινδυνεύστε τα χρήματά σας να κλαπούν",
@@ -4064,7 +4064,7 @@
     "description": "Refers to a interface for connecting external devices to the browser. Used for connecting ledger to the browser. Read more here https://developer.mozilla.org/en-US/docs/Web/API/WebHID_API"
   },
   "welcome": {
-    "message": "Καλώς ήλθατε στο Qnekt"
+    "message": "Καλώς ήλθατε στο Arielt"
   },
   "welcomeBack": {
     "message": "Καλώς Ήλθατε και Πάλι!"
@@ -4076,20 +4076,20 @@
     "message": "Εξερεύνηση αποκεντρωμένων εφαρμογών"
   },
   "welcomeLoginDescription": {
-    "message": "Χρησιμοποιήστε το Qnekt σας για να συνδεθείτε σε αποκεντρωμένες εφαρμογές - δεν απαιτείται εγγραφή."
+    "message": "Χρησιμοποιήστε το Arielt σας για να συνδεθείτε σε αποκεντρωμένες εφαρμογές - δεν απαιτείται εγγραφή."
   },
   "welcomeLoginTitle": {
     "message": "Πείτε γεια στο πορτοφόλι σας"
   },
-  "welcomeToQnekt": {
+  "welcomeToArielt": {
     "message": "Ας ξεκινήσουμε"
   },
-  "welcomeToQnektIntro": {
-    "message": "Αξιόπιστο για εκατομμύρια, το Qnekt είναι ένα ασφαλές πορτοφόλι που καθιστά τον κόσμο του web3 προσβάσιμο σε όλους."
+  "welcomeToArieltIntro": {
+    "message": "Αξιόπιστο για εκατομμύρια, το Arielt είναι ένα ασφαλές πορτοφόλι που καθιστά τον κόσμο του web3 προσβάσιμο σε όλους."
   },
   "whatsNew": {
     "message": "Τι νέο υπάρχει",
-    "description": "This is the title of a popup that gives users notifications about new features and updates to Qnekt."
+    "description": "This is the title of a popup that gives users notifications about new features and updates to Arielt."
   },
   "whatsThis": {
     "message": "Τι είναι αυτό;"

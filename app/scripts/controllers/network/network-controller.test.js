@@ -171,7 +171,7 @@ describe('NetworkController', () => {
         },
         {
           input: 'mainnet',
-          expected: 'Ethereum Mainnet',
+          expected: 'Arielcoin Mainnet',
         },
         {
           input: 'goerli',

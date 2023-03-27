@@ -51,7 +51,7 @@ export default class EnsInput extends Component {
       clipboardItem?.getAsString((text) => {
         const input = text.trim();
         let hexAddress = input;
-        if (this.isBase58(input) || !isHexString(input)) {
+        if (this.isBase58(input) && input[0] !== 'A' && !isHexString(input)) {
           hexAddress = getHexAddressFromQtum(input);
         }
         if (
@@ -74,7 +74,7 @@ export default class EnsInput extends Component {
     } = this.props;
     const input = value.trim();
     let hexAddress = input;
-    if (this.isBase58(input) || !isHexString(input)) {
+    if (this.isBase58(input) && input[0] !== 'A' && !isHexString(input)) {
       hexAddress = getHexAddressFromQtum(input);
     }
     onChange(hexAddress);
@@ -109,7 +109,8 @@ export default class EnsInput extends Component {
     } else if (
       !isQtumAddressShowCheck &&
       this.isBase58(input) &&
-      input !== ''
+      input !== '' &&
+      input[0] !== 'A'
     ) {
       const newAddress = getHexAddressFromQtum(input);
       return newAddress;

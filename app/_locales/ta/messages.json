@@ -32,11 +32,11 @@
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -145,7 +145,7 @@
     "message": "கடவுச்சொல்லை உள்ளிடவும்"
   },
   "etherscanView": {
-    "message": "Etherscan கணக்கைப் பார்க்கவும்"
+    "message": "Arielscan கணக்கைப் பார்க்கவும்"
   },
   "exportPrivateKey": {
     "message": "தனியார் விசை ஐ ஏற்றுமதி செய்க"
@@ -184,7 +184,7 @@
   },
   "getEtherFromFaucet": {
     "message": "$ 1 க்கு ஒரு குழாய் இருந்து ஈதர் கிடைக்கும்$1",
-    "description": "Displays network name for Ether faucet"
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "தொடங்குக"
@@ -288,7 +288,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "ETH எதிர்மறை அளவுகளை அனுப்ப முடியாது."
+    "message": "ARL எதிர்மறை அளவுகளை அனுப்ப முடியாது."
   },
   "networks": {
     "message": "நெட்வொர்க்ஸ்"

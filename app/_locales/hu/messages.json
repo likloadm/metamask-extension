@@ -33,7 +33,7 @@
     "message": "tevékenységi napló"
   },
   "addAcquiredTokens": {
-    "message": "Adja hozzá Qnekt-kal a kapott érméket"
+    "message": "Adja hozzá Arielt-kal a kapott érméket"
   },
   "addAlias": {
     "message": "Álnév hozzáadása"
@@ -57,19 +57,19 @@
     "message": "Összeg"
   },
   "appDescription": {
-    "message": "Ethereum tárca a böngészőjében",
+    "message": "Arielcoin tárca a böngészőjében",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Automatikus kijelentkezés időzítő (perc)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Adja meg a Qnekt automatikus kijelentkezéséig tartó tétlen állapot idejét percekben "
+    "message": "Adja meg a Arielt automatikus kijelentkezéséig tartó tétlen állapot idejét percekben "
   },
   "average": {
     "message": "Átlag"
@@ -109,7 +109,7 @@
     "message": "Vissza az összeshez"
   },
   "backupApprovalInfo": {
-    "message": "Ez a titkos kód a tárca helyreállításához szükséges, ha elveszíti eszközét, elfelejti jelszavát, újra kell telepítenie a Qnekt alkalmazást, vagy ha a tárcájához egy másik eszközről szeretne hozzáférni."
+    "message": "Ez a titkos kód a tárca helyreállításához szükséges, ha elveszíti eszközét, elfelejti jelszavát, újra kell telepítenie a Arielt alkalmazást, vagy ha a tárcájához egy másik eszközről szeretne hozzáférni."
   },
   "backupApprovalNotice": {
     "message": "Készíts biztonsági másolatot titkos helyreállítási kódodról, hogy pénztárcád és pénzalapod biztosítva legyen."
@@ -140,7 +140,7 @@
     "message": "Vásároljon $1 -t a Wyre-rel"
   },
   "buyWithWyreDescription": {
-    "message": "A Wyre segítségével egyensen a MetaMaks fiókjában tehet letétbe ETH-t."
+    "message": "A Wyre segítségével egyensen a MetaMaks fiókjában tehet letétbe ARL-t."
   },
   "bytes": {
     "message": "Bájtok"
@@ -158,7 +158,7 @@
     "message": "Lánc azonosítója"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "A Qnekt-ot Google Chrome-mal kell használnia a Hardveres pénztárcához való csatlakozáshoz."
+    "message": "A Arielt-ot Google Chrome-mal kell használnia a Hardveres pénztárcához való csatlakozáshoz."
   },
   "clickToRevealSeed": {
     "message": "Kattintson ide a titkos szavak megjelenítéséhez"
@@ -197,7 +197,7 @@
     "message": "Csatlakozás a Kovan teszthálózathoz"
   },
   "connectingToMainnet": {
-    "message": "Csatlakozás a fő Ethereum hálózathoz"
+    "message": "Csatlakozás a fő Arielcoin hálózathoz"
   },
   "connectingToRinkeby": {
     "message": "Kapcsolódás a Rinkeby Teszthálózathoz"
@@ -317,19 +317,19 @@
     "message": "Soha ne ossza meg senkivel a mondatot."
   },
   "endOfFlowMessage5": {
-    "message": "Vigyázzon az adathalászokkal! A Qnekt soha nem kéri spontán módon a seed mondatot."
+    "message": "Vigyázzon az adathalászokkal! A Arielt soha nem kéri spontán módon a seed mondatot."
   },
   "endOfFlowMessage6": {
     "message": "Ha ismét biztonsági másolatot kell készítenie a seed mondatról, megtalálja azt a Beállítások -> Biztonság menüben."
   },
   "endOfFlowMessage8": {
-    "message": "A Qnekt nem tudta helyreállítani a seed mondatot. Tudjon meg többet."
+    "message": "A Arielt nem tudta helyreállítani a seed mondatot. Tudjon meg többet."
   },
   "endOfFlowMessage9": {
     "message": "Bővebb információk."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS név nem található a jelenlegi hálózaton. Próbálj váltani Ethereum főhálózatra."
+    "message": "ENS név nem található a jelenlegi hálózaton. Próbálj váltani Arielcoin főhálózatra."
   },
   "ensRegistrationError": {
     "message": "Hiba történt az ENS név regisztrációjakor"
@@ -344,7 +344,7 @@
     "message": "Becsült feldolgozási idők"
   },
   "ethereumPublicAddress": {
-    "message": "Ethereum nyilvános címe"
+    "message": "Arielcoin nyilvános címe"
   },
   "etherscanView": {
     "message": "Fiók megtekintése Etherscanen"
@@ -399,11 +399,11 @@
     "message": "Általános"
   },
   "getEther": {
-    "message": "Ether beszerzése"
+    "message": "Ariel beszerzése"
   },
   "getEtherFromFaucet": {
     "message": "Szerezzen Ethert pénzcsapból a(z) $1-ért",
-    "description": "Displays network name for Ether faucet"
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Első lépések"
@@ -424,7 +424,7 @@
     "message": "Hardveres tárca csatlakoztatása"
   },
   "hardwareWalletsMsg": {
-    "message": "Válassza ki a Qnekt-kal használni kívánt hardveres pénztárcát"
+    "message": "Válassza ki a Arielt-kal használni kívánt hardveres pénztárcát"
   },
   "here": {
     "message": "itt",
@@ -450,7 +450,7 @@
     "message": "Fiók importálása"
   },
   "importAccountMsg": {
-    "message": "Az importált fiókot nem társítjuk az eredetileg létrehozott Qnekt-fiók seed mondatához. További információ az importált fiókokról"
+    "message": "Az importált fiókot nem társítjuk az eredetileg létrehozott Arielt-fiók seed mondatához. További információ az importált fiókokról"
   },
   "importAccountSeedPhrase": {
     "message": "Fiók importálása seed mondat segítségével"
@@ -481,7 +481,7 @@
     "message": "A címzett címe érvénytelen "
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Nem ETH hálózat, állítsa kisbetűre"
+    "message": "Nem ARL hálózat, állítsa kisbetűre"
   },
   "invalidBlockExplorerURL": {
     "message": "Helytelen Block Explorer URL"
@@ -533,7 +533,7 @@
     "message": "Kilépés"
   },
   "mainnet": {
-    "message": "Fő Ethereum hálózat"
+    "message": "Fő Arielcoin hálózat"
   },
   "max": {
     "message": "Maximum"
@@ -551,7 +551,7 @@
     "message": "Csatlakozás az Ethereumhoz és a decentralizált hálózathoz."
   },
   "metamaskVersion": {
-    "message": "Qnekt verzió"
+    "message": "Arielt verzió"
   },
   "mustSelectOne": {
     "message": "Legalább 1 tokent ki kell választania."
@@ -564,7 +564,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Nem lehet negatív mennyiségű ETH-t küldeni."
+    "message": "Nem lehet negatív mennyiségű ARL-t küldeni."
   },
   "networkName": {
     "message": "Hálózat neve"
@@ -594,8 +594,8 @@
   "newPassword": {
     "message": "Új jelszó (minimum 8 karakter)"
   },
-  "newToQnekt": {
-    "message": "Új a Qnekt-on?"
+  "newToArielt": {
+    "message": "Új a Arielt-on?"
   },
   "newTotal": {
     "message": "Új végösszeg"
@@ -649,7 +649,7 @@
     "message": "Vegyen részt a MetaMetrics-ben"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Vegyél részt a MetaMetricsben, hogy segíts a Qnekt fejlesztésében."
+    "message": "Vegyél részt a MetaMetricsben, hogy segíts a Arielt fejlesztésében."
   },
   "password": {
     "message": "Jelszó"
@@ -677,7 +677,7 @@
     "message": "Elsődleges pénznem"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Válaszd a helyit, hogy az értékek elsősorban a helyi pénznemben jelenjenek meg (pl. ETH). Válaszd a Fiatot, hogy az értékek elsősorban a választott fiat pénznemben jelenjenek meg."
+    "message": "Válaszd a helyit, hogy az értékek elsősorban a helyi pénznemben jelenjenek meg (pl. ARL). Válaszd a Fiatot, hogy az értékek elsősorban a választott fiat pénznemben jelenjenek meg."
   },
   "privacyMsg": {
     "message": "Adatvédelmi szabályzat"
@@ -795,7 +795,7 @@
     "message": "Titkos biztonsági szókapcsolatoddal könnyedén készíthetsz biztonsági mentést és helyreállíthatod fiókodat."
   },
   "secretBackupPhraseWarning": {
-    "message": "FIGYELEM: Senkise se adja meg a biztonsági szakaszát. Ennek tulajdonosa örökre elviheti Ether-jeit."
+    "message": "FIGYELEM: Senkise se adja meg a biztonsági szakaszát. Ennek tulajdonosa örökre elviheti Ariel-jeit."
   },
   "securityAndPrivacy": {
     "message": "Biztonság és adatvédelem"
@@ -918,16 +918,16 @@
     "message": "Győződjön meg arról, hogy senki nem látja a képernyőt, amikor beolvassa ezt a kódot"
   },
   "syncWithMobileComplete": {
-    "message": "Adatai szinkronizálása sikerült. Élvezze a Qnekt mobilalkalmazást!"
+    "message": "Adatai szinkronizálása sikerült. Élvezze a Arielt mobilalkalmazást!"
   },
   "syncWithMobileDesc": {
-    "message": "Szinkronizálhatja fiókjait és adatait a mobilkészülékkel. Nyissa meg a Qnekt mobilalkalmazást, lépjen a \"Beállítások\" elemre, majd koppintson a \"Szinkronizálás a böngésző bővítményéből\" elemre."
+    "message": "Szinkronizálhatja fiókjait és adatait a mobilkészülékkel. Nyissa meg a Arielt mobilalkalmazást, lépjen a \"Beállítások\" elemre, majd koppintson a \"Szinkronizálás a böngésző bővítményéből\" elemre."
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Ha most először nyitja meg a Qnekt mobilalkalmazást, kövesse a telefonon megadott lépéseket."
+    "message": "Ha most először nyitja meg a Arielt mobilalkalmazást, kövesse a telefonon megadott lépéseket."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Olvasd be ezt a kódot Qnekt mobilalkalmazásoddal"
+    "message": "Olvasd be ezt a kódot Arielt mobilalkalmazásoddal"
   },
   "syncWithMobileTitle": {
     "message": "Szinkronizálás mobillal"
@@ -1015,7 +1015,7 @@
     "message": "Újra"
   },
   "typePassword": {
-    "message": "Írd be Qnekt jelszavadat"
+    "message": "Írd be Arielt jelszavadat"
   },
   "unapproved": {
     "message": "Jóvá nem hagyott"
@@ -1066,7 +1066,7 @@
     "message": "Látogass el weboldalunkra"
   },
   "welcome": {
-    "message": "Üdvözöljük a Qnektban"
+    "message": "Üdvözöljük a Arieltban"
   },
   "welcomeBack": {
     "message": "Üdvözöljük újra!"

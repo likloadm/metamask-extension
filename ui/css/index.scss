@@ -34,12 +34,12 @@
 @import '../../node_modules/react-tippy/dist/tippy';
 @import '../../node_modules/@metamask/design-tokens/src/css/design-tokens';
 
-// Qnekt overloads of design-tokens import above
+// Arielt overloads of design-tokens import above
 :root {
   --color-background-default: var(--brand-colors-white-white000);
   --color-background-alternative: var(--brand-colors-grey-grey040);
   --color-text-default: var(--brand-colors-grey-grey800);
-  --color-text-alternative: var(--brand-colors-white-white000);
+  --color-text-alternative: var(--brand-colors-grey-grey800);
   --color-text-muted: var($Black-300);
   --color-icon-default: var(--brand-colors-grey-grey800);
   --color-icon-alternative: var(--brand-colors-grey-grey500);

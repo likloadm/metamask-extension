@@ -33,7 +33,7 @@
     "message": "kumbukumbu ya shughuli"
   },
   "addAcquiredTokens": {
-    "message": "Ongeza vianzio ulivyopata kwa kutumia Qnekt"
+    "message": "Ongeza vianzio ulivyopata kwa kutumia Arielt"
   },
   "addAlias": {
     "message": "Ongeza jina jingine"
@@ -57,19 +57,19 @@
     "message": "Kiasi"
   },
   "appDescription": {
-    "message": "Waleti ya Ethereum kwenye Kivinjari chako",
+    "message": "Waleti ya Arielcoin kwenye Kivinjari chako",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Kihesabu Muda wa Kuondoka Kwenye Akaunti Kiotomatiki (dakika)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Weka muda katika dakika kabla Qnekt haijaondoa kwenye akaunti kiotomatiki."
+    "message": "Weka muda katika dakika kabla Arielt haijaondoa kwenye akaunti kiotomatiki."
   },
   "average": {
     "message": "Wastani"
@@ -109,7 +109,7 @@
     "message": "Rudi kwenye Zote"
   },
   "backupApprovalInfo": {
-    "message": "Msimbo huu wa siri unahitajika ili kurejesha waleti yako ikitokea umepoteza kifaa chako, umesahau nenosiri lako, umelazimika kusakinisha Qnekt, au unataka kufikia waleti yako kwenye kifaa kingine."
+    "message": "Msimbo huu wa siri unahitajika ili kurejesha waleti yako ikitokea umepoteza kifaa chako, umesahau nenosiri lako, umelazimika kusakinisha Arielt, au unataka kufikia waleti yako kwenye kifaa kingine."
   },
   "backupApprovalNotice": {
     "message": "Hifadhi msimbo wa Siri wa Kurejesha data ili kuweka salama waleti yako na fedha."
@@ -137,7 +137,7 @@
     "message": "Nunua $1 kwa kutumia Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre inakuwezesha kutumia kadi ya benki kuweka $1 moja kwa moja kwenye akaunti yako ya Qnekt."
+    "message": "Wyre inakuwezesha kutumia kadi ya benki kuweka $1 moja kwa moja kwenye akaunti yako ya Arielt."
   },
   "cancel": {
     "message": "Ghairi"
@@ -152,7 +152,7 @@
     "message": "Utambulisho wa Mnyororo"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Unapaswa kutumia Qnekt kwenye Google Chrome ili kuungnisha kwenye Waleti yako ya Programu Maunzi."
+    "message": "Unapaswa kutumia Arielt kwenye Google Chrome ili kuungnisha kwenye Waleti yako ya Programu Maunzi."
   },
   "clickToRevealSeed": {
     "message": "Bofya hapa ili uonyeshe maneno ya siri"
@@ -191,7 +191,7 @@
     "message": "Inaunganisha kwenye Mtandao wa Majaribio wa Kovan"
   },
   "connectingToMainnet": {
-    "message": "Inaunganisha kwenye Mtandao Mkuu wa Ethereum"
+    "message": "Inaunganisha kwenye Mtandao Mkuu wa Arielcoin"
   },
   "connectingToRinkeby": {
     "message": "Inaunganisha kwenye Mtandao wa Majaribio wa Rinkeby"
@@ -311,19 +311,19 @@
     "message": "Kamwe usimpatia mtu yeye kirai hicho."
   },
   "endOfFlowMessage5": {
-    "message": "Kuwa makini na walaghai! Qnekt kamwe haitakuomba kirai chako kianzio."
+    "message": "Kuwa makini na walaghai! Arielt kamwe haitakuomba kirai chako kianzio."
   },
   "endOfFlowMessage6": {
     "message": "Ikiwa unataka kuhifadhi tena kwa njia mbadla kirai chako kianzio, unaweza kukipata kwenye Mipangilio -> Usalama."
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt haiwezi kurejesha kirai chako kianzio. Pata maelezo ziadi."
+    "message": "Arielt haiwezi kurejesha kirai chako kianzio. Pata maelezo ziadi."
   },
   "endOfFlowMessage9": {
     "message": "Jifunze zaidi."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Jina la ENS halipatikani kwenye mtandao wa sasa. Jaribu kuhamia kwenye Mtandao Mkuu wa Ethereum."
+    "message": "Jina la ENS halipatikani kwenye mtandao wa sasa. Jaribu kuhamia kwenye Mtandao Mkuu wa Arielcoin."
   },
   "ensRegistrationError": {
     "message": "Hitilafu imetokea kwenye usajili wa jina la ENS"
@@ -338,10 +338,10 @@
     "message": "Muda wa Kuchakata Uliokadiriwa"
   },
   "ethereumPublicAddress": {
-    "message": "Anwani ya Umma ya Ethereum"
+    "message": "Anwani ya Umma ya Arielcoin"
   },
   "etherscanView": {
-    "message": "Tazama akaunti kwenye Etherscan"
+    "message": "Tazama akaunti kwenye Arielscan"
   },
   "expandView": {
     "message": "Panua Mwonekano"
@@ -384,7 +384,7 @@
     "message": "Bei ya Gesi Ipo Chini Kupita Kiasi"
   },
   "gasPriceInfoTooltipContent": {
-    "message": "Bei ya gesi hubainisha kiwango cha Ether ambacho upo radhi kulipia kila kizio cha gesi."
+    "message": "Bei ya gesi hubainisha kiwango cha Ariel ambacho upo radhi kulipia kila kizio cha gesi."
   },
   "gasUsed": {
     "message": "Gesi iliyotumika"
@@ -393,11 +393,11 @@
     "message": "Jumla"
   },
   "getEther": {
-    "message": "Pata Ether"
+    "message": "Pata Ariel"
   },
   "getEtherFromFaucet": {
-    "message": "Pata Ether kutoka kwenye mfereji $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "Pata Ariel kutoka kwenye mfereji $1",
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Anza"
@@ -418,7 +418,7 @@
     "message": "Unganisha waleti ya programu maunzi"
   },
   "hardwareWalletsMsg": {
-    "message": "Chagua waleti ya programu maunzi ambayo ungependa kutumia kwenye Qnekt"
+    "message": "Chagua waleti ya programu maunzi ambayo ungependa kutumia kwenye Arielt"
   },
   "here": {
     "message": "hapa",
@@ -441,7 +441,7 @@
     "message": "Ingiza Akaunti"
   },
   "importAccountMsg": {
-    "message": "Akaunti zilizoingizwa hazitahusishwa na kirai chako cha kianzio cha akaunti ya Qnekt iliyoundwa awali. Pata maelezo zaidi kuhusu akaunti zilizoingizwa"
+    "message": "Akaunti zilizoingizwa hazitahusishwa na kirai chako cha kianzio cha akaunti ya Arielt iliyoundwa awali. Pata maelezo zaidi kuhusu akaunti zilizoingizwa"
   },
   "importAccountSeedPhrase": {
     "message": "Hamisha Akaunti kwa kutumia Kirai Kianzio"
@@ -472,7 +472,7 @@
     "message": "Anwani ya mpokeaji si halali"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Kwa mtandao wa ETH, weka herufi ndogo"
+    "message": "Kwa mtandao wa ARL, weka herufi ndogo"
   },
   "invalidBlockExplorerURL": {
     "message": "Block Explorer URL batili"
@@ -524,7 +524,7 @@
     "message": "Toka kwenye akaunti"
   },
   "mainnet": {
-    "message": "Mtandao Mkuu wa Ethereum"
+    "message": "Mtandao Mkuu wa Arielcoin"
   },
   "memorizePhrase": {
     "message": "Kariri kirai hiki"
@@ -533,10 +533,10 @@
     "message": "Ujumbe"
   },
   "metamaskDescription": {
-    "message": "Kukuunganisha kwenye Ethereum na Wavutiu Uliotawanywa."
+    "message": "Kukuunganisha kwenye Arielcoin na Wavutiu Uliotawanywa."
   },
   "metamaskVersion": {
-    "message": "Toleo la Qnekt"
+    "message": "Toleo la Arielt"
   },
   "mustSelectOne": {
     "message": "Lazima uchague angalau kianzio 1."
@@ -549,7 +549,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Haiwezi kutuma viwango hasi vya ETH."
+    "message": "Haiwezi kutuma viwango hasi vya ARL."
   },
   "networkName": {
     "message": "Jina la mtandao"
@@ -579,8 +579,8 @@
   "newPassword": {
     "message": "Nenosiri Jipya (kiwango cha chini herufi 8)"
   },
-  "newToQnekt": {
-    "message": "Qnekt mpya?"
+  "newToArielt": {
+    "message": "Arielt mpya?"
   },
   "newTotal": {
     "message": "Jumla Mpya"
@@ -634,7 +634,7 @@
     "message": "Shiriki katika MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Shiriki katika MetaMetrics ili kutusaidia kufanya Qnekt kuwa bora zaidi"
+    "message": "Shiriki katika MetaMetrics ili kutusaidia kufanya Arielt kuwa bora zaidi"
   },
   "password": {
     "message": "Nenosiri"
@@ -662,7 +662,7 @@
     "message": "Sarafu ya Msingi"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Chagua mzawa ili kuweka kipaumbele kuonyesha thamani kwenye sarafu mzawa ya mnyororo (k.m ETH). Chagua Fiat ili uwelke kipaumbale kuonyesha thamani kwenye sarafu yako ya fiat uliyoichagua."
+    "message": "Chagua mzawa ili kuweka kipaumbele kuonyesha thamani kwenye sarafu mzawa ya mnyororo (k.m ARL). Chagua Fiat ili uwelke kipaumbale kuonyesha thamani kwenye sarafu yako ya fiat uliyoichagua."
   },
   "privacyMsg": {
     "message": "Sera ya Faragha"
@@ -780,7 +780,7 @@
     "message": "Kirai chako cha siri cha hifadhi mbadala kinafanya iwe rahisi kuhifadhi kwa njia mbadala na kurejesha akaunti yako."
   },
   "secretBackupPhraseWarning": {
-    "message": "ONYO: Kamwe usiweke wazi kirai chako cha hifadhi mbadala. Mtu yeyote mwenye kirai hiki anaweza kuchukua Ether yako daima."
+    "message": "ONYO: Kamwe usiweke wazi kirai chako cha hifadhi mbadala. Mtu yeyote mwenye kirai hiki anaweza kuchukua Ariel yako daima."
   },
   "securityAndPrivacy": {
     "message": "Ulinzi na Faragha"
@@ -903,16 +903,16 @@
     "message": "Hakikisha hakuna mtu mwingine anayeangalia kwenye skrini yako unapokuwa unakagua msimbo huu."
   },
   "syncWithMobileComplete": {
-    "message": "Umefanikiwa kuoanisha data yako. Furahia programu yako ya simu ya Qnekt!"
+    "message": "Umefanikiwa kuoanisha data yako. Furahia programu yako ya simu ya Arielt!"
   },
   "syncWithMobileDesc": {
-    "message": "Unaweza kuoanisha akaunti zako na taarifa kwa kifaa chako cha simu ya mkononi. Fungua programu ya simu ya Qnekt, kisha nenda kwenye \"Mipangilio\" na bofya kwenye \"Oanisha kutoka kwenye Kiendelezi cha Kivinjari\""
+    "message": "Unaweza kuoanisha akaunti zako na taarifa kwa kifaa chako cha simu ya mkononi. Fungua programu ya simu ya Arielt, kisha nenda kwenye \"Mipangilio\" na bofya kwenye \"Oanisha kutoka kwenye Kiendelezi cha Kivinjari\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Ikiwa ndio umefungua tu programu ya simu ya Qnekt kwa mara ya kwanza, fuata hatua kwenye simu yako."
+    "message": "Ikiwa ndio umefungua tu programu ya simu ya Arielt kwa mara ya kwanza, fuata hatua kwenye simu yako."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Kagua msimbo huu kwa kutumia programu yako ya simu ya Qnekt"
+    "message": "Kagua msimbo huu kwa kutumia programu yako ya simu ya Arielt"
   },
   "syncWithMobileTitle": {
     "message": "Oanisha na simu"
@@ -1003,7 +1003,7 @@
     "message": "Jaribu tena"
   },
   "typePassword": {
-    "message": "Andika nenosiri lako la Qnekt"
+    "message": "Andika nenosiri lako la Arielt"
   },
   "unapproved": {
     "message": "Haijaidhinishwa"
@@ -1054,7 +1054,7 @@
     "message": "Tembelea Tovuti yetu"
   },
   "welcome": {
-    "message": "Karibu kwenye Qnekt"
+    "message": "Karibu kwenye Arielt"
   },
   "welcomeBack": {
     "message": "Karibu Tena!"

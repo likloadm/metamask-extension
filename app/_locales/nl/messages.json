@@ -15,19 +15,19 @@
     "message": "Bedrag"
   },
   "appDescription": {
-    "message": "Ethereum Browser-extensie",
+    "message": "Arielcoin Browser-extensie",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -94,7 +94,7 @@
     "message": "Voer wachtwoord in"
   },
   "etherscanView": {
-    "message": "Bekijk account op Etherscan"
+    "message": "Bekijk account op Arielscan"
   },
   "exportPrivateKey": {
     "message": "Exporteer privésleutel"
@@ -123,11 +123,11 @@
     "message": "Gasprijs (GWEI)"
   },
   "getEther": {
-    "message": "Krijg Ether"
+    "message": "Krijg Ariel"
   },
   "getEtherFromFaucet": {
-    "message": "Haal Ether uit een kraan voor de $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "Haal Ariel uit een kraan voor de $1",
+    "description": "Displays network name for Ariel faucet"
   },
   "here": {
     "message": "hier",
@@ -147,7 +147,7 @@
     "message": "Account importeren"
   },
   "importAccountMsg": {
-    "message": " Geïmporteerde accounts worden niet gekoppeld aan de seedphrase van uw oorspronkelijk gemaakte Qnekt-account. Meer informatie over geïmporteerde accounts"
+    "message": " Geïmporteerde accounts worden niet gekoppeld aan de seedphrase van uw oorspronkelijk gemaakte Arielt-account. Meer informatie over geïmporteerde accounts"
   },
   "imported": {
     "message": "geïmporteerd",
@@ -197,7 +197,7 @@
     "message": "Bericht"
   },
   "metamaskDescription": {
-    "message": "Qnekt is een veilige identiteitskluis voor Ethereum."
+    "message": "Arielt is een veilige identiteitskluis voor Arielcoin."
   },
   "mustSelectOne": {
     "message": "Moet ten minste één token selecteren."
@@ -210,7 +210,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Kan geen negatieve hoeveelheden ETH verzenden."
+    "message": "Kan geen negatieve hoeveelheden ARL verzenden."
   },
   "networks": {
     "message": "netwerken"
@@ -372,7 +372,7 @@
     "message": "Bezoek onze website"
   },
   "welcome": {
-    "message": "Welkom bij Qnekt"
+    "message": "Welkom bij Arielt"
   },
   "youSign": {
     "message": "U ondertekent"

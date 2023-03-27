@@ -209,7 +209,7 @@ export default class ChooseAccount extends Component {
         <PermissionsConnectHeader
           icon={targetDomainMetadata.icon}
           iconName={targetDomainMetadata.name}
-          headerTitle={t('connectWithQnekt')}
+          headerTitle={t('connectWithArielt')}
           headerText={
             accounts.length > 0
               ? t('selectAccounts')

@@ -164,7 +164,7 @@ export default class TypedMessageManager extends EventEmitter {
     assert.ok(
       typeof params.from === 'string' &&
         isValidHexAddress(params.from, { allowNonPrefixed: false }),
-      '"from" field must be a valid, lowercase, hexadecimal Ethereum address string.',
+      '"from" field must be a valid, lowercase, hexadecimal Arielcoin address string.',
     );
 
     switch (params.version) {

@@ -32,7 +32,7 @@ const mockGasPriceButtonGroupProps = {
     },
   ],
   handleGasPriceSelection: ({ gasPrice }) =>
-    console.log('NewPrice: ', gasPrice),
+    // console.log('NewPrice: ', gasPrice),
   noButtonActiveByDefault: true,
   showCheck: true,
 };

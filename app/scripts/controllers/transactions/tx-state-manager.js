@@ -304,15 +304,15 @@ export default class TransactionStateManager extends EventEmitter {
    * @param {string} [note] - a note about the update for history
    */
   updateTransaction(txMeta, note) {
-    console.log('[updateTransaction]', txMeta, note);
+    // console.log('[updateTransaction]', txMeta, note);
     // normalize and validate txParams if present
     if (txMeta.txParams) {
       try {
         txMeta.txParams = normalizeAndValidateTxParams(txMeta.txParams, false);
-        console.log('[updateTransaction txParams]', txMeta);
+        // console.log('[updateTransaction txParams]', txMeta);
       } catch (error) {
-        console.log('[updateTransaction error]', error);
-        if (txMeta.warning.message === ERROR_SUBMITTING) {
+//         console.log('[updateTransaction error]', error);
+        if (txMeta.warning && txMeta.warning.message === ERROR_SUBMITTING) {
           this.setTxStatusFailed(txMeta.id, error);
         } else {
           throw error;

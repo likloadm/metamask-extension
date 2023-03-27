@@ -21,7 +21,7 @@ const fetchWithTimeout = getFetchWithTimeout();
 /**
  * Create a Wyre purchase URL.
  *
- * @param {string} walletAddress - Ethereum destination address
+ * @param {string} walletAddress - Arielcoin destination address
  * @param {string} chainId - Current chain ID
  * @returns String
  */
@@ -55,7 +55,7 @@ const createWyrePurchaseUrl = async (walletAddress, chainId) => {
  * Create a Transak Checkout URL.
  * API docs here: https://www.notion.so/Query-Parameters-9ec523df3b874ec58cef4fa3a906f238
  *
- * @param {string} walletAddress - Ethereum destination address
+ * @param {string} walletAddress - Arielcoin destination address
  * @param {string} chainId - Current chain ID
  * @returns String
  */
@@ -117,7 +117,7 @@ const createMoonPayUrl = async (walletAddress, chainId) => {
 /**
  * Create a Coinbase Pay Checkout URL.
  *
- * @param {string} walletAddress - Ethereum destination address
+ * @param {string} walletAddress - Arielcoin destination address
  * @param {string} chainId - Current chain ID
  * @returns String
  */

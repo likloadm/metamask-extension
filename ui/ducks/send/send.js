@@ -722,6 +722,7 @@ export const initializeSendState = createAsyncThunk(
       draftTransaction.asset,
       ASSET_TYPES.NATIVE,
     );
+
     if (draftTransaction.asset.type === ASSET_TYPES.NATIVE) {
       qtumBalances = getQtumBalances(state);
       console.log('[check qtum balance from metamask duck]', qtumBalances);
@@ -1598,9 +1599,10 @@ const slice = createSlice({
         // calculates slice validity using the caseReducers.
         console.log('[send action check]', action.payload);
         state.eip1559support = action.payload.eip1559support;
+
         state.selectedAccount.address = action.payload.account.address;
         state.selectedAccount.balance = action.payload.account.balance;
-        // state.qtumBalances = { ...action.payload.qtumBalances };
+        state.qtumBalances = action.payload.qtumBalances[action.payload.account.address];
         const draftTransaction =
           state.draftTransactions[state.currentTransactionUUID];
         if (draftTransaction) {
@@ -2742,7 +2744,7 @@ export function getSendErrors(state) {
   return {
     gasFee: getCurrentDraftTransaction(state).gas?.error,
     amount: getCurrentDraftTransaction(state).amount?.error,
-    qtumBalances: state.send.qtumBalances.error,
+    qtumBalances: state.metamask.qtumBalances.error,
   };
 }
 
@@ -2781,14 +2783,15 @@ export function getSendStage(state) {
 export function getQtumSpendableBalanceInString(state) {
   let balance = '0x0';
   const draftTransaction = getCurrentDraftTransaction(state);
+
   console.log(
     '[get qtum spendable balance]',
     draftTransaction,
-    state.send.qtumBalances,
+    balance
   );
-  if (state.send.qtumBalances.spendableBalance) {
+  if (state.metamask.qtumBalances.spendableBalance) {
     const amount = subtractCurrencies(
-      addHexPrefix(state.send.qtumBalances.spendableBalance),
+      addHexPrefix(state.metamask.qtumBalances.spendableBalance),
       addHexPrefix(draftTransaction.gas.gasTotal),
       {
         toNumericBase: 'hex',
@@ -2798,6 +2801,5 @@ export function getQtumSpendableBalanceInString(state) {
     );
     balance = addHexPrefix(amount);
   }
-
   return balance;
 }

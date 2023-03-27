@@ -1,6 +1,6 @@
 import browser from 'webextension-polyfill';
 
-import { stripHexPrefix } from 'ethereumjs-util';
+import { stripHexPrefix } from 'likloadm-ethereumjs-util';
 import BN from 'bn.js';
 import { memoize } from 'lodash';
 import {

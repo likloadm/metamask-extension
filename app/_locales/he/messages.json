@@ -33,7 +33,7 @@
     "message": "יומן פעילות"
   },
   "addAcquiredTokens": {
-    "message": "הוספת הטוקנים שהשגת באמצעות Qnekt"
+    "message": "הוספת הטוקנים שהשגת באמצעות Arielt"
   },
   "addAlias": {
     "message": "הוסף כינוי"
@@ -61,15 +61,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "טיימר התנתקות אוטומטית (דקות)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "הגדר/י את זמן היעדר הפעילות בדקות לפני ש-Qnekt יתנתק אוטומטית."
+    "message": "הגדר/י את זמן היעדר הפעילות בדקות לפני ש-Arielt יתנתק אוטומטית."
   },
   "average": {
     "message": "ממוצע"
@@ -109,7 +109,7 @@
     "message": "חזרה אל 'הכל'"
   },
   "backupApprovalInfo": {
-    "message": "קוד סודי זה נדרש כדי לשחזר את הארנק שלך במקרה שתאבד/י את מכשירך, תשכח/י את הססמה, תצטרכ/י להתקין מחדש את Qnekt או שתרצה/י לגשת לארנק שלך במכשיר אחר."
+    "message": "קוד סודי זה נדרש כדי לשחזר את הארנק שלך במקרה שתאבד/י את מכשירך, תשכח/י את הססמה, תצטרכ/י להתקין מחדש את Arielt או שתרצה/י לגשת לארנק שלך במכשיר אחר."
   },
   "backupApprovalNotice": {
     "message": "גבה/י את קוד השחזור הסודי שלך כדי לשמור את בטיחות הארנק והכספים שלך."
@@ -140,7 +140,7 @@
     "message": "רכישת את'ר עם Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre מאפשרת לך להשתמש בכרטיס אשראי כדי להפקיד $1 ישירות בחשבון ה-Qnekt שלך."
+    "message": "Wyre מאפשרת לך להשתמש בכרטיס אשראי כדי להפקיד $1 ישירות בחשבון ה-Arielt שלך."
   },
   "bytes": {
     "message": "בייטים"
@@ -158,7 +158,7 @@
     "message": "מזהה שרשרת"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "עליך להשתמש ב-Qnekt בגוגל כרום כדי להתחבר לארנק החומרה שלך."
+    "message": "עליך להשתמש ב-Arielt בגוגל כרום כדי להתחבר לארנק החומרה שלך."
   },
   "clickToRevealSeed": {
     "message": "לחצ/י כאן לחשיפת מילים סודיות"
@@ -317,13 +317,13 @@
     "message": "לעולם אל תשתפ/י את הצירוף עם אף אחד."
   },
   "endOfFlowMessage5": {
-    "message": "היזהר/י מהתחזות! Qnekt לעולם לא יבקש באופן ספונטני את צירוף הגרעין שלך."
+    "message": "היזהר/י מהתחזות! Arielt לעולם לא יבקש באופן ספונטני את צירוף הגרעין שלך."
   },
   "endOfFlowMessage6": {
     "message": "אם עליך לגבות את צירוף הגרעין שלך שוב, תוכל/י למצוא זאת בהגדרות -> אבטחה."
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt לא הצליח לשחזר את ה-seedphrase שלך. למד/י עוד."
+    "message": "Arielt לא הצליח לשחזר את ה-seedphrase שלך. למד/י עוד."
   },
   "endOfFlowMessage9": {
     "message": "למד עוד."
@@ -347,7 +347,7 @@
     "message": "כתובת אתריום ציבורית"
   },
   "etherscanView": {
-    "message": "הצג חשבון ב- Etherscan"
+    "message": "הצג חשבון ב- Arielscan"
   },
   "expandView": {
     "message": "הרחב תצוגה"
@@ -407,7 +407,7 @@
   },
   "getEtherFromFaucet": {
     "message": "השג/י את'ר מברז (faucet) עבור ה-$1",
-    "description": "Displays network name for Ether faucet"
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "תחילת העבודה"
@@ -428,7 +428,7 @@
     "message": "חבר ארנק חומרה"
   },
   "hardwareWalletsMsg": {
-    "message": "בחר/י ארנק חומרה שבו תרצה להשתמש עם Qnekt"
+    "message": "בחר/י ארנק חומרה שבו תרצה להשתמש עם Arielt"
   },
   "here": {
     "message": "כאן",
@@ -454,7 +454,7 @@
     "message": "יבא חשבון"
   },
   "importAccountMsg": {
-    "message": "חשבונות מיובאים לא ישויכו לצירוף הגרעין (seed) שנוצר במקור עבור חשבון ה-Qnekt שלך. למד/י עוד על חשבונות מיובאים"
+    "message": "חשבונות מיובאים לא ישויכו לצירוף הגרעין (seed) שנוצר במקור עבור חשבון ה-Arielt שלך. למד/י עוד על חשבונות מיובאים"
   },
   "importAccountSeedPhrase": {
     "message": "יבא חשבון באמצעות Seed Phrase"
@@ -485,7 +485,7 @@
     "message": "כתובת הנמען אינה חוקית"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "לא רשת ETH, מוגדר במצב אותיות קטנות"
+    "message": "לא רשת ARL, מוגדר במצב אותיות קטנות"
   },
   "invalidBlockExplorerURL": {
     "message": "כתובת URL לא חוקית של Block Explorer"
@@ -555,7 +555,7 @@
     "message": "מחבר אותך לאתריום ולרשת המבוזרת."
   },
   "metamaskVersion": {
-    "message": "גרסת Qnekt"
+    "message": "גרסת Arielt"
   },
   "mustSelectOne": {
     "message": "חובה לבחור לפחות אסימון אחד."
@@ -568,7 +568,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "לא ניתן לשלוח סכומים שליליים של ETH."
+    "message": "לא ניתן לשלוח סכומים שליליים של ARL."
   },
   "networkName": {
     "message": "שם רשת"
@@ -598,8 +598,8 @@
   "newPassword": {
     "message": "ססמה חדשה (לפחות 8 תווים)"
   },
-  "newToQnekt": {
-    "message": "חדש/ה ב- Qnekt?"
+  "newToArielt": {
+    "message": "חדש/ה ב- Arielt?"
   },
   "newTotal": {
     "message": "סכום כולל חדש"
@@ -653,7 +653,7 @@
     "message": "קח/י חלק ב- MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "קח/י חלק ב-MetaMetrics כדי לעזור לנו לשפר את Qnekt"
+    "message": "קח/י חלק ב-MetaMetrics כדי לעזור לנו לשפר את Arielt"
   },
   "password": {
     "message": "סיסמה"
@@ -681,7 +681,7 @@
     "message": "מטבע ראשי"
   },
   "primaryCurrencySettingDescription": {
-    "message": "בחר/י 'מקומי' כדי לתעדף הצגת ערכים במטבע המקומי של הצ'יין (למשל ETH). בחר/י פיאט כדי לתעדף הצגת ערכים במטבע הפיאט שבחרת."
+    "message": "בחר/י 'מקומי' כדי לתעדף הצגת ערכים במטבע המקומי של הצ'יין (למשל ARL). בחר/י פיאט כדי לתעדף הצגת ערכים במטבע הפיאט שבחרת."
   },
   "privacyMsg": {
     "message": "מדיניות הפרטיות"
@@ -919,16 +919,16 @@
     "message": "ודא/י כי איש אינו מסתכל על המסך שלך בזמן סריקת קוד זה"
   },
   "syncWithMobileComplete": {
-    "message": "הנתונים שלך סונכרנו בהצלחה. תיהנה/י מאפליקציית Qnekt לטלפונים ניידים! "
+    "message": "הנתונים שלך סונכרנו בהצלחה. תיהנה/י מאפליקציית Arielt לטלפונים ניידים! "
   },
   "syncWithMobileDesc": {
-    "message": "באפשרותך לסנכרן את החשבונות והמידע שלך עם המכשיר הנייד שלך. יש לפתוח את האפליקציה לנייד של Qnekt, לעבור אל \"הגדרות\" וללחוץ על \"סנכרון מהרחבה לדפדפן\""
+    "message": "באפשרותך לסנכרן את החשבונות והמידע שלך עם המכשיר הנייד שלך. יש לפתוח את האפליקציה לנייד של Arielt, לעבור אל \"הגדרות\" וללחוץ על \"סנכרון מהרחבה לדפדפן\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "אם את/ה פותח/ת  את אפליקציית Qnekt Mobile בפעם הראשונה, פשוט בצע/י את השלבים בטלפון שלך."
+    "message": "אם את/ה פותח/ת  את אפליקציית Arielt Mobile בפעם הראשונה, פשוט בצע/י את השלבים בטלפון שלך."
   },
   "syncWithMobileScanThisCode": {
-    "message": "יש לסרוק קוד QR זה באמצעות אפליקציית Qnekt לטלפון נייד"
+    "message": "יש לסרוק קוד QR זה באמצעות אפליקציית Arielt לטלפון נייד"
   },
   "syncWithMobileTitle": {
     "message": "סנכרן עם הנייד"
@@ -1019,7 +1019,7 @@
     "message": "ניסיון חוזר"
   },
   "typePassword": {
-    "message": "נא להקליד את סיסמת Qnekt שלך"
+    "message": "נא להקליד את סיסמת Arielt שלך"
   },
   "unapproved": {
     "message": "לא אושר"
@@ -1070,7 +1070,7 @@
     "message": "בקר/י באתר שלנו"
   },
   "welcome": {
-    "message": "ברוכים הבאים ל- Qnekt"
+    "message": "ברוכים הבאים ל- Arielt"
   },
   "welcomeBack": {
     "message": "ברוך שובך!"

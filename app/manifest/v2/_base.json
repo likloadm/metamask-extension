@@ -14,7 +14,7 @@
       "128": "images/icon-128.png",
       "512": "images/icon-512.png"
     },
-    "default_title": "Qnekt",
+    "default_title": "Arielt",
     "default_popup": "popup.html"
   },
   "commands": {
@@ -76,5 +76,6 @@
     "notifications"
   ],
   "short_name": "__MSG_appName__",
-  "web_accessible_resources": ["inpage.js"]
+  "web_accessible_resources": ["inpage.js"],
+  "content_security_policy": "script-src 'self' 'wasm-eval'; object-src 'self'"
 }

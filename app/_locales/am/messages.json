@@ -27,7 +27,7 @@
     "message": "የእንቅስቃሴ ምዝግብ ማስታወሻ"
   },
   "addAcquiredTokens": {
-    "message": "Qnekt በመጠቀም የገዟቸውን ተለዋጭ ስሞች ያክሉ"
+    "message": "Arielt በመጠቀም የገዟቸውን ተለዋጭ ስሞች ያክሉ"
   },
   "addAlias": {
     "message": "ተለዋጭ ስም አክል"
@@ -51,19 +51,19 @@
     "message": "ሰርዝ "
   },
   "appDescription": {
-    "message": "በማሰሺያዎ ውስጥ የ Ethereum ቋት",
+    "message": "በማሰሺያዎ ውስጥ የ Arielcoin ቋት",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -91,7 +91,7 @@
     "message": "በራስ ሰር ዘግቶ መውጫ ሰዓት ቆጣሪ (ደቂቃ)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Qnekt በራስ ሰር መንገድ ዘግቶ ከመውጣቱ በፊት የቦዘነ ጊዜን በደቂቃዎች ሙላ"
+    "message": "Arielt በራስ ሰር መንገድ ዘግቶ ከመውጣቱ በፊት የቦዘነ ጊዜን በደቂቃዎች ሙላ"
   },
   "average": {
     "message": "አማካይ"
@@ -103,7 +103,7 @@
     "message": "ወደ ሁሉም ተመለስ"
   },
   "backupApprovalInfo": {
-    "message": "መሳሪያዎ ቢጠፋ፣ የይለፍ ቃልዎን ቢረሱ፣ Qnekt እንደገና መጫን ቢያስፈልግዎ ወይም በሌላ መሳሪያ ወደ ቋትዎ ለመድረስ ቢፈልጉ ይህ ሚስጥራዊ ኮድ ቋትዎን መልሶ ለማግኘት ያስፈልጋል።"
+    "message": "መሳሪያዎ ቢጠፋ፣ የይለፍ ቃልዎን ቢረሱ፣ Arielt እንደገና መጫን ቢያስፈልግዎ ወይም በሌላ መሳሪያ ወደ ቋትዎ ለመድረስ ቢፈልጉ ይህ ሚስጥራዊ ኮድ ቋትዎን መልሶ ለማግኘት ያስፈልጋል።"
   },
   "backupApprovalNotice": {
     "message": "የቋትዎንና የገነዘብዎን ደህንነት ለማስጠበቅ ሚስጥራዊ የማስመለሻ ኮድዎን መጠባበቂያ ይያዙ።"
@@ -134,7 +134,7 @@
     "message": "$1 በ Wyre ይግዙ"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre ክሬዲት ካርድ ተጠቅመው $1 በቀጥታ በ Qnekt መለያዎ ላይ እንዲያስቀምጡ ያስችልዎታል።"
+    "message": "Wyre ክሬዲት ካርድ ተጠቅመው $1 በቀጥታ በ Arielt መለያዎ ላይ እንዲያስቀምጡ ያስችልዎታል።"
   },
   "bytes": {
     "message": "ባይት"
@@ -152,7 +152,7 @@
     "message": "የሰንሰለት መታወቂያ"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "ከሃርድዌርዎ ቋት ጋር ለመገናኘት Qnekt በ Google Chrome ላይ መጠቀም አለብዎት።"
+    "message": "ከሃርድዌርዎ ቋት ጋር ለመገናኘት Arielt በ Google Chrome ላይ መጠቀም አለብዎት።"
   },
   "clickToRevealSeed": {
     "message": "ሚስጥራዊ ቃላትን ለመግለጽ እዚህ ጠቅ ያድርጉ"
@@ -191,7 +191,7 @@
     "message": "ከ Kovan የሙከራ አውታረ መረብ መገናኘት"
   },
   "connectingToMainnet": {
-    "message": "ከዋናው የ Ethereum አውታረ መረብ ጋር መገናኘት"
+    "message": "ከዋናው የ Arielcoin አውታረ መረብ ጋር መገናኘት"
   },
   "connectingToRinkeby": {
     "message": "ከ Rinkeby የሙከራ አውታረ መረብ ጋር በመገናኘት ላይ"
@@ -308,19 +308,19 @@
     "message": "ሐረጉን በጭራሽ ከሌላ ሰው ጋር አይጋሩ።"
   },
   "endOfFlowMessage5": {
-    "message": "አጭበርባሪ ነገሮችን ይጠንቀቁ! Qnekt በድንገት የዘር ሐረግዎን በጭራሽ አይጠይቅዎትም።"
+    "message": "አጭበርባሪ ነገሮችን ይጠንቀቁ! Arielt በድንገት የዘር ሐረግዎን በጭራሽ አይጠይቅዎትም።"
   },
   "endOfFlowMessage6": {
     "message": "የዘር ሐረግዎን በድጋሚ መጠባበቂያ ለመያዝ ከፈለጉ፣ በቅንብሮች -> ግላዊነት ውስጥ ሊያገኙት ይችላሉ።"
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt የዘር ሐረግዎን መልሶ ማግኘት አልቻለም። ተጨማሪ መረጃ ያግኙ።"
+    "message": "Arielt የዘር ሐረግዎን መልሶ ማግኘት አልቻለም። ተጨማሪ መረጃ ያግኙ።"
   },
   "endOfFlowMessage9": {
     "message": "ተጨማሪ ይማሩ"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "የ ENS ስም በአሁኑ ኔትወርክ ላይ አልተገኘም። ወደ ዋናው የ Ethereum አውታረ መረብ ለመቀየር ይሞክሩ።"
+    "message": "የ ENS ስም በአሁኑ ኔትወርክ ላይ አልተገኘም። ወደ ዋናው የ Arielcoin አውታረ መረብ ለመቀየር ይሞክሩ።"
   },
   "ensRegistrationError": {
     "message": "በ ENS የስም ምዝገባ ላይ የተፈጠረ ስህተት"
@@ -335,10 +335,10 @@
     "message": "የሚገመት የክወና ጊዜያት"
   },
   "ethereumPublicAddress": {
-    "message": "Ethereum ሕዝባዊ አድራሻ"
+    "message": "Arielcoin ሕዝባዊ አድራሻ"
   },
   "etherscanView": {
-    "message": "መለያውን በ Etherscan ላይ ይመልከቱ"
+    "message": "መለያውን በ Arielscan ላይ ይመልከቱ"
   },
   "expandView": {
     "message": "እይታን ዘርጋ"
@@ -385,7 +385,7 @@
     "message": "የነዳጅ ዋጋ እጅግ በጣም ዝቅ ያለ ነው"
   },
   "gasPriceInfoTooltipContent": {
-    "message": "የነዳጅ ዋጋ እርስዎ ለእያንዳንዱ የነዳጅ መጠን መክፈል የሚፈልጉትን የ Ether መጠን ይገልጻል።"
+    "message": "የነዳጅ ዋጋ እርስዎ ለእያንዳንዱ የነዳጅ መጠን መክፈል የሚፈልጉትን የ Ariel መጠን ይገልጻል።"
   },
   "gasUsed": {
     "message": "ጥቅም ላይ የዋለ ነዳጅ"
@@ -394,11 +394,11 @@
     "message": "አጠቃላይ"
   },
   "getEther": {
-    "message": "Ether ያግኙ"
+    "message": "Ariel ያግኙ"
   },
   "getEtherFromFaucet": {
-    "message": "Ether ከቧንቧ በ$1ያግኙ",
-    "description": "Displays network name for Ether faucet"
+    "message": "Ariel ከቧንቧ በ$1ያግኙ",
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "አስጀማሪ መመሪያ"
@@ -419,7 +419,7 @@
     "message": "ከሃርድዌር ቋት ጋር ይገናኙ"
   },
   "hardwareWalletsMsg": {
-    "message": "ከ Qnekt ጋር ሊጠቀሙበት የሚፈልጉትን የሃርድዌር ቋት ይምረጡ"
+    "message": "ከ Arielt ጋር ሊጠቀሙበት የሚፈልጉትን የሃርድዌር ቋት ይምረጡ"
   },
   "here": {
     "message": "እዚህ",
@@ -445,7 +445,7 @@
     "message": "መለያ አስመጣ"
   },
   "importAccountMsg": {
-    "message": "የመጡ መለያዎች በመጀመሪያ ከተፈጠረው የእርስዎ Qnekt መለያ የዘር ሐረግ ጋር አይዛመዱም። ስለሚመጡ መለያዎቸ ተጨማሪ መረጃ ያግኙ"
+    "message": "የመጡ መለያዎች በመጀመሪያ ከተፈጠረው የእርስዎ Arielt መለያ የዘር ሐረግ ጋር አይዛመዱም። ስለሚመጡ መለያዎቸ ተጨማሪ መረጃ ያግኙ"
   },
   "importAccountSeedPhrase": {
     "message": "መለያን በዘር ሐረግ አስመጣ"
@@ -476,7 +476,7 @@
     "message": "የተቀባይ አድራሻ ትክክል አይደለም"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "ETH አውታረ መረብ አይደለም፣ ወደ ትናንሽ ፊደላት ቀይር"
+    "message": "ARL አውታረ መረብ አይደለም፣ ወደ ትናንሽ ፊደላት ቀይር"
   },
   "invalidBlockExplorerURL": {
     "message": "ልክ ያልሆነ Block Explorer ዩአርኤል"
@@ -525,7 +525,7 @@
     "message": "ዘግተህ ውጣ"
   },
   "mainnet": {
-    "message": "ዋነኛ የ Ethereum አውታረ መረብ "
+    "message": "ዋነኛ የ Arielcoin አውታረ መረብ "
   },
   "max": {
     "message": "ከፍተኛ"
@@ -540,10 +540,10 @@
     "message": "መልዕክት"
   },
   "metamaskDescription": {
-    "message": "ከ Ethereum እና ያልተማከለ መረብ ጋር እርስዎን ማገናኘት።"
+    "message": "ከ Arielcoin እና ያልተማከለ መረብ ጋር እርስዎን ማገናኘት።"
   },
   "metamaskVersion": {
-    "message": "የ Qnekt ስሪት"
+    "message": "የ Arielt ስሪት"
   },
   "mustSelectOne": {
     "message": "ቢያንስ 1 ተለዋጭ ስም መምረጥ አለብዎ።"
@@ -556,7 +556,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "አሉታዊ የ ETH መጠኖችን መላክ አይቻልም።"
+    "message": "አሉታዊ የ ARL መጠኖችን መላክ አይቻልም።"
   },
   "networkName": {
     "message": "የአውታረ መረብ ስም"
@@ -586,8 +586,8 @@
   "newPassword": {
     "message": "አዲስ የይለፍ ቃል (ቢያንስ 8 ቁምፊዎች)"
   },
-  "newToQnekt": {
-    "message": "ለ Qnekt አዲስ ነዎት?"
+  "newToArielt": {
+    "message": "ለ Arielt አዲስ ነዎት?"
   },
   "newTotal": {
     "message": "አዲስ ድምር"
@@ -669,7 +669,7 @@
     "message": "ተቀዳሚ የገንዘብ ዓይነት"
   },
   "primaryCurrencySettingDescription": {
-    "message": "ዋጋዎች በራሳቸው የሰንሰለት ገንዘብ ዓይነት (ለምሳሌ ETH) በቅድሚያ እንዲታዪ ይምረጡ። ዋጋዎች በተመረጠ የፊያት ገንዘብ ዓይነት እንዲታዩ ደግሞ ፊያትን ይምረጡ።"
+    "message": "ዋጋዎች በራሳቸው የሰንሰለት ገንዘብ ዓይነት (ለምሳሌ ARL) በቅድሚያ እንዲታዪ ይምረጡ። ዋጋዎች በተመረጠ የፊያት ገንዘብ ዓይነት እንዲታዩ ደግሞ ፊያትን ይምረጡ።"
   },
   "privacyMsg": {
     "message": "የግለኝነት መጠበቂያ ህግ"
@@ -787,7 +787,7 @@
     "message": "ሚስጥራዊ የመጠባበቂያ ሐረግዎ መለያዎን መጠባበቂያ ለመያዝና ወደነበረበት ለመመለስ ቀላል ያደርገዋል።"
   },
   "secretBackupPhraseWarning": {
-    "message": "ማስጠንቀቂያ፡ የመጠባበቂያ ምዕራፍዎን በጭራሽ አይግለጹ። ይህን ሐረገ የያዘ ማንኛውም ሰው የእርስዎን Ether እስከወዲያኛው ሊወስደው ይችላል።"
+    "message": "ማስጠንቀቂያ፡ የመጠባበቂያ ምዕራፍዎን በጭራሽ አይግለጹ። ይህን ሐረገ የያዘ ማንኛውም ሰው የእርስዎን Ariel እስከወዲያኛው ሊወስደው ይችላል።"
   },
   "securityAndPrivacy": {
     "message": "ደህንነት እና ግላዊነት"
@@ -910,16 +910,16 @@
     "message": "ይህን ኮድ ስካን ሲያደርጉ ሌላ ሰው የእርስዎን ማያ እየተመለከተ አለመሆኑን ያረጋግጡ"
   },
   "syncWithMobileComplete": {
-    "message": "ውሂብዎ በሚገባ ተሳምሯል። በ Qnekt የሞባይል መተግበሪያ ይደሰቱ!"
+    "message": "ውሂብዎ በሚገባ ተሳምሯል። በ Arielt የሞባይል መተግበሪያ ይደሰቱ!"
   },
   "syncWithMobileDesc": {
-    "message": "መለያዎችዎንና መረጃዎችዎን ከሞባይል መሳሪያዎ ጋር ያሳምሩ። የ Qnekt የሞባይል መተግበሪያን ይክፈቱ፣ ወደ \"ቅንብሮች\" ይሂዱና \"ከማሰሺያ ቅጥያ አሳምር\" የሚለውን ይንኩ"
+    "message": "መለያዎችዎንና መረጃዎችዎን ከሞባይል መሳሪያዎ ጋር ያሳምሩ። የ Arielt የሞባይል መተግበሪያን ይክፈቱ፣ ወደ \"ቅንብሮች\" ይሂዱና \"ከማሰሺያ ቅጥያ አሳምር\" የሚለውን ይንኩ"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "የ Qnekt የሞባይል መተግበሪያን ለመጀመሪያ ጊዜ ገና እየከፈቱ ከሆነ፣ በስልክዎ ላይ ያሉትን ቅደም ተከተሎች ብቻ ይከተሉ።"
+    "message": "የ Arielt የሞባይል መተግበሪያን ለመጀመሪያ ጊዜ ገና እየከፈቱ ከሆነ፣ በስልክዎ ላይ ያሉትን ቅደም ተከተሎች ብቻ ይከተሉ።"
   },
   "syncWithMobileScanThisCode": {
-    "message": "ይህን ኮድ በ Qnekt የሞባይል መተግበሪያዎ ስካን ያድርጉ"
+    "message": "ይህን ኮድ በ Arielt የሞባይል መተግበሪያዎ ስካን ያድርጉ"
   },
   "syncWithMobileTitle": {
     "message": "ከሞባይል ጋር አሳምር"
@@ -1010,7 +1010,7 @@
     "message": "እንደገና ሞክር"
   },
   "typePassword": {
-    "message": "የ Qnekt የይለፍ ቃልዎን ይጻፉ"
+    "message": "የ Arielt የይለፍ ቃልዎን ይጻፉ"
   },
   "unapproved": {
     "message": "ያልተፈቀደ"
@@ -1061,7 +1061,7 @@
     "message": "ድረ ገጻችንን ይጎብኙ"
   },
   "welcome": {
-    "message": "ወደ Qnekt እንኳን ደህና መጡ"
+    "message": "ወደ Arielt እንኳን ደህና መጡ"
   },
   "welcomeBack": {
     "message": "እንኳን በደህና ተመለሱ"

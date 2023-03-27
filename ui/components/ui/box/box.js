@@ -155,7 +155,7 @@ const generateClassNames = memoize(
           ] = value[1] && validatorFn(type, value[1]);
           break;
         default:
-          console.log(`Invalid array prop length: ${value.length}`);
+          // console.log(`Invalid array prop length: ${value.length}`);
       }
     }
     return classesObject;

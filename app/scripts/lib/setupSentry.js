@@ -94,14 +94,14 @@ export default function setupSentry({ release, getState }) {
         `Missing SENTRY_DSN environment variable in production environment`,
       );
     }
-    console.log(
-      `Setting up Sentry Remote Error Reporting for '${environment}': SENTRY_DSN`,
-    );
+//    console.log(
+//      `Setting up Sentry Remote Error Reporting for '${environment}': SENTRY_DSN`,
+//    );
     sentryTarget = process.env.SENTRY_DSN;
   } else {
-    console.log(
-      `Setting up Sentry Remote Error Reporting for '${environment}': SENTRY_DSN_DEV`,
-    );
+//    console.log(
+//      `Setting up Sentry Remote Error Reporting for '${environment}': SENTRY_DSN_DEV`,
+//    );
     sentryTarget = SENTRY_DSN_DEV;
   }
 

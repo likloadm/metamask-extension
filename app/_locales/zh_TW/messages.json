@@ -30,7 +30,7 @@
     "message": "活動紀錄"
   },
   "addAcquiredTokens": {
-    "message": "將您已經擁有的代幣顯示於 Qnekt"
+    "message": "將您已經擁有的代幣顯示於 Arielt"
   },
   "addAlias": {
     "message": "新增化名"
@@ -58,15 +58,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "自動登出計時器（分）"
   },
   "autoLockTimeLimitDescription": {
-    "message": "設定閒置分鐘上限，時間到時 Qnekt 將自動登出"
+    "message": "設定閒置分鐘上限，時間到時 Arielt 將自動登出"
   },
   "average": {
     "message": "平均"
@@ -109,7 +109,7 @@
     "message": "回到所有"
   },
   "backupApprovalInfo": {
-    "message": "在裝置遺失、忘記密碼、需要重新安裝 Qnekt、或是想在另一裝置開啟錢包的情形下，你需要此秘密代碼來復原錢包。"
+    "message": "在裝置遺失、忘記密碼、需要重新安裝 Arielt、或是想在另一裝置開啟錢包的情形下，你需要此秘密代碼來復原錢包。"
   },
   "backupApprovalNotice": {
     "message": "備份你的秘密還原代碼，安全防護錢包與資金。"
@@ -143,7 +143,7 @@
     "message": "用 Wyre 購買 $1"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre 讓你使用信用卡在 Qnekt 帳號中直接存入 $1 。"
+    "message": "Wyre 讓你使用信用卡在 Arielt 帳號中直接存入 $1 。"
   },
   "bytes": {
     "message": "位元組"
@@ -161,7 +161,7 @@
     "message": "鏈 ID"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "您需要在 Google Chrome 瀏覽器使用 Qnekt 連結您的硬體錢包"
+    "message": "您需要在 Google Chrome 瀏覽器使用 Arielt 連結您的硬體錢包"
   },
   "clickToRevealSeed": {
     "message": "點選顯示助憶詞"
@@ -200,7 +200,7 @@
     "message": "連線到 Kovan 測試網路"
   },
   "connectingToMainnet": {
-    "message": "連線到主 Ethereum 網路"
+    "message": "連線到主 Arielcoin 網路"
   },
   "connectingToRinkeby": {
     "message": "連線到 Rinkeby 測試網路"
@@ -317,13 +317,13 @@
     "message": "不要分享此助記祠給任何人"
   },
   "endOfFlowMessage5": {
-    "message": "小心網路釣魚！Qnekt 永遠不會主動詢問你的助記詞。"
+    "message": "小心網路釣魚！Arielt 永遠不會主動詢問你的助記詞。"
   },
   "endOfFlowMessage6": {
     "message": "如你需要再次備份助記詞，可至設定 -> 安全。"
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt 無法還原你的助記詞。暸解更多"
+    "message": "Arielt 無法還原你的助記詞。暸解更多"
   },
   "endOfFlowMessage9": {
     "message": "深入瞭解。"
@@ -347,7 +347,7 @@
     "message": "以太坊公開位址"
   },
   "etherscanView": {
-    "message": "在 Etherscan 上查看帳戶"
+    "message": "在 Arielscan 上查看帳戶"
   },
   "expandView": {
     "message": "展開畫面"
@@ -407,7 +407,7 @@
   },
   "getEtherFromFaucet": {
     "message": "從水管取得 $1 以太幣。",
-    "description": "Displays network name for Ether faucet"
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "開始使用"
@@ -428,7 +428,7 @@
     "message": "連線硬體錢包"
   },
   "hardwareWalletsMsg": {
-    "message": "選擇要連線到 Qnekt 的硬體錢包"
+    "message": "選擇要連線到 Arielt 的硬體錢包"
   },
   "here": {
     "message": "這裡",
@@ -454,7 +454,7 @@
     "message": "匯入帳戶"
   },
   "importAccountMsg": {
-    "message": " 匯入的帳戶與您原有 Qnekt 帳戶的助憶詞並無關聯。請查看與匯入帳戶相關的資料 "
+    "message": " 匯入的帳戶與您原有 Arielt 帳戶的助憶詞並無關聯。請查看與匯入帳戶相關的資料 "
   },
   "importAccountSeedPhrase": {
     "message": "利用助憶詞還原"
@@ -485,7 +485,7 @@
     "message": "接收位址錯誤"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "非 ETH 網路，設定至小寫"
+    "message": "非 ARL 網路，設定至小寫"
   },
   "invalidBlockExplorerURL": {
     "message": "無效的區塊鏈瀏覽器 URL"
@@ -549,10 +549,10 @@
     "message": "訊息"
   },
   "metamaskDescription": {
-    "message": "Qnekt 是以太坊安全身份識別金庫"
+    "message": "Arielt 是以太坊安全身份識別金庫"
   },
   "metamaskVersion": {
-    "message": "Qnekt 版本"
+    "message": "Arielt 版本"
   },
   "mustSelectOne": {
     "message": "必須選擇至少 1 代幣"
@@ -595,8 +595,8 @@
   "newPassword": {
     "message": "新密碼（至少8個字元）"
   },
-  "newToQnekt": {
-    "message": "新來到 Qnekt？"
+  "newToArielt": {
+    "message": "新來到 Arielt？"
   },
   "newTotal": {
     "message": "總費用"
@@ -644,7 +644,7 @@
     "message": "參與 MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "參與 MetaMetrics 來協助我們打造更好的 Qnekt"
+    "message": "參與 MetaMetrics 來協助我們打造更好的 Arielt"
   },
   "password": {
     "message": "密碼"
@@ -669,7 +669,7 @@
     "message": "主要顯示"
   },
   "primaryCurrencySettingDescription": {
-    "message": "選擇使用以太幣(ETH)或是法定貨幣(例如：美金)為主要錢幣顯示單位"
+    "message": "選擇使用以太幣(ARL)或是法定貨幣(例如：美金)為主要錢幣顯示單位"
   },
   "privacyMsg": {
     "message": "隱私政策"
@@ -904,16 +904,16 @@
     "message": "掃描代碼時確保沒有其他人在看你的螢幕"
   },
   "syncWithMobileComplete": {
-    "message": "你的資料已成功同步。開始活用 Qnekt 移動 app！"
+    "message": "你的資料已成功同步。開始活用 Arielt 移動 app！"
   },
   "syncWithMobileDesc": {
-    "message": "你可以用移動裝置同步帳號與資訊。開啟 Qnekt 移動 app，至「設定」並點擊「自瀏覽器擴充功能同步」"
+    "message": "你可以用移動裝置同步帳號與資訊。開啟 Arielt 移動 app，至「設定」並點擊「自瀏覽器擴充功能同步」"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "如你是第一次開啟 Qnekt 移動 app，只要跟著手機上的指示操作即可。"
+    "message": "如你是第一次開啟 Arielt 移動 app，只要跟著手機上的指示操作即可。"
   },
   "syncWithMobileScanThisCode": {
-    "message": "用你的 Qnekt 移動 app 掃描此代碼"
+    "message": "用你的 Arielt 移動 app 掃描此代碼"
   },
   "syncWithMobileTitle": {
     "message": "和移動裝置同步"
@@ -1055,7 +1055,7 @@
     "message": "造訪我們的網站"
   },
   "welcome": {
-    "message": "歡迎來到 Qnekt"
+    "message": "歡迎來到 Arielt"
   },
   "welcomeBack": {
     "message": "歡迎回來!"

@@ -25,6 +25,7 @@ import {
   QTUM_TESTNET_RPC_URL,
   QTUM_PROVIDER_TYPES,
   QTUM_REGTEST_RPC_URL,
+  QTUM_MAINNET,
   QTUM_REGTEST_CHAIN_ID,
   QTUM_TESTNET,
   TEST_NETWORK_TICKER_MAP,
@@ -52,17 +53,16 @@ if (process.env.IN_TEST) {
   };
 } else if (process.env.METAMASK_DEBUG || env === 'test') {
   defaultProviderConfigOpts = {
-    type: RINKEBY,
-    chainId: RINKEBY_CHAIN_ID,
-    ticker: TEST_NETWORK_TICKER_MAP.rinkeby,
-  };
-  defaultProviderConfigOpts = {
     type: NETWORK_TYPE_RPC,
-    chainId: QTUM_TESTNET_CHAIN_ID,
-    rpcUrl: QTUM_TESTNET_RPC_URL,
-    nickname: QTUM_TESTNET,
+    labelKey: QTUM_MAINNET,
+    iconColor: '#29B6AF',
+    providerType: QTUM_MAINNET,
+    rpcUrl: QTUM_MAINNET_RPC_URL,
+    chainId: QTUM_MAINNET_CHAIN_ID,
+    nickname: QTUM_MAINNET,
+    ticker: 'ARL',
     rpcPrefs: {
-      blockExplorerUrl: "https://testnet.qtum.info/",
+      blockExplorerUrl: "http://explorer.arielcoin.org/",
     },
   };
   // defaultProviderConfigOpts = { type: NETWORK_TYPE_RPC, chainId: QTUM_REGTEST_CHAIN_ID, rpcUrl: QTUM_REGTEST_RPC_URL };
@@ -77,12 +77,25 @@ if (process.env.IN_TEST) {
       blockExplorerUrl: "https://testnet.qtum.info/",
     },
   };
-  // defaultProviderConfigOpts = { type: NETWORK_TYPE_RPC, chainId: QTUM_MAINNET_CHAIN_ID, rpcUrl: QTUM_MAINNET_RPC_URL };
+  defaultProviderConfigOpts = {
+    type: NETWORK_TYPE_RPC,
+    labelKey: QTUM_MAINNET,
+    iconColor: '#29B6AF',
+    providerType: QTUM_MAINNET,
+    rpcUrl: QTUM_MAINNET_RPC_URL,
+    chainId: QTUM_MAINNET_CHAIN_ID,
+    nickname: QTUM_MAINNET,
+    ticker: 'ARL',
+    rpcPrefs: {
+      blockExplorerUrl: "http://explorer.arielcoin.org/",
+    },
+  };
+//   defaultProviderConfigOpts = { type: NETWORK_TYPE_RPC, chainId: QTUM_MAINNET_CHAIN_ID, rpcUrl: QTUM_MAINNET_RPC_URL };
 }
 
 const defaultProviderConfig = {
   // ticker: 'ETH',
-  ticker: 'QTUM',
+  ticker: 'ARL',
   ...defaultProviderConfigOpts,
 };
 
@@ -309,7 +322,7 @@ export default class NetworkController extends EventEmitter {
     return rpcUrl;
   }
 
-  setRpcTarget(rpcUrl, chainId, ticker = 'QTUM', nickname = '', rpcPrefs) {
+  setRpcTarget(rpcUrl, chainId, ticker = 'ARL', nickname = '', rpcPrefs) {
     assert.ok(
       isPrefixedFormattedHexString(chainId),
       `Invalid chain ID "${chainId}": invalid hex string.`,
@@ -340,12 +353,12 @@ export default class NetworkController extends EventEmitter {
     );
     const { chainId } = NETWORK_TYPE_TO_ID_MAP[type];
     let rpcUrl = '';
-    let ticker = 'QTUM';
+    let ticker = 'ARL';
     const providerType = type;
     if (QTUM_PROVIDER_TYPES.includes(type)) {
       type = NETWORK_TYPE_RPC;
       rpcUrl = CHAIN_ID_TO_RPC_URL_MAP[chainId];
-      ticker = 'QTUM';
+      ticker = 'ARL';
     }
     this.setProviderConfig({
       labelKey: providerType,
@@ -445,7 +458,7 @@ export default class NetworkController extends EventEmitter {
   }
 
   _configureProvider({ type, rpcUrl, chainId }) {
-    console.log('[configure provider]', type, rpcUrl, chainId);
+//    console.log('[configure provider]', type, rpcUrl, chainId);
     // infura type-based endpoints
     const isInfura =
       INFURA_PROVIDER_TYPES.includes(type) &&
@@ -454,7 +467,7 @@ export default class NetworkController extends EventEmitter {
       this._configureInfuraProvider(type, this._infuraProjectId);
       // url-based rpc endpoints
     } else if (type === NETWORK_TYPE_RPC) {
-      console.log('[configure provider type check]', type, rpcUrl, chainId);
+//      console.log('[configure provider type check]', type, rpcUrl, chainId);
       this._configureStandardProvider(rpcUrl, chainId);
     } else {
       throw new Error(

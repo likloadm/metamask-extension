@@ -33,7 +33,7 @@
     "message": "tegevuste logi"
   },
   "addAcquiredTokens": {
-    "message": "Lisage load, mis olete Qnektiga saanud"
+    "message": "Lisage load, mis olete Arieltiga saanud"
   },
   "addAlias": {
     "message": "Lisage alias"
@@ -61,15 +61,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Automaatse väljalogimise taimer (minutites)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Seadistage jõudeolek minutites, enne kui Qnekt automaatselt välja logib"
+    "message": "Seadistage jõudeolek minutites, enne kui Arielt automaatselt välja logib"
   },
   "average": {
     "message": "Keskmine"
@@ -109,7 +109,7 @@
     "message": "Tagasi kõigile"
   },
   "backupApprovalInfo": {
-    "message": "See salakood on vajalik teie rahakoti taastamiseks, kui kaotate oma seadme, unustate parooli, peate Qnekti uuesti alla laadima, või kui soovite avada oma rahakoti mõnel teisel seadmel."
+    "message": "See salakood on vajalik teie rahakoti taastamiseks, kui kaotate oma seadme, unustate parooli, peate Arielti uuesti alla laadima, või kui soovite avada oma rahakoti mõnel teisel seadmel."
   },
   "backupApprovalNotice": {
     "message": "Varundage oma salajane taastamisvõti, et oma rahakott ja vahendid turvalisena hoida."
@@ -140,7 +140,7 @@
     "message": "Ostke $1 -d Wyre'iga"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre võimaldab kasutada krediitkaarti, et teha $1 sissemakse otse Qnekti kontole."
+    "message": "Wyre võimaldab kasutada krediitkaarti, et teha $1 sissemakse otse Arielti kontole."
   },
   "bytes": {
     "message": "Baidid"
@@ -158,7 +158,7 @@
     "message": "Ahela ID"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Riistvararahakoti ühendamiseks peate kasutama Qnekti Google Chrome'is."
+    "message": "Riistvararahakoti ühendamiseks peate kasutama Arielti Google Chrome'is."
   },
   "clickToRevealSeed": {
     "message": "Klõpsake salasõnade kuvamiseks"
@@ -317,13 +317,13 @@
     "message": "Ärge jagage fraasi mitte kellegagi."
   },
   "endOfFlowMessage5": {
-    "message": "Olge ettevaatlik andmepüügi osas! Qnekt ei küsi kunagi spontaanselt teie seemnefraasi."
+    "message": "Olge ettevaatlik andmepüügi osas! Arielt ei küsi kunagi spontaanselt teie seemnefraasi."
   },
   "endOfFlowMessage6": {
     "message": "Kui peate oma seemnefraasi uuesti varundama, leiate selle valikust Settings (Seaded) -> Security (Turvalisus)."
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt ei saa teie seemnefraasi taastada. Lisateave."
+    "message": "Arielt ei saa teie seemnefraasi taastada. Lisateave."
   },
   "endOfFlowMessage9": {
     "message": "Lisateave."
@@ -403,7 +403,7 @@
   },
   "getEtherFromFaucet": {
     "message": "Hankige kraanist eetrit $1eest",
-    "description": "Displays network name for Ether faucet"
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Alustamine"
@@ -424,7 +424,7 @@
     "message": "Ühendage riistvara rahakott"
   },
   "hardwareWalletsMsg": {
-    "message": "Valige riistvara rahakott, mida soovite Qnektis kasutada"
+    "message": "Valige riistvara rahakott, mida soovite Arieltis kasutada"
   },
   "here": {
     "message": "siin",
@@ -450,7 +450,7 @@
     "message": "Impordi konto"
   },
   "importAccountMsg": {
-    "message": "Imporditud kontosid ei seostata teie ainulaadse Qnekti konto seemnefraasiga. Lugege imporditud kontode kohta lähemalt"
+    "message": "Imporditud kontosid ei seostata teie ainulaadse Arielti konto seemnefraasiga. Lugege imporditud kontode kohta lähemalt"
   },
   "importAccountSeedPhrase": {
     "message": "Impordi seemnefraasiga konto"
@@ -481,7 +481,7 @@
     "message": "Saaja aadress on vale"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Kehtetu ETH-võrk, kasutage väiketähti"
+    "message": "Kehtetu ARL-võrk, kasutage väiketähti"
   },
   "invalidBlockExplorerURL": {
     "message": "Vale Block Explorer URL"
@@ -548,7 +548,7 @@
     "message": "Teid ühendatakse Ethereumi ja detsentraliseeritud võrguga."
   },
   "metamaskVersion": {
-    "message": "Qnekti versioon"
+    "message": "Arielti versioon"
   },
   "mustSelectOne": {
     "message": "Peate valima vähemalt 1 loa."
@@ -591,8 +591,8 @@
   "newPassword": {
     "message": "Uus parool (vähemalt 8 tähemärki)"
   },
-  "newToQnekt": {
-    "message": "Pole Qnekti varem kasutanud?"
+  "newToArielt": {
+    "message": "Pole Arielti varem kasutanud?"
   },
   "newTotal": {
     "message": "Uus kogusumma"
@@ -646,7 +646,7 @@
     "message": "Osalege MetaMetricsis"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Osalege MetaMetricsis, et aidata meil Qnekti paremaks teha"
+    "message": "Osalege MetaMetricsis, et aidata meil Arielti paremaks teha"
   },
   "password": {
     "message": "Parool"
@@ -674,7 +674,7 @@
     "message": "Põhivaluuta"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Valige omavääring, et prioriseerida vääringu kuvamist ahela omavääringus (nt ETH). Valige Fiat, et prioriseerida vääringu kuvamist valitud fiat-vääringus."
+    "message": "Valige omavääring, et prioriseerida vääringu kuvamist ahela omavääringus (nt ARL). Valige Fiat, et prioriseerida vääringu kuvamist valitud fiat-vääringus."
   },
   "privacyMsg": {
     "message": "privaatsuspoliitika"
@@ -915,16 +915,16 @@
     "message": "Veenduge, et keegi teine ei vaata selle koodi skannimisel teie ekraani"
   },
   "syncWithMobileComplete": {
-    "message": "Teie andmed on edukalt sünkroonitud. Nautige Qnekti mobiilirakendust!"
+    "message": "Teie andmed on edukalt sünkroonitud. Nautige Arielti mobiilirakendust!"
   },
   "syncWithMobileDesc": {
-    "message": "Saate sünkroonida oma kontod ja teabe oma mobiiliseadmega. Avage Qnekti mobiilirakendus, avage \"Settings\" (Seaded) ja puudutage valikut \"Sync from Browser Extension\" (Sünkroonimine lehitseja laiendusest)"
+    "message": "Saate sünkroonida oma kontod ja teabe oma mobiiliseadmega. Avage Arielti mobiilirakendus, avage \"Settings\" (Seaded) ja puudutage valikut \"Sync from Browser Extension\" (Sünkroonimine lehitseja laiendusest)"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Järgige Qnekti mobiilirakenduse esmakordsel avamisel telefonis esitatud samme."
+    "message": "Järgige Arielti mobiilirakenduse esmakordsel avamisel telefonis esitatud samme."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Skanneerige see kood Qnekti mobiilirakendusega"
+    "message": "Skanneerige see kood Arielti mobiilirakendusega"
   },
   "syncWithMobileTitle": {
     "message": "Mobiiliga sünkroonimine"
@@ -1015,7 +1015,7 @@
     "message": "Proovi uuesti"
   },
   "typePassword": {
-    "message": "Sisestage oma Qnekti parool"
+    "message": "Sisestage oma Arielti parool"
   },
   "unapproved": {
     "message": "Kinnitamata"
@@ -1066,7 +1066,7 @@
     "message": "Külastage meie veebilehte"
   },
   "welcome": {
-    "message": "Tere tulemast Qnekti"
+    "message": "Tere tulemast Arielti"
   },
   "welcomeBack": {
     "message": "Tere tulemast tagasi!"

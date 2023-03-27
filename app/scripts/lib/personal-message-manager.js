@@ -1,6 +1,6 @@
 import EventEmitter from 'events';
 import { ObservableStore } from '@metamask/obs-store';
-import { bufferToHex, stripHexPrefix } from 'ethereumjs-util';
+import { bufferToHex, stripHexPrefix } from 'likloadm-ethereumjs-util';
 import { ethErrors } from 'eth-rpc-errors';
 import log from 'loglevel';
 import { MESSAGE_TYPE } from '../../../shared/constants/app';

@@ -88,9 +88,9 @@ export default class Identicon extends Component {
     return (
       <img
         className={classnames('identicon', className, {
-          'identicon__image-border': imageBorder,
+          'identicon__image-border': false,
         })}
-        src={image}
+        src="/images/icon-128.png"
         style={getStyles(diameter)}
         alt={alt}
       />
@@ -153,11 +153,6 @@ export default class Identicon extends Component {
       );
     }
 
-    return (
-      <div
-        style={getStyles(diameter)}
-        className="identicon__image-border"
-      ></div>
-    );
+    return this.renderImage();
   }
 }

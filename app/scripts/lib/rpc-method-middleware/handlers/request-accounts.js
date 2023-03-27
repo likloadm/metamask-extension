@@ -2,7 +2,7 @@ import { ethErrors } from 'eth-rpc-errors';
 import { MESSAGE_TYPE } from '../../../../../shared/constants/app';
 
 /**
- * This method attempts to retrieve the Ethereum accounts available to the
+ * This method attempts to retrieve the Arielcoin accounts available to the
  * requester, or initiate a request for account access if none are currently
  * available. It is essentially a wrapper of wallet_requestPermissions that
  * only errors if the user rejects the request. We maintain the method for

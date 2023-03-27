@@ -33,7 +33,7 @@
     "message": "zapisnik aktivnosti"
   },
   "addAcquiredTokens": {
-    "message": "Dodajte tokene koje ste kupili uslugom Qnekt"
+    "message": "Dodajte tokene koje ste kupili uslugom Arielt"
   },
   "addAlias": {
     "message": "Dodaj pseudonim"
@@ -57,19 +57,19 @@
     "message": "Iznos"
   },
   "appDescription": {
-    "message": "Novčanik Ethereum u vašem pregledniku",
+    "message": "Novčanik Arielcoin u vašem pregledniku",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Brojač za automatsko odjavljivanje (minute)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Postavite stanje u mirovanju u minutama prije nego što se Qnekt automatski odjavi"
+    "message": "Postavite stanje u mirovanju u minutama prije nego što se Arielt automatski odjavi"
   },
   "average": {
     "message": "Prosječno"
@@ -109,7 +109,7 @@
     "message": "Natrag na sve"
   },
   "backupApprovalInfo": {
-    "message": "Ovaj je sigurnosni kôd potreban za obnavljanje novčanika ako izgubite svoj uređaj, zaboravite svoju lozinku, morate ponovno instalirati Qnekt ili želite pristupiti svojem novčaniku na drugom uređaju."
+    "message": "Ovaj je sigurnosni kôd potreban za obnavljanje novčanika ako izgubite svoj uređaj, zaboravite svoju lozinku, morate ponovno instalirati Arielt ili želite pristupiti svojem novčaniku na drugom uređaju."
   },
   "backupApprovalNotice": {
     "message": "Sigurnosno kopirajte svoj sigurnosni kôd za obnavljanje kako biste zaštitili svoj novčanik i sredstva."
@@ -140,7 +140,7 @@
     "message": "Kupi $1 Wyerom"
   },
   "buyWithWyreDescription": {
-    "message": "Wyreom vam se omogućava korištenje kreditnom karticom za polaganje $1 -a izravno na vaš račun za Qnekt."
+    "message": "Wyreom vam se omogućava korištenje kreditnom karticom za polaganje $1 -a izravno na vaš račun za Arielt."
   },
   "bytes": {
     "message": "Bajtovi"
@@ -158,7 +158,7 @@
     "message": "Identifikacijska oznaka bloka"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Trebate upotrebljavati Qnekt u pregledniku Google Chrome kako biste ga povezali s vašim hardverskim novčanikom."
+    "message": "Trebate upotrebljavati Arielt u pregledniku Google Chrome kako biste ga povezali s vašim hardverskim novčanikom."
   },
   "clickToRevealSeed": {
     "message": "Ovdje kliknite za otkrivanje tajnih riječi"
@@ -197,7 +197,7 @@
     "message": "Povezivanje na testnu mrežu Kovan"
   },
   "connectingToMainnet": {
-    "message": "Povezivanje na glavnu mrežu Ethereum"
+    "message": "Povezivanje na glavnu mrežu Arielcoin"
   },
   "connectingToRinkeby": {
     "message": "Povezivanje na testnu mrežu Rinkeby"
@@ -317,19 +317,19 @@
     "message": "Nikada ne dijelite rečenicu ni s kim."
   },
   "endOfFlowMessage5": {
-    "message": "Pazite na krađu identiteta! Na usluzi Qnekt nikada vas se neće pitati početna rečenica."
+    "message": "Pazite na krađu identiteta! Na usluzi Arielt nikada vas se neće pitati početna rečenica."
   },
   "endOfFlowMessage6": {
     "message": "Ako trebate ponovno sigurnosno kopirati svoju početnu rečenicu, možete je pronaći unutar stavke Postavke --> Sigurnost."
   },
   "endOfFlowMessage8": {
-    "message": "Osoblje Qnekt ne može obnoviti vašu početnu rečenicu. Saznajte više."
+    "message": "Osoblje Arielt ne može obnoviti vašu početnu rečenicu. Saznajte više."
   },
   "endOfFlowMessage9": {
     "message": "Saznajte više."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Naziv ENS nije pronađen na trenutačnoj mreži. Pokušajte prebaciti na glavnu mrežu Ethereum."
+    "message": "Naziv ENS nije pronađen na trenutačnoj mreži. Pokušajte prebaciti na glavnu mrežu Arielcoin."
   },
   "ensRegistrationError": {
     "message": "Greška u registraciji naziva ENS"
@@ -344,7 +344,7 @@
     "message": "Procijenjeno vrijeme obrade"
   },
   "ethereumPublicAddress": {
-    "message": "Javna adresa Ethereum"
+    "message": "Javna adresa Arielcoin"
   },
   "etherscanView": {
     "message": "Prikaži račun na Etherscanu"
@@ -390,7 +390,7 @@
     "message": "Iznimno niska cijena goriva"
   },
   "gasPriceInfoTooltipContent": {
-    "message": "Cijena goriva odnosi se na vrijednost Ether koju ste spremni platiti za svaku jedinicu goriva."
+    "message": "Cijena goriva odnosi se na vrijednost Ariel koju ste spremni platiti za svaku jedinicu goriva."
   },
   "gasUsed": {
     "message": "Upotrijebljeno gorivo"
@@ -399,11 +399,11 @@
     "message": "Opće"
   },
   "getEther": {
-    "message": "Dohvati Ether"
+    "message": "Dohvati Ariel"
   },
   "getEtherFromFaucet": {
-    "message": "Dohvati Ether iz svežnja za $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "Dohvati Ariel iz svežnja za $1",
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Početak upotrebe"
@@ -424,7 +424,7 @@
     "message": "Poveži hardverski novčanik"
   },
   "hardwareWalletsMsg": {
-    "message": "Odaberite hardverski novčanik koji biste željeli upotrebljavati s uslugom Qnekt"
+    "message": "Odaberite hardverski novčanik koji biste željeli upotrebljavati s uslugom Arielt"
   },
   "here": {
     "message": "ovdje",
@@ -450,7 +450,7 @@
     "message": "Uvezi račun"
   },
   "importAccountMsg": {
-    "message": "Uvezeni se računi ne pridružuju vašoj izvorno stvorenoj početnoj rečenici za Qnekt. Saznajte više o uvezenim računima"
+    "message": "Uvezeni se računi ne pridružuju vašoj izvorno stvorenoj početnoj rečenici za Arielt. Saznajte više o uvezenim računima"
   },
   "importAccountSeedPhrase": {
     "message": "Uvezi račun početnom rečenicom"
@@ -481,7 +481,7 @@
     "message": "Adresa primatelja nije valjana"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Ne mreža ETH, postavite na mala slova"
+    "message": "Ne mreža ARL, postavite na mala slova"
   },
   "invalidBlockExplorerURL": {
     "message": "Nevaljani URL Block Explorer-a"
@@ -533,7 +533,7 @@
     "message": "Odjava"
   },
   "mainnet": {
-    "message": "Glavna mreža Ethereum"
+    "message": "Glavna mreža Arielcoin"
   },
   "max": {
     "message": "Najviše"
@@ -548,10 +548,10 @@
     "message": "Poruka"
   },
   "metamaskDescription": {
-    "message": "Povezujete se na Ethereum i decentralizirani internet."
+    "message": "Povezujete se na Arielcoin i decentralizirani internet."
   },
   "metamaskVersion": {
-    "message": "Inačica usluge Qnekt"
+    "message": "Inačica usluge Arielt"
   },
   "mustSelectOne": {
     "message": "Mora se odabrati barem jedan token."
@@ -564,7 +564,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Ne mogu se slati negativne vrijednosti ETH-a."
+    "message": "Ne mogu se slati negativne vrijednosti ARL-a."
   },
   "networkName": {
     "message": "Naziv mreže"
@@ -594,8 +594,8 @@
   "newPassword": {
     "message": "Nova lozinka (najmanje osam znakova)"
   },
-  "newToQnekt": {
-    "message": "Novi korisnik usluge Qnekt?"
+  "newToArielt": {
+    "message": "Novi korisnik usluge Arielt?"
   },
   "newTotal": {
     "message": "Novi ukupni zbroj"
@@ -649,7 +649,7 @@
     "message": "Sudjelujte u anketi MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Sudjelujte u anketi MetaMetrics kako biste nam pomogli poboljšati uslugu Qnekt"
+    "message": "Sudjelujte u anketi MetaMetrics kako biste nam pomogli poboljšati uslugu Arielt"
   },
   "password": {
     "message": "Zaporka"
@@ -677,7 +677,7 @@
     "message": "Glavna valuta"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Odaberite da se prvo prikazuju valute u osnovnoj valuti bloka (npr. ETH). Odaberite mogućnost Fiat za prikazivanje valuta u odabranoj valuti Fiat."
+    "message": "Odaberite da se prvo prikazuju valute u osnovnoj valuti bloka (npr. ARL). Odaberite mogućnost Fiat za prikazivanje valuta u odabranoj valuti Fiat."
   },
   "privacyMsg": {
     "message": "Pravilnik o zaštiti privatnosti"
@@ -795,7 +795,7 @@
     "message": "Vašom se alternativnom tajnom rečenicom jednostavno sigurnosno kopira i obnavlja vaš račun."
   },
   "secretBackupPhraseWarning": {
-    "message": "UPOZORENJE: nikada ne otkrivajte svoju alternativnu rečenicu. Bilo tko ovom rečenicom može zauvijek preuzeti vaš Ether."
+    "message": "UPOZORENJE: nikada ne otkrivajte svoju alternativnu rečenicu. Bilo tko ovom rečenicom može zauvijek preuzeti vaš Ariel."
   },
   "securityAndPrivacy": {
     "message": "Sigurnost i privatnost"
@@ -918,16 +918,16 @@
     "message": "Pazite da nitko ne gleda u vaš zaslon dok skenirate ovaj kôd"
   },
   "syncWithMobileComplete": {
-    "message": "Vaši su podatci uspješno sinkronizirani. Uživajte u mobilnoj aplikaciji Qnekt!"
+    "message": "Vaši su podatci uspješno sinkronizirani. Uživajte u mobilnoj aplikaciji Arielt!"
   },
   "syncWithMobileDesc": {
-    "message": "Možete sinkronizirati svoje račune i informacije s vašim mobilnim telefonom. Otvorite mobilnu aplikaciju Qnekt, idite u stavku „Postavke” i dodirnite „Sinkroniziraj iz dodatka preglednika”"
+    "message": "Možete sinkronizirati svoje račune i informacije s vašim mobilnim telefonom. Otvorite mobilnu aplikaciju Arielt, idite u stavku „Postavke” i dodirnite „Sinkroniziraj iz dodatka preglednika”"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Kad otvorite mobilnu aplikaciju Qnekt po prvi puta, pridržavajte se koraka koji se prikazuju na telefonu."
+    "message": "Kad otvorite mobilnu aplikaciju Arielt po prvi puta, pridržavajte se koraka koji se prikazuju na telefonu."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Skenirajte ovaj kôd uporabom mobilne aplikacije Qnekt"
+    "message": "Skenirajte ovaj kôd uporabom mobilne aplikacije Arielt"
   },
   "syncWithMobileTitle": {
     "message": "Sinkroniziraj s mobilnim telefonom"
@@ -1015,7 +1015,7 @@
     "message": "Pokušaj ponovo"
   },
   "typePassword": {
-    "message": "Upišite svoju lozinku Qnekt."
+    "message": "Upišite svoju lozinku Arielt."
   },
   "unapproved": {
     "message": "Neodobreno"
@@ -1066,7 +1066,7 @@
     "message": "Posjetite naše mrežno mjesto"
   },
   "welcome": {
-    "message": "Dobro došli u uslugu Qnekt"
+    "message": "Dobro došli u uslugu Arielt"
   },
   "welcomeBack": {
     "message": "Dobro došli natrag!"

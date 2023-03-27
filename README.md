@@ -1,10 +1,10 @@
-# Metamask with QTUM support
+# Metamask with ARL support
 
-This is an alpha version of Metamask with QTUM support
+This is an alpha version of Metamask with ARL support
 
-To use Web3 in QTUM Dapps, use `window.qtum` as your Web3 provider instead of `window.ethereum`
+To use Web3 in ARL Dapps, use `window.ariel` as your Web3 provider instead of `window.ethereum`
 
-See [Releases](https://github.com/earlgreytech/metamask-extension/releases) for tags/releases with QTUM support
+See [Releases](https://github.com/earlgreytech/metamask-extension/releases) for tags/releases with ARL support
 
 See [Janus](https://github.com/qtumproject/janus) for our Web3 compatible API layer
 

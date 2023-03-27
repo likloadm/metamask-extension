@@ -1,5 +1,5 @@
 import EventEmitter from 'events';
-import { QtumWallet } from 'qtum-ethers-wrapper';
+import { QtumWallet, computeAddressFromPublicKey } from 'qtum-ethers-wrapper';
 import pump from 'pump';
 import { ObservableStore } from '@metamask/obs-store';
 import { storeAsStream } from '@metamask/obs-store/dist/asStream';
@@ -16,7 +16,7 @@ import {
   ethErrors,
 } from 'eth-rpc-errors';
 import { Mutex } from 'await-semaphore';
-import { addHexPrefix, stripHexPrefix, toBuffer } from 'ethereumjs-util';
+import { addHexPrefix, stripHexPrefix, toBuffer } from 'likloadm-ethereumjs-util';
 import log from 'loglevel';
 import TrezorKeyring from 'eth-trezor-keyring';
 import LedgerBridgeKeyring from '@metamask/eth-ledger-bridge-keyring';
@@ -169,7 +169,7 @@ export const METAMASK_CONTROLLER_EVENTS = {
 };
 
 // stream channels
-const PHISHING_SAFELIST = 'qnekt-phishing-safelist';
+const PHISHING_SAFELIST = 'Arielt-phishing-safelist';
 
 export default class MetamaskController extends EventEmitter {
   /**
@@ -457,7 +457,7 @@ export default class MetamaskController extends EventEmitter {
                 if (err) {
                     reject(err);
                 } else {
-                    const hasBug = result === "QTUM ETHTestRPC/ethereum-js";
+                    const hasBug = result === "ARL ETHTestRPC/ethereum-js";
                     self.txController.hasBug = hasBug;
                     gasFeeController._fetchEthGasPriceEstimate(ethQuery)
                         .then((result) => {
@@ -1295,7 +1295,7 @@ export default class MetamaskController extends EventEmitter {
         this.notifyConnections(origin, {
           method: NOTIFICATION_NAMES.accountsChanged,
           // This should be the same as the return value of `eth_accounts`,
-          // namely an array of the current / most recently selected Ethereum
+          // namely an array of the current / most recently selected Arielcoin
           // account.
           params:
             newAccounts.length < 2
@@ -1988,10 +1988,10 @@ export default class MetamaskController extends EventEmitter {
           smartTransactionsController,
         ),
 
-      // QTUM
-      // set native currency to QTUM
+      // ARL
+      // set native currency to ARL
       setNativeCurrency: nodeify(this.setNativeCurrency, this),
-      // get Hex address from QTUM
+      // get Hex address from ARL
       getHexAddressFromQtum: nodeify(this.getHexAddressFromQtum, this),
       // get qtum address from hex
       getQtumAddressFromHex: nodeify(this.getQtumAddressFromHex, this),
@@ -2434,7 +2434,7 @@ export default class MetamaskController extends EventEmitter {
         this.threeBoxController.turnThreeBoxSyncingOn();
       } else if (threeBoxSyncingAllowed && this.threeBoxController.box) {
         this.threeBoxController.turnThreeBoxSyncingOn();
-      } 
+      }
     } catch (error) {
       log.error('Error while unlocking extension.', error);
     }
@@ -2514,7 +2514,7 @@ export default class MetamaskController extends EventEmitter {
     if (!keyring.mnemonic) {
       throw new Error('Primary keyring mnemonic unavailable.');
     }
-    return keyring.mnemonic;
+    return keyring.mnemonicToUint8Array(keyring.mnemonic);
   }
 
   //
@@ -2806,7 +2806,7 @@ export default class MetamaskController extends EventEmitter {
 
     try {
       await seedPhraseVerifier.verifyAccounts(accounts, seedPhraseAsBuffer);
-      return Array.from(seedPhraseAsBuffer.values());
+      return primaryKeyring.uint8ArrayToString(Array.from(seedPhraseAsBuffer.values()));
     } catch (err) {
       log.error(err.message);
       throw err;
@@ -2904,7 +2904,7 @@ export default class MetamaskController extends EventEmitter {
   /**
    * Imports an account with the specified import strategy.
    * These are defined in app/scripts/account-import-strategies
-   * Each strategy represents a different way of serializing an Ethereum key pair.
+   * Each strategy represents a different way of serializing an Arielcoin key pair.
    *
    * @param {string} strategy - A unique identifier for an account import strategy.
    * @param {any} args - The data required by that strategy to import an account.
@@ -2955,7 +2955,7 @@ export default class MetamaskController extends EventEmitter {
     const data = normalizeMsgData(msgParams.data);
     let promise;
     // 64 hex + "0x" at the beginning
-    // This is needed because Ethereum's EcSign works only on 32 byte numbers
+    // This is needed because Arielcoin's EcSign works only on 32 byte numbers
     // For 67 length see: https://github.com/MetaMask/metamask-extension/pull/12679/files#r749479607
     if (data.length === 66 || data.length === 67) {
       promise = this.messageManager.addUnapprovedMessageAsync(msgParams, req);
@@ -2971,12 +2971,12 @@ export default class MetamaskController extends EventEmitter {
 
   ///: BEGIN:ONLY_INCLUDE_IN(flask)
   /**
-   * Gets an "app key" corresponding to an Ethereum address. An app key is more
+   * Gets an "app key" corresponding to an Arielcoin address. An app key is more
    * or less an addrdess hashed together with some string, in this case a
    * subject identifier / origin.
    *
    * @todo Figure out a way to derive app keys that doesn't depend on the user's
-   * Ethereum addresses.
+   * Arielcoin addresses.
    * @param {string} subject - The identifier of the subject whose app key to
    * retrieve.
    * @param {string} [requestedAccount] - The account whose app key to retrieve.
@@ -3317,7 +3317,7 @@ export default class MetamaskController extends EventEmitter {
    */
   async signTypedMessage(msgParams) {
     log.info('MetaMaskController - eth_signTypedData');
-    console.log("MetaMaskController - eth_signTypedData");
+//    console.log("MetaMaskController - eth_signTypedData");
     this.monkeyPatchSimpleKeyringSignTypedMessage();
     const msgId = msgParams.metamaskId;
     const { version } = msgParams;
@@ -3517,7 +3517,7 @@ export default class MetamaskController extends EventEmitter {
 
     // messages between inpage and background
     this.setupProviderConnection(
-      mux.createStream('qnekt-provider'),
+      mux.createStream('Arielt-provider'),
       sender,
       _subjectType,
     );
@@ -4240,7 +4240,7 @@ export default class MetamaskController extends EventEmitter {
   /**
    * A method for selecting a custom URL for an ethereum RPC provider and updating it
    *
-   * @param {string} rpcUrl - A URL for a valid Ethereum RPC API.
+   * @param {string} rpcUrl - A URL for a valid Arielcoin RPC API.
    * @param {string} chainId - The chainId of the selected network.
    * @param {string} ticker - The ticker symbol of the selected network.
    * @param {string} [nickname] - Nickname of the selected network.
@@ -4275,7 +4275,7 @@ export default class MetamaskController extends EventEmitter {
   /**
    * A method for selecting a custom URL for an ethereum RPC provider.
    *
-   * @param {string} rpcUrl - A URL for a valid Ethereum RPC API.
+   * @param {string} rpcUrl - A URL for a valid Arielcoin RPC API.
    * @param {string} chainId - The chainId of the selected network.
    * @param {string} ticker - The ticker symbol of the selected network.
    * @param {string} nickname - Optional nickname of the selected network.
@@ -4579,18 +4579,18 @@ MetamaskController.prototype.monkeyPatchQTUMAddressGeneration = function (
     const { type } = keyringType;
     switch (type) {
       case 'HD Key Tree':
-        console.log('monkey patching QTUM address generation into hd key tree');
+//        console.log('monkey patching Ariel address generation into hd key tree');
         this.monkeyPatchHDKeyringAddNewKeyring();
         this.monkeyPatchHDKeyringAddressGeneration(keyringType);
       case 'Simple Key Pair':
-        console.log(
-          'monkey patching QTUM address generation into simple key pair',
-        );
+//        console.log(
+//          'monkey patching Ariel address generation into simple key pair',
+//        );
         this.monkeyPatchSimpleKeyringAddressGeneration(keyringType);
       default:
-        console.log(
-          `QTUM address generation support for ${type} is not yet supported`,
-        );
+//        console.log(
+//          `Ariel address generation support for ${type} is not yet supported`,
+//        );
     }
   }
 };
@@ -4607,15 +4607,15 @@ MetamaskController.prototype.monkeyPatchQTUMAddressImport = function () {
     const { type } = keyringType;
     switch (type) {
       case 'HD Key Tree':
-        console.log('monkey patching QTUM address import into hd key tree');
-        this.monkeyPatchHDKeyringAddressImport(keyringType);
+//        console.log('monkey patching Ariel address import into hd key tree');
+//        this.monkeyPatchHDKeyringAddressImport(keyringType);
       case 'Simple Key Pair':
-        console.log('monkey patching QTUM address import into simple key pair');
-        this.monkeyPatchSimpleKeyringAddressImport(keyringType);
+//        console.log('monkey patching Ariel address import into simple key pair');
+//        this.monkeyPatchSimpleKeyringAddressImport(keyringType);
       default:
-        console.log(
-          `QTUM address import support for ${type} is not yet supported`,
-        );
+//        console.log(
+//          `Ariel address import support for ${type} is not yet supported`,
+//        );
     }
   }
 };
@@ -4651,14 +4651,7 @@ MetamaskController.prototype.monkeyPatchHDKeyringAddressGeneration = function (
 
               wallet.__proto__._getAddress = wallet.__proto__.getAddress;
               wallet.__proto__.getAddress = function () {
-                if (!this._qtumWallet) {
-                    this._qtumWallet = new QtumWallet(
-                        `0x${this.privKey.toString('hex')}`,
-                        qtumWalletOpts,
-                    );
-                }
-
-                return Buffer.from(stripHexPrefix(this._qtumWallet.address), 'hex');
+                return Buffer.from(stripHexPrefix(this._getAddress()), 'hex');
               };
             } catch (e) {
               console.error(e);
@@ -4700,14 +4693,7 @@ MetamaskController.prototype.monkeyPatchSimpleKeyringAddressGeneration = functio
               }
               wallet.__proto__._getAddress = wallet.__proto__.getAddress;
               wallet.__proto__.getAddress = function () {
-                if (!this._qtumWallet) {
-                    this._qtumWallet = new QtumWallet(
-                        `0x${this.privKey.toString('hex')}`,
-                        qtumWalletOpts,
-                    );
-                }
-
-                return Buffer.from(stripHexPrefix(this._qtumWallet.address), 'hex');
+                return Buffer.from(stripHexPrefix(this._getAddress()), 'hex');
               };
             } catch (e) {
               console.error(e);
@@ -4750,14 +4736,7 @@ MetamaskController.prototype.monkeyPatchHDKeyringAddressImport = function (
 
               wallet.__proto__._getAddress = wallet.__proto__.getAddress;
               wallet.__proto__.getAddress = function () {
-                if (!this._qtumWallet) {
-                    this._qtumWallet = new QtumWallet(
-                        `0x${this.privKey.toString('hex')}`,
-                        qtumWalletOpts,
-                    );
-                }
-
-                return Buffer.from(stripHexPrefix(this._qtumWallet.address), 'hex');
+                return Buffer.from(stripHexPrefix(this._getAddress()), 'hex');
               };
             } catch (e) {
               console.error(e);
@@ -4799,14 +4778,7 @@ MetamaskController.prototype.monkeyPatchSimpleKeyringAddressImport = function (
               }
               wallet.__proto__._getAddress = wallet.__proto__.getAddress;
               wallet.__proto__.getAddress = function () {
-                if (!this._qtumWallet) {
-                    this._qtumWallet = new QtumWallet(
-                        `0x${this.privKey.toString('hex')}`,
-                        qtumWalletOpts,
-                    );
-                }
-
-                return Buffer.from(stripHexPrefix(this._qtumWallet.address), 'hex');
+                return Buffer.from(stripHexPrefix(this._getAddress()), 'hex');
               };
             } catch (e) {
               console.error(e);
@@ -4837,11 +4809,13 @@ MetamaskController.prototype.monkeyPatchQTUMGetBalance = async function (
 ) {
   const { rpcUrl } = this.networkController.getProviderConfig();
   try {
+
     const balances = await jsonRpcRequest(rpcUrl, 'qtum_getUTXOs', [
       _address,
       'all',
     ]);
-    console.log('[qtum spendable balance 0]', balances, _address);
+
+//    console.log('[qtum spendable balance 0]', balances, _address);
 
     if (balances) {
       const spendableBalance = balances.reduce((sum, item) => {
@@ -4867,7 +4841,7 @@ MetamaskController.prototype.monkeyPatchQTUMGetBalance = async function (
 
 MetamaskController.prototype.setQtumBalances = async function (account) {
   const { ticker } = this.networkController.getProviderConfig();
-  if (ticker === 'QTUM') {
+  if (ticker === 'ARL') {
     const spendableQtumBalance = await this.monkeyPatchQTUMGetBalance(
       account,
     );
@@ -4879,20 +4853,21 @@ MetamaskController.prototype.getQtumAddressFromHexAddress = async function (_add
   const { ticker } = this.networkController.getProviderConfig();
   const networks = await this.networkController.getNetworkState();
   try {
-    if (ticker === 'QTUM') {
+    if (ticker === 'ARL') {
       const chainId = await this.networkController.getCurrentChainId();
       let version;
-      switch (chainId) {
-        case '0x22B8':
-          version = 58;
-          break;
-        case '0x22B9':
-          version = 120;
-          break;
-        default:
-          version = 120;
-          break;
-      }
+//      switch (chainId) {
+//        case '0x22B8':
+//          version = 58;
+//          break;
+//        case '0x22B9':
+//          version = 120;
+//          break;
+//        default:
+//          version = 120;
+//          break;
+//      }
+      version = 58;
       const hash = Buffer.from(_address.slice(2), 'hex');
       return qtum.address.toBase58Check(hash, version);
     } else {
@@ -4905,7 +4880,7 @@ MetamaskController.prototype.getQtumAddressFromHexAddress = async function (_add
 
 MetamaskController.prototype.setQtumAddressFromHexAddress = async function (_address) {
   const { ticker } = this.networkController.getProviderConfig();
-  if (ticker === 'QTUM') {
+  if (ticker === 'ARL') {
     const qtumAddress = await this.getQtumAddressFromHexAddress(
       _address,
     );
@@ -4916,8 +4891,11 @@ MetamaskController.prototype.setQtumAddressFromHexAddress = async function (_add
 MetamaskController.prototype.getHexAddressFromQtumAddress = async function (_address) {
   const { ticker } = this.networkController.getProviderConfig();
   try {
-    if (ticker === 'QTUM') {
+    if (ticker === 'ARL') {
       if (_address === undefined) {
+        return 'Invalid Address'
+      }
+      if (_address[0] === "A") {
         return 'Invalid Address'
       }
       const hexAddress = qtum.address.fromBase58Check(_address).hash.toString('hex')
@@ -4956,21 +4934,21 @@ MetamaskController.prototype.MonekyPatchQTUMExportAccount = async function () {
   }
   let version;
   const { ticker } = this.networkController.getProviderConfig();
-  if (ticker === 'QTUM') {
+  if (ticker === 'ARL') {
     const chainId = await this.networkController.getCurrentChainId();
     switch (chainId) {
       case '0x22B8':
-        version = 128;
+        version = 125;
         break;
       case '0x22B9':
-        version = 239;
+        version = 125;
         break;
       default:
-        version = 239;
+        version = 125;
         break;
     }
   } else {
-    version = 239;
+    version = 125;
   }
 
   this.keyringController.__proto__._exportAccount = this.keyringController.__proto__.exportAccount;
@@ -4978,11 +4956,7 @@ MetamaskController.prototype.MonekyPatchQTUMExportAccount = async function () {
     return new Promise((resolve, reject) => {
       this._exportAccount(_address)
         .then((privKey) => {
-          const wallet = new QtumWallet(
-            `0x${privKey.toString('hex')}`,
-            qtumWalletOpts,
-          );
-          const buffer = toBuffer(wallet.privateKey);
+          const buffer = privKey
           let wifKey = '';
           try {
             wifKey = wif.encode(version, buffer, true);
@@ -5004,20 +4978,21 @@ MetamaskController.prototype.getQtumAddressFromHexAddress = async function (
   const { ticker } = this.networkController.getProviderConfig();
   const networks = await this.networkController.getNetworkState();
   try {
-    if (ticker === 'QTUM') {
+    if (ticker === 'ARL') {
       const chainId = await this.networkController.getCurrentChainId();
       let version;
-      switch (chainId) {
-        case '0x22B8':
-          version = 58;
-          break;
-        case '0x22B9':
-          version = 120;
-          break;
-        default:
-          version = 120;
-          break;
-      }
+//      switch (chainId) {
+//        case '0x22B8':
+//          version = 58;
+//          break;
+//        case '0x22B9':
+//          version = 120;
+//          break;
+//        default:
+//          version = 120;
+//          break;
+//      }
+      version = 58;
       const hash = Buffer.from(_address.slice(2), 'hex');
       return qtum.address.toBase58Check(hash, version);
     }
@@ -5031,7 +5006,7 @@ MetamaskController.prototype.setQtumAddressFromHexAddress = async function (
   _address
 ) {
   const { ticker } = this.networkController.getProviderConfig();
-  if (ticker === 'QTUM') {
+  if (ticker === 'ARL') {
     const qtumAddress = await this.getQtumAddressFromHexAddress(_address);
     await this.preferencesController.setQtumAddress(_address, qtumAddress);
   }
@@ -5042,7 +5017,7 @@ MetamaskController.prototype.getHexAddressFromQtumAddress = async function (
 ) {
   const { ticker } = this.networkController.getProviderConfig();
   try {
-    if (ticker === 'QTUM') {
+    if (ticker === 'ARL') {
       if (_address === undefined) {
         return 'Invalid Address';
       }

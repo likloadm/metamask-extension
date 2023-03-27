@@ -37,7 +37,7 @@ export default function PermissionsRedirect({ subjectMetadata }) {
             <div className="permissions-redirect__dashed-line" />
             {
               // TODO: NOT NEEDED?
-              renderBrokenLine()
+//              renderBrokenLine()
             }
           </Box>
           <SiteIcon

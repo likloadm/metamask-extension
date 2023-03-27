@@ -33,7 +33,7 @@
     "message": "log aktiviti"
   },
   "addAcquiredTokens": {
-    "message": "Tambah token yang anda peroleh menggunakan Qnekt"
+    "message": "Tambah token yang anda peroleh menggunakan Arielt"
   },
   "addAlias": {
     "message": "Tambah alias"
@@ -57,19 +57,19 @@
     "message": "Jumlah"
   },
   "appDescription": {
-    "message": "Dompat Ethereum di Pelayar anda",
+    "message": "Dompat Arielcoin di Pelayar anda",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Pemasa Logout Automatik (minit)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Tetapkan masa melahu dalam minit sebelum Qnekt log keluar secara automatik"
+    "message": "Tetapkan masa melahu dalam minit sebelum Arielt log keluar secara automatik"
   },
   "average": {
     "message": "Purata"
@@ -109,7 +109,7 @@
     "message": "Kembali kepada Semua"
   },
   "backupApprovalInfo": {
-    "message": "Kod rahsia ini diperlukan untuk memulihkan dompet anda sekiranya anda kehilangan peranti anda, terlupa kata laluan anda, perlu memasang semua Qnekt, atau mahu mengakses dompet anda menggunakan peranti lain."
+    "message": "Kod rahsia ini diperlukan untuk memulihkan dompet anda sekiranya anda kehilangan peranti anda, terlupa kata laluan anda, perlu memasang semua Arielt, atau mahu mengakses dompet anda menggunakan peranti lain."
   },
   "backupApprovalNotice": {
     "message": "Sandarkan kod Pemulihan Rahsia anda untuk memastikan dompet dan dana anda sentiasa selamat."
@@ -140,7 +140,7 @@
     "message": "Beli $1 dengan Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre membolehkan anda menggunakan kad kredit untuk mendeposit $1 secara terus ke dalam akaun Qnekt anda."
+    "message": "Wyre membolehkan anda menggunakan kad kredit untuk mendeposit $1 secara terus ke dalam akaun Arielt anda."
   },
   "bytes": {
     "message": "Bait"
@@ -158,7 +158,7 @@
     "message": "ID Rantaian"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Anda perlu menggunakan Qnekt di Google Chrome untuk menyambung kepada Dompet Perkakasan anda."
+    "message": "Anda perlu menggunakan Arielt di Google Chrome untuk menyambung kepada Dompet Perkakasan anda."
   },
   "clickToRevealSeed": {
     "message": "Klik di sini untuk mendedahkan perkataan rahsia"
@@ -197,7 +197,7 @@
     "message": "Menyambungkan kepada Rangkaian Ujian Kovan"
   },
   "connectingToMainnet": {
-    "message": "Menyambung kepada Rangkaian Ethereum Utama"
+    "message": "Menyambung kepada Rangkaian Arielcoin Utama"
   },
   "connectingToRinkeby": {
     "message": "Menyambung kepada Rangkaian Ujian Rinkeby"
@@ -314,19 +314,19 @@
     "message": "Jangan sesekali kongsi frasa ini dengan sesiapa."
   },
   "endOfFlowMessage5": {
-    "message": "Berhati-hati dengan pemancingan data! Qnekt tidak akan sesekali meminta frasa benih anda secara tiba-tiba."
+    "message": "Berhati-hati dengan pemancingan data! Arielt tidak akan sesekali meminta frasa benih anda secara tiba-tiba."
   },
   "endOfFlowMessage6": {
     "message": "Jika anda perlu membuat sandaran ungkapan benih anda sekali lagi, anda boleh lakukannya melalui Tetapan -> Keselamatan."
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt tidak dapat memulihkan ungkapan benih anda. Ketahui lebih lanjut."
+    "message": "Arielt tidak dapat memulihkan ungkapan benih anda. Ketahui lebih lanjut."
   },
   "endOfFlowMessage9": {
     "message": "Ketahui lebih lanjut."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Nama ENS tidak ditemui di rangkaian semasa. Cuba beralih kepada Rangkaian Ethereum Utama."
+    "message": "Nama ENS tidak ditemui di rangkaian semasa. Cuba beralih kepada Rangkaian Arielcoin Utama."
   },
   "ensRegistrationError": {
     "message": "Ralat dalam pendaftaran nama ENS"
@@ -341,10 +341,10 @@
     "message": "Masa Pemprosesan yang Dijangka"
   },
   "ethereumPublicAddress": {
-    "message": "Alamat Awam Ethereum"
+    "message": "Alamat Awam Arielcoin"
   },
   "etherscanView": {
-    "message": "Lihat akaun di Etherscan"
+    "message": "Lihat akaun di Arielscan"
   },
   "expandView": {
     "message": "Kembangkan Paparan"
@@ -387,7 +387,7 @@
     "message": "Harga Gas Teramat Rendah"
   },
   "gasPriceInfoTooltipContent": {
-    "message": "Harga gas menentukan jumlah Ether yang anda sedia bayar untuk setiap unit gas."
+    "message": "Harga gas menentukan jumlah Ariel yang anda sedia bayar untuk setiap unit gas."
   },
   "gasUsed": {
     "message": "Gas Digunakan"
@@ -396,11 +396,11 @@
     "message": "Am"
   },
   "getEther": {
-    "message": "Dapatkan Ether"
+    "message": "Dapatkan Ariel"
   },
   "getEtherFromFaucet": {
-    "message": "Dapatkan Ether daripada pili untuk $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "Dapatkan Ariel daripada pili untuk $1",
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Bermula"
@@ -421,7 +421,7 @@
     "message": "Sambungkan dompet perkakasan"
   },
   "hardwareWalletsMsg": {
-    "message": "Pilih dompet perkakasan yang anda ingin gunakan dengan Qnekt"
+    "message": "Pilih dompet perkakasan yang anda ingin gunakan dengan Arielt"
   },
   "here": {
     "message": "di sini",
@@ -443,7 +443,7 @@
     "message": "Import Akaun"
   },
   "importAccountMsg": {
-    "message": "Akaun yang diimport tidak akan dikaitkan dengan frasa benih akaun Qnekt asal yang anda cipta. Ketahui lebih lanjut tentang akaun import"
+    "message": "Akaun yang diimport tidak akan dikaitkan dengan frasa benih akaun Arielt asal yang anda cipta. Ketahui lebih lanjut tentang akaun import"
   },
   "importAccountSeedPhrase": {
     "message": "Import Akaun dengan Frasa Benih"
@@ -474,7 +474,7 @@
     "message": "Alamat penerima tidak sah"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Bukan rangkaian ETH, tetapkan kepada huruf kecil"
+    "message": "Bukan rangkaian ARL, tetapkan kepada huruf kecil"
   },
   "invalidBlockExplorerURL": {
     "message": "URL Block Explorer tidak sah"
@@ -526,7 +526,7 @@
     "message": "Log keluar"
   },
   "mainnet": {
-    "message": "Rangkaian Ethereum Utama"
+    "message": "Rangkaian Arielcoin Utama"
   },
   "max": {
     "message": "Maks"
@@ -538,10 +538,10 @@
     "message": "Mesej"
   },
   "metamaskDescription": {
-    "message": "Menyambungkan anda kepada Ethereum dan Web Ternyahpusat."
+    "message": "Menyambungkan anda kepada Arielcoin dan Web Ternyahpusat."
   },
   "metamaskVersion": {
-    "message": "Versi Qnekt"
+    "message": "Versi Arielt"
   },
   "mustSelectOne": {
     "message": "Mesti memilih sekurang-kurangnya 1 token."
@@ -554,7 +554,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Tidak boleh hantar amaun ETH negatif."
+    "message": "Tidak boleh hantar amaun ARL negatif."
   },
   "networkName": {
     "message": "Nama Rangkaian"
@@ -584,8 +584,8 @@
   "newPassword": {
     "message": "Kata Laluan Baru (min 8 aks)"
   },
-  "newToQnekt": {
-    "message": "Baru mengenali Qnekt?"
+  "newToArielt": {
+    "message": "Baru mengenali Arielt?"
   },
   "newTotal": {
     "message": "Jumlah Keseluruhan Baru"
@@ -636,7 +636,7 @@
     "message": "Sertai MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Sertai MetaMetrics untuk membantu kami menambah baik Qnekt"
+    "message": "Sertai MetaMetrics untuk membantu kami menambah baik Arielt"
   },
   "password": {
     "message": "Kata laluan"
@@ -664,7 +664,7 @@
     "message": "Mata Wang Utama"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Pilih natif untuk mengutamakan nilai paparan dalam mata wang natif rantaian (cth. ETH). Pilih Fiat untuk mengutamakan nilai paparan dalam mata wang fiat yang anda pilih."
+    "message": "Pilih natif untuk mengutamakan nilai paparan dalam mata wang natif rantaian (cth. ARL). Pilih Fiat untuk mengutamakan nilai paparan dalam mata wang fiat yang anda pilih."
   },
   "privacyMsg": {
     "message": "Dasar Privasi"
@@ -782,7 +782,7 @@
     "message": "Ungkapan rahsia sandaran anda memudahkan membuat sandaran dan memulihkan akaun anda."
   },
   "secretBackupPhraseWarning": {
-    "message": "AMARAN: Jangan sesekali dedahkan frasa sandaran anda. Sesiapa yang memperoleh frasa ini boleh mengambil Ether anda selama-lamanya."
+    "message": "AMARAN: Jangan sesekali dedahkan frasa sandaran anda. Sesiapa yang memperoleh frasa ini boleh mengambil Ariel anda selama-lamanya."
   },
   "securityAndPrivacy": {
     "message": "Keselamatan & Privasi"
@@ -905,16 +905,16 @@
     "message": "Pastikan tiada orang lain melihat skrin anda ketika anda mengimbas kod ini"
   },
   "syncWithMobileComplete": {
-    "message": "Data anda berjaya disegerakkan. Nikmati aplikasi mudah alih Qnekt!"
+    "message": "Data anda berjaya disegerakkan. Nikmati aplikasi mudah alih Arielt!"
   },
   "syncWithMobileDesc": {
-    "message": "Anda boleh menyegerakkan akaun dan maklumat anda dengan peranti mudah alih anda. Buka ap mudah alih Qnekt, pergi ke \"Tetapan\" dan ketik \"Segerakkan daripada Sambungan Pelayar\""
+    "message": "Anda boleh menyegerakkan akaun dan maklumat anda dengan peranti mudah alih anda. Buka ap mudah alih Arielt, pergi ke \"Tetapan\" dan ketik \"Segerakkan daripada Sambungan Pelayar\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jika ini kali pertama anda membuka aplikasi mudah alih Qnekt, anda cuma perlu ikuti langkah-langkah di telefon anda."
+    "message": "Jika ini kali pertama anda membuka aplikasi mudah alih Arielt, anda cuma perlu ikuti langkah-langkah di telefon anda."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Imbas kod ini dengan aplikasi mudah alih Qnekt anda"
+    "message": "Imbas kod ini dengan aplikasi mudah alih Arielt anda"
   },
   "syncWithMobileTitle": {
     "message": "Segerakkan dengan mudah alih"
@@ -1002,7 +1002,7 @@
     "message": "Cuba lagi"
   },
   "typePassword": {
-    "message": "Taip kata laluan Qnekt anda"
+    "message": "Taip kata laluan Arielt anda"
   },
   "unapproved": {
     "message": "Belum Diluluskan"
@@ -1053,7 +1053,7 @@
     "message": "Kunjungi laman web kami"
   },
   "welcome": {
-    "message": "Selamat datang ke Qnekt"
+    "message": "Selamat datang ke Arielt"
   },
   "welcomeBack": {
     "message": "Selamat Kembali!"

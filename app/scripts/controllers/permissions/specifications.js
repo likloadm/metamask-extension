@@ -81,10 +81,10 @@ export const getCaveatSpecifications = ({ getIdentities }) => {
  *   getAllAccounts: () => Promise<string[]>,
  *   getIdentities: () => Record<string, Identity>,
  * }} options - Options bag.
- * @param options.getAllAccounts - A function that returns all Ethereum accounts
+ * @param options.getAllAccounts - A function that returns all Arielcoin accounts
  * in the current MetaMask instance.
  * @param options.getIdentities - A function that returns the
- * `PreferencesController` identity objects for all Ethereum accounts in the
+ * `PreferencesController` identity objects for all Arielcoin accounts in the
  * @param options.captureKeyringTypesWithMissingIdentities - A function that
  * captures extra error information about the "Missing identity for address"
  * error.
@@ -184,7 +184,7 @@ export const getPermissionSpecifications = ({
 function validateCaveatAccounts(accounts, getIdentities) {
   if (!Array.isArray(accounts) || accounts.length === 0) {
     throw new Error(
-      `${PermissionKeys.eth_accounts} error: Expected non-empty array of Ethereum addresses.`,
+      `${PermissionKeys.eth_accounts} error: Expected non-empty array of Arielcoin addresses.`,
     );
   }
 
@@ -192,7 +192,7 @@ function validateCaveatAccounts(accounts, getIdentities) {
   accounts.forEach((address) => {
     if (!address || typeof address !== 'string') {
       throw new Error(
-        `${PermissionKeys.eth_accounts} error: Expected an array of Ethereum addresses. Received: "${address}".`,
+        `${PermissionKeys.eth_accounts} error: Expected an array of Arielcoin addresses. Received: "${address}".`,
       );
     }
 

@@ -33,7 +33,7 @@
     "message": "কার্যকলাপের লগ"
   },
   "addAcquiredTokens": {
-    "message": "Qnekt ব্যবহার করে আপনি যে টোকেনগুলি অর্জন করেছেন সেগুলি যোগ করুন"
+    "message": "Arielt ব্যবহার করে আপনি যে টোকেনগুলি অর্জন করেছেন সেগুলি যোগ করুন"
   },
   "addAlias": {
     "message": "উপনাম যোগ করুন"
@@ -57,19 +57,19 @@
     "message": "পরিমান"
   },
   "appDescription": {
-    "message": "আপনার ব্রাউজারে একটি Ethereum ওয়ালেট",
+    "message": "আপনার ব্রাউজারে একটি Arielcoin ওয়ালেট",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "স্বয়ংক্রিয়-লগ আউট টাইমার (মিনিট)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Qnekt স্বয়ংক্রিয়ভাবে লগ আউট করার আগে নিষ্ক্রিয় থাকার সময় মিনিটে সেট করুন"
+    "message": "Arielt স্বয়ংক্রিয়ভাবে লগ আউট করার আগে নিষ্ক্রিয় থাকার সময় মিনিটে সেট করুন"
   },
   "average": {
     "message": "গড়"
@@ -109,7 +109,7 @@
     "message": "সমস্ততে ফিরে আসুন"
   },
   "backupApprovalInfo": {
-    "message": "আপনি আপনার ডিভাইস হারিয়ে ফেললে, পাসওয়ার্ড ভুলে গেলে, Qnekt রিইনস্টল করতে হলে বা অন্য ডিভাইসে আপনার ওয়ালেট অ্যাক্সেস করার ক্ষেত্রে আপনার ওয়ালেট পুনরুদ্ধার করতে এই গোপন কোডটি প্রয়োজন।"
+    "message": "আপনি আপনার ডিভাইস হারিয়ে ফেললে, পাসওয়ার্ড ভুলে গেলে, Arielt রিইনস্টল করতে হলে বা অন্য ডিভাইসে আপনার ওয়ালেট অ্যাক্সেস করার ক্ষেত্রে আপনার ওয়ালেট পুনরুদ্ধার করতে এই গোপন কোডটি প্রয়োজন।"
   },
   "backupApprovalNotice": {
     "message": "আপনার ওয়ালেট এবং তহবিল সুরক্ষিত রাখতে আপনার গোপন পুনরুদ্ধারের কোড ব্যাক আপ করুন।"
@@ -140,7 +140,7 @@
     "message": "Wyre দিয়ে $1 ক্রয় করুন"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre আপনার Qnekt অ্যাকাউন্টে সরাসরি $1 জমা করতে আপনাকে একটি ক্রেডিট কার্ড ব্যবহার করতে দেয়।"
+    "message": "Wyre আপনার Arielt অ্যাকাউন্টে সরাসরি $1 জমা করতে আপনাকে একটি ক্রেডিট কার্ড ব্যবহার করতে দেয়।"
   },
   "bytes": {
     "message": "বাইটস"
@@ -158,7 +158,7 @@
     "message": "চেন আইডি"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "আপনার হার্ডওয়্যার ওয়ালেটের সাথে সংযোগ করতে আপনাকে Google Chrome এ Qnekt ব্যবহার করতে হবে।  "
+    "message": "আপনার হার্ডওয়্যার ওয়ালেটের সাথে সংযোগ করতে আপনাকে Google Chrome এ Arielt ব্যবহার করতে হবে।  "
   },
   "clickToRevealSeed": {
     "message": "গোপন শব্দগুলি প্রকাশ করতে এখানে ক্লিক করুন"
@@ -197,7 +197,7 @@
     "message": "কোভান টেস্ট নেটওয়ার্কের সাথে সংযোগ করছে"
   },
   "connectingToMainnet": {
-    "message": "মুখ্য Ethereum নেটওয়ার্কের সাথে সংযোগ করছে"
+    "message": "মুখ্য Arielcoin নেটওয়ার্কের সাথে সংযোগ করছে"
   },
   "connectingToRinkeby": {
     "message": "রিঙ্কেবি টেস্ট নেটওয়ার্কের সাথে সংযোগ করছে"
@@ -317,19 +317,19 @@
     "message": "ফ্রেজটি কখনও কারোর সাথে শেয়ার করবেন না।"
   },
   "endOfFlowMessage5": {
-    "message": "ফিসিং থেকে সাবধান! Qnekt কখনই নিজের থেকে আপনার সীড ফ্রেজ জিজ্ঞাসা করবে না।"
+    "message": "ফিসিং থেকে সাবধান! Arielt কখনই নিজের থেকে আপনার সীড ফ্রেজ জিজ্ঞাসা করবে না।"
   },
   "endOfFlowMessage6": {
     "message": "আপনাকে আপনার সীড আবার ব্যাকআপ করতে হলে, আপনি সেটি সেটিংস -> নিরাপত্তায় পাবেন।"
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt আপনার সীডফ্রেজ পুনরুদ্ধার করতে পারবে না। আরও জানুন।"
+    "message": "Arielt আপনার সীডফ্রেজ পুনরুদ্ধার করতে পারবে না। আরও জানুন।"
   },
   "endOfFlowMessage9": {
     "message": "আরও জানুন।"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS নাম বর্তমান নেটওয়ার্কে খুঁজে পাওয়া যায় নি। মূল Ethereum নেটওয়ার্কে বদলানোর চেষ্টা করুন।"
+    "message": "ENS নাম বর্তমান নেটওয়ার্কে খুঁজে পাওয়া যায় নি। মূল Arielcoin নেটওয়ার্কে বদলানোর চেষ্টা করুন।"
   },
   "ensRegistrationError": {
     "message": "ENS নাম নিবন্ধীকরণে ত্রুটি হয়েছে"
@@ -344,10 +344,10 @@
     "message": "আনুমানিক প্রক্রিয়াকরণের সময়"
   },
   "ethereumPublicAddress": {
-    "message": "Ethereum পাবলিক অ্যাড্রেস"
+    "message": "Arielcoin পাবলিক অ্যাড্রেস"
   },
   "etherscanView": {
-    "message": "Etherscan এ অ্যাকাউন্ট দেখুন"
+    "message": "Arielscan এ অ্যাকাউন্ট দেখুন"
   },
   "expandView": {
     "message": "ভিউ সম্প্রসারিত করুন"
@@ -407,7 +407,7 @@
   },
   "getEtherFromFaucet": {
     "message": "$1 এর জন্য একটি ফসেট থেকে ইথার পান",
-    "description": "Displays network name for Ether faucet"
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "শুরু করুন"
@@ -428,7 +428,7 @@
     "message": "একটি হার্ডওয়্যার ওয়ালেট সংযুক্ত করুন"
   },
   "hardwareWalletsMsg": {
-    "message": "আপনি Qnekt এর সাথে ব্যবহার করতে চান এমন একটি হার্ডওয়্যার ওয়ালেট নির্বাচন করুন"
+    "message": "আপনি Arielt এর সাথে ব্যবহার করতে চান এমন একটি হার্ডওয়্যার ওয়ালেট নির্বাচন করুন"
   },
   "here": {
     "message": "এখানে",
@@ -454,7 +454,7 @@
     "message": "অ্যাকাউন্ট আমদানি করুন"
   },
   "importAccountMsg": {
-    "message": "আমদানি করা অ্যাকাউন্টগুলি আপনার গোড়ায় তৈরি করা Qnekt অ্যাকাউন্ট সীডফ্রেজের সাথে সংযুক্ত হবে না। আমদানি করা অ্যাকাউন্টগুলি সম্পর্কে আরও জানুন "
+    "message": "আমদানি করা অ্যাকাউন্টগুলি আপনার গোড়ায় তৈরি করা Arielt অ্যাকাউন্ট সীডফ্রেজের সাথে সংযুক্ত হবে না। আমদানি করা অ্যাকাউন্টগুলি সম্পর্কে আরও জানুন "
   },
   "importAccountSeedPhrase": {
     "message": "সীড ফ্রেজ দিয়ে একটি অ্যাকাউন্ট আমদানি করুন"
@@ -485,7 +485,7 @@
     "message": "প্রাপকের ঠিকানা অবৈধ"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "ETH নেটওয়ার্ক নয়, ছোটো হরফে সেট করা হয়েছে"
+    "message": "ARL নেটওয়ার্ক নয়, ছোটো হরফে সেট করা হয়েছে"
   },
   "invalidBlockExplorerURL": {
     "message": "অবৈধ Block Explorer URL"
@@ -540,7 +540,7 @@
     "message": "লগ আউট করুন"
   },
   "mainnet": {
-    "message": "মূল Ethereum নেটওয়ার্ক"
+    "message": "মূল Arielcoin নেটওয়ার্ক"
   },
   "max": {
     "message": "সর্বাধিক"
@@ -555,10 +555,10 @@
     "message": "বার্তা"
   },
   "metamaskDescription": {
-    "message": "আপনার Ethereum এবং ছড়িয়ে ছিটিয়ে থাকা ওয়েবের সাথে সংযোগ করছে। "
+    "message": "আপনার Arielcoin এবং ছড়িয়ে ছিটিয়ে থাকা ওয়েবের সাথে সংযোগ করছে। "
   },
   "metamaskVersion": {
-    "message": "Qnekt সংস্করণ"
+    "message": "Arielt সংস্করণ"
   },
   "mustSelectOne": {
     "message": "অবশ্যই অন্তত 1টি টোকেন নির্বাচন করতে হবে।"
@@ -571,7 +571,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "ETH এর ঋণাত্মক অর্থরাশিগুলি পাঠাতে পারবে না। "
+    "message": "ARL এর ঋণাত্মক অর্থরাশিগুলি পাঠাতে পারবে না। "
   },
   "networkName": {
     "message": "নেটওয়ার্কের নাম"
@@ -601,8 +601,8 @@
   "newPassword": {
     "message": "নতুন পাসওয়ার্ড (অন্তত 8 অক্ষরের)"
   },
-  "newToQnekt": {
-    "message": "Qnekt এ নতুন?"
+  "newToArielt": {
+    "message": "Arielt এ নতুন?"
   },
   "newTotal": {
     "message": "নতুন সমষ্টি"
@@ -656,7 +656,7 @@
     "message": "MetaMetrics এ অংশগ্রহণ করুন"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Qnekt কে আরও উন্নত করতে আমাদের সহায়তা করার জন্য MetaMetrics এ অংশগ্রহণ করুন"
+    "message": "Arielt কে আরও উন্নত করতে আমাদের সহায়তা করার জন্য MetaMetrics এ অংশগ্রহণ করুন"
   },
   "password": {
     "message": "পাসওয়ার্ড"
@@ -684,7 +684,7 @@
     "message": "প্রাথমিক মুদ্রা"
   },
   "primaryCurrencySettingDescription": {
-    "message": "চেনটিতে (যেমন ETH) দেশীয় মুদ্রায় মানগুলি প্রদর্শনকে অগ্রাধিকার দিতে দেশীয় নির্বাচন করুন। আপনার নির্দেশিত মুদ্রায় মানগুলির প্রদর্শনকে অগ্রাধিকার দিতে নির্দেশিত নির্বাচন করুন।"
+    "message": "চেনটিতে (যেমন ARL) দেশীয় মুদ্রায় মানগুলি প্রদর্শনকে অগ্রাধিকার দিতে দেশীয় নির্বাচন করুন। আপনার নির্দেশিত মুদ্রায় মানগুলির প্রদর্শনকে অগ্রাধিকার দিতে নির্দেশিত নির্বাচন করুন।"
   },
   "privacyMsg": {
     "message": "সম্মত হয়েছেন"
@@ -925,16 +925,16 @@
     "message": "এই কোডটি স্ক্যান করার সময় কেউ আপনার স্ক্রিনটি দেখছে না তা নিশ্চিত করুন"
   },
   "syncWithMobileComplete": {
-    "message": "আপনার ডেটা সফলভাবে সিঙ্ক করা হয়েছে। Qnekt মোবাইল অ্যাপ উপভোগ করুন!"
+    "message": "আপনার ডেটা সফলভাবে সিঙ্ক করা হয়েছে। Arielt মোবাইল অ্যাপ উপভোগ করুন!"
   },
   "syncWithMobileDesc": {
-    "message": "আপনি আপনার অ্যাকাউন্ট এবং তথ্য আপনার মোবাইল ডিভাইস দিয়ে সিঙ্ক করতে পারেন। Qnekt মোবাইল অ্যাপটি খুলুন, \"সেটিংস\" এ যান এবং \"ব্রাউজার এক্সটেনশন থেকে সিঙ্ক করুন\" এ ট্যাপ করুন "
+    "message": "আপনি আপনার অ্যাকাউন্ট এবং তথ্য আপনার মোবাইল ডিভাইস দিয়ে সিঙ্ক করতে পারেন। Arielt মোবাইল অ্যাপটি খুলুন, \"সেটিংস\" এ যান এবং \"ব্রাউজার এক্সটেনশন থেকে সিঙ্ক করুন\" এ ট্যাপ করুন "
   },
   "syncWithMobileDescNewUsers": {
-    "message": "আপনি প্রথমবারের জন্য Qnekt খোলার পরে, শুধু আপনার ফোনে পদক্ষেপগুলি অনুসরণ করুন। "
+    "message": "আপনি প্রথমবারের জন্য Arielt খোলার পরে, শুধু আপনার ফোনে পদক্ষেপগুলি অনুসরণ করুন। "
   },
   "syncWithMobileScanThisCode": {
-    "message": "আপনার Qnekt মোবাইল অ্যাপ দিয়ে এই কোডটি স্ক্যান করুন"
+    "message": "আপনার Arielt মোবাইল অ্যাপ দিয়ে এই কোডটি স্ক্যান করুন"
   },
   "syncWithMobileTitle": {
     "message": "মোবাইল দিয়ে সিঙ্ক করুন"
@@ -1025,7 +1025,7 @@
     "message": "আবার করুন"
   },
   "typePassword": {
-    "message": "আপনার Qnekt পাসওয়ার্ড টাইপ করুন"
+    "message": "আপনার Arielt পাসওয়ার্ড টাইপ করুন"
   },
   "unapproved": {
     "message": "অননুমোদিত"
@@ -1076,7 +1076,7 @@
     "message": "আমাদের ওয়েবসাইট দেখুন"
   },
   "welcome": {
-    "message": "Qnekt এ স্বাগতম"
+    "message": "Arielt এ স্বাগতম"
   },
   "welcomeBack": {
     "message": "পুনরায় স্বাগত!"

@@ -40,7 +40,7 @@ const render = ({ componentProps, contextProps } = {}) => {
     <GasFeeContextProvider {...contextProps}>
       <TransactionDetail
         onEdit={() => {
-          console.log('on edit');
+          // console.log('on edit');
         }}
         rows={[]}
         userAcknowledgedGasMissing

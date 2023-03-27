@@ -431,7 +431,7 @@ export default function BuildQuote({
           string: getValueFromWeiHex({
             value: ethBalance,
             numberOfDecimals: 4,
-            toDenomination: 'ETH',
+            toDenomination: 'ARL',
           }),
         }),
       );

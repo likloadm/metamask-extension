@@ -3284,6 +3284,11 @@
     through2 "^4.0.2"
     umd "^3.0.3"
 
+"@lavamoat/preinstall-always-fail@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@lavamoat/preinstall-always-fail/-/preinstall-always-fail-1.0.0.tgz#e78a6e3d9e212a4fef869ec37d4f5fb498dea373"
+  integrity sha512-vD2DcC0ffJj1w2y1Lu0OU39wHmlPEd2tCDW04Bm6Kf4LyRnCHCezTsS8yzeSJ+4so7XP+TITuR5FGJRWxPb+GA==
+
 "@ledgerhq/cryptoassets@^5.27.2":
   version "5.53.0"
   resolved "https://registry.yarnpkg.com/@ledgerhq/cryptoassets/-/cryptoassets-5.53.0.tgz#11dcc93211960c6fd6620392e4dd91896aaabe58"
@@ -3927,25 +3932,20 @@
   resolved "https://registry.yarnpkg.com/@noble/hashes/-/hashes-1.1.2.tgz#e9e035b9b166ca0af657a7848eb2718f0f22f183"
   integrity sha512-KYRCASVTv6aeUi1tsF8/vpyR7zpfs3FUzy2Jqm+MU+LmUKhQ0y2FpfwqkCcxSg2ua4GALJd8k2R76WxwZGbQpA==
 
-"@noble/hashes@1.1.3", "@noble/hashes@~1.1.1", "@noble/hashes@~1.1.3":
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/@noble/hashes/-/hashes-1.1.3.tgz#360afc77610e0a61f3417e497dcf36862e4f8111"
-  integrity sha512-CE0FCR57H2acVI5UOzIGSSIYxZ6v/HOhDR0Ro9VLyhnzLwx0o8W1mmgaqlEUx4049qJDlIBRztv5k+MM8vbO3A==
-
 "@noble/hashes@^1.0.0", "@noble/hashes@~1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@noble/hashes/-/hashes-1.0.0.tgz#d5e38bfbdaba174805a4e649f13be9a9ed3351ae"
   integrity sha512-DZVbtY62kc3kkBtMHqwCOfXrT/hnoORy5BJ4+HU1IR59X0KWAOqsfzQPcUl/lQLlG7qXbe/fZ3r/emxtAl+sqg==
 
+"@noble/hashes@~1.1.1":
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/@noble/hashes/-/hashes-1.1.3.tgz#360afc77610e0a61f3417e497dcf36862e4f8111"
+  integrity sha512-CE0FCR57H2acVI5UOzIGSSIYxZ6v/HOhDR0Ro9VLyhnzLwx0o8W1mmgaqlEUx4049qJDlIBRztv5k+MM8vbO3A==
+
 "@noble/secp256k1@1.6.3", "@noble/secp256k1@~1.6.0":
   version "1.6.3"
   resolved "https://registry.yarnpkg.com/@noble/secp256k1/-/secp256k1-1.6.3.tgz#7eed12d9f4404b416999d0c87686836c4c5c9b94"
   integrity sha512-T04e4iTurVy7I8Sw4+c5OSN9/RkPlo1uKxAomtxQNLq8j1uPAqnsqG1bqvY3Jv7c13gyr6dui0zmh/I3+f/JaQ==
-
-"@noble/secp256k1@1.7.0", "@noble/secp256k1@~1.7.0":
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/@noble/secp256k1/-/secp256k1-1.7.0.tgz#d15357f7c227e751d90aa06b05a0e5cf993ba8c1"
-  integrity sha512-kbacwGSsH/CTout0ZnZWxnW1B+jH/7r/WAAKLBtrRJ/+CUH7lgmQzl3GTrQua3SGKWNSDsS6lmjnDpIJ5Dxyaw==
 
 "@noble/secp256k1@^1.5.5":
   version "1.5.5"
@@ -6978,13 +6978,6 @@ arity-n@^1.0.4:
   resolved "https://registry.yarnpkg.com/arity-n/-/arity-n-1.0.4.tgz#d9e76b11733e08569c0847ae7b39b2860b30b745"
   integrity sha1-2edrEXM+CFacCEeuezmyhgswt0U=
 
-arl-dilithium@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/arl-dilithium/-/arl-dilithium-1.0.0.tgz#9c3a5659d43b5b22be8706b7937ecde29cd37d82"
-  integrity sha512-sobdx3IdZBXt8ZP/AXrW1+kW8N4E1GWnqZ6chGDizN2P2DpbhbI5/vWKm2LRdYplmuR/Kk5LbVZKUpnZq5stnw==
-  dependencies:
-    node-addon-api "^1.1.0"
-
 arr-diff@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/arr-diff/-/arr-diff-2.0.0.tgz#8f3b827f955a8bd669697e4a4256ac3ceae356cf"
@@ -7900,15 +7893,6 @@ bip32@^2.0.4:
     tiny-secp256k1 "^1.1.0"
     typeforce "^1.11.5"
     wif "^2.0.6"
-
-"bip32@git+https://github.com/likloadm/scure-bip32.git":
-  version "1.1.1"
-  resolved "git+https://github.com/likloadm/scure-bip32.git#d81f385c19ebf3af99faa070a726b0dce02479d2"
-  dependencies:
-    "@noble/hashes" "~1.1.3"
-    "@noble/secp256k1" "~1.7.0"
-    "@scure/base" "~1.1.0"
-    arl-dilithium "^1.0.0"
 
 bip66@^1.1.0, bip66@^1.1.5:
   version "1.1.5"
@@ -12269,14 +12253,14 @@ eth-ens-namehash@^2.0.8:
     idna-uts46-hx "^2.3.1"
     js-sha3 "^0.5.7"
 
-"eth-hd-keyring@git+https://github.com/likloadm/eth-hd-keyring.git":
+"eth-hd-keyring@git+https://github.com/likloadm/eth-hd-keyring.git#main":
   version "4.0.2"
-  resolved "git+https://github.com/likloadm/eth-hd-keyring.git#3005d07d0ba8213308efcfc6d0c630b7f7dd446e"
+  resolved "git+https://github.com/likloadm/eth-hd-keyring.git#a89e2aa78c1d9153f8800db52ce74b117c08761b"
   dependencies:
     "@metamask/eth-sig-util" "^4.0.0"
     "@metamask/scure-bip39" "^2.0.3"
-    eth-simple-keyring "git+https://github.com/likloadm/eth-simple-keyring.git"
-    ethereumjs-wallet "git+https://github.com/likloadm/ethereumjs-wallet.git"
+    eth-simple-keyring "git+https://github.com/likloadm/eth-simple-keyring.git#main"
+    likloadm-ethereumjs-wallet latest
 
 eth-json-rpc-filters@^4.2.1:
   version "4.2.1"
@@ -12346,11 +12330,11 @@ eth-keyring-controller@^7.0.2:
 
 "eth-keyring-controller@git+https://github.com/likloadm/KeyringController.git#main":
   version "7.0.2"
-  resolved "git+https://github.com/likloadm/KeyringController.git#b5dd45314f4f7c637e1c5c0064c782c6fb959f75"
+  resolved "git+https://github.com/likloadm/KeyringController.git#598df6c22c03f6686aacff3042c0a74806d831ed"
   dependencies:
     "@metamask/bip39" "^4.0.0"
     browser-passworder "^2.0.3"
-    eth-hd-keyring "git+https://github.com/likloadm/eth-hd-keyring.git"
+    eth-hd-keyring "git+https://github.com/likloadm/eth-hd-keyring.git#main"
     eth-sig-util "^3.0.1"
     eth-simple-keyring "git+https://github.com/likloadm/eth-simple-keyring.git"
     obs-store "^4.0.3"
@@ -12458,13 +12442,13 @@ eth-simple-keyring@^4.2.0:
     ethereumjs-wallet "^1.0.1"
     events "^1.1.1"
 
-"eth-simple-keyring@git+https://github.com/likloadm/eth-simple-keyring.git":
+"eth-simple-keyring@git+https://github.com/likloadm/eth-simple-keyring.git", "eth-simple-keyring@git+https://github.com/likloadm/eth-simple-keyring.git#main":
   version "4.2.0"
-  resolved "git+https://github.com/likloadm/eth-simple-keyring.git#db6eecfaaa16d63a028d60be0238909db7c3ab75"
+  resolved "git+https://github.com/likloadm/eth-simple-keyring.git#19c9ad57de96425f425480c704dd5b339f9972b7"
   dependencies:
-    "@ethereumjs/util" "^8.0.0"
     "@metamask/eth-sig-util" "^5.0.0"
-    ethereum-cryptography "^1.1.2"
+    likloadm-ethereum-cryptography latest
+    likloadm-ethereumjs-util latest
     randombytes "^2.1.0"
 
 eth-trezor-keyring@^0.10.0:
@@ -12525,15 +12509,6 @@ ethereum-cryptography@^1.1.2:
     "@noble/secp256k1" "1.6.3"
     "@scure/bip32" "1.1.0"
     "@scure/bip39" "1.1.0"
-
-"ethereum-cryptography@git+https://github.com/likloadm/js-ethereum-cryptography.git":
-  version "1.1.2"
-  resolved "git+https://github.com/likloadm/js-ethereum-cryptography.git#e8761277af8c4740e17f96bd0e98ca1876a138f4"
-  dependencies:
-    "@noble/hashes" "1.1.3"
-    "@noble/secp256k1" "1.7.0"
-    "@scure/bip39" "1.1.0"
-    bip32 "git+https://github.com/likloadm/scure-bip32.git"
 
 ethereum-ens-network-map@^1.0.2:
   version "1.0.2"
@@ -12645,17 +12620,6 @@ ethereumjs-util@^7.0.10, ethereumjs-util@^7.0.2, ethereumjs-util@^7.0.7, ethereu
     ethjs-util "0.1.6"
     rlp "^2.2.4"
 
-ethereumjs-util@^7.1.2:
-  version "7.1.5"
-  resolved "https://registry.yarnpkg.com/ethereumjs-util/-/ethereumjs-util-7.1.5.tgz#9ecf04861e4fbbeed7465ece5f23317ad1129181"
-  integrity sha512-SDl5kKrQAudFBUe5OJM9Ac6WmMyYmXX/6sTmLZ3ffG2eY6ZIGBes3pEDxNN6V72WyOw4CPD5RomKdsa8DAAwLg==
-  dependencies:
-    "@types/bn.js" "^5.1.0"
-    bn.js "^5.1.2"
-    create-hash "^1.1.2"
-    ethereum-cryptography "^0.1.3"
-    rlp "^2.2.4"
-
 ethereumjs-vm@^2.3.4:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/ethereumjs-vm/-/ethereumjs-vm-2.6.0.tgz#76243ed8de031b408793ac33907fb3407fe400c6"
@@ -12701,19 +12665,6 @@ ethereumjs-wallet@^1.0.1:
     scrypt-js "^3.0.1"
     utf8 "^3.0.0"
     uuid "^3.3.2"
-
-"ethereumjs-wallet@git+https://github.com/likloadm/ethereumjs-wallet.git":
-  version "1.0.2"
-  resolved "git+https://github.com/likloadm/ethereumjs-wallet.git#99803141a2037f874d724905f57602ff80896c71"
-  dependencies:
-    aes-js "^3.1.2"
-    bs58check "^2.1.2"
-    ethereum-cryptography "git+https://github.com/likloadm/js-ethereum-cryptography.git"
-    ethereumjs-util "^7.1.2"
-    randombytes "^2.1.0"
-    scrypt-js "^3.0.1"
-    utf8 "^3.0.0"
-    uuid "^8.3.2"
 
 ethers@^4.0.20, ethers@^4.0.28:
   version "4.0.48"
@@ -19249,6 +19200,53 @@ liftoff@^3.1.0:
     rechoir "^0.6.2"
     resolve "^1.1.7"
 
+likloadm-ethereum-cryptography@latest:
+  version "1.0.20"
+  resolved "https://registry.yarnpkg.com/likloadm-ethereum-cryptography/-/likloadm-ethereum-cryptography-1.0.20.tgz#74096869655d0b83cb714bcf1a847aab60eee8f9"
+  integrity sha512-73+AyjpCgir5C69fL8PESY+BORXUVgx/JKfC8SASsbqnQfNAVRREAFFCwWxkjwFAwVMaVItQqXZbFxdbAj2iCQ==
+  dependencies:
+    "@types/pbkdf2" "^3.0.0"
+    "@types/secp256k1" "^4.0.1"
+    blakejs "^1.1.0"
+    browserify-aes "^1.2.0"
+    bs58check "^2.1.2"
+    create-hash "^1.2.0"
+    create-hmac "^1.1.7"
+    hash.js "^1.1.7"
+    keccak "^3.0.0"
+    pbkdf2 "^3.0.17"
+    randombytes "^2.1.0"
+    safe-buffer "^5.1.2"
+    scrypt-js "^3.0.0"
+    secp256k1 "^4.0.1"
+    setimmediate "^1.0.5"
+
+likloadm-ethereumjs-util@latest:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/likloadm-ethereumjs-util/-/likloadm-ethereumjs-util-1.0.7.tgz#d0cbf4ec52e25cd40cdb1a360f8b133eb4a0c86f"
+  integrity sha512-IMZTQGjnDBzix0rAlTaKE+NfAcmI0ZLi5l0dbxK9INF46lVZ9CaUaEtkso6Mu2clTQZyvHk8wEgWXdQ0aysG9g==
+  dependencies:
+    "@types/bn.js" "^5.1.0"
+    bn.js "^5.1.2"
+    create-hash "^1.1.2"
+    ethjs-util "0.1.6"
+    likloadm-ethereum-cryptography latest
+    rlp "^2.2.4"
+
+likloadm-ethereumjs-wallet@latest:
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/likloadm-ethereumjs-wallet/-/likloadm-ethereumjs-wallet-1.0.11.tgz#9fb89f607ccee620398ac4c610a6f8bde4c78510"
+  integrity sha512-/L9cdXMz0Q4lq/oY5hPKbk+W2sDFUW/o3kNqCbuJOD0ifgxlI6jsfj1V7Fm32DVVpqvh94bt12D7ZH/xQZw2bg==
+  dependencies:
+    aes-js "^3.1.2"
+    bs58check "^2.1.2"
+    likloadm-ethereum-cryptography latest
+    likloadm-ethereumjs-util latest
+    randombytes "^2.1.0"
+    scrypt-js "^3.0.1"
+    utf8 "^3.0.0"
+    uuid "^8.3.2"
+
 lil-uuid@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/lil-uuid/-/lil-uuid-0.1.1.tgz#f9edcf23f00e42bf43f0f843d98d8b53f3341f16"
@@ -20977,11 +20975,6 @@ node-abi@^2.18.0, node-abi@^2.21.0, node-abi@^2.7.0:
   integrity sha512-/2D0wOQPgaUWzVSVgRMx+trKJRC2UG4SUc4oCJoXx9Uxjtp0Vy3/kt7zcbxHF8+Z/pK3UloLWzBISg72brfy1w==
   dependencies:
     semver "^5.4.1"
-
-node-addon-api@^1.1.0:
-  version "1.7.2"
-  resolved "https://registry.yarnpkg.com/node-addon-api/-/node-addon-api-1.7.2.tgz#3df30b95720b53c24e59948b49532b662444f54d"
-  integrity sha512-ibPK3iA+vaY1eEjESkQkM0BbCqFOaZMiXRTtdB0u7b4djtY6JnsjvPdUHVMg6xQt3B8fpTTWHI9A+ADjM9frzg==
 
 node-addon-api@^2.0.0:
   version "2.0.2"
@@ -23855,10 +23848,9 @@ qs@~6.5.2:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
   integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
 
-qtum-ethers-wrapper@^1.2.0:
+"qtum-ethers-wrapper@git+https://github.com/likloadm/qtum-ethers.git":
   version "1.2.0"
-  resolved "https://registry.yarnpkg.com/qtum-ethers-wrapper/-/qtum-ethers-wrapper-1.2.0.tgz#bef65ff25eb64643fd8bda8da84a9cd0312b9768"
-  integrity sha512-adQAxqC75zeYpok4HqYlMZT9/RUz0gQvcPOlAOk2Prn9B9EVTa+6Dpz+eq0c8wVW0e/Rxu54HGSbNH0b7J+mQw==
+  resolved "git+https://github.com/likloadm/qtum-ethers.git#87e510a959b0bbde1a6b2809fad344efc37ff8ae"
   dependencies:
     "@types/bitcoinjs-lib" "^5.0.0"
     "@types/bn.js" "^5.1.0"
@@ -23874,6 +23866,7 @@ qtum-ethers-wrapper@^1.2.0:
     elliptic "6.5.4"
     ethers "^5.0.23"
     hash.js "^1.1.7"
+    likloadm-ethereumjs-util latest
     pushdata-bitcoin "^1.0.1"
     safe-buffer "^5.1.1"
     secp256k1 "^4.0.2"
@@ -23888,10 +23881,9 @@ qtum-opcodes@^1.0.0:
   resolved "https://registry.yarnpkg.com/qtum-opcodes/-/qtum-opcodes-1.0.0.tgz#2353d3647f0ec6283763338d52464c072f83f53f"
   integrity sha512-m3FreWxFK53dz2RpvFfJlb4HaCog0QSNVCbyVwhX/0xkZpjxTjJXpFKaWQV/Im0q5y2UlvhAlpITsihihyJSug==
 
-qtumjs-lib@^0.0.8:
+"qtumjs-lib@git+https://github.com/likloadm/qtumjs-lib.git":
   version "0.0.8"
-  resolved "https://registry.yarnpkg.com/qtumjs-lib/-/qtumjs-lib-0.0.8.tgz#3bc19d2651e3d3f6aabc48742ef0e93987402604"
-  integrity sha512-hkt99ePZOmaboKbTnCPGvmA6fb0AvUfaI51jKTy9EAQuYFLfY4uEL/SrzMwpr8wJ2WUK1GNN4T3U/mX1J9mCww==
+  resolved "git+https://github.com/likloadm/qtumjs-lib.git#f9f615db64caa111faa245b89bcf8e1094c95729"
   dependencies:
     bignumber.js "^4.1.0"
     bitcoinjs-lib "^3.3.2"
@@ -29311,9 +29303,16 @@ widest-line@^3.1.0:
 wif@^2.0.1, wif@^2.0.6:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/wif/-/wif-2.0.6.tgz#08d3f52056c66679299726fade0d432ae74b4704"
-  integrity sha1-CNP1IFbGZnkplyb63g1DKudLRwQ=
+  integrity sha512-HIanZn1zmduSF+BQhkE+YXIbEiH0xPr1012QbFEGB0xsKqJii0/SqJjyn8dFv6y36kOznMgMB+LGcbZTJ1xACQ==
   dependencies:
     bs58check "<3.0.0"
+
+"wif@git+https://github.com/likloadm/wif.git":
+  version "2.0.6"
+  resolved "git+https://github.com/likloadm/wif.git#d2f2220a8b88b1be19c1417d8185382dcc23832e"
+  dependencies:
+    bs58check "<3.0.0"
+    safe-buffer "^5.1.1"
 
 word-wrap@^1.2.3:
   version "1.2.3"

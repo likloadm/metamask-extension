@@ -1,6 +1,6 @@
 import EventEmitter from 'events';
 import { ObservableStore } from '@metamask/obs-store';
-import { bufferToHex } from 'ethereumjs-util';
+import { bufferToHex } from 'likloadm-ethereumjs-util';
 import { ethErrors } from 'eth-rpc-errors';
 import { MESSAGE_TYPE } from '../../../shared/constants/app';
 import { METAMASK_CONTROLLER_EVENTS } from '../metamask-controller';

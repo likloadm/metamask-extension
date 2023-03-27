@@ -33,7 +33,7 @@
     "message": "dziennik aktywności"
   },
   "addAcquiredTokens": {
-    "message": "Dodaj tokeny pozyskane przy pomocy Qnekt"
+    "message": "Dodaj tokeny pozyskane przy pomocy Arielt"
   },
   "addAlias": {
     "message": "Dodaj alias"
@@ -57,19 +57,19 @@
     "message": "Ilość"
   },
   "appDescription": {
-    "message": "Wtyczka przeglądarki do Ethereum",
+    "message": "Wtyczka przeglądarki do Arielcoin",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Czas automatycznego wylogowania (w minutach)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Ustaw czas bezczynności w minutach, po którym Qnekt wyloguje Cię automatycznie"
+    "message": "Ustaw czas bezczynności w minutach, po którym Arielt wyloguje Cię automatycznie"
   },
   "average": {
     "message": "Średnia"
@@ -109,7 +109,7 @@
     "message": "Wróć do wszystkich"
   },
   "backupApprovalInfo": {
-    "message": "Ten tajny kod jest wymagany do odzyskania portfela w przypadku zgubienia urządzenia, zapomnienia hasła, ponownego zainstalowania Qnekt lub potrzeby uzyskania dostępu do portfela na innym urządzeniu."
+    "message": "Ten tajny kod jest wymagany do odzyskania portfela w przypadku zgubienia urządzenia, zapomnienia hasła, ponownego zainstalowania Arielt lub potrzeby uzyskania dostępu do portfela na innym urządzeniu."
   },
   "backupApprovalNotice": {
     "message": "Utwórz kopię zapasową tajnego kodu odzyskiwania, aby zapewnić bezpieczeństwo swojego portfela i środków."
@@ -140,7 +140,7 @@
     "message": "Kup $1 poprzez Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Dzięki Wyre możesz użyć karty kredytowej, aby wpłacić $1 bezpośrednio na swoje konto Qnekt."
+    "message": "Dzięki Wyre możesz użyć karty kredytowej, aby wpłacić $1 bezpośrednio na swoje konto Arielt."
   },
   "bytes": {
     "message": "Bajty"
@@ -158,7 +158,7 @@
     "message": "Identyfikator łańcucha"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Żeby połączyć się z portfelem sprzętowym, należy uruchomić Qnekt z przeglądarką Google Chrome."
+    "message": "Żeby połączyć się z portfelem sprzętowym, należy uruchomić Arielt z przeglądarką Google Chrome."
   },
   "clickToRevealSeed": {
     "message": "Kliknij tutaj, aby odkryć tajne słowa"
@@ -197,7 +197,7 @@
     "message": "Łączenie z siecią testową Kovan"
   },
   "connectingToMainnet": {
-    "message": "Łączenie z główną siecią Ethereum"
+    "message": "Łączenie z główną siecią Arielcoin"
   },
   "connectingToRinkeby": {
     "message": "Łączenie z siecią testową Rinkeby"
@@ -317,19 +317,19 @@
     "message": "Nigdy nie udostępniaj nikomu tej frazy."
   },
   "endOfFlowMessage5": {
-    "message": "Uważaj na phishing! Qnekt nigdy spontanicznie nie poprosi Cię o podanie frazy seed."
+    "message": "Uważaj na phishing! Arielt nigdy spontanicznie nie poprosi Cię o podanie frazy seed."
   },
   "endOfFlowMessage6": {
     "message": "Jeśli zajdzie konieczność ponownego wykonania kopii zapasowej frazy seed, znajdziesz ją w Ustawieniach -> Zabezpieczenia."
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt nie może odzyskać Twojej frazy seed. Dowiedz się więcej."
+    "message": "Arielt nie może odzyskać Twojej frazy seed. Dowiedz się więcej."
   },
   "endOfFlowMessage9": {
     "message": "Dowiedz się więcej."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Nazwa ENS nie została znaleziona w bieżącej sieci. Spróbuj przełączyć się na Główną sieć Ethereum."
+    "message": "Nazwa ENS nie została znaleziona w bieżącej sieci. Spróbuj przełączyć się na Główną sieć Arielcoin."
   },
   "ensRegistrationError": {
     "message": "Błąd w rejestracji nazwy ENS"
@@ -344,10 +344,10 @@
     "message": "Szacunkowy czas przetwarzania"
   },
   "ethereumPublicAddress": {
-    "message": "Adres publiczny Ethereum"
+    "message": "Adres publiczny Arielcoin"
   },
   "etherscanView": {
-    "message": "Zobacz konto na Etherscan"
+    "message": "Zobacz konto na Arielscan"
   },
   "expandView": {
     "message": "Rozwiń widok"
@@ -394,7 +394,7 @@
     "message": "Bardzo niska cena gazu"
   },
   "gasPriceInfoTooltipContent": {
-    "message": "Cena gazu to ilość kryptowaluty Ether, którą jesteś gotów zapłacić za każdą jednostkę gazu."
+    "message": "Cena gazu to ilość kryptowaluty Ariel, którą jesteś gotów zapłacić za każdą jednostkę gazu."
   },
   "gasUsed": {
     "message": "Użyty gaz"
@@ -407,7 +407,7 @@
   },
   "getEtherFromFaucet": {
     "message": "Zdobądź Eter ze źródła za $1",
-    "description": "Displays network name for Ether faucet"
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Rozpocznij"
@@ -428,7 +428,7 @@
     "message": "Podłącz sprzętowy portfel"
   },
   "hardwareWalletsMsg": {
-    "message": "Wybierz portfel sprzętowy, którego chcesz użyć z Qnektiem"
+    "message": "Wybierz portfel sprzętowy, którego chcesz użyć z Arieltiem"
   },
   "here": {
     "message": "tutaj",
@@ -454,7 +454,7 @@
     "message": "Importuj konto"
   },
   "importAccountMsg": {
-    "message": " Importowane konta nie będą powiązane z Twoją pierwotną frazą seed Qnekt. Dowiedz się więcej o importowaniu kont "
+    "message": " Importowane konta nie będą powiązane z Twoją pierwotną frazą seed Arielt. Dowiedz się więcej o importowaniu kont "
   },
   "importAccountSeedPhrase": {
     "message": "Zaimportuj konto za pomocą frazy seed"
@@ -485,7 +485,7 @@
     "message": "Nieprawidłowy adres odbiorcy"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "To nie jest sieć ETH, zmień na małe litery"
+    "message": "To nie jest sieć ARL, zmień na małe litery"
   },
   "invalidBlockExplorerURL": {
     "message": "Nieprawidłowe Block Explorer URI"
@@ -540,7 +540,7 @@
     "message": "Wyloguj się"
   },
   "mainnet": {
-    "message": "Główna sieć Ethereum"
+    "message": "Główna sieć Arielcoin"
   },
   "max": {
     "message": "Maks."
@@ -552,10 +552,10 @@
     "message": "Wiadomość"
   },
   "metamaskDescription": {
-    "message": "Qnekt to bezpieczny portfel dla Ethereum."
+    "message": "Arielt to bezpieczny portfel dla Arielcoin."
   },
   "metamaskVersion": {
-    "message": "Wersja Qnekt"
+    "message": "Wersja Arielt"
   },
   "mustSelectOne": {
     "message": "Należy wybrać co najmniej 1 token."
@@ -568,7 +568,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Nie można wysłać ujemnych ilości ETH."
+    "message": "Nie można wysłać ujemnych ilości ARL."
   },
   "networkName": {
     "message": "Nazwa sieci"
@@ -598,8 +598,8 @@
   "newPassword": {
     "message": "Nowe hasło (min. 8 znaków)"
   },
-  "newToQnekt": {
-    "message": "Pierwszy raz w Qnekt?"
+  "newToArielt": {
+    "message": "Pierwszy raz w Arielt?"
   },
   "newTotal": {
     "message": "Nowa suma"
@@ -650,7 +650,7 @@
     "message": "Weź udział w MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Weź udział w MetaMetrics, aby pomóc nam ulepszyć Qnekt"
+    "message": "Weź udział w MetaMetrics, aby pomóc nam ulepszyć Arielt"
   },
   "password": {
     "message": "Hasło"
@@ -678,7 +678,7 @@
     "message": "Waluta podstawowa"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Wybierz walutę natywną, aby preferować wyświetlanie wartości w walucie natywnej łańcucha (np. ETH). Wybierz walutę fiat, aby preferować wyświetlanie wartości w wybranej przez siebie walucie fiat."
+    "message": "Wybierz walutę natywną, aby preferować wyświetlanie wartości w walucie natywnej łańcucha (np. ARL). Wybierz walutę fiat, aby preferować wyświetlanie wartości w wybranej przez siebie walucie fiat."
   },
   "privacyMsg": {
     "message": "Polityka prywatności"
@@ -796,7 +796,7 @@
     "message": "Twoja tajna fraza zapasowa ułatwia tworzenie kopii zapasowych i przywracanie konta."
   },
   "secretBackupPhraseWarning": {
-    "message": "OSTRZEŻENIE: Nigdy nie ujawniaj swojej frazy zapasowej. Każdy, kto pozna tę frazę, może bezpowrotnie odebrać Ci kryptowalutę Ether."
+    "message": "OSTRZEŻENIE: Nigdy nie ujawniaj swojej frazy zapasowej. Każdy, kto pozna tę frazę, może bezpowrotnie odebrać Ci kryptowalutę Ariel."
   },
   "securityAndPrivacy": {
     "message": "Bezpieczeństwo i prywatność"
@@ -916,16 +916,16 @@
     "message": "Upewnij się, że nikt inny nie patrzy na Twój ekran podczas skanowania tego kodu"
   },
   "syncWithMobileComplete": {
-    "message": "Twoje dane zostały zsynchronizowane. Miłego korzystania z aplikacji mobilnej Qnekt!"
+    "message": "Twoje dane zostały zsynchronizowane. Miłego korzystania z aplikacji mobilnej Arielt!"
   },
   "syncWithMobileDesc": {
-    "message": "Możesz synchronizować swoje konta i informacje z urządzeniem mobilnym. Otwórz aplikację mobilną Qnekt, przejdź do „Ustawień” i wybierz opcję „Synchronizuj z rozszerzeniem przeglądarki”."
+    "message": "Możesz synchronizować swoje konta i informacje z urządzeniem mobilnym. Otwórz aplikację mobilną Arielt, przejdź do „Ustawień” i wybierz opcję „Synchronizuj z rozszerzeniem przeglądarki”."
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jeśli po raz pierwszy otwierasz aplikację Qnekt Mobile, postępuj zgodnie z instrukcjami w telefonie."
+    "message": "Jeśli po raz pierwszy otwierasz aplikację Arielt Mobile, postępuj zgodnie z instrukcjami w telefonie."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Zeskanuj ten kod za pomocą aplikacji mobilnej Qnekt"
+    "message": "Zeskanuj ten kod za pomocą aplikacji mobilnej Arielt"
   },
   "syncWithMobileTitle": {
     "message": "Synchronizuj z telefonem"
@@ -934,7 +934,7 @@
     "message": "Regulamin"
   },
   "testFaucet": {
-    "message": "Źródło testowego ETH"
+    "message": "Źródło testowego ARL"
   },
   "thisWillCreate": {
     "message": "Utworzony zostanie nowy portfel i fraza seed"
@@ -1064,7 +1064,7 @@
     "message": "Odwiedź naszą stronę"
   },
   "welcome": {
-    "message": "Witaj w Qnekt"
+    "message": "Witaj w Arielt"
   },
   "welcomeBack": {
     "message": "Witaj z powrotem!"

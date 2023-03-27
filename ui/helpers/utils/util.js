@@ -433,17 +433,18 @@ export function clearClipboard() {
 
 export function getQtumAddressFromHex(_address, _chainId) {
   let version;
-  switch (_chainId) {
-    case '0x22B8':
-      version = 58;
-      break;
-    case '0x22B9':
-      version = 120;
-      break;
-    default:
-      version = 120;
-      break;
-  }
+//  switch (_chainId) {
+//    case '0x22B8':
+//      version = 58;
+//      break;
+//    case '0x22B9':
+//      version = 120;
+//      break;
+//    default:
+//      version = 120;
+//      break;
+//  }
+  version = 58;
   const hash = Buffer.from(_address.slice(2), 'hex');
   return qtum.address.toBase58Check(hash, version);
 }

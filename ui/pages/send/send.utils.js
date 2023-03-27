@@ -47,7 +47,6 @@ function isBalanceSufficient({
     bBase: 16,
     toNumericBase: 'hex',
   });
-
   const balanceIsSufficient = conversionGTE(
     {
       value: balance,
@@ -70,7 +69,6 @@ function isTokenBalanceSufficient({ amount = '0x0', tokenBalance, decimals }) {
   const amountInDec = conversionUtil(amount, {
     fromNumericBase: 'hex',
   });
-
   const tokenBalanceIsSufficient = conversionGTE(
     {
       value: tokenBalance,

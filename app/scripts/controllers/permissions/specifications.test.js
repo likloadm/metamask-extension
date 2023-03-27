@@ -86,7 +86,7 @@ describe('PermissionController specifications', () => {
 
           [null, 'foo', {}, []].forEach((invalidValue) => {
             expect(() => validator({ value: invalidValue })).toThrow(
-              /Expected non-empty array of Ethereum addresses\.$/u,
+              /Expected non-empty array of Arielcoin addresses\.$/u,
             );
           });
         });
@@ -99,7 +99,7 @@ describe('PermissionController specifications', () => {
 
           [[{}], [[]], [null], ['']].forEach((invalidValue) => {
             expect(() => validator({ value: invalidValue })).toThrow(
-              /Expected an array of Ethereum addresses. Received:/u,
+              /Expected an array of Arielcoin addresses. Received:/u,
             );
           });
         });

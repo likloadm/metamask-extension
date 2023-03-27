@@ -33,7 +33,7 @@
     "message": "Дневник на дейността"
   },
   "addAcquiredTokens": {
-    "message": "Добавете жетоните, които сте придобили с помощта на Qnekt"
+    "message": "Добавете жетоните, които сте придобили с помощта на Arielt"
   },
   "addAlias": {
     "message": "Добавете псевдоним"
@@ -61,15 +61,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Таймер за автоматично излизане (минути)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Задайте времето на неактивност в минути, преди Qnekt автоматично да Ви отпише от акаунта"
+    "message": "Задайте времето на неактивност в минути, преди Arielt автоматично да Ви отпише от акаунта"
   },
   "average": {
     "message": "Средно аритметично"
@@ -109,7 +109,7 @@
     "message": "Назад към всички"
   },
   "backupApprovalInfo": {
-    "message": "Този секретен код е необходим за възстановяване на портфейла ви, в случай че загубите устройството си, забравите паролата си, трябва да инсталирате отново Qnekt или искате да получите достъп до портфейла си на друго устройство."
+    "message": "Този секретен код е необходим за възстановяване на портфейла ви, в случай че загубите устройството си, забравите паролата си, трябва да инсталирате отново Arielt или искате да получите достъп до портфейла си на друго устройство."
   },
   "backupApprovalNotice": {
     "message": "Раправете резервно копие на вашия Secret Recovery код, за да запазите портфейла и средствата си."
@@ -140,7 +140,7 @@
     "message": "Купете $1 с Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre ви позволява да използвате кредитна карта, за да депозирате $1 право във вашата Qnekt сметка."
+    "message": "Wyre ви позволява да използвате кредитна карта, за да депозирате $1 право във вашата Arielt сметка."
   },
   "bytes": {
     "message": "Байта"
@@ -158,7 +158,7 @@
     "message": "Идентификатор на веригата"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "За да се свържете с хардуерния си портфейл, трябва да използвате Qnekt в Google Chrome."
+    "message": "За да се свържете с хардуерния си портфейл, трябва да използвате Arielt в Google Chrome."
   },
   "clickToRevealSeed": {
     "message": "Кликнете тук, за да разкриете тайните думи"
@@ -197,7 +197,7 @@
     "message": "Свързване с тестовата мрежа на Kovan"
   },
   "connectingToMainnet": {
-    "message": "Свързване с главната мрежа Ethereum"
+    "message": "Свързване с главната мрежа Arielcoin"
   },
   "connectingToRinkeby": {
     "message": "Свързване с тестова мрежа на Rinkeby"
@@ -317,13 +317,13 @@
     "message": "Никога не споделяйте фразата с никого."
   },
   "endOfFlowMessage5": {
-    "message": "Внимавайте с фишинга! Qnekt никога няма да поиска спонтанно вашата фраза зародиш."
+    "message": "Внимавайте с фишинга! Arielt никога няма да поиска спонтанно вашата фраза зародиш."
   },
   "endOfFlowMessage6": {
     "message": "Ако отново трябва да архивирате основната си фраза, можете да я намерите в Настройки -> Защита."
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt не може да възстанови ключовата Ви фраза. Научете повече."
+    "message": "Arielt не може да възстанови ключовата Ви фраза. Научете повече."
   },
   "endOfFlowMessage9": {
     "message": "Научете повече."
@@ -347,7 +347,7 @@
     "message": "Публичен адрес за етереум"
   },
   "etherscanView": {
-    "message": "Преглед на акаунта в Etherscan"
+    "message": "Преглед на акаунта в Arielscan"
   },
   "expandView": {
     "message": "Разгъване на изглед"
@@ -402,8 +402,8 @@
     "message": "Вземете етер"
   },
   "getEtherFromFaucet": {
-    "message": "Вземете Ether от фосет за $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "Вземете Ariel от фосет за $1",
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Първи стъпки"
@@ -424,7 +424,7 @@
     "message": "Свържете хардуерен портфейл"
   },
   "hardwareWalletsMsg": {
-    "message": "Изберете хардуерен портфейл, който искате да използвате с Qnekt"
+    "message": "Изберете хардуерен портфейл, който искате да използвате с Arielt"
   },
   "here": {
     "message": "тук",
@@ -481,7 +481,7 @@
     "message": "Адресът на получателя е невалиден"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Не е ETH мрежа, задаване на малки букви"
+    "message": "Не е ARL мрежа, задаване на малки букви"
   },
   "invalidBlockExplorerURL": {
     "message": "Невалиден Block Explorer URL адрес"
@@ -551,10 +551,10 @@
     "message": "Съобщение"
   },
   "metamaskDescription": {
-    "message": "Свързва ви с Ethereum и децентрализираната мрежа."
+    "message": "Свързва ви с Arielcoin и децентрализираната мрежа."
   },
   "metamaskVersion": {
-    "message": "Версия на Qnekt"
+    "message": "Версия на Arielt"
   },
   "mustSelectOne": {
     "message": "Трябва да изберете поне 1 жетон."
@@ -567,7 +567,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Не може да изпраща отрицателни суми от ETH."
+    "message": "Не може да изпраща отрицателни суми от ARL."
   },
   "networkName": {
     "message": "Име на мрежата"
@@ -597,8 +597,8 @@
   "newPassword": {
     "message": "Нова парола (мин. 8 символа)"
   },
-  "newToQnekt": {
-    "message": "Нови ли сте в Qnekt?"
+  "newToArielt": {
+    "message": "Нови ли сте в Arielt?"
   },
   "newTotal": {
     "message": "Ново общо"
@@ -652,7 +652,7 @@
     "message": "Участвайте в MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Участвайте в MetaMetrics, за да ни помогнете да подобрим Qnekt"
+    "message": "Участвайте в MetaMetrics, за да ни помогнете да подобрим Arielt"
   },
   "password": {
     "message": "Парола"
@@ -680,7 +680,7 @@
     "message": "Основна валута"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Изберете местна, за да приоритизирате показването на стойности в основната валута на веригата (например ETH). Изберете Fiat, за да поставите приоритет на показването на стойности в избраната от вас fiat валута."
+    "message": "Изберете местна, за да приоритизирате показването на стойности в основната валута на веригата (например ARL). Изберете Fiat, за да поставите приоритет на показването на стойности в избраната от вас fiat валута."
   },
   "privacyMsg": {
     "message": "Политика за поверителност"
@@ -921,16 +921,16 @@
     "message": "Уверете се, че никой друг не гледа екрана ви, когато сканирате този код"
   },
   "syncWithMobileComplete": {
-    "message": "Вашите данни са синхронизирани успешно. Насладете се на мобилното приложение Qnekt!"
+    "message": "Вашите данни са синхронизирани успешно. Насладете се на мобилното приложение Arielt!"
   },
   "syncWithMobileDesc": {
-    "message": "Можете да синхронизирате вашите акаунти и информация с мобилното си устройство. Отворете мобилното приложение Qnekt, отидете на „Настройки“ и докоснете „Синхронизиране от разширението на браузъра“"
+    "message": "Можете да синхронизирате вашите акаунти и информация с мобилното си устройство. Отворете мобилното приложение Arielt, отидете на „Настройки“ и докоснете „Синхронизиране от разширението на браузъра“"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Ако отворите приложението Qnekt Mobile за първи път, просто следвайте стъпките в телефона си."
+    "message": "Ако отворите приложението Arielt Mobile за първи път, просто следвайте стъпките в телефона си."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Сканирайте този код с вашето мобилно приложение Qnekt"
+    "message": "Сканирайте този код с вашето мобилно приложение Arielt"
   },
   "syncWithMobileTitle": {
     "message": "Синхронизиране с мобилни устройства"
@@ -1021,7 +1021,7 @@
     "message": "Нов опит"
   },
   "typePassword": {
-    "message": "Въведете паролата си за Qnekt"
+    "message": "Въведете паролата си за Arielt"
   },
   "unapproved": {
     "message": "Неодобрено"
@@ -1072,7 +1072,7 @@
     "message": "Посетете нашият уеб сайт"
   },
   "welcome": {
-    "message": "Добре дошли в Qnekt"
+    "message": "Добре дошли в Arielt"
   },
   "welcomeBack": {
     "message": "Добре дошли отново!"

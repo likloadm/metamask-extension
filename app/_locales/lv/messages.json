@@ -33,7 +33,7 @@
     "message": "darbību žurnāls"
   },
   "addAcquiredTokens": {
-    "message": "Pievienojiet marķierus, ko ieguvāt, izmantojot Qnekt"
+    "message": "Pievienojiet marķierus, ko ieguvāt, izmantojot Arielt"
   },
   "addAlias": {
     "message": "Pievienot segvārdu"
@@ -57,19 +57,19 @@
     "message": "Apjoms"
   },
   "appDescription": {
-    "message": "Ethereum maks pārlūkā",
+    "message": "Arielcoin maks pārlūkā",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Automātiskās izrakstīšanās taimeris (minūtes)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Iestatiet bezdarbības laiku minūtēs, pēc kura Qnekt veiks automātisku izrakstīšanu"
+    "message": "Iestatiet bezdarbības laiku minūtēs, pēc kura Arielt veiks automātisku izrakstīšanu"
   },
   "average": {
     "message": "Vidēji"
@@ -109,7 +109,7 @@
     "message": "Atgriezties pie visiem"
   },
   "backupApprovalInfo": {
-    "message": "Šis slepenais kods ir nepieciešams, lai atjaunotu jūsu maku, ja pazaudējat ierīci, aizmirstat paroli, jāpārinstalē Qnekt vai vēlaties piekļūt makam no citas ierīces."
+    "message": "Šis slepenais kods ir nepieciešams, lai atjaunotu jūsu maku, ja pazaudējat ierīci, aizmirstat paroli, jāpārinstalē Arielt vai vēlaties piekļūt makam no citas ierīces."
   },
   "backupApprovalNotice": {
     "message": "Dublējiet savu slepeno atgūšanas kodu, lai maks un līdzekļi atrastos drošībā."
@@ -140,7 +140,7 @@
     "message": "Pirkt $1 ar Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre ļauj noguldīt $1 tieši jūsu Qnekt kontā, izmantojot kredītkarti."
+    "message": "Wyre ļauj noguldīt $1 tieši jūsu Arielt kontā, izmantojot kredītkarti."
   },
   "bytes": {
     "message": "Baiti"
@@ -158,7 +158,7 @@
     "message": "Ķēdes ID"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Qnekt ir jāpalaiž pārlūkprogrammā Google Chrome, lai varētu pievienot aparatūras maku."
+    "message": "Arielt ir jāpalaiž pārlūkprogrammā Google Chrome, lai varētu pievienot aparatūras maku."
   },
   "clickToRevealSeed": {
     "message": "Klikšķiniet šeit, lai skatītu slepenos vārdus"
@@ -197,7 +197,7 @@
     "message": "Savienojas ar Kovan testa tīklu"
   },
   "connectingToMainnet": {
-    "message": "Savienojas ar galveno Ethereum tīklu"
+    "message": "Savienojas ar galveno Arielcoin tīklu"
   },
   "connectingToRinkeby": {
     "message": "Pieslēdzas Rinkeby testa tīklam"
@@ -317,19 +317,19 @@
     "message": "Nekad neizpaudiet šo frāzi citiem cilvēkiem."
   },
   "endOfFlowMessage5": {
-    "message": "Uzmanieties no pikšķerēšanas! Qnekt nekad pēkšņi nelūgs norādīt atkopšanas frāzi."
+    "message": "Uzmanieties no pikšķerēšanas! Arielt nekad pēkšņi nelūgs norādīt atkopšanas frāzi."
   },
   "endOfFlowMessage6": {
     "message": "Ja nepieciešams atkārtoti dublēt atkopšanas frāzi, varat to atrast, dodoties uz Iestatījumi -> Drošība."
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt nevar atjaunot jūsu atkopšanas frāzi. Uzzināt vairāk."
+    "message": "Arielt nevar atjaunot jūsu atkopšanas frāzi. Uzzināt vairāk."
   },
   "endOfFlowMessage9": {
     "message": "Uzzināt vairāk."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Šajā tīklā ENS nosaukums nav atrasts. Pamēģiniet pārslēgties uz galveno Ethereum tīklu."
+    "message": "Šajā tīklā ENS nosaukums nav atrasts. Pamēģiniet pārslēgties uz galveno Arielcoin tīklu."
   },
   "ensRegistrationError": {
     "message": "Kļūda ENS vārda reģistrācijā"
@@ -344,10 +344,10 @@
     "message": "Aprēķinātais apstrādes laiks"
   },
   "ethereumPublicAddress": {
-    "message": "Ethereum publiskā adrese"
+    "message": "Arielcoin publiskā adrese"
   },
   "etherscanView": {
-    "message": "Skatīt kontu ar Etherscan"
+    "message": "Skatīt kontu ar Arielscan"
   },
   "expandView": {
     "message": "Izvērst skatījumu"
@@ -390,7 +390,7 @@
     "message": "Ārkārtīgi zema Gas cena"
   },
   "gasPriceInfoTooltipContent": {
-    "message": "Gas cena norāda Ether summu, ko vēlaties maksāt par katru Gas vienību."
+    "message": "Gas cena norāda Ariel summu, ko vēlaties maksāt par katru Gas vienību."
   },
   "gasUsed": {
     "message": "Izlietotie Gas"
@@ -399,11 +399,11 @@
     "message": "Vispārīgi"
   },
   "getEther": {
-    "message": "Saņemt Ether"
+    "message": "Saņemt Ariel"
   },
   "getEtherFromFaucet": {
-    "message": "Vai vēlaties $1 iegūt Ether no krāna?",
-    "description": "Displays network name for Ether faucet"
+    "message": "Vai vēlaties $1 iegūt Ariel no krāna?",
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Sākt darbu"
@@ -424,7 +424,7 @@
     "message": "Pieslēdziet aparatūras maku"
   },
   "hardwareWalletsMsg": {
-    "message": "Atlasiet aparatūras maku lietošanai ar Qnekt"
+    "message": "Atlasiet aparatūras maku lietošanai ar Arielt"
   },
   "here": {
     "message": "šeit",
@@ -450,7 +450,7 @@
     "message": "Importēt kontu"
   },
   "importAccountMsg": {
-    "message": "Importētie konti netiks piesaistīti sākotnēji izveidotā Qnekt konta atkopšanas frāzei. Uzziniet vairāk par importētajiem kontiem"
+    "message": "Importētie konti netiks piesaistīti sākotnēji izveidotā Arielt konta atkopšanas frāzei. Uzziniet vairāk par importētajiem kontiem"
   },
   "importAccountSeedPhrase": {
     "message": "Importēt kontu ar atkopšanas frāzi"
@@ -481,7 +481,7 @@
     "message": "Nederīga saņēmēja adrese"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Nav ETH tīkls, iestatīti mazie burti"
+    "message": "Nav ARL tīkls, iestatīti mazie burti"
   },
   "invalidBlockExplorerURL": {
     "message": "Nederīgs Block Explorer URL"
@@ -536,7 +536,7 @@
     "message": "Izrakstīties"
   },
   "mainnet": {
-    "message": "Galvenais Ethereum tīkls"
+    "message": "Galvenais Arielcoin tīkls"
   },
   "max": {
     "message": "Maks."
@@ -551,10 +551,10 @@
     "message": "Ziņojums"
   },
   "metamaskDescription": {
-    "message": "Veido savienojumu ar Ethereum un decentralizēto tīmekli."
+    "message": "Veido savienojumu ar Arielcoin un decentralizēto tīmekli."
   },
   "metamaskVersion": {
-    "message": "Qnekt versija"
+    "message": "Arielt versija"
   },
   "mustSelectOne": {
     "message": "Jāatlasa vismaz 1 marķieris."
@@ -567,7 +567,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Nav iespējams nosūtīt negatīvu ETH summu."
+    "message": "Nav iespējams nosūtīt negatīvu ARL summu."
   },
   "networkName": {
     "message": "Tīkla nosaukums"
@@ -597,8 +597,8 @@
   "newPassword": {
     "message": "Jauna parole (vism. 8 rakstzīmes)"
   },
-  "newToQnekt": {
-    "message": "Nepazīstat Qnekt?"
+  "newToArielt": {
+    "message": "Nepazīstat Arielt?"
   },
   "newTotal": {
     "message": "Jaunā kopsumma"
@@ -680,7 +680,7 @@
     "message": "Primārā valūta"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Atlasīt vietējo, lai piešķirtu attēlotajām vērtībām prioritātes ķēdes vietējā vērtībā (piemēram, ETH). Atlasiet Fiat, lai piešķirtu augstāku prioritāti vērtībām jūsu atlasītajā fiat valūtā."
+    "message": "Atlasīt vietējo, lai piešķirtu attēlotajām vērtībām prioritātes ķēdes vietējā vērtībā (piemēram, ARL). Atlasiet Fiat, lai piešķirtu augstāku prioritāti vērtībām jūsu atlasītajā fiat valūtā."
   },
   "privacyMsg": {
     "message": "Privātuma politika"
@@ -798,7 +798,7 @@
     "message": "Ar slepeno atgūšanas frāzi ir vieglāk dublēt un atjaunot kontu."
   },
   "secretBackupPhraseWarning": {
-    "message": "BRĪDINĀJUMS! Nekādā gadījumā neizpaudiet savu rezerves frāzi. Ikviens, kam pieejama šī frāze, var uz visiem laikiem pārņemt jūsu Ether."
+    "message": "BRĪDINĀJUMS! Nekādā gadījumā neizpaudiet savu rezerves frāzi. Ikviens, kam pieejama šī frāze, var uz visiem laikiem pārņemt jūsu Ariel."
   },
   "securityAndPrivacy": {
     "message": "Drošība un konfidencialitāte"
@@ -921,16 +921,16 @@
     "message": "Pārliecinieties, ka neviens cits neskatās jūsu ekrānā, kad skenējat šo kodu."
   },
   "syncWithMobileComplete": {
-    "message": "Jūsu dati sekmīgi sinhronizēti. Patīkamu Qnekt mobilās lietotnes lietošanu!"
+    "message": "Jūsu dati sekmīgi sinhronizēti. Patīkamu Arielt mobilās lietotnes lietošanu!"
   },
   "syncWithMobileDesc": {
-    "message": "Jūs varat sinhronizēt savus kontus un informāciju ar mobilo ierīci. Atveriet Qnekt mobilo lietotni, ejiet uz \"Iestatījumi\" un pieskarieties pie \"Sinhronizēt no pārlūka paplašinājuma\""
+    "message": "Jūs varat sinhronizēt savus kontus un informāciju ar mobilo ierīci. Atveriet Arielt mobilo lietotni, ejiet uz \"Iestatījumi\" un pieskarieties pie \"Sinhronizēt no pārlūka paplašinājuma\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Ja esat pirmoreiz atvēris Qnekt mobilo lietotni, vienkārši sekojiet norādēm tālrunī."
+    "message": "Ja esat pirmoreiz atvēris Arielt mobilo lietotni, vienkārši sekojiet norādēm tālrunī."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Noskenējiet šo kodu ar Qnekt mobilo lietotni"
+    "message": "Noskenējiet šo kodu ar Arielt mobilo lietotni"
   },
   "syncWithMobileTitle": {
     "message": "Sinhronizēt ar tālruni"
@@ -1021,7 +1021,7 @@
     "message": "Mēģināt vēlreiz"
   },
   "typePassword": {
-    "message": "Ievadiet savu Qnekt paroli"
+    "message": "Ievadiet savu Arielt paroli"
   },
   "unapproved": {
     "message": "Nav apstiprināts"
@@ -1072,7 +1072,7 @@
     "message": "Apmeklējiet mūsu tīmekļa vietni"
   },
   "welcome": {
-    "message": "Laipni lūgti Qnekt"
+    "message": "Laipni lūgti Arielt"
   },
   "welcomeBack": {
     "message": "Ar atgriešanos!"

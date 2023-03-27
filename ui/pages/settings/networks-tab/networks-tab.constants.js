@@ -32,31 +32,31 @@ const defaultNetworksData = [
     providerType: QTUM_MAINNET,
     rpcUrl: QTUM_MAINNET_RPC_URL,
     chainId: QTUM_MAINNET_CHAIN_ID,
-    ticker: 'QTUM',
+    ticker: 'ARL',
     rpcPrefs: {
       blockExplorerUrl: "https://qtum.info/",
     },
   },
-  {
-    labelKey: QTUM_TESTNET,
-    iconColor: '#29B6AF',
-    providerType: QTUM_TESTNET,
-    rpcUrl: QTUM_TESTNET_RPC_URL,
-    chainId: QTUM_TESTNET_CHAIN_ID,
-    ticker: 'QTUM',
-    rpcPrefs: {
-      blockExplorerUrl: "https://testnet.qtum.info/",
-    },
-  },
-  {
-    labelKey: QTUM_REGTEST,
-    iconColor: '#29B6AF',
-    providerType: NETWORK_TYPE_RPC,
-    rpcUrl: QTUM_REGTEST_RPC_URL,
-    chainId: QTUM_REGTEST_CHAIN_ID,
-    ticker: 'QTUM',
-    // blockExplorerUrl: 'https://etherscan.io',
-  },
+//  {
+//    labelKey: QTUM_TESTNET,
+//    iconColor: '#29B6AF',
+//    providerType: QTUM_TESTNET,
+//    rpcUrl: QTUM_TESTNET_RPC_URL,
+//    chainId: QTUM_TESTNET_CHAIN_ID,
+//    ticker: 'QTUM',
+//    rpcPrefs: {
+//      blockExplorerUrl: "https://testnet.qtum.info/",
+//    },
+//  },
+//  {
+//    labelKey: QTUM_REGTEST,
+//    iconColor: '#29B6AF',
+//    providerType: NETWORK_TYPE_RPC,
+//    rpcUrl: QTUM_REGTEST_RPC_URL,
+//    chainId: QTUM_REGTEST_CHAIN_ID,
+//    ticker: 'QTUM',
+//    // blockExplorerUrl: 'https://etherscan.io',
+//  },
   /*
   {
     labelKey: MAINNET,

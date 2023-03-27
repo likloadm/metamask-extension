@@ -6,7 +6,7 @@ import rootReducer from '../ducks';
 export default function configureStore(initialState) {
   let storeEnhancers = applyMiddleware(thunkMiddleware);
 
-  if (process.env.METAMASK_DEBUG && !process.env.IN_TEST) {
+  if (false && process.env.METAMASK_DEBUG && !process.env.IN_TEST) {
     const composeEnhancers = composeWithDevTools({
       name: 'MetaMask',
       hostname: 'localhost',

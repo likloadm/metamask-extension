@@ -66,7 +66,7 @@
     "message": "秘密のリカバリーフレーズでウォレットにアクセス"
   },
   "accessYourWalletWithSRPDescription": {
-    "message": "Qnektはユーザーのパスワードを復元できません。代わりに秘密のリカバリーフレーズを使用して所有者を確認し、ウォレットを復元して新しいパスワードを設定します。まずはじめに、ウォレットの作成時に提供された秘密のリカバリーフレーズを入力してください。$1",
+    "message": "Arieltはユーザーのパスワードを復元できません。代わりに秘密のリカバリーフレーズを使用して所有者を確認し、ウォレットを復元して新しいパスワードを設定します。まずはじめに、ウォレットの作成時に提供された秘密のリカバリーフレーズを入力してください。$1",
     "description": "$1 is the words 'Learn More' from key 'learnMore', separated here so that it can be added as a link"
   },
   "accessingYourCamera": {
@@ -116,7 +116,7 @@
     "message": "ニックネームを追加"
   },
   "addAcquiredTokens": {
-    "message": "Qnektを使用して取得したトークンを追加します"
+    "message": "Arieltを使用して取得したトークンを追加します"
   },
   "addAlias": {
     "message": "別名を追加"
@@ -129,13 +129,13 @@
   },
   "addCustomTokenByContractAddress": {
     "message": "トークンが見つからない場合、アドレスをペーストして手動でトークンを追加できます。トークンコントラクトアドレスは$1にあります。",
-    "description": "$1 is a blockchain explorer for a specific network, e.g. Etherscan for Ethereum"
+    "description": "$1 is a blockchain explorer for a specific network, e.g. Arielscan for Arielcoin"
   },
   "addEthereumChainConfirmationDescription": {
-    "message": "これにより、このネットワークはQnekt内で使用できるようになります。"
+    "message": "これにより、このネットワークはArielt内で使用できるようになります。"
   },
   "addEthereumChainConfirmationRisks": {
-    "message": "Qnektはカスタム ネットワークを検証しません。"
+    "message": "Arieltはカスタム ネットワークを検証しません。"
   },
   "addEthereumChainConfirmationRisksLearnMore": {
     "message": "$1の詳細。",
@@ -256,15 +256,15 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -324,7 +324,7 @@
     "message": "オートロックタイマー (分)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Qnektがロックされるまでのアイドル時間を分単位で設定します。"
+    "message": "Arieltがロックされるまでのアイドル時間を分単位で設定します。"
   },
   "average": {
     "message": "平均"
@@ -336,7 +336,7 @@
     "message": "一覧に戻る"
   },
   "backupApprovalInfo": {
-    "message": "このシークレット コードは、デバイスをなくしたとき、パスワードを忘れたとき、Qnektの再インストールが必要なとき、または別のデバイスでウォレットにアクセスするときに必要です。"
+    "message": "このシークレット コードは、デバイスをなくしたとき、パスワードを忘れたとき、Arieltの再インストールが必要なとき、または別のデバイスでウォレットにアクセスするときに必要です。"
   },
   "backupApprovalNotice": {
     "message": "シークレットリカバリコードをバックアップして、ウォレットと資金の安全を確保してください。"
@@ -357,10 +357,10 @@
     "message": "基本"
   },
   "betaMetamaskDescription": {
-    "message": "Qnektは何百万人もに信頼されている安全なウォレットで、誰もがWeb3の世界にアクセスできるようにしています。"
+    "message": "Arieltは何百万人もに信頼されている安全なウォレットで、誰もがWeb3の世界にアクセスできるようにしています。"
   },
   "betaMetamaskDescriptionExplanation": {
-    "message": "このバージョンを使うと、リリース前に今後の機能をテストできます。皆様からのご意見は、可能な限り最高のバージョンのQnektを開発するうえで参考にさせていただきます。Qnektベータの使用には、標準の$1および弊社の$2が適用されます。ベータ版のため、バグのリスクが高くなる可能性があります。 続行することにより、これらのリスクと、弊社の利用規約およびベータ規約に記載されているリスクを承認し、これらに同意したものとみなされます。",
+    "message": "このバージョンを使うと、リリース前に今後の機能をテストできます。皆様からのご意見は、可能な限り最高のバージョンのArieltを開発するうえで参考にさせていただきます。Arieltベータの使用には、標準の$1および弊社の$2が適用されます。ベータ版のため、バグのリスクが高くなる可能性があります。 続行することにより、これらのリスクと、弊社の利用規約およびベータ規約に記載されているリスクを承認し、これらに同意したものとみなされます。",
     "description": "$1 represents localization item betaMetamaskDescriptionExplanationTermsLinkText.  $2 represents localization item betaMetamaskDescriptionExplanationBetaTermsLinkText"
   },
   "betaMetamaskDescriptionExplanationBetaTermsLinkText": {
@@ -370,10 +370,10 @@
     "message": "利用規約"
   },
   "betaMetamaskVersion": {
-    "message": "Qnektベータバージョン"
+    "message": "Arieltベータバージョン"
   },
   "betaWelcome": {
-    "message": "Qnektベータへようこそ"
+    "message": "Arieltベータへようこそ"
   },
   "blockExplorerAccountAction": {
     "message": "アカウント",
@@ -385,7 +385,7 @@
   },
   "blockExplorerSwapAction": {
     "message": "スワップ",
-    "description": "This is used with viewOnEtherscan e.g View Swap on Etherscan"
+    "description": "This is used with viewOnEtherscan e.g View Swap on Arielscan"
   },
   "blockExplorerUrl": {
     "message": "ブロックエクスプローラーのURL"
@@ -407,7 +407,7 @@
     "message": "連絡先リストを作成する"
   },
   "builtAroundTheWorld": {
-    "message": "Qnektは、世界中でデザイン・開発されています。"
+    "message": "Arieltは、世界中でデザイン・開発されています。"
   },
   "busy": {
     "message": "ビジー状態"
@@ -432,21 +432,21 @@
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithMoonPayDescription": {
-    "message": "MoonPay は 145 か国以上で、Visa、Mastercard、Apple / Google / Samsung Pay、銀行送金などの一般的な支払方法に対応しています。トークンは Qnekt アカウントに入金されます。"
+    "message": "MoonPay は 145 か国以上で、Visa、Mastercard、Apple / Google / Samsung Pay、銀行送金などの一般的な支払方法に対応しています。トークンは Arielt アカウントに入金されます。"
   },
   "buyCryptoWithTransak": {
     "message": "Transak で $1 を購入",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithTransakDescription": {
-    "message": "Transak は、100 か国以上でクレジット・デビットカード、Apple Pay、MobiKwik、銀行送金 (場所による) に対応しています。$1 は Qnekt アカウントに直接入金されます。",
+    "message": "Transak は、100 か国以上でクレジット・デビットカード、Apple Pay、MobiKwik、銀行送金 (場所による) に対応しています。$1 は Arielt アカウントに直接入金されます。",
     "description": "$1 represents the crypto symbol to be purchased"
   },
   "buyWithWyre": {
     "message": "Wyreで$1を購入"
   },
   "buyWithWyreDescription": {
-    "message": "簡単なオンボーディングプロセスで最高 $ 1000 購入可能。迅速かつインタラクティブな高限度額の購入検証。デビット・クレジットカード、Apple Pay、銀行送金に対応。100か国以上で利用可能。トークンは Qnekt アカウントに入金されます。"
+    "message": "簡単なオンボーディングプロセスで最高 $ 1000 購入可能。迅速かつインタラクティブな高限度額の購入検証。デビット・クレジットカード、Apple Pay、銀行送金に対応。100か国以上で利用可能。トークンは Arielt アカウントに入金されます。"
   },
   "bytes": {
     "message": "バイト"
@@ -501,7 +501,7 @@
     "description": "$1 is the chain id currently entered in the network form and $2 is the return value of nativeCurrency.symbol from chainlist.network"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "ハードウェアウォレットに接続するには、QnektをGoogle Chromeで使用する必要があります。"
+    "message": "ハードウェアウォレットに接続するには、ArieltをGoogle Chromeで使用する必要があります。"
   },
   "clickToConnectLedgerViaWebHID": {
     "message": "ここをクリックして、WebHIDでLedgerを接続します",
@@ -579,8 +579,8 @@
     "message": "$1アカウント",
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
-  "connectWithQnekt": {
-    "message": "Qnektを使用して接続"
+  "connectWithArielt": {
+    "message": "Arieltを使用して接続"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "このサイトに接続されているアカウントを$1個持っています。",
@@ -590,7 +590,7 @@
     "message": "このサイトに接続されているアカウントを1個持っています。"
   },
   "connectedAccountsEmptyDescription": {
-    "message": "Qnektはこのサイトに接続されていません。web3サイトに接続するには、そのサイトの接続ボタンをクリックしてください。"
+    "message": "Arieltはこのサイトに接続されていません。web3サイトに接続するには、そのサイトの接続ボタンをクリックしてください。"
   },
   "connectedSites": {
     "message": "接続済みのサイト"
@@ -788,7 +788,7 @@
     "message": "データ"
   },
   "dataBackupFoundInfo": {
-    "message": "一部のアカウントデータはQnektの前回のインストール時にバックアップされました。これには、設定、連絡先、およびトークンが含まれている可能性があります。このデータを今すぐ復元しますか?"
+    "message": "一部のアカウントデータはArieltの前回のインストール時にバックアップされました。これには、設定、連絡先、およびトークンが含まれている可能性があります。このデータを今すぐ復元しますか?"
   },
   "dataHex": {
     "message": "16進法"
@@ -1066,7 +1066,7 @@
   },
   "enableToken": {
     "message": "$1を有効にする",
-    "description": "$1 is a token symbol, e.g. ETH"
+    "description": "$1 is a token symbol, e.g. ARL"
   },
   "encryptionPublicKeyNotice": {
     "message": "$1は公開暗号鍵を必要とします。同意することによって、このサイトは暗号化されたメッセージを作成できます。",
@@ -1091,7 +1091,7 @@
     "message": "フレーズは絶対に誰にも教えないでください。"
   },
   "endOfFlowMessage5": {
-    "message": "フィッシングにご注意ください! Qnektがシークレットリカバリーフレーズをいきなり要求することは絶対にありません。"
+    "message": "フィッシングにご注意ください! Arieltがシークレットリカバリーフレーズをいきなり要求することは絶対にありません。"
   },
   "endOfFlowMessage6": {
     "message": "シークレットリカバリーフレーズを再度バックアップする場合は、[設定] -> [セキュリティ] でそれを見つけることができます。"
@@ -1101,7 +1101,7 @@
     "description": "$1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "endOfFlowMessage8": {
-    "message": "Qnektはシークレットリカバリーフレーズを復元できません。"
+    "message": "Arieltはシークレットリカバリーフレーズを復元できません。"
   },
   "endOfFlowMessage9": {
     "message": "詳細。"
@@ -1159,7 +1159,7 @@
     "description": "Message displayed on generic error page in the popup UI, $1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "errorPageTitle": {
-    "message": "Qnektにエラーが発生しました",
+    "message": "Arieltにエラーが発生しました",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -1176,7 +1176,7 @@
     "message": "パブリックイーサリアムアドレス"
   },
   "etherscan": {
-    "message": "Etherscan"
+    "message": "Arielscan"
   },
   "etherscanView": {
     "message": "Etherscanでアカウントを表示"
@@ -1250,15 +1250,15 @@
   },
   "flaskWelcomeWarning2": {
     "message": "この拡張機能の安全性や安定性は保証されていません。Flask で提供される新しい API はフィッシング攻撃への対策ができていないため、Flask を必要とするサイトまたはスナップは、アセットの盗難を目的とした悪質なものである可能性があります。",
-    "description": "This explains the risks of using Qnekt Flask"
+    "description": "This explains the risks of using Arielt Flask"
   },
   "flaskWelcomeWarning3": {
-    "message": "Flask API はすべて実験的なものです。これらは通知なしに変更または削除される可能性があり、安定した Qnekt に移行することなく永久に Flask に残る可能性もあります。自己責任でご使用ください。",
+    "message": "Flask API はすべて実験的なものです。これらは通知なしに変更または削除される可能性があり、安定した Arielt に移行することなく永久に Flask に残る可能性もあります。自己責任でご使用ください。",
     "description": "This message warns developers about unstable Flask APIs"
   },
   "flaskWelcomeWarning4": {
-    "message": "Flask の使用中は、通常の Qnekt 拡張機能を無効にしてください。",
-    "description": "This message calls to pay attention about multiple versions of Qnekt running on the same site (Flask + Prod)"
+    "message": "Flask の使用中は、通常の Arielt 拡張機能を無効にしてください。",
+    "description": "This message calls to pay attention about multiple versions of Arielt running on the same site (Flask + Prod)"
   },
   "flaskWelcomeWarningAcceptButton": {
     "message": "リスクを受け入れる",
@@ -1402,7 +1402,7 @@
   },
   "getEtherFromFaucet": {
     "message": "$1のフォーセットからEtherを取得",
-    "description": "Displays network name for Ether faucet"
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "開始"
@@ -1442,7 +1442,7 @@
     "message": "ハードウェアウォレットを接続"
   },
   "hardwareWalletsMsg": {
-    "message": "Qnektに接続するハードウェアウォレットを選択してください。"
+    "message": "Arieltに接続するハードウェアウォレットを選択してください。"
   },
   "here": {
     "message": "こちら",
@@ -1503,7 +1503,7 @@
     "message": "アカウントのインポート中にエラーが発生しました。"
   },
   "importAccountMsg": {
-    "message": " インポートされたアカウントは、最初に作成したQnektアカウントのシークレットリカバリーフレーズと関連付けられません。インポートされたアカウントの詳細を表示"
+    "message": " インポートされたアカウントは、最初に作成したArieltアカウントのシークレットリカバリーフレーズと関連付けられません。インポートされたアカウントの詳細を表示"
   },
   "importAccountSeedPhrase": {
     "message": "シークレットリカバリーフレーズを使用してウォレットをインポート"
@@ -1515,7 +1515,7 @@
     "message": "NFT をインポート"
   },
   "importNFTAddressToolTip": {
-    "message": "OpenSea の場合、NFTページの詳細の下に、「コントラクトアドレス」という青いハイパーリンクがあります。これをクリックすると、Etherscan のコントラクトのアドレスに移動します。そのページの左上に「コントラクト」というアイコンがあり、その右側には文字と数字で構成された長い文字列があります。これが NFT を作成したコントラクトのアドレスです。アドレスの右側にある「コピー」アイコンをクリックすると、クリップボードにコピーされます。"
+    "message": "OpenSea の場合、NFTページの詳細の下に、「コントラクトアドレス」という青いハイパーリンクがあります。これをクリックすると、Arielscan のコントラクトのアドレスに移動します。そのページの左上に「コントラクト」というアイコンがあり、その右側には文字と数字で構成された長い文字列があります。これが NFT を作成したコントラクトのアドレスです。アドレスの右側にある「コピー」アイコンをクリックすると、クリップボードにコピーされます。"
   },
   "importNFTPage": {
     "message": "NFTページをインポート"
@@ -1553,7 +1553,7 @@
     "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infuraBlockedNotification": {
-    "message": "Qnektがブロックチェーンのホストに接続できません。考えられる理由$1を確認してください。",
+    "message": "Arieltがブロックチェーンのホストに接続できません。考えられる理由$1を確認してください。",
     "description": "$1 is a clickable link with with text defined by the 'here' key"
   },
   "initialTransactionConfirmed": {
@@ -1710,7 +1710,7 @@
     "message": "Ledger Liveアプリを開いてロックを解除してください"
   },
   "ledgerConnectionPreferenceDescription": {
-    "message": "LedgerをQnektに接続する方法をカスタマイズします。$1が推奨されますが、他のオプションも利用できます。詳細はこちらをご覧ください: $2",
+    "message": "LedgerをArieltに接続する方法をカスタマイズします。$1が推奨されますが、他のオプションも利用できます。詳細はこちらをご覧ください: $2",
     "description": "A description that appears above a dropdown where users can select between up to three options - Ledger Live, U2F or WebHID - depending on what is supported in their browser. $1 is the recommended browser option, it will be either WebHID or U2f. $2 is a link to an article where users can learn more, but will be the translation of the learnMore message."
   },
   "ledgerDeviceOpenFailureMessage": {
@@ -1718,7 +1718,7 @@
   },
   "ledgerLive": {
     "message": "Ledger Live",
-    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to Qnekt."
+    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to Arielt."
   },
   "ledgerLiveApp": {
     "message": "Ledger Liveアプリ"
@@ -1796,7 +1796,7 @@
     "message": "イーサリアムメインネット"
   },
   "mainnetToken": {
-    "message": "このアドレスは、既知の Ethereum Mainnet トークンアドレスと一致しています。追加するトークンのコントラクトアドレスとネットワークを再確認してください。"
+    "message": "このアドレスは、既知の Arielcoin Mainnet トークンアドレスと一致しています。追加するトークンのコントラクトアドレスとネットワークを再確認してください。"
   },
   "makeAnotherSwap": {
     "message": "新しいスワップの作成"
@@ -1840,7 +1840,7 @@
     "message": "メッセージ"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "アカウントの接続をQnektでさらに制御できるようになりました。"
+    "message": "アカウントの接続をArieltでさらに制御できるようになりました。"
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "接続されているアカウントを管理するには、これをクリックします。"
@@ -1852,10 +1852,10 @@
     "message": "イーサリアムと分散型Webに接続しています。"
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "Qnekt Swapsはメンテナンス中です。後でもう一度確認してください。"
+    "message": "Arielt Swapsはメンテナンス中です。後でもう一度確認してください。"
   },
   "metamaskVersion": {
-    "message": "Qnektのバージョン"
+    "message": "Arieltのバージョン"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "いつでも設定からオプトアウトできるようにします"
@@ -1868,7 +1868,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "Qnektが実行する内容"
+    "message": "Arieltが実行する内容"
   },
   "metametricsCommitmentsNeverCollect": {
     "message": "キー、アドレス、トランザクション、残高、ハッシュなど、いかなる個人情報も収集されることはありません"
@@ -1894,17 +1894,17 @@
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "匿名化されたクリック・ページビューイベントを送信します"
   },
-  "metametricsHelpImproveQnekt": {
-    "message": "Qnektの品質向上へのご協力のお願い"
+  "metametricsHelpImproveArielt": {
+    "message": "Arieltの品質向上へのご協力のお願い"
   },
   "metametricsOptInDescription": {
-    "message": "Qnektでは、ユーザーによる拡張機能の利用状況についてよりよく理解するため、基本的な使用状況データを収集させていただきたいと考えています。このデータは、当社の製品およびイーサリアムエコシステムの使いやすさとユーザーエクスペリエンスを継続的に改善するために使用されます。"
+    "message": "Arieltでは、ユーザーによる拡張機能の利用状況についてよりよく理解するため、基本的な使用状況データを収集させていただきたいと考えています。このデータは、当社の製品およびイーサリアムエコシステムの使いやすさとユーザーエクスペリエンスを継続的に改善するために使用されます。"
   },
   "metametricsOptInDescription2": {
     "message": "弊社の製品をより使いやすくするために、基本的な使用データを収集したいと考えています. これらの指標は..."
   },
   "metametricsTitle": {
-    "message": "6百万人以上のユーザーと共に、Qnektの改善にご協力ください"
+    "message": "6百万人以上のユーザーと共に、Arieltの改善にご協力ください"
   },
   "mismatchedChainLinkText": {
     "message": "ネットワークの詳細の確認",
@@ -1936,7 +1936,7 @@
     "message": "トークンが見当たりませんか？"
   },
   "mobileSyncWarning": {
-    "message": "「拡張機能と同期」機能は一時的に無効になっています。拡張ウォレットをQnektモバイルで使用する場合は、モバイルアプリでウォレットの設定オプションに戻り、「シークレットリカバリーフレーズでインポート」オプションを選択します。拡張ウォレットのシークレットフレーズを使用して、ウォレットをモバイルにインポートします。"
+    "message": "「拡張機能と同期」機能は一時的に無効になっています。拡張ウォレットをArieltモバイルで使用する場合は、モバイルアプリでウォレットの設定オプションに戻り、「シークレットリカバリーフレーズでインポート」オプションを選択します。拡張ウォレットのシークレットフレーズを使用して、ウォレットをモバイルにインポートします。"
   },
   "mustSelectOne": {
     "message": "トークンを1つ以上選択する必要があります。"
@@ -1948,7 +1948,7 @@
     "message": "名前"
   },
   "needCryptoInWallet": {
-    "message": "Qnekt で分散型アプリケーションとやり取りするには、ウォレットに $1 が必要です。",
+    "message": "Arielt で分散型アプリケーションとやり取りするには、ウォレットに $1 が必要です。",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "needHelp": {
@@ -1959,7 +1959,7 @@
     "message": "フィードバックを提供"
   },
   "needHelpLinkText": {
-    "message": "Qnektサポート"
+    "message": "Arieltサポート"
   },
   "needHelpSubmitTicket": {
     "message": "チケットを送信"
@@ -2056,7 +2056,7 @@
     "message": "新しいコントラクト"
   },
   "newNFTDetectedMessage": {
-    "message": "Opensea からの NFT の自動検出とウォレットへの表示をQnekt に許可してください。"
+    "message": "Opensea からの NFT の自動検出とウォレットへの表示をArielt に許可してください。"
   },
   "newNFTsDetected": {
     "message": "新機能! NFT検出"
@@ -2067,8 +2067,8 @@
   "newPassword": {
     "message": "新しいパスワード (最低8文字)"
   },
-  "newToQnekt": {
-    "message": "Qnektを初めてご利用の場合"
+  "newToArielt": {
+    "message": "Arieltを初めてご利用の場合"
   },
   "newTokensImportedMessage": {
     "message": "$1 をインポートしました。",
@@ -2091,7 +2091,7 @@
   },
   "nextNonceWarning": {
     "message": "ナンスが提案され$1よりも大きいです",
-    "description": "The next nonce according to Qnekt's internal logic"
+    "description": "The next nonce according to Arielt's internal logic"
   },
   "nft": {
     "message": "NFT"
@@ -2170,7 +2170,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Visit in Settings' notification. Upon clicking, users will be taken to Settings page."
   },
   "notifications10DescriptionOne": {
-    "message": "改善されたトークン検出は、現在 Ethereum Mainnet、Polygon、BSC、Avalanche ネットワークで利用できます。他のネットワークも追加される予定です！"
+    "message": "改善されたトークン検出は、現在 Arielcoin Mainnet、Polygon、BSC、Avalanche ネットワークで利用できます。他のネットワークも追加される予定です！"
   },
   "notifications10DescriptionThree": {
     "message": "トークン検出機能はデフォルトでオンになっていますが、設定で無効にできます。"
@@ -2207,19 +2207,19 @@
     "message": "人気のネットワークを追加"
   },
   "notifications1Description": {
-    "message": "Qnekt Mobileのユーザーが、モバイルウォレット内でトークンを交換できるようになりました。QRコードをスキャンしてモバイルアプリを取得し、スワップを開始します。",
+    "message": "Arielt Mobileのユーザーが、モバイルウォレット内でトークンを交換できるようになりました。QRコードをスキャンしてモバイルアプリを取得し、スワップを開始します。",
     "description": "Description of a notification in the 'See What's New' popup. Describes the swapping on mobile feature."
   },
   "notifications1Title": {
     "message": "モバイルでのスワッピングが可能になりました!\n",
-    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use Qnekt Swaps on Mobile."
+    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use Arielt Swaps on Mobile."
   },
   "notifications3ActionText": {
     "message": "続きを表示",
     "description": "The 'call to action' on the button, or link, of the 'Stay secure' notification. Upon clicking, users will be taken to a page about security on the metamask support website."
   },
   "notifications3Description": {
-    "message": "Qnektの最新のセキュリティベストプラクティスについて学び、Qnektの公式サポートから最新のセキュリティ情報を入手してください。",
+    "message": "Arieltの最新のセキュリティベストプラクティスについて学び、Arieltの公式サポートから最新のセキュリティ情報を入手してください。",
     "description": "Description of a notification in the 'See What's New' popup. Describes the information they can get on security from the linked support page."
   },
   "notifications3Title": {
@@ -2231,7 +2231,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Swap on Binance Smart Chain!' notification. Upon clicking, users will be taken to a page where then can swap tokens on Binance Smart Chain."
   },
   "notifications4Description": {
-    "message": "ウォレットのトークンのスワップに最高の価格をご利用ください。Qnektで、Binance Smart Chainの複数の分散型エクスチェンジアグリゲーターや専門のマーケットメーカーと接続できるようになりました。",
+    "message": "ウォレットのトークンのスワップに最高の価格をご利用ください。Arieltで、Binance Smart Chainの複数の分散型エクスチェンジアグリゲーターや専門のマーケットメーカーと接続できるようになりました。",
     "description": "Description of a notification in the 'See What's New' popup."
   },
   "notifications4Title": {
@@ -2243,11 +2243,11 @@
     "description": "Description of a notification in the 'See What's New' popup. Describes the seed phrase wording update."
   },
   "notifications6DescriptionOne": {
-    "message": "Chromeバージョン91以降は、Ledgerのサポートを可能にしていたAPI (U2F) がハードウェアウォレットをサポートしなくなります。Qnektでは、ユーザーがLedger Liveのデスクトップアプリを介してLedgerデバイスに継続的に接続できる、新しいLedger Liveサポートを導入しました。",
+    "message": "Chromeバージョン91以降は、Ledgerのサポートを可能にしていたAPI (U2F) がハードウェアウォレットをサポートしなくなります。Arieltでは、ユーザーがLedger Liveのデスクトップアプリを介してLedgerデバイスに継続的に接続できる、新しいLedger Liveサポートを導入しました。",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionThree": {
-    "message": "QnektでLedgerアカウントを使用する際は、新しいタブが開き、Ledger Liveアプリを開くよう指示されます。アプリが開いたら、QnektアカウントへのWebSocket接続を許可するよう指示されます。以上です。",
+    "message": "ArieltでLedgerアカウントを使用する際は、新しいタブが開き、Ledger Liveアプリを開くよう指示されます。アプリが開いたら、ArieltアカウントへのWebSocket接続を許可するよう指示されます。以上です。",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionTwo": {
@@ -2259,7 +2259,7 @@
     "description": "Title for a notification in the 'See What's New' popup. Lets users know about the Ledger support update"
   },
   "notifications7DescriptionOne": {
-    "message": "Qnekt v10.1.0には、Ledgerデバイスを使用時のEIP-1559トランザクションのサポートが新たに追加されました。",
+    "message": "Arielt v10.1.0には、Ledgerデバイスを使用時のEIP-1559トランザクションのサポートが新たに追加されました。",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for ledger and EIP1559 in v10.1.0"
   },
   "notifications7DescriptionTwo": {
@@ -2275,7 +2275,7 @@
     "description": "Description on an action button that appears in the What's New popup. Tells the user that if they click it, they will go to our Advanced settings page."
   },
   "notifications8DescriptionOne": {
-    "message": "Qnekt v10.4.0以降では、LedgerデバイスのQnektへの接続にLedger Liveが不要になりました。",
+    "message": "Arielt v10.4.0以降では、LedgerデバイスのArieltへの接続にLedger Liveが不要になりました。",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for how Ledger Live is no longer needed to connect the device."
   },
   "notifications8DescriptionTwo": {
@@ -2345,16 +2345,16 @@
     "message": "ブラウザの拡張機能アイコンをクリックします"
   },
   "onboardingPinExtensionDescription": {
-    "message": "Qnektをブラウザにピン留めすることで、アクセスしやすくなり、トランザクションの確認を簡単に表示できるようになります。"
+    "message": "Arieltをブラウザにピン留めすることで、アクセスしやすくなり、トランザクションの確認を簡単に表示できるようになります。"
   },
   "onboardingPinExtensionDescription2": {
-    "message": "拡張機能をクリックしてQnektを開き、ワンクリックでウォレットにアクセスできます。"
+    "message": "拡張機能をクリックしてArieltを開き、ワンクリックでウォレットにアクセスできます。"
   },
   "onboardingPinExtensionDescription3": {
     "message": "ブラウザの拡張機能アイコンをクリックすると、すぐにアクセスできます"
   },
   "onboardingPinExtensionLabel": {
-    "message": "Qnektをピン留めする"
+    "message": "Arieltをピン留めする"
   },
   "onboardingPinExtensionStep1": {
     "message": "1"
@@ -2363,7 +2363,7 @@
     "message": "2"
   },
   "onboardingPinExtensionTitle": {
-    "message": "Qnektのインストールが完了しました!"
+    "message": "Arieltのインストールが完了しました!"
   },
   "onboardingReturnNotice": {
     "message": "「$1」はこのタブを閉じます。$2に戻ってください。",
@@ -2384,8 +2384,8 @@
     "message": "信頼するサイトにのみ接続してください。"
   },
   "openFullScreenForLedgerWebHid": {
-    "message": "WebHIDでLedgerを接続するには、Qnektを全画面モードで開いてください。",
-    "description": "Shown to the user on the confirm screen when they are viewing Qnekt in a popup window but need to connect their ledger via webhid."
+    "message": "WebHIDでLedgerを接続するには、Arieltを全画面モードで開いてください。",
+    "description": "Shown to the user on the confirm screen when they are viewing Arielt in a popup window but need to connect their ledger via webhid."
   },
   "optional": {
     "message": "任意"
@@ -2412,7 +2412,7 @@
     "message": "MetaMetricsに参加"
   },
   "participateInMetaMetricsDescription": {
-    "message": "MetaMetricsに参加して、Qnektの改善にご協力ください"
+    "message": "MetaMetricsに参加して、Arieltの改善にご協力ください"
   },
   "password": {
     "message": "パスワード"
@@ -2421,7 +2421,7 @@
     "message": "パスワードの長さが足りません"
   },
   "passwordSetupDetails": {
-    "message": "このパスワードは、このデバイスでのみQnektウォレットのロックを解除します。Qnektはこのパスワードを復元できません。"
+    "message": "このパスワードは、このデバイスでのみArieltウォレットのロックを解除します。Arieltはこのパスワードを復元できません。"
   },
   "passwordStrength": {
     "message": "パスワードの強度: $1",
@@ -2431,7 +2431,7 @@
     "message": "強力なパスワードは、デバイスが盗まれたり侵入されたりした場合に、ウォレットのセキュリティを高めます。"
   },
   "passwordTermsWarning": {
-    "message": "私はQnektがこのパスワードを復元できないことを理解しています。$1"
+    "message": "私はArieltがこのパスワードを復元できないことを理解しています。$1"
   },
   "passwordsDontMatch": {
     "message": "パスワードが一致しません"
@@ -2468,7 +2468,7 @@
     "description": "The description for the `wallet_snap_*` permission. $1 is the name of the Snap."
   },
   "permission_customConfirmation": {
-    "message": "Qnekt に確認を表示します。",
+    "message": "Arielt に確認を表示します。",
     "description": "The description for the `snap_confirm` permission"
   },
   "permission_ethereumAccounts": {
@@ -2525,7 +2525,7 @@
     "message": "プライマリ通貨"
   },
   "primaryCurrencySettingDescription": {
-    "message": "チェーンのネイティブ通貨 (ETH など) による値の表示を優先するには、[ネイティブ] を選択します。選択したフィアット通貨による値の表示を優先するには、[フィアット] を選択します。"
+    "message": "チェーンのネイティブ通貨 (ARL など) による値の表示を優先するには、[ネイティブ] を選択します。選択したフィアット通貨による値の表示を優先するには、[フィアット] を選択します。"
   },
   "priorityFee": {
     "message": "優先手数料"
@@ -2601,7 +2601,7 @@
     "message": "シークレットリカバリーフレーズは誰とも決して共有しないでください"
   },
   "recoveryPhraseReminderItemTwo": {
-    "message": "Qnektチームが、ユーザーのシークレットリカバリーフレーズを確認することは絶対にありません"
+    "message": "Arieltチームが、ユーザーのシークレットリカバリーフレーズを確認することは絶対にありません"
   },
   "recoveryPhraseReminderSubText": {
     "message": "シークレットリカバリーフレーズは、ご利用のすべてのアカウントを制御します。"
@@ -2677,7 +2677,7 @@
     "message": "ウォレットのリセット"
   },
   "resetWalletSubHeader": {
-    "message": "Qnekt はパスワードのコピーを保管しません。アカウントのロックを解除できない場合は、ウォレットをリセットする必要があります。これは、ウォレットのセットアップ時に使用した秘密のリカバリーフレーズを入力することで行えます。"
+    "message": "Arielt はパスワードのコピーを保管しません。アカウントのロックを解除できない場合は、ウォレットをリセットする必要があります。これは、ウォレットのセットアップ時に使用した秘密のリカバリーフレーズを入力することで行えます。"
   },
   "resetWalletUsingSRP": {
     "message": "この操作により、このデバイスから現在のウォレットと秘密のリカバリーフレーズ、および作成されたアカウントのリストが削除されます。秘密のリカバリーフレーズでリセットすると、リセットに使用された秘密のリカバリーフレーズに基づくアカウントのリストが表示されます。この新しいリストには、残高のあるアカウントが自動的に含まれます。また、以前作成された$1をすることもできます。インポートしたカスタムアカウントは$2である必要があり、アカウントに追加されたカスタムトークンも$3である必要があります。"
@@ -2686,7 +2686,7 @@
     "message": "続行する前に、正しい秘密のリカバリーフレーズを使用していることを確認してください。これは元に戻せません。"
   },
   "restartMetamask": {
-    "message": "Qnekt を再起動"
+    "message": "Arielt を再起動"
   },
   "restore": {
     "message": "復元"
@@ -2815,7 +2815,7 @@
     "message": "誰かにリカバリーフレーズを尋ねられたら、騙そうとしている可能性が高いです。"
   },
   "seedPhraseIntroSidebarCopyTwo": {
-    "message": "シークレットリカバリ フレーズはQnektを含め、決して誰とも共有しないでください!"
+    "message": "シークレットリカバリ フレーズはArieltを含め、決して誰とも共有しないでください!"
   },
   "seedPhraseIntroSidebarTitleOne": {
     "message": "シークレットリカバリーフレーズとは何ですか?"
@@ -2854,7 +2854,7 @@
     "message": "アカウントを選択してください"
   },
   "selectAnAccountAlreadyConnected": {
-    "message": "このアカウントはすでにQnektに接続されています"
+    "message": "このアカウントはすでにArieltに接続されています"
   },
   "selectEachPhrase": {
     "message": "各フレーズを選択して、正しいことを確認してください。"
@@ -2898,7 +2898,7 @@
   },
   "sendingNativeAsset": {
     "message": "$1を送信中",
-    "description": "$1 represents the native currency symbol for the current network (e.g. ETH or BNB)"
+    "description": "$1 represents the native currency symbol for the current network (e.g. ARL or BNB)"
   },
   "sendingToTokenContractWarning": {
     "message": "警告: 資金の喪失に繋がる可能性のあるトークンコントラクトに送信しようとしています。$1",
@@ -2908,7 +2908,7 @@
     "message": "高度なプライバシー設定を設定"
   },
   "setAdvancedPrivacySettingsDetails": {
-    "message": "Qnektはこれらの信頼できるサードパーティーサービスを使用して、製品の使いやすさと安全性を向上させています。"
+    "message": "Arieltはこれらの信頼できるサードパーティーサービスを使用して、製品の使いやすさと安全性を向上させています。"
   },
   "setApprovalForAll": {
     "message": "すべてを承認に設定"
@@ -3127,7 +3127,7 @@
     "message": "ステータスログの取得中にエラーが発生しました。"
   },
   "stateLogFileName": {
-    "message": "Qnektステータスログ"
+    "message": "Arieltステータスログ"
   },
   "stateLogs": {
     "message": "ステータスログ"
@@ -3148,7 +3148,7 @@
     "message": "Lattice1の接続準備ができていることを確認してください"
   },
   "step1LatticeWalletMsg": {
-    "message": "セットアップが完了しオンラインになると、QnektをLattice1デバイスに接続できます。デバイスのロックを解除し、デバイスIDを準備してください。ハードウェアウォレットの使用に関する詳細は、$1",
+    "message": "セットアップが完了しオンラインになると、ArieltをLattice1デバイスに接続できます。デバイスのロックを解除し、デバイスIDを準備してください。ハードウェアウォレットの使用に関する詳細は、$1",
     "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
   },
   "step1LedgerWallet": {
@@ -3206,7 +3206,7 @@
     "message": "もう一度スワップをお試しください。次回は同様のリスクを避けられるようサポートします。"
   },
   "stxDescription": {
-    "message": "Qnekt Swaps がはるかに賢くなりました！スマートトランザクションを有効にすると、Qnekt がプログラムに従ってスワップを最適化できるようになるため、以下のようなメリットがあります。"
+    "message": "Arielt Swaps がはるかに賢くなりました！スマートトランザクションを有効にすると、Arielt がプログラムに従ってスワップを最適化できるようになるため、以下のようなメリットがあります。"
   },
   "stxErrorNotEnoughFunds": {
     "message": "スマートトランザクションに十分な資金がありません。"
@@ -3241,7 +3241,7 @@
   },
   "stxSuccessDescription": {
     "message": "$1 が利用可能になりました。",
-    "description": "$1 is a token symbol, e.g. ETH"
+    "description": "$1 is a token symbol, e.g. ARL"
   },
   "stxSwapCompleteIn": {
     "message": "スワップ完了まで残り <",
@@ -3347,12 +3347,12 @@
     "message": "限度額を編集"
   },
   "swapEnableDescription": {
-    "message": "これは必須であり、Qnektに$1をスワップする許可を付与します。",
+    "message": "これは必須であり、Arieltに$1をスワップする許可を付与します。",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEnableTokenForSwapping": {
     "message": "これはスワップ用に$1",
-    "description": "$1 is for the 'enableToken' key, e.g. 'enable ETH'"
+    "description": "$1 is for the 'enableToken' key, e.g. 'enable ARL'"
   },
   "swapEstimatedNetworkFees": {
     "message": "推定ネットワーク手数料"
@@ -3397,14 +3397,14 @@
     "message": "前の画面のガス料金は、この2つのトランザクションに分けられています。"
   },
   "swapGasFeesSummary": {
-    "message": "ガス代は、$1ネットワークでトランザクションを処理するクリプトマイナーに支払われます。Qnektはガス代から利益を得ません。",
-    "description": "$1 is the selected network, e.g. Ethereum or BSC"
+    "message": "ガス代は、$1ネットワークでトランザクションを処理するクリプトマイナーに支払われます。Arieltはガス代から利益を得ません。",
+    "description": "$1 is the selected network, e.g. Arielcoin or BSC"
   },
   "swapHighSlippageWarning": {
     "message": "スリッページが非常に大きいです。"
   },
   "swapIncludesMMFee": {
-    "message": "$1%のQnekt手数料が含まれています。",
+    "message": "$1%のArielt手数料が含まれています。",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapLowSlippageError": {
@@ -3413,10 +3413,10 @@
   "swapMaxSlippage": {
     "message": "最大スリッページ"
   },
-  "swapQnektFee": {
-    "message": "Qnekt手数料"
+  "swapArieltFee": {
+    "message": "Arielt手数料"
   },
-  "swapQnektFeeDescription": {
+  "swapArieltFeeDescription": {
     "message": "弊社は毎回最上位の流動性ソースから最良の価格を見つけます。$1%の手数料が自動的にこの見積もりに含まれます。",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
@@ -3434,7 +3434,7 @@
   },
   "swapPriceDifference": {
     "message": "$1 $2 (～$3) を $4 $5 (～$6) にスワップしようとしています。",
-    "description": "This message represents the price slippage for the swap.  $1 and $4 are a number (ex: 2.89), $2 and $5 are symbols (ex: ETH), and $3 and $6 are fiat currency amounts."
+    "description": "This message represents the price slippage for the swap.  $1 and $4 are a number (ex: 2.89), $2 and $5 are symbols (ex: ARL), and $3 and $6 are fiat currency amounts."
   },
   "swapPriceDifferenceTitle": {
     "message": "最大$1%の価格差",
@@ -3551,7 +3551,7 @@
   },
   "swapTokenVerificationMessage": {
     "message": "常に$1のトークンアドレスを確認してください。",
-    "description": "Points the user to Etherscan as a place they can verify information about a token. $1 is replaced with the translation for \"Etherscan\" followed by an info icon that shows more info on hover."
+    "description": "Points the user to Arielscan as a place they can verify information about a token. $1 is replaced with the translation for \"Arielscan\" followed by an info icon that shows more info on hover."
   },
   "swapTokenVerificationOnlyOneSource": {
     "message": "1つのソースでのみ検証済みです。"
@@ -3601,7 +3601,7 @@
     "message": "アクティビティに表示"
   },
   "switchEthereumChainConfirmationDescription": {
-    "message": "これによりQnekt内で選択されたネットワークが、以前に追加されたものに切り替わります。"
+    "message": "これによりArielt内で選択されたネットワークが、以前に追加されたものに切り替わります。"
   },
   "switchEthereumChainConfirmationTitle": {
     "message": "このサイトによるネットワークの切り替えを許可しますか?"
@@ -3641,16 +3641,16 @@
     "message": "このコードをスキャンするとき、画面を誰にも見られていないことを確認してください"
   },
   "syncWithMobileComplete": {
-    "message": "データの同期に成功しました。Qnektモバイルアプリをご活用ください!"
+    "message": "データの同期に成功しました。Arieltモバイルアプリをご活用ください!"
   },
   "syncWithMobileDesc": {
-    "message": "アカウントと情報を、モバイルデバイスと同期させることができます。Qnektモバイルアプリを開き、「設定」に進み、「ブラウザ拡張機能から同期」をタップします。"
+    "message": "アカウントと情報を、モバイルデバイスと同期させることができます。Arieltモバイルアプリを開き、「設定」に進み、「ブラウザ拡張機能から同期」をタップします。"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Qnektモバイルアプリを初めて開く場合は、スマートフォンを以下のステップに従って操作してください。"
+    "message": "Arieltモバイルアプリを初めて開く場合は、スマートフォンを以下のステップに従って操作してください。"
   },
   "syncWithMobileScanThisCode": {
-    "message": "Qnektモバイルアプリでこのコードをスキャンします"
+    "message": "Arieltモバイルアプリでこのコードをスキャンします"
   },
   "syncWithMobileTitle": {
     "message": "モバイルと同期"
@@ -3683,7 +3683,7 @@
     "message": "テーマ"
   },
   "themeDescription": {
-    "message": "ご希望の Qnekt テーマを選択してください。"
+    "message": "ご希望の Arielt テーマを選択してください。"
   },
   "thisWillCreate": {
     "message": "これにより、新しいウォレットとシークレットリカバリーフレーズが作成されます"
@@ -3782,7 +3782,7 @@
     "message": "サイトが提案されました"
   },
   "transactionDetailDappGasTooltip": {
-    "message": "最新のブロックに基づくQnektの推奨ガス代を使用するように編集します。"
+    "message": "最新のブロックに基づくArieltの推奨ガス代を使用するように編集します。"
   },
   "transactionDetailGasHeading": {
     "message": "ガス代見積もり"
@@ -3797,7 +3797,7 @@
     "message": "ガス代はネットワークにより設定され、ネットワークトラフィックとトランザクションの複雑さに基づき変動します。"
   },
   "transactionDetailGasTooltipIntro": {
-    "message": "ガス代は、$1ネットワークでトランザクションを処理するクリプトマイナーにに支払われます。Qnektはガス代から利益を得ません。"
+    "message": "ガス代は、$1ネットワークでトランザクションを処理するクリプトマイナーにに支払われます。Arieltはガス代から利益を得ません。"
   },
   "transactionDetailGasTotalSubtitle": {
     "message": "金額 + ガス代"
@@ -3867,7 +3867,7 @@
     "description": "$1 is the wallet device name; $2 is a link to wallet connection guide"
   },
   "troubleStarting": {
-    "message": "Qnekt がうまく起動しませんでした。このエラーは断続的に発生する可能性があるため、拡張機能を再起動してみてください。"
+    "message": "Arielt がうまく起動しませんでした。このエラーは断続的に発生する可能性があるため、拡張機能を再起動してみてください。"
   },
   "troubleTokenBalances": {
     "message": "トークンバランスのロードに問題があります。トークンバランスを表示できます",
@@ -3889,14 +3889,14 @@
     "message": "現時点ではこのコントラクトでトランザクションインサイトはサポートされていません。"
   },
   "typePassword": {
-    "message": "Qnektパスワードを入力してください"
+    "message": "Arieltパスワードを入力してください"
   },
   "typeYourSRP": {
     "message": "秘密のリカバリーフレーズを入力してください"
   },
   "u2f": {
     "message": "U2F",
-    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect Qnekt to Ledger devices."
+    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect Arielt to Ledger devices."
   },
   "unapproved": {
     "message": "未承認"
@@ -4030,10 +4030,10 @@
     "message": "ウォレットが正常に保護されました。シークレットリカバリーフレーズを安全かつ機密に保管してください。これはユーザーの責任です!"
   },
   "walletCreationSuccessReminder1": {
-    "message": "Qnektはシークレットリカバリーフレーズを復元できません。"
+    "message": "Arieltはシークレットリカバリーフレーズを復元できません。"
   },
   "walletCreationSuccessReminder2": {
-    "message": "Qnektがユーザーのシークレットリカバリーフレーズを確認することは絶対にありません。"
+    "message": "Arieltがユーザーのシークレットリカバリーフレーズを確認することは絶対にありません。"
   },
   "walletCreationSuccessReminder3": {
     "message": "誰に対しても$1。資金が盗まれる恐れがあります",
@@ -4064,7 +4064,7 @@
     "description": "Refers to a interface for connecting external devices to the browser. Used for connecting ledger to the browser. Read more here https://developer.mozilla.org/en-US/docs/Web/API/WebHID_API"
   },
   "welcome": {
-    "message": "Qnektにようこそ"
+    "message": "Arieltにようこそ"
   },
   "welcomeBack": {
     "message": "ようこそ!"
@@ -4076,20 +4076,20 @@
     "message": "分散型アプリを閲覧"
   },
   "welcomeLoginDescription": {
-    "message": "Qnektを使用して分散型アプリにログイン。サインアップは不要です。"
+    "message": "Arieltを使用して分散型アプリにログイン。サインアップは不要です。"
   },
   "welcomeLoginTitle": {
     "message": "ウォレットにようこそ"
   },
-  "welcomeToQnekt": {
+  "welcomeToArielt": {
     "message": "始めましょう"
   },
-  "welcomeToQnektIntro": {
-    "message": "Qnektは何百万人もに信頼されている安全なウォレットで、すべての人々によるWeb3の世界へのアクセスを可能にしています。"
+  "welcomeToArieltIntro": {
+    "message": "Arieltは何百万人もに信頼されている安全なウォレットで、すべての人々によるWeb3の世界へのアクセスを可能にしています。"
   },
   "whatsNew": {
     "message": "新機能",
-    "description": "This is the title of a popup that gives users notifications about new features and updates to Qnekt."
+    "description": "This is the title of a popup that gives users notifications about new features and updates to Arielt."
   },
   "whatsThis": {
     "message": "これは何ですか?"

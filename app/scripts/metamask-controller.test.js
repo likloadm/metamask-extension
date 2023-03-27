@@ -2,7 +2,7 @@ import { strict as assert } from 'assert';
 import sinon from 'sinon';
 import { cloneDeep } from 'lodash';
 import nock from 'nock';
-import { pubToAddress, bufferToHex } from 'ethereumjs-util';
+import { pubToAddress, bufferToHex } from 'likloadm-ethereumjs-util';
 import { obj as createThoughStream } from 'through2';
 import EthQuery from 'eth-query';
 import proxyquire from 'proxyquire';

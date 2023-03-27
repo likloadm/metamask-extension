@@ -34,7 +34,7 @@ export const OPTIMISM_TESTNET_CHAIN_ID = '0x1a4';
 export const POLYGON_CHAIN_ID = '0x89';
 export const QTUM_MAINNET_CHAIN_ID = '0x51';
 export const QTUM_MAINNET_ID = '89';
-export const QTUM_TESTNET_CHAIN_ID = '0x22B9';
+export const QTUM_TESTNET_CHAIN_ID = '890';
 export const QTUM_TESTNET_ID = '8889';
 export const QTUM_REGTEST_CHAIN_ID = '0x22BA';
 export const QTUM_REGTEST_ID = '8890';
@@ -57,9 +57,9 @@ export const KOVAN_DISPLAY_NAME = 'Kovan';
 export const MAINNET_DISPLAY_NAME = 'Ethereum Mainnet';
 export const GOERLI_DISPLAY_NAME = 'Goerli';
 export const LOCALHOST_DISPLAY_NAME = 'Localhost 8545';
-export const QTUM_MAINNET_DISPLAY_NAME = 'QTUM Mainnet';
-export const QTUM_TESTNET_DISPLAY_NAME = 'QTUM Testnet';
-export const QTUM_REGTEST_DISPLAY_NAME = 'QTUM Regtest';
+export const QTUM_MAINNET_DISPLAY_NAME = 'Ariel Mainnet';
+export const QTUM_TESTNET_DISPLAY_NAME = 'Ariel Testnet';
+export const QTUM_REGTEST_DISPLAY_NAME = 'Ariel Regtest';
 export const BSC_DISPLAY_NAME = 'Binance Smart Chain';
 export const POLYGON_DISPLAY_NAME = 'Polygon';
 export const AVALANCHE_DISPLAY_NAME = 'Avalanche Network C-Chain';
@@ -81,8 +81,8 @@ export const KOVAN_RPC_URL = getRpcUrl({ network: KOVAN });
 export const MAINNET_RPC_URL = getRpcUrl({ network: MAINNET });
 export const GOERLI_RPC_URL = getRpcUrl({ network: GOERLI });
 export const LOCALHOST_RPC_URL = 'http://localhost:8545';
-export const QTUM_MAINNET_RPC_URL = `https://janus.qiswap.com/api/`;
-export const QTUM_TESTNET_RPC_URL = `https://testnet-janus.qiswap.com/api/`;
+export const QTUM_MAINNET_RPC_URL = `https://arl.quark.blue:23890`;
+export const QTUM_TESTNET_RPC_URL = `https://arl.quark.blue:23890`;
 export const QTUM_REGTEST_RPC_URL = `https://localhost:23889`;
 
 export const ETH_SYMBOL = 'ETH';
@@ -118,9 +118,8 @@ export const INFURA_PROVIDER_TYPES = [
   GOERLI,
   QTUM_MAINNET,
   QTUM_TESTNET,
-  QTUM_REGTEST,
 ];
-export const QTUM_PROVIDER_TYPES = [QTUM_MAINNET, QTUM_TESTNET, QTUM_REGTEST];
+export const QTUM_PROVIDER_TYPES = [QTUM_MAINNET, QTUM_TESTNET];
 
 export const TEST_CHAINS = [
   ROPSTEN_CHAIN_ID,
@@ -129,7 +128,6 @@ export const TEST_CHAINS = [
   KOVAN_CHAIN_ID,
   LOCALHOST_CHAIN_ID,
   QTUM_TESTNET_CHAIN_ID,
-  QTUM_REGTEST_CHAIN_ID,
 ];
 
 export const TEST_NETWORK_TICKER_MAP = {
@@ -179,11 +177,6 @@ export const NETWORK_TYPE_TO_ID_MAP = {
   [QTUM_TESTNET]: {
     networkId: QTUM_TESTNET_NETWORK_ID,
     chainId: QTUM_TESTNET_CHAIN_ID,
-    ticker: QTUM_SYMBOL,
-  },
-  [QTUM_REGTEST]: {
-    networkId: QTUM_REGTEST_NETWORK_ID,
-    chainId: QTUM_REGTEST_CHAIN_ID,
     ticker: QTUM_SYMBOL,
   },
 };

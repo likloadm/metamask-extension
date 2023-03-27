@@ -47,11 +47,11 @@ log.setDefaultLevel(process.env.METAMASK_DEBUG ? 'debug' : 'warn');
 if (shouldInjectProvider()) {
   // setup background connection
   const metamaskStream = new WindowPostMessageStream({
-    name: 'qnekt-inpage',
-    target: 'qnekt-contentscript',
+    name: 'Arielt-inpage',
+    target: 'Arielt-contentscript',
   });
 
-  const jsonRpcStreamName = 'qnekt-provider';
+  const jsonRpcStreamName = 'Arielt-provider';
   const inPageProvider = initializeProvider({
     connectionStream: metamaskStream,
     jsonRpcStreamName,
@@ -72,6 +72,6 @@ if (shouldInjectProvider()) {
  * @param providerInstance - The provider instance.
  */
 function setGlobalProvider(providerInstance) {
-  window.qtum = providerInstance;
+  window.ariel = providerInstance;
   window.dispatchEvent(new Event('qtum#initialized'));
 }

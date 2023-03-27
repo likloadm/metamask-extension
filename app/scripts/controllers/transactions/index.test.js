@@ -1,6 +1,6 @@
 import { strict as assert } from 'assert';
 import EventEmitter from 'events';
-import { toBuffer } from 'ethereumjs-util';
+import { toBuffer } from 'likloadm-ethereumjs-util';
 import { TransactionFactory } from '@ethereumjs/tx';
 import { ObservableStore } from '@metamask/obs-store';
 import sinon from 'sinon';

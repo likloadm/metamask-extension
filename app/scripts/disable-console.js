@@ -4,8 +4,8 @@ if (
   !(typeof process !== 'undefined' && process.env.METAMASK_DEBUG) &&
   typeof console !== 'undefined'
 ) {
-  console.log = noop;
-  console.info = noop;
+  console.log = function() {};
+  console.info = function() {};
 }
 
 function noop() {

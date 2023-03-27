@@ -27,7 +27,7 @@
     "message": "aktivite ki fèt"
   },
   "addAcquiredTokens": {
-    "message": "Ajoute tokens yo ou te achte lè l sèvi avèk Qnekt"
+    "message": "Ajoute tokens yo ou te achte lè l sèvi avèk Arielt"
   },
   "addSuggestedTokens": {
     "message": "Ajoute Token Yo Sikjere W"
@@ -39,19 +39,19 @@
     "message": "Kantite lajan"
   },
   "appDescription": {
-    "message": "Ekstansyon Navigatè Ethereum",
+    "message": "Ekstansyon Navigatè Arielcoin",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -88,7 +88,7 @@
     "message": "Anilasyon Gaz Chaj"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Ou bezwen sèvi ak Qnekt sou Google Chrome yo nan lòd yo konekte sou Hardware Wallet."
+    "message": "Ou bezwen sèvi ak Arielt sou Google Chrome yo nan lòd yo konekte sou Hardware Wallet."
   },
   "close": {
     "message": "Fèmen"
@@ -112,7 +112,7 @@
     "message": "Konekte nan Kovan Tès Rezo a"
   },
   "connectingToMainnet": {
-    "message": "Konekte ak Prensipal Ethereum Rezo a"
+    "message": "Konekte ak Prensipal Arielcoin Rezo a"
   },
   "connectingToRinkeby": {
     "message": "Konekte nan Rinkeby Tès Rezo a"
@@ -181,7 +181,7 @@
     "message": "Mete modpas pou kontinye"
   },
   "etherscanView": {
-    "message": "Gade kont sou Etherscan"
+    "message": "Gade kont sou Arielscan"
   },
   "expandView": {
     "message": "Elaji Wè"
@@ -222,11 +222,11 @@
     "message": "Gaz yo Itilize"
   },
   "getEther": {
-    "message": "Jwenn Ether"
+    "message": "Jwenn Ariel"
   },
   "getEtherFromFaucet": {
-    "message": "Jwenn Ether nan yon tiyo pou $1 la",
-    "description": "Displays network name for Ether faucet"
+    "message": "Jwenn Ariel nan yon tiyo pou $1 la",
+    "description": "Displays network name for Ariel faucet"
   },
   "hardware": {
     "message": "materyèl"
@@ -238,7 +238,7 @@
     "message": "Materyèl Wallet konekte"
   },
   "hardwareWalletsMsg": {
-    "message": "Chwazi yon Materyèl Wallet ou ta renmen itilize ak Qnekt"
+    "message": "Chwazi yon Materyèl Wallet ou ta renmen itilize ak Arielt"
   },
   "here": {
     "message": "isit la",
@@ -261,7 +261,7 @@
     "message": "Pòte Kont"
   },
   "importAccountMsg": {
-    "message": " Kont pòte pa pral asosye avèk orijinal ou te kreye nan kont Qnekt seed fraz. Aprann plis sou kont enpòte "
+    "message": " Kont pòte pa pral asosye avèk orijinal ou te kreye nan kont Arielt seed fraz. Aprann plis sou kont enpòte "
   },
   "imported": {
     "message": "Pòte",
@@ -323,7 +323,7 @@
     "message": "Dekonekte"
   },
   "mainnet": {
-    "message": "Prensipal Ethereum Rezo a"
+    "message": "Prensipal Arielcoin Rezo a"
   },
   "max": {
     "message": "Maksimòm"
@@ -332,10 +332,10 @@
     "message": "Mesaje"
   },
   "metamaskDescription": {
-    "message": "Qnekt sekirize idantite pou Ethereum."
+    "message": "Arielt sekirize idantite pou Arielcoin."
   },
   "metamaskVersion": {
-    "message": "Qnekt Vèsyon"
+    "message": "Arielt Vèsyon"
   },
   "mustSelectOne": {
     "message": "Ou dwe chwazi omwen 1 token."
@@ -348,7 +348,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Pa ka voye kantite lajan negatif ETH."
+    "message": "Pa ka voye kantite lajan negatif ARL."
   },
   "networks": {
     "message": "Rezo"
@@ -422,7 +422,7 @@
     "message": "Lajan ou itilize pi plis la"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Chwazi ETH pou bay priyorite montre valè nan ETH. Chwazi Fiat priyorite montre valè nan lajan ou chwazi a."
+    "message": "Chwazi ARL pou bay priyorite montre valè nan ARL. Chwazi Fiat priyorite montre valè nan lajan ou chwazi a."
   },
   "privacyMsg": {
     "message": "Règleman sou enfòmasyon prive"
@@ -676,7 +676,7 @@
     "message": "Vizite sit entènèt nou an"
   },
   "welcome": {
-    "message": "Byenveni nan Qnekt"
+    "message": "Byenveni nan Arielt"
   },
   "welcomeBack": {
     "message": "Bon Retou!"

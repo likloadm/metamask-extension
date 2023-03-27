@@ -37,7 +37,7 @@ function mapDispatchToProps(dispatch) {
   return {
     exportAccount: (password, address) => {
       return dispatch(exportAccount(password, address)).then((res) => {
-        console.log('[exportAccount]', res)
+        // console.log('[exportAccount]', res)
         dispatch(hideWarning());
         return res;
       });

@@ -158,7 +158,7 @@ async function queryCurrentActiveTab(windowType) {
 
 function initializeUi(activeTab, connectionStream, cb) {
   connectToAccountManager(connectionStream, (err, backgroundConnection) => {
-    console.log("backgroundConnection", backgroundConnection, backgroundConnection.exportAccount)
+//    console.log("backgroundConnection", backgroundConnection, backgroundConnection.exportAccount)
     if (err) {
       cb(err, null);
       return;

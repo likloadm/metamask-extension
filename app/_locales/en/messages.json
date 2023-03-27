@@ -1,12 +1,12 @@
 {
   "qtumMainnet": {
-    "message": "QTUM Mainnet"
+    "message": "Ariel Mainnet"
   },
   "qtumTestnet": {
-    "message": "QTUM Testnet"
+    "message": "Ariel Testnet"
   },
   "qtumRegtest": {
-    "message": "QTUM Regtest"
+    "message": "Ariel Regtest"
   },
   "insufficientSpendableBalance": {
     "message": "Your spendable balance is "
@@ -15,7 +15,7 @@
     "message": "Address format"
   },
   "addressFormatSettingDescription": {
-    "message": "Select Hex Address to prioritize displaying normal ethereum hex address. Select Qtum Address to prioritize displaying base58 Qtum address."
+    "message": "Select Hex Address to prioritize displaying normal arielcoin hex address. Select Qtum Address to prioritize displaying base58 Qtum address."
   },
   "QRHardwareInvalidTransactionTitle": {
     "message": "Error"
@@ -138,7 +138,7 @@
     "message": "Access your wallet with your Secret Recovery Phrase"
   },
   "accessYourWalletWithSRPDescription": {
-    "message": "Qnekt cannot recover your password. We will use your Secret Recovery Phrase to validate your ownership, restore your wallet and set up a new password. First, enter the Secret Recovery Phrase that you were given when you created your wallet. $1",
+    "message": "Arielt cannot recover your password. We will use your Secret Recovery Phrase to validate your ownership, restore your wallet and set up a new password. First, enter the Secret Recovery Phrase that you were given when you created your wallet. $1",
     "description": "$1 is the words 'Learn More' from key 'learnMore', separated here so that it can be added as a link"
   },
   "accessingYourCamera": {
@@ -188,7 +188,7 @@
     "message": "Add a nickname"
   },
   "addAcquiredTokens": {
-    "message": "Add the tokens you've acquired using Qnekt"
+    "message": "Add the tokens you've acquired using Arielt"
   },
   "addAlias": {
     "message": "Add alias"
@@ -204,13 +204,13 @@
   },
   "addCustomTokenByContractAddress": {
     "message": "Can’t find a token? You can manually add any token by pasting its address. Token contract addresses can be found on $1.",
-    "description": "$1 is a blockchain explorer for a specific network, e.g. Etherscan for Ethereum"
+    "description": "$1 is a blockchain explorer for a specific network, e.g. Arielscan for Arielcoin"
   },
   "addEthereumChainConfirmationDescription": {
-    "message": "This will allow this network to be used within Qnekt."
+    "message": "This will allow this network to be used within Arielt."
   },
   "addEthereumChainConfirmationRisks": {
-    "message": "Qnekt does not verify custom networks."
+    "message": "Arielt does not verify custom networks."
   },
   "addEthereumChainConfirmationRisksLearnMore": {
     "message": "Learn about $1.",
@@ -327,19 +327,19 @@
     "message": "Amount"
   },
   "appDescription": {
-    "message": "An Ethereum Wallet in your Browser",
+    "message": "An Arielcoin Wallet in your Browser",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -409,7 +409,7 @@
     "message": "Auto-lock timer (minutes)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Set the idle time in minutes before Qnekt will become locked."
+    "message": "Set the idle time in minutes before Arielt will become locked."
   },
   "average": {
     "message": "Average"
@@ -424,7 +424,7 @@
     "message": "Backup"
   },
   "backupApprovalInfo": {
-    "message": "This secret code is required to recover your wallet in case you lose your device, forget your password, have to re-install Qnekt, or want to access your wallet on another device."
+    "message": "This secret code is required to recover your wallet in case you lose your device, forget your password, have to re-install Arielt, or want to access your wallet on another device."
   },
   "backupApprovalNotice": {
     "message": "Backup your Secret Recovery Phrase to keep your wallet and funds secure."
@@ -454,10 +454,10 @@
     "message": "Be careful"
   },
   "betaMetamaskDescription": {
-    "message": "Trusted by millions, Qnekt is a secure wallet making the world of web3 accessible to all."
+    "message": "Trusted by millions, Arielt is a secure wallet making the world of web3 accessible to all."
   },
   "betaMetamaskDescriptionExplanation": {
-    "message": "Use this version to test upcoming features before they’re released. Your use and feedback helps us build the best version of Qnekt possible. Your use of Qnekt Beta is subject to our standard $1 as well as our $2. As a Beta, there may be an increased risk of bugs. By proceeding, you accept and acknowledge these risks, as well as those risks found in our Terms and Beta Terms.",
+    "message": "Use this version to test upcoming features before they’re released. Your use and feedback helps us build the best version of Arielt possible. Your use of Arielt Beta is subject to our standard $1 as well as our $2. As a Beta, there may be an increased risk of bugs. By proceeding, you accept and acknowledge these risks, as well as those risks found in our Terms and Beta Terms.",
     "description": "$1 represents localization item betaMetamaskDescriptionExplanationTermsLinkText.  $2 represents localization item betaMetamaskDescriptionExplanationBetaTermsLinkText"
   },
   "betaMetamaskDescriptionExplanationBetaTermsLinkText": {
@@ -467,10 +467,10 @@
     "message": "Terms"
   },
   "betaMetamaskVersion": {
-    "message": "Qnekt Beta Version"
+    "message": "Arielt Beta Version"
   },
   "betaWelcome": {
-    "message": "Welcome to Qnekt Beta"
+    "message": "Welcome to Arielt Beta"
   },
   "blockExplorerAccountAction": {
     "message": "Account",
@@ -482,7 +482,7 @@
   },
   "blockExplorerSwapAction": {
     "message": "Swap",
-    "description": "This is used with viewOnEtherscan e.g View Swap on Etherscan"
+    "description": "This is used with viewOnEtherscan e.g View Swap on Arielscan"
   },
   "blockExplorerUrl": {
     "message": "Block explorer URL"
@@ -504,7 +504,7 @@
     "message": "Build your contact list"
   },
   "builtAroundTheWorld": {
-    "message": "Qnekt is designed and built around the world."
+    "message": "Arielt is designed and built around the world."
   },
   "busy": {
     "message": "Busy"
@@ -529,21 +529,21 @@
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithMoonPayDescription": {
-    "message": "MoonPay supports popular payment methods, including Visa, Mastercard, Apple / Google / Samsung Pay, and bank transfers in 145+ countries. Tokens deposit into your Qnekt account."
+    "message": "MoonPay supports popular payment methods, including Visa, Mastercard, Apple / Google / Samsung Pay, and bank transfers in 145+ countries. Tokens deposit into your Arielt account."
   },
   "buyCryptoWithTransak": {
     "message": "Buy $1 with Transak",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithTransakDescription": {
-    "message": "Transak supports credit & debit cards, Apple Pay, MobiKwik, and bank transfers (depending on location) in 100+ countries. $1 deposits directly into your Qnekt account.",
+    "message": "Transak supports credit & debit cards, Apple Pay, MobiKwik, and bank transfers (depending on location) in 100+ countries. $1 deposits directly into your Arielt account.",
     "description": "$1 represents the crypto symbol to be purchased"
   },
   "buyWithWyre": {
     "message": "Buy $1 with Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Easy onboarding for purchases up to $ 1000. Fast interactive high limit purchase verification. Supports Debit/Credit Card, Apple Pay, Bank Transfers. Available in 100+ countries. Tokens deposit into your Qnekt Account"
+    "message": "Easy onboarding for purchases up to $ 1000. Fast interactive high limit purchase verification. Supports Debit/Credit Card, Apple Pay, Bank Transfers. Available in 100+ countries. Tokens deposit into your Arielt Account"
   },
   "bytes": {
     "message": "Bytes"
@@ -598,7 +598,7 @@
     "description": "$1 is the chain id currently entered in the network form and $2 is the return value of nativeCurrency.symbol from chainlist.network"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "You need to use Qnekt on Google Chrome in order to connect to your Hardware Wallet."
+    "message": "You need to use Arielt on Google Chrome in order to connect to your Hardware Wallet."
   },
   "clickToConnectLedgerViaWebHID": {
     "message": "Click here to connect your Ledger via WebHID",
@@ -682,8 +682,8 @@
     "message": "$1 accounts",
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
-  "connectWithQnekt": {
-    "message": "Connect with Qnekt"
+  "connectWithArielt": {
+    "message": "Connect with Arielt"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "You have $1 accounts connected to this site.",
@@ -693,7 +693,7 @@
     "message": "You have 1 account connected to this site."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "Qnekt is not connected to this site. To connect to a web3 site, find and click the connect button."
+    "message": "Arielt is not connected to this site. To connect to a web3 site, find and click the connect button."
   },
   "connectedSites": {
     "message": "Connected sites"
@@ -723,7 +723,7 @@
     "message": "Connecting to Kovan test network"
   },
   "connectingToMainnet": {
-    "message": "Connecting to Ethereum Mainnet"
+    "message": "Connecting to Arielcoin Mainnet"
   },
   "connectingToRinkeby": {
     "message": "Connecting to Rinkeby test network"
@@ -780,7 +780,7 @@
     "message": "Token contract"
   },
   "convertTokenToNFTDescription": {
-    "message": "We've detected that this asset is an NFT. Qnekt now has full native support for NFTs. Would you like to remove it from your token list and add it as an NFT?"
+    "message": "We've detected that this asset is an NFT. Arielt now has full native support for NFTs. Would you like to remove it from your token list and add it as an NFT?"
   },
   "convertTokenToNFTExistDescription": {
     "message": "We’ve detected that this asset has been added as an NFT. Would you like to remove it from your token list?"
@@ -909,7 +909,7 @@
     "message": "Data"
   },
   "dataBackupFoundInfo": {
-    "message": "Some of your account data was backed up during a previous installation of Qnekt. This could include your settings, contacts, and tokens. Would you like to restore this data now?"
+    "message": "Some of your account data was backed up during a previous installation of Arielt. This could include your settings, contacts, and tokens. Would you like to restore this data now?"
   },
   "dataHex": {
     "message": "Hex"
@@ -1187,7 +1187,7 @@
   },
   "enableToken": {
     "message": "enable $1",
-    "description": "$1 is a token symbol, e.g. ETH"
+    "description": "$1 is a token symbol, e.g. ARL"
   },
   "encryptionPublicKeyNotice": {
     "message": "$1 would like your public encryption key. By consenting, this site will be able to compose encrypted messages to you.",
@@ -1212,7 +1212,7 @@
     "message": "Never share the phrase with anyone."
   },
   "endOfFlowMessage5": {
-    "message": "Be careful of phishing! Qnekt will never spontaneously ask for your Secret Recovery Phrase."
+    "message": "Be careful of phishing! Arielt will never spontaneously ask for your Secret Recovery Phrase."
   },
   "endOfFlowMessage6": {
     "message": "If you need to back up your Secret Recovery Phrase again, you can find it in Settings > Security."
@@ -1222,7 +1222,7 @@
     "description": "$1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt cannot recover your Secret Recovery Phrase."
+    "message": "Arielt cannot recover your Secret Recovery Phrase."
   },
   "endOfFlowMessage9": {
     "message": "Learn more."
@@ -1235,7 +1235,7 @@
     "message": "Illegal character for ENS."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS name not found on the current network. Try switching to Ethereum Mainnet."
+    "message": "ENS name not found on the current network. Try switching to Arielcoin Mainnet."
   },
   "ensNotSupportedOnNetwork": {
     "message": "Network does not support ENS"
@@ -1280,7 +1280,7 @@
     "description": "Message displayed on generic error page in the popup UI, $1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "errorPageTitle": {
-    "message": "Qnekt encountered an error",
+    "message": "Arielt encountered an error",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -1294,16 +1294,16 @@
     "message": "Backup gas price is provided as the main gas estimation service is unavailable right now."
   },
   "ethereumPublicAddress": {
-    "message": "Ethereum public address"
+    "message": "Arielcoin public address"
   },
   "etherscan": {
-    "message": "Etherscan"
+    "message": "Arielscan"
   },
   "etherscanView": {
-    "message": "View account on Etherscan"
+    "message": "View account on Arielscan"
   },
   "etherscanViewOn": {
-    "message": "View on Etherscan"
+    "message": "View on Arielscan"
   },
   "expandExperience": {
     "message": "Expand your web3 experience"
@@ -1371,15 +1371,15 @@
   },
   "flaskWelcomeWarning2": {
     "message": "We do not guarantee the safety or stability of this extension. The new APIs offered by Flask are not hardened against phishing attacks, meaning that any site or snap that requires Flask might be a malicious attempt to steal your assets.",
-    "description": "This explains the risks of using Qnekt Flask"
+    "description": "This explains the risks of using Arielt Flask"
   },
   "flaskWelcomeWarning3": {
-    "message": "All Flask APIs are experimental. They may be changed or removed without notice, or they might stay on Flask indefinitely without ever being migrated to stable Qnekt. Use them at your own risk.",
+    "message": "All Flask APIs are experimental. They may be changed or removed without notice, or they might stay on Flask indefinitely without ever being migrated to stable Arielt. Use them at your own risk.",
     "description": "This message warns developers about unstable Flask APIs"
   },
   "flaskWelcomeWarning4": {
-    "message": "Make sure to disable your regular Qnekt extension when using Flask.",
-    "description": "This message calls to pay attention about multiple versions of Qnekt running on the same site (Flask + Prod)"
+    "message": "Make sure to disable your regular Arielt extension when using Flask.",
+    "description": "This message calls to pay attention about multiple versions of Arielt running on the same site (Flask + Prod)"
   },
   "flaskWelcomeWarningAcceptButton": {
     "message": "I accept the risks",
@@ -1470,7 +1470,7 @@
     "message": "Gas price estimation failed due to network error."
   },
   "gasPriceInfoTooltipContent": {
-    "message": "Gas price specifies the amount of Ether you are willing to pay for each unit of gas."
+    "message": "Gas price specifies the amount of Ariel you are willing to pay for each unit of gas."
   },
   "gasTimingHoursShort": {
     "message": "$1 hrs",
@@ -1519,11 +1519,11 @@
     "message": "General"
   },
   "getEther": {
-    "message": "Get Ether"
+    "message": "Get Ariel"
   },
   "getEtherFromFaucet": {
-    "message": "Get Ether from a faucet for the $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "Get Ariel from a faucet for the $1",
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Get started"
@@ -1563,7 +1563,7 @@
     "message": "Connect a hardware wallet"
   },
   "hardwareWalletsMsg": {
-    "message": "Select a hardware wallet you'd like to use with Qnekt."
+    "message": "Select a hardware wallet you'd like to use with Arielt."
   },
   "here": {
     "message": "here",
@@ -1624,7 +1624,7 @@
     "message": "Error importing account."
   },
   "importAccountMsg": {
-    "message": "Imported accounts will not be associated with your originally created Qnekt account Secret Recovery Phrase. Learn more about imported accounts"
+    "message": "Imported accounts will not be associated with your originally created Arielt account Secret Recovery Phrase. Learn more about imported accounts"
   },
   "importAccountSeedPhrase": {
     "message": "Import a wallet with Secret Recovery Phrase"
@@ -1636,7 +1636,7 @@
     "message": "Import NFT"
   },
   "importNFTAddressToolTip": {
-    "message": "On OpenSea, for example, on the NFT's page under Details, there is a blue hyperlinked value labeled 'Contract Address'. If you click on this, it will take you to the contract's address on Etherscan; at the top-left of that page, there should be an icon labeled 'Contract', and to the right, a long string of letters and numbers. This is the address of the contract that created your NFT. Click on the 'copy' icon to the right of the address, and you'll have it on your clipboard."
+    "message": "On OpenSea, for example, on the NFT's page under Details, there is a blue hyperlinked value labeled 'Contract Address'. If you click on this, it will take you to the contract's address on Arielscan; at the top-left of that page, there should be an icon labeled 'Contract', and to the right, a long string of letters and numbers. This is the address of the contract that created your NFT. Click on the 'copy' icon to the right of the address, and you'll have it on your clipboard."
   },
   "importNFTPage": {
     "message": "Import NFT page"
@@ -1683,7 +1683,7 @@
     "message": "in your Settings"
   },
   "infuraBlockedNotification": {
-    "message": "Qnekt is unable to connect to the blockchain host. Review possible reasons $1.",
+    "message": "Arielt is unable to connect to the blockchain host. Review possible reasons $1.",
     "description": "$1 is a clickable link with with text defined by the 'here' key"
   },
   "initialTransactionConfirmed": {
@@ -1716,7 +1716,7 @@
     "message": "Recipient address is invalid"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Not ETH network, set to lowercase"
+    "message": "Not ARL network, set to lowercase"
   },
   "invalidAssetType": {
     "message": "This asset is an NFT and needs to be re-added on the Import NFTs page found under the NFTs tab"
@@ -1834,13 +1834,13 @@
     "message": "Enable Use Ledger Live under Settings > Advanced"
   },
   "ledgerConnectionInstructionStepThree": {
-    "message": "Plug in your Ledger device and select the Ethereum app"
+    "message": "Plug in your Ledger device and select the Arielcoin app"
   },
   "ledgerConnectionInstructionStepTwo": {
     "message": "Open and unlock Ledger Live App"
   },
   "ledgerConnectionPreferenceDescription": {
-    "message": "Customize how you connect your Ledger to Qnekt. $1 is recommended, but other options are available. Read more here: $2",
+    "message": "Customize how you connect your Ledger to Arielt. $1 is recommended, but other options are available. Read more here: $2",
     "description": "A description that appears above a dropdown where users can select between up to three options - Ledger Live, U2F or WebHID - depending on what is supported in their browser. $1 is the recommended browser option, it will be either WebHID or U2f. $2 is a link to an article where users can learn more, but will be the translation of the learnMore message."
   },
   "ledgerDeviceOpenFailureMessage": {
@@ -1848,13 +1848,13 @@
   },
   "ledgerLive": {
     "message": "Ledger Live",
-    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to Qnekt."
+    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to Arielt."
   },
   "ledgerLiveApp": {
     "message": "Ledger Live App"
   },
   "ledgerLocked": {
-    "message": "Cannot connect to Ledger device. Please make sure your device is unlocked and Ethereum app is opened."
+    "message": "Cannot connect to Ledger device. Please make sure your device is unlocked and Arielcoin app is opened."
   },
   "ledgerTimeout": {
     "message": "Ledger Live is taking too long to respond or connection timeout. Make sure Ledger Live app is opened and your device is unlocked."
@@ -1923,10 +1923,10 @@
     "message": "Future transactions will queue after this one."
   },
   "mainnet": {
-    "message": "Ethereum Mainnet"
+    "message": "Arielcoin Mainnet"
   },
   "mainnetToken": {
-    "message": "This address matches a known Ethereum Mainnet token address. Recheck the contract address and network for the token you are trying to add."
+    "message": "This address matches a known Arielcoin Mainnet token address. Recheck the contract address and network for the token you are trying to add."
   },
   "makeAnotherSwap": {
     "message": "Create a new swap"
@@ -1970,7 +1970,7 @@
     "message": "Message"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "You now have more control over your account connections in Qnekt."
+    "message": "You now have more control over your account connections in Arielt."
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "Click it to manage your connected accounts."
@@ -1979,13 +1979,13 @@
     "message": "The connection status button shows if the website you’re visiting is connected to your currently selected account."
   },
   "metamaskDescription": {
-    "message": "Connecting you to Ethereum and the Decentralized Web."
+    "message": "Connecting you to Arielcoin and the Decentralized Web."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "Qnekt Swaps is undergoing maintenance. Please check back later."
+    "message": "Arielt Swaps is undergoing maintenance. Please check back later."
   },
   "metamaskVersion": {
-    "message": "Qnekt Version"
+    "message": "Arielt Version"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Always allow you to opt-out via Settings"
@@ -1998,7 +1998,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "Qnekt will.."
+    "message": "Arielt will.."
   },
   "metametricsCommitmentsNeverCollect": {
     "message": "Never collect keys, addresses, transactions, balances, hashes, or any personal information"
@@ -2024,17 +2024,17 @@
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "Send anonymized click & pageview events"
   },
-  "metametricsHelpImproveQnekt": {
-    "message": "Help us improve Qnekt"
+  "metametricsHelpImproveArielt": {
+    "message": "Help us improve Arielt"
   },
   "metametricsOptInDescription": {
-    "message": "Qnekt would like to gather usage data to better understand how our users interact with the extension. This data will be used to continually improve the usability and user experience of our product and the Ethereum ecosystem."
+    "message": "Arielt would like to gather usage data to better understand how our users interact with the extension. This data will be used to continually improve the usability and user experience of our product and the Arielcoin ecosystem."
   },
   "metametricsOptInDescription2": {
     "message": "We would like to gather basic usage data to improve the usability of our product.  These metrics will..."
   },
   "metametricsTitle": {
-    "message": "Join 6M+ users to improve Qnekt"
+    "message": "Join 6M+ users to improve Arielt"
   },
   "mismatchedChainLinkText": {
     "message": "verify the network details",
@@ -2066,7 +2066,7 @@
     "message": "Don't see your token?"
   },
   "mobileSyncWarning": {
-    "message": "The 'Sync with extension' feature is temporarily disabled. If you want to use your extension wallet on Qnekt mobile, then on your mobile app: go back to the wallet setup options and select the 'Import with Secret Recovery Phrase' option. Use your extension wallet's secret phrase to then import your wallet into mobile."
+    "message": "The 'Sync with extension' feature is temporarily disabled. If you want to use your extension wallet on Arielt mobile, then on your mobile app: go back to the wallet setup options and select the 'Import with Secret Recovery Phrase' option. Use your extension wallet's secret phrase to then import your wallet into mobile."
   },
   "mustSelectOne": {
     "message": "Must select at least 1 token."
@@ -2082,7 +2082,7 @@
     "description": "$1 represents the name of the native token on the current network"
   },
   "needCryptoInWallet": {
-    "message": "To interact with decentralized applications using Qnekt, you’ll need $1 in your wallet.",
+    "message": "To interact with decentralized applications using Arielt, you’ll need $1 in your wallet.",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "needHelp": {
@@ -2093,7 +2093,7 @@
     "message": "Share your feedback"
   },
   "needHelpLinkText": {
-    "message": "Qnekt support"
+    "message": "Arielt support"
   },
   "needHelpSubmitTicket": {
     "message": "Submit a ticket"
@@ -2103,7 +2103,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Can not send negative amounts of ETH."
+    "message": "Can not send negative amounts of ARL."
   },
   "network": {
     "message": "Network:"
@@ -2130,7 +2130,7 @@
     "message": "The name associated with this network."
   },
   "networkNameEthereum": {
-    "message": "Ethereum"
+    "message": "Arielcoin"
   },
   "networkNamePolygon": {
     "message": "Polygon"
@@ -2190,7 +2190,7 @@
     "message": "New contract"
   },
   "newNFTDetectedMessage": {
-    "message": "Allow Qnekt to automatically detect NFTs from Opensea and display in your wallet."
+    "message": "Allow Arielt to automatically detect NFTs from Opensea and display in your wallet."
   },
   "newNFTsDetected": {
     "message": "New! NFT detection"
@@ -2201,8 +2201,8 @@
   "newPassword": {
     "message": "New password (8 characters min)"
   },
-  "newToQnekt": {
-    "message": "New to Qnekt?"
+  "newToArielt": {
+    "message": "New to Arielt?"
   },
   "newTokensImportedMessage": {
     "message": "You’ve successfully imported $1.",
@@ -2225,7 +2225,7 @@
   },
   "nextNonceWarning": {
     "message": "Nonce is higher than suggested nonce of $1",
-    "description": "The next nonce according to Qnekt's internal logic"
+    "description": "The next nonce according to Arielt's internal logic"
   },
   "nft": {
     "message": "NFT"
@@ -2304,7 +2304,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Visit in Settings' notification. Upon clicking, users will be taken to Settings page."
   },
   "notifications10DescriptionOne": {
-    "message": "Improved token detection is currently available on Ethereum Mainnet, Polygon, BSC, and Avalanche networks. More to come!"
+    "message": "Improved token detection is currently available on Arielcoin Mainnet, Polygon, BSC, and Avalanche networks. More to come!"
   },
   "notifications10DescriptionThree": {
     "message": "Token detection feature is ON by default. But you can disable it from Settings."
@@ -2341,19 +2341,19 @@
     "message": "Add Popular Networks"
   },
   "notifications1Description": {
-    "message": "Qnekt Mobile users can now swap tokens inside their mobile wallet. Scan the QR code to get the mobile app and start swapping.",
+    "message": "Arielt Mobile users can now swap tokens inside their mobile wallet. Scan the QR code to get the mobile app and start swapping.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the swapping on mobile feature."
   },
   "notifications1Title": {
     "message": "Swapping on mobile is here!",
-    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use Qnekt Swaps on Mobile."
+    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use Arielt Swaps on Mobile."
   },
   "notifications3ActionText": {
     "message": "Read more",
     "description": "The 'call to action' on the button, or link, of the 'Stay secure' notification. Upon clicking, users will be taken to a page about security on the metamask support website."
   },
   "notifications3Description": {
-    "message": "Stay up to date on Qnekt security best practices and get the latest security tips from official Qnekt support.",
+    "message": "Stay up to date on Arielt security best practices and get the latest security tips from official Arielt support.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the information they can get on security from the linked support page."
   },
   "notifications3Title": {
@@ -2365,7 +2365,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Swap on Binance Smart Chain!' notification. Upon clicking, users will be taken to a page where then can swap tokens on Binance Smart Chain."
   },
   "notifications4Description": {
-    "message": "Get the best prices on token swaps right inside your wallet. Qnekt now connects you to multiple decentralized exchange aggregators and professional market makers on Binance Smart Chain.",
+    "message": "Get the best prices on token swaps right inside your wallet. Arielt now connects you to multiple decentralized exchange aggregators and professional market makers on Binance Smart Chain.",
     "description": "Description of a notification in the 'See What's New' popup."
   },
   "notifications4Title": {
@@ -2377,11 +2377,11 @@
     "description": "Description of a notification in the 'See What's New' popup. Describes the seed phrase wording update."
   },
   "notifications6DescriptionOne": {
-    "message": "As of Chrome version 91, the API that enabled our Ledger support (U2F) no longer supports hardware wallets. Qnekt has implemented a new Ledger Live support that allows you to continue to connect to your Ledger device via the Ledger Live desktop app.",
+    "message": "As of Chrome version 91, the API that enabled our Ledger support (U2F) no longer supports hardware wallets. Arielt has implemented a new Ledger Live support that allows you to continue to connect to your Ledger device via the Ledger Live desktop app.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionThree": {
-    "message": "When interacting with your Ledger account in Qnekt, a new tab will open and you will be asked to open the Ledger Live app.  Once the app opens, you'll be asked to allow a WebSocket connection to your Qnekt account.  That's all!",
+    "message": "When interacting with your Ledger account in Arielt, a new tab will open and you will be asked to open the Ledger Live app.  Once the app opens, you'll be asked to allow a WebSocket connection to your Arielt account.  That's all!",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionTwo": {
@@ -2393,11 +2393,11 @@
     "description": "Title for a notification in the 'See What's New' popup. Lets users know about the Ledger support update"
   },
   "notifications7DescriptionOne": {
-    "message": "Qnekt v10.1.0 included new support for EIP-1559 transactions when using Ledger devices.",
+    "message": "Arielt v10.1.0 included new support for EIP-1559 transactions when using Ledger devices.",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for ledger and EIP1559 in v10.1.0"
   },
   "notifications7DescriptionTwo": {
-    "message": "To complete transactions on Ethereum Mainnet, make sure your Ledger device has the latest firmware.",
+    "message": "To complete transactions on Arielcoin Mainnet, make sure your Ledger device has the latest firmware.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the need to update ledger firmware."
   },
   "notifications7Title": {
@@ -2409,7 +2409,7 @@
     "description": "Description on an action button that appears in the What's New popup. Tells the user that if they click it, they will go to our Advanced settings page."
   },
   "notifications8DescriptionOne": {
-    "message": "As of Qnekt v10.4.0, you no longer need Ledger Live to connect your Ledger device to Qnekt.",
+    "message": "As of Arielt v10.4.0, you no longer need Ledger Live to connect your Ledger device to Arielt.",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for how Ledger Live is no longer needed to connect the device."
   },
   "notifications8DescriptionTwo": {
@@ -2486,16 +2486,16 @@
     "message": "Click the browser extension icon"
   },
   "onboardingPinExtensionDescription": {
-    "message": "Pin Qnekt on your browser so it's accessible and easy to view transaction confirmations."
+    "message": "Pin Arielt on your browser so it's accessible and easy to view transaction confirmations."
   },
   "onboardingPinExtensionDescription2": {
-    "message": "You can open Qnekt by clicking on the extension and access your wallet with 1 click."
+    "message": "You can open Arielt by clicking on the extension and access your wallet with 1 click."
   },
   "onboardingPinExtensionDescription3": {
     "message": "Click browser extension icon to access it instantly"
   },
   "onboardingPinExtensionLabel": {
-    "message": "Pin Qnekt"
+    "message": "Pin Arielt"
   },
   "onboardingPinExtensionStep1": {
     "message": "1"
@@ -2504,14 +2504,14 @@
     "message": "2"
   },
   "onboardingPinExtensionTitle": {
-    "message": "Your Qnekt install is complete!"
+    "message": "Your Arielt install is complete!"
   },
   "onboardingReturnNotice": {
     "message": "\"$1\" will close this tab and direct back to $2",
     "description": "Return the user to the site that initiated onboarding"
   },
   "onboardingShowIncomingTransactionsDescription": {
-    "message": "Showing incoming transactions in your wallet relies on communication with $1. Etherscan will have access to your Ethereum address and your IP address. View $2.",
+    "message": "Showing incoming transactions in your wallet relies on communication with $1. Arielscan will have access to your Arielcoin address and your IP address. View $2.",
     "description": "$1 is a clickable link with text defined by the 'etherscan' key. $2 is a clickable link with text defined by the 'privacyMsg' key."
   },
   "onboardingUsePhishingDetectionDescription": {
@@ -2525,8 +2525,8 @@
     "message": "Only connect with sites you trust."
   },
   "openFullScreenForLedgerWebHid": {
-    "message": "Open Qnekt in full screen to connect your ledger via WebHID.",
-    "description": "Shown to the user on the confirm screen when they are viewing Qnekt in a popup window but need to connect their ledger via webhid."
+    "message": "Open Arielt in full screen to connect your ledger via WebHID.",
+    "description": "Shown to the user on the confirm screen when they are viewing Arielt in a popup window but need to connect their ledger via webhid."
   },
   "openInBlockExplorer": {
     "message": "Open in block explorer"
@@ -2556,7 +2556,7 @@
     "message": "Participate in MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Participate in MetaMetrics to help us make Qnekt better"
+    "message": "Participate in MetaMetrics to help us make Arielt better"
   },
   "password": {
     "message": "Password"
@@ -2565,7 +2565,7 @@
     "message": "Password not long enough"
   },
   "passwordSetupDetails": {
-    "message": "This password will unlock your Qnekt wallet only on this device. Qnekt can not recover this password."
+    "message": "This password will unlock your Arielt wallet only on this device. Arielt can not recover this password."
   },
   "passwordStrength": {
     "message": "Password strength: $1",
@@ -2575,7 +2575,7 @@
     "message": "A strong password can improve the security of your wallet should your device be stolen or compromised."
   },
   "passwordTermsWarning": {
-    "message": "I understand that Qnekt cannot recover this password for me. $1"
+    "message": "I understand that Arielt cannot recover this password for me. $1"
   },
   "passwordsDontMatch": {
     "message": "Passwords don't match"
@@ -2618,7 +2618,7 @@
     "description": "The description for the `wallet_snap_*` permission. $1 is the name of the Snap."
   },
   "permission_customConfirmation": {
-    "message": "Display a confirmation in Qnekt.",
+    "message": "Display a confirmation in Arielt.",
     "description": "The description for the `snap_confirm` permission"
   },
   "permission_ethereumAccounts": {
@@ -2679,7 +2679,7 @@
     "message": "Primary currency"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Select native to prioritize displaying values in the native currency of the chain (e.g. ETH). Select Fiat to prioritize displaying values in your selected fiat currency."
+    "message": "Select native to prioritize displaying values in the native currency of the chain (e.g. ARL). Select Fiat to prioritize displaying values in your selected fiat currency."
   },
   "priorityFee": {
     "message": "Priority fee"
@@ -2755,7 +2755,7 @@
     "message": "Never share your Secret Recovery Phrase with anyone"
   },
   "recoveryPhraseReminderItemTwo": {
-    "message": "The Qnekt team will never ask for your Secret Recovery Phrase"
+    "message": "The Arielt team will never ask for your Secret Recovery Phrase"
   },
   "recoveryPhraseReminderSubText": {
     "message": "Your Secret Recovery Phrase controls all of your accounts."
@@ -2831,7 +2831,7 @@
     "message": "Reset wallet"
   },
   "resetWalletSubHeader": {
-    "message": "Qnekt does not keep a copy of your password. If you’re having trouble unlocking your account, you will need to reset your wallet. You can do this by providing the Secret Recovery Phrase you used when you set up your wallet."
+    "message": "Arielt does not keep a copy of your password. If you’re having trouble unlocking your account, you will need to reset your wallet. You can do this by providing the Secret Recovery Phrase you used when you set up your wallet."
   },
   "resetWalletUsingSRP": {
     "message": "This action will delete your current wallet and Secret Recovery Phrase from this device, along with the list of accounts you’ve curated. After resetting with a Secret Recovery Phrase, you’ll see a list of accounts based on the Secret Recovery Phrase you use to reset. This new list will automatically include accounts that have a balance. You’ll also be able to $1 created previously. Custom accounts that you’ve imported will need to be $2, and any custom tokens you’ve added to an account will need to be $3 as well."
@@ -2840,7 +2840,7 @@
     "message": "Make sure you’re using the correct Secret Recovery Phrase before proceeding. You will not be able to undo this."
   },
   "restartMetamask": {
-    "message": "Restart Qnekt"
+    "message": "Restart Arielt"
   },
   "restore": {
     "message": "Restore"
@@ -2939,7 +2939,7 @@
     "message": "Your Secret Recovery Phrase makes it easy to back up and restore your account."
   },
   "secretBackupPhraseWarning": {
-    "message": "WARNING: Never disclose your Secret Recovery Phrase. Anyone with this phrase can take your Ether forever."
+    "message": "WARNING: Never disclose your Secret Recovery Phrase. Anyone with this phrase can take your Ariel forever."
   },
   "secretPhrase": {
     "message": "Only the first account on this wallet will auto load. After completing this process, to add additional accounts, click the drop down menu, then select Create Account."
@@ -2984,7 +2984,7 @@
     "message": "If someone asks for your recovery phrase they are likely trying to scam you and steal your wallet funds."
   },
   "seedPhraseIntroSidebarCopyTwo": {
-    "message": "Never, ever share your Secret Recovery Phrase, not even with Qnekt!"
+    "message": "Never, ever share your Secret Recovery Phrase, not even with Arielt!"
   },
   "seedPhraseIntroSidebarTitleOne": {
     "message": "What is a Secret Recovery Phrase?"
@@ -3023,7 +3023,7 @@
     "message": "Select an account"
   },
   "selectAnAccountAlreadyConnected": {
-    "message": "This account has already been connected to Qnekt"
+    "message": "This account has already been connected to Arielt"
   },
   "selectEachPhrase": {
     "message": "Please select each phrase in order to make sure it is correct."
@@ -3067,7 +3067,7 @@
   },
   "sendingNativeAsset": {
     "message": "Sending $1",
-    "description": "$1 represents the native currency symbol for the current network (e.g. ETH or BNB)"
+    "description": "$1 represents the native currency symbol for the current network (e.g. ARL or BNB)"
   },
   "sendingToTokenContractWarning": {
     "message": "Warning: you are about to send to a token contract which could result in a loss of funds. $1",
@@ -3077,7 +3077,7 @@
     "message": "Set advanced privacy settings"
   },
   "setAdvancedPrivacySettingsDetails": {
-    "message": "Qnekt uses these trusted third-party services to enhance product usability and safety."
+    "message": "Arielt uses these trusted third-party services to enhance product usability and safety."
   },
   "setApprovalForAll": {
     "message": "Set approval for all"
@@ -3130,7 +3130,7 @@
     "message": "Show incoming transactions"
   },
   "showIncomingTransactionsDescription": {
-    "message": "Select this to use Etherscan to show incoming transactions in the transactions list"
+    "message": "Select this to use Arielscan to show incoming transactions in the transactions list"
   },
   "showPermissions": {
     "message": "Show permissions"
@@ -3313,7 +3313,7 @@
     "message": "Error in retrieving state logs."
   },
   "stateLogFileName": {
-    "message": "Qnekt state logs"
+    "message": "Arielt state logs"
   },
   "stateLogs": {
     "message": "State logs"
@@ -3334,7 +3334,7 @@
     "message": "Make sure your Lattice1 is ready to connect"
   },
   "step1LatticeWalletMsg": {
-    "message": "You can connect Qnekt to your Lattice1 device once it is set up and online. Unlock your device and have your Device ID ready. For more on using hardware wallets, $1",
+    "message": "You can connect Arielt to your Lattice1 device once it is set up and online. Unlock your device and have your Device ID ready. For more on using hardware wallets, $1",
     "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
   },
   "step1LedgerWallet": {
@@ -3355,7 +3355,7 @@
     "message": "Plug in Ledger wallet"
   },
   "step2LedgerWalletMsg": {
-    "message": "Connect your wallet directly to your computer.  Unlock your Ledger and open the Ethereum app. For more on using your hardware wallet device, $1.",
+    "message": "Connect your wallet directly to your computer.  Unlock your Ledger and open the Arielcoin app. For more on using your hardware wallet device, $1.",
     "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
   },
   "stillGettingMessage": {
@@ -3392,7 +3392,7 @@
     "message": "Try your swap again. We’ll be here to protect you against similar risks next time."
   },
   "stxDescription": {
-    "message": "Qnekt Swaps just got a whole lot smarter! Enabling Smart Transactions will allow Qnekt to programmatically optimize your Swap to help:"
+    "message": "Arielt Swaps just got a whole lot smarter! Enabling Smart Transactions will allow Arielt to programmatically optimize your Swap to help:"
   },
   "stxErrorNotEnoughFunds": {
     "message": "Not enough funds for a smart transaction."
@@ -3427,7 +3427,7 @@
   },
   "stxSuccessDescription": {
     "message": "Your $1 is now available.",
-    "description": "$1 is a token symbol, e.g. ETH"
+    "description": "$1 is a token symbol, e.g. ARL"
   },
   "stxSwapCompleteIn": {
     "message": "Swap will complete in <",
@@ -3515,7 +3515,7 @@
     "message": "Confirm with your hardware wallet"
   },
   "swapContractDataDisabledErrorDescription": {
-    "message": "In the Ethereum app on your Ledger, go to \"Settings\" and allow contract data. Then, try your swap again."
+    "message": "In the Arielcoin app on your Ledger, go to \"Settings\" and allow contract data. Then, try your swap again."
   },
   "swapContractDataDisabledErrorTitle": {
     "message": "Contract data is not enabled on your Ledger"
@@ -3533,12 +3533,12 @@
     "message": "Edit limit"
   },
   "swapEnableDescription": {
-    "message": "This is required and gives Qnekt permission to swap your $1.",
+    "message": "This is required and gives Arielt permission to swap your $1.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEnableTokenForSwapping": {
     "message": "This will $1 for swapping",
-    "description": "$1 is for the 'enableToken' key, e.g. 'enable ETH'"
+    "description": "$1 is for the 'enableToken' key, e.g. 'enable ARL'"
   },
   "swapEstimatedNetworkFees": {
     "message": "Estimated network fees"
@@ -3583,14 +3583,14 @@
     "message": "Gas fees on the previous screen are split between these two transactions."
   },
   "swapGasFeesSummary": {
-    "message": "Gas fees are paid to crypto miners who process transactions on the $1 network. Qnekt does not profit from gas fees.",
-    "description": "$1 is the selected network, e.g. Ethereum or BSC"
+    "message": "Gas fees are paid to crypto miners who process transactions on the $1 network. Arielt does not profit from gas fees.",
+    "description": "$1 is the selected network, e.g. Arielcoin or BSC"
   },
   "swapHighSlippageWarning": {
     "message": "Slippage amount is very high."
   },
   "swapIncludesMMFee": {
-    "message": "Includes a $1% Qnekt fee.",
+    "message": "Includes a $1% Arielt fee.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapLowSlippageError": {
@@ -3599,10 +3599,10 @@
   "swapMaxSlippage": {
     "message": "Max slippage"
   },
-  "swapQnektFee": {
-    "message": "Qnekt fee"
+  "swapArieltFee": {
+    "message": "Arielt fee"
   },
-  "swapQnektFeeDescription": {
+  "swapArieltFeeDescription": {
     "message": "We find the best price from the top liquidity sources, every time. A fee of $1% is automatically factored into this quote.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
@@ -3620,7 +3620,7 @@
   },
   "swapPriceDifference": {
     "message": "You are about to swap $1 $2 (~$3) for $4 $5 (~$6).",
-    "description": "This message represents the price slippage for the swap.  $1 and $4 are a number (ex: 2.89), $2 and $5 are symbols (ex: ETH), and $3 and $6 are fiat currency amounts."
+    "description": "This message represents the price slippage for the swap.  $1 and $4 are a number (ex: 2.89), $2 and $5 are symbols (ex: ARL), and $3 and $6 are fiat currency amounts."
   },
   "swapPriceDifferenceTitle": {
     "message": "Price difference of ~$1%",
@@ -3737,7 +3737,7 @@
   },
   "swapTokenVerificationMessage": {
     "message": "Always confirm the token address on $1.",
-    "description": "Points the user to Etherscan as a place they can verify information about a token. $1 is replaced with the translation for \"Etherscan\" followed by an info icon that shows more info on hover."
+    "description": "Points the user to Arielscan as a place they can verify information about a token. $1 is replaced with the translation for \"Arielscan\" followed by an info icon that shows more info on hover."
   },
   "swapTokenVerificationOnlyOneSource": {
     "message": "Only verified on 1 source."
@@ -3787,7 +3787,7 @@
     "message": "View in activity"
   },
   "switchEthereumChainConfirmationDescription": {
-    "message": "This will switch the selected network within Qnekt to a previously added network:"
+    "message": "This will switch the selected network within Arielt to a previously added network:"
   },
   "switchEthereumChainConfirmationTitle": {
     "message": "Allow this site to switch the network?"
@@ -3830,16 +3830,16 @@
     "message": "Make sure nobody else is looking at your screen when you scan this code"
   },
   "syncWithMobileComplete": {
-    "message": "Your data has been synced successfully. Enjoy the Qnekt mobile app!"
+    "message": "Your data has been synced successfully. Enjoy the Arielt mobile app!"
   },
   "syncWithMobileDesc": {
-    "message": "You can sync your accounts and information with your mobile device. Open the Qnekt mobile app, go to \"Settings\" and tap on \"Sync from Browser Extension\""
+    "message": "You can sync your accounts and information with your mobile device. Open the Arielt mobile app, go to \"Settings\" and tap on \"Sync from Browser Extension\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "If you just open the Qnekt Mobile app for the first time, just follow the steps in your phone."
+    "message": "If you just open the Arielt Mobile app for the first time, just follow the steps in your phone."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Scan this code with your Qnekt mobile app"
+    "message": "Scan this code with your Arielt mobile app"
   },
   "syncWithMobileTitle": {
     "message": "Sync with mobile"
@@ -3872,7 +3872,7 @@
     "message": "Theme"
   },
   "themeDescription": {
-    "message": "Choose your preferred Qnekt theme."
+    "message": "Choose your preferred Arielt theme."
   },
   "thingsToKeep": {
     "message": "Things to keep in mind:"
@@ -3925,7 +3925,7 @@
     "message": "Token detection is currently available on $1. $2"
   },
   "tokenDetectionDescription": {
-    "message": "ConsenSys' token API aggregates a list of tokens from various third party token lists. When turned on, tokens will be automatically detected, and searchable, on  Ethereum mainnet, Binance, Polygon and Avalanche. When turned off, you will still be able to search for tokens on Ethereum mainnet using Qnekt's legacy token list."
+    "message": "ConsenSys' token API aggregates a list of tokens from various third party token lists. When turned on, tokens will be automatically detected, and searchable, on  Arielcoin mainnet, Binance, Polygon and Avalanche. When turned off, you will still be able to search for tokens on Arielcoin mainnet using Arielt's legacy token list."
   },
   "tokenFoundTitle": {
     "message": "1 new token found"
@@ -3986,7 +3986,7 @@
     "message": "Site suggested"
   },
   "transactionDetailDappGasTooltip": {
-    "message": "Edit to use Qnekt's recommended gas fee based on the latest block."
+    "message": "Edit to use Arielt's recommended gas fee based on the latest block."
   },
   "transactionDetailGasHeading": {
     "message": "Estimated gas fee"
@@ -4001,7 +4001,7 @@
     "message": "Gas fees are set by the network and fluctuate based on network traffic and transaction complexity."
   },
   "transactionDetailGasTooltipIntro": {
-    "message": "Gas fees are paid to crypto miners who process transactions on the $1 network. Qnekt does not profit from gas fees."
+    "message": "Gas fees are paid to crypto miners who process transactions on the $1 network. Arielt does not profit from gas fees."
   },
   "transactionDetailGasTotalSubtitle": {
     "message": "Amount + gas fee"
@@ -4071,7 +4071,7 @@
     "description": "$1 is the wallet device name; $2 is a link to wallet connection guide"
   },
   "troubleStarting": {
-    "message": "Qnekt had trouble starting. This error could be intermittent, so try restarting the extension."
+    "message": "Arielt had trouble starting. This error could be intermittent, so try restarting the extension."
   },
   "troubleTokenBalances": {
     "message": "We had trouble loading your token balances. You can view them ",
@@ -4093,14 +4093,14 @@
     "message": "Transaction insights not supported for this contract at this time."
   },
   "typePassword": {
-    "message": "Type your Qnekt password"
+    "message": "Type your Arielt password"
   },
   "typeYourSRP": {
     "message": "Type your Secret Recovery Phrase"
   },
   "u2f": {
     "message": "U2F",
-    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect Qnekt to Ledger devices."
+    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect Arielt to Ledger devices."
   },
   "unapproved": {
     "message": "Unapproved"
@@ -4172,7 +4172,7 @@
     "message": "Use phishing detection"
   },
   "usePhishingDetectionDescription": {
-    "message": "Display a warning for phishing domains targeting Ethereum users"
+    "message": "Display a warning for phishing domains targeting Arielcoin users"
   },
   "useTokenDetectionPrivacyDesc": {
     "message": "Automatically displaying tokens sent to your account involves communication with third party servers to fetch token’s images. Those serves will have access to your IP address."
@@ -4218,7 +4218,7 @@
     "description": "$1 is the action type. e.g (Account, Transaction, Swap) and $2 is the Custom Block Exporer URL"
   },
   "viewOnEtherscan": {
-    "message": "View $1 on Etherscan",
+    "message": "View $1 on Arielscan",
     "description": "$1 is the action type. e.g (Account, Transaction, Swap)"
   },
   "viewOnOpensea": {
@@ -4238,10 +4238,10 @@
     "message": "You’ve successfully protected your wallet. Keep your Secret Recovery Phrase safe and secret -- it’s your responsibility!"
   },
   "walletCreationSuccessReminder1": {
-    "message": "Qnekt can’t recover your Secret Recovery Phrase."
+    "message": "Arielt can’t recover your Secret Recovery Phrase."
   },
   "walletCreationSuccessReminder2": {
-    "message": "Qnekt will never ask you for your Secret Recovery Phrase."
+    "message": "Arielt will never ask you for your Secret Recovery Phrase."
   },
   "walletCreationSuccessReminder3": {
     "message": "$1 with anyone or risk your funds being stolen",
@@ -4276,7 +4276,7 @@
     "description": "Refers to a interface for connecting external devices to the browser. Used for connecting ledger to the browser. Read more here https://developer.mozilla.org/en-US/docs/Web/API/WebHID_API"
   },
   "welcome": {
-    "message": "Welcome to Qnekt"
+    "message": "Welcome to Arielt"
   },
   "welcomeBack": {
     "message": "Welcome back!"
@@ -4288,20 +4288,20 @@
     "message": "Explore decentralized apps"
   },
   "welcomeLoginDescription": {
-    "message": "Use your Qnekt to login to decentralized apps - no signup needed."
+    "message": "Use your Arielt to login to decentralized apps - no signup needed."
   },
   "welcomeLoginTitle": {
     "message": "Say hello to your wallet"
   },
-  "welcomeToQnekt": {
+  "welcomeToArielt": {
     "message": "Let's get started"
   },
-  "welcomeToQnektIntro": {
-    "message": "Trusted by millions, Qnekt is a secure wallet making the world of web3 accessible to all."
+  "welcomeToArieltIntro": {
+    "message": "Trusted by millions, Arielt is a secure wallet making the world of web3 accessible to all."
   },
   "whatsNew": {
     "message": "What's new",
-    "description": "This is the title of a popup that gives users notifications about new features and updates to Qnekt."
+    "description": "This is the title of a popup that gives users notifications about new features and updates to Arielt."
   },
   "whatsThis": {
     "message": "What's this?"

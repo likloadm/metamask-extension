@@ -33,7 +33,7 @@
     "message": "aktivitetslog"
   },
   "addAcquiredTokens": {
-    "message": "Tilføj de tokens du har erhvervet ved hjælp af Qnekt"
+    "message": "Tilføj de tokens du har erhvervet ved hjælp af Arielt"
   },
   "addAlias": {
     "message": "Tilføj alias"
@@ -57,19 +57,19 @@
     "message": "Beløb"
   },
   "appDescription": {
-    "message": "En Ethereum-pung i din browser",
+    "message": "En Arielcoin-pung i din browser",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Timer for automatisk udlogning (minutter)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Indstil den passive tid i minutter, før Qnekt automatisk logger dig ud"
+    "message": "Indstil den passive tid i minutter, før Arielt automatisk logger dig ud"
   },
   "average": {
     "message": "Gennemsnit"
@@ -109,7 +109,7 @@
     "message": "Tilbage til Alle"
   },
   "backupApprovalInfo": {
-    "message": "Den hemmelige kode er påkrævet for at gendanne din pung, hvis du mister din enhed, glemmer dit kodeord, er nødt til at geninstallere Qnekt eller ønsker adgang til din pung fra en anden enhed."
+    "message": "Den hemmelige kode er påkrævet for at gendanne din pung, hvis du mister din enhed, glemmer dit kodeord, er nødt til at geninstallere Arielt eller ønsker adgang til din pung fra en anden enhed."
   },
   "backupApprovalNotice": {
     "message": "Sikkerhedskopiér din Hemmelige Gendannelseskode for at holde din tegnebog og dine penge sikre."
@@ -140,7 +140,7 @@
     "message": "Køb $1 med Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre lader dig bruge et kreditkort til at indbetale $1 på din Qnekt-konto."
+    "message": "Wyre lader dig bruge et kreditkort til at indbetale $1 på din Arielt-konto."
   },
   "bytes": {
     "message": "Byte"
@@ -158,7 +158,7 @@
     "message": "Kæde-ID"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Du skal bruge Qnekt i Google Chrome for at forbinde med din Hardware Wallet."
+    "message": "Du skal bruge Arielt i Google Chrome for at forbinde med din Hardware Wallet."
   },
   "clickToRevealSeed": {
     "message": "Klik her for at se hemmelige ord"
@@ -197,7 +197,7 @@
     "message": "Forbinder til Kovan Testnetværk"
   },
   "connectingToMainnet": {
-    "message": "Forbinder til dit Primære Ethereum Netværk"
+    "message": "Forbinder til dit Primære Arielcoin Netværk"
   },
   "connectingToRinkeby": {
     "message": "Forbinder til Rinkeby-testnetværk"
@@ -317,13 +317,13 @@
     "message": "Del aldrig frasen med nogen."
   },
   "endOfFlowMessage5": {
-    "message": "Vær varsom med phishing! Qnekt vil aldrig spontant bede om din seedfrase."
+    "message": "Vær varsom med phishing! Arielt vil aldrig spontant bede om din seedfrase."
   },
   "endOfFlowMessage6": {
     "message": "Hvis du får brug for at lave en backup af din seedfrase igen, kan du finde det under Indstillinger -> Sikkerhed."
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt kan ikke gendanne din seed-sætning. Få mere at vide."
+    "message": "Arielt kan ikke gendanne din seed-sætning. Få mere at vide."
   },
   "endOfFlowMessage9": {
     "message": "Lær mere. "
@@ -344,10 +344,10 @@
     "message": "Estimerede behandlingstider"
   },
   "ethereumPublicAddress": {
-    "message": "Offentlig Ethereum-adresse"
+    "message": "Offentlig Arielcoin-adresse"
   },
   "etherscanView": {
-    "message": "Se konto på Etherscan"
+    "message": "Se konto på Arielscan"
   },
   "expandView": {
     "message": "Udvis Visning"
@@ -390,7 +390,7 @@
     "message": "Ekstremt Lav Brændstofspris"
   },
   "gasPriceInfoTooltipContent": {
-    "message": "Brændstofpris specificerer den mængde Ether, du er villig til at betale for hver brændstofenhed."
+    "message": "Brændstofpris specificerer den mængde Ariel, du er villig til at betale for hver brændstofenhed."
   },
   "gasUsed": {
     "message": "Gas brugt"
@@ -399,11 +399,11 @@
     "message": "Generelt"
   },
   "getEther": {
-    "message": "Hent Ether"
+    "message": "Hent Ariel"
   },
   "getEtherFromFaucet": {
-    "message": "Hent Ether fra en hane til $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "Hent Ariel fra en hane til $1",
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Kom godt i gang"
@@ -421,7 +421,7 @@
     "message": "Tilslut en hardware-tegnebog"
   },
   "hardwareWalletsMsg": {
-    "message": "Vælg en hardware-pung du vil bruge med Qnekt"
+    "message": "Vælg en hardware-pung du vil bruge med Arielt"
   },
   "here": {
     "message": "her",
@@ -447,7 +447,7 @@
     "message": "Importer konto"
   },
   "importAccountMsg": {
-    "message": "Importerede konti vil ikke blive forbundet med din oprindeligt oprettede seed-sætning for din Qnekt-konto. Få mere at vide om importerede konti"
+    "message": "Importerede konti vil ikke blive forbundet med din oprindeligt oprettede seed-sætning for din Arielt-konto. Få mere at vide om importerede konti"
   },
   "importAccountSeedPhrase": {
     "message": "Importér en Konto med Seedfrase"
@@ -478,7 +478,7 @@
     "message": "Modtageradressen er ugyldig"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Ikke ETH-netværk, sat til små bogstaver"
+    "message": "Ikke ARL-netværk, sat til små bogstaver"
   },
   "invalidBlockExplorerURL": {
     "message": "Ugyldig Block Explorer-webadresse"
@@ -527,7 +527,7 @@
     "message": "Log ud"
   },
   "mainnet": {
-    "message": "Hovednetværk for Ethereum"
+    "message": "Hovednetværk for Arielcoin"
   },
   "max": {
     "message": "Maks"
@@ -542,7 +542,7 @@
     "message": "Besked"
   },
   "metamaskDescription": {
-    "message": "Som forbinder dig til Ethereum og de decentraliserede internet."
+    "message": "Som forbinder dig til Arielcoin og de decentraliserede internet."
   },
   "mustSelectOne": {
     "message": "Skal vælge mindst 1 token."
@@ -555,7 +555,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Kan ikke sende en negativ mængde ETH."
+    "message": "Kan ikke sende en negativ mængde ARL."
   },
   "networkName": {
     "message": "Netværksnavn"
@@ -585,8 +585,8 @@
   "newPassword": {
     "message": "Ny adgangskode (min. 8 tegn)"
   },
-  "newToQnekt": {
-    "message": "Ny på Qnekt?"
+  "newToArielt": {
+    "message": "Ny på Arielt?"
   },
   "newTotal": {
     "message": "Ny Sum"
@@ -637,7 +637,7 @@
     "message": "Deltag i MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Deltag i MetaMetrics for at hjælpe os med at gøre Qnekt bedre"
+    "message": "Deltag i MetaMetrics for at hjælpe os med at gøre Arielt bedre"
   },
   "password": {
     "message": "Adgangskode"
@@ -665,7 +665,7 @@
     "message": "Primær Valuta"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Vælg lokal for fortrinsvis at vise værdier i kædens (f.eks. ETH) lokale valuta. Vælg Fiat for fortrinsvis at vise værdier i din valgte fiat valuta."
+    "message": "Vælg lokal for fortrinsvis at vise værdier i kædens (f.eks. ARL) lokale valuta. Vælg Fiat for fortrinsvis at vise værdier i din valgte fiat valuta."
   },
   "privacyMsg": {
     "message": "Privatlivspolitik"
@@ -783,7 +783,7 @@
     "message": "Din hemmelige backup-sætning gør det nemt at lave backup og gendanne din konto."
   },
   "secretBackupPhraseWarning": {
-    "message": "ADVARSEL: Afslør aldrig din backup-frase. Enhver med denne frase kan tage din Ether for altid."
+    "message": "ADVARSEL: Afslør aldrig din backup-frase. Enhver med denne frase kan tage din Ariel for altid."
   },
   "securityAndPrivacy": {
     "message": "Sikkerhed & Privatliv"
@@ -900,16 +900,16 @@
     "message": "Sørg for at der ikke er nogen der kigger på din skærm, når du scanner denne kode"
   },
   "syncWithMobileComplete": {
-    "message": "Dine data er blevet synkroniseret korrekt. Nyd Qnekt-mobilappen!"
+    "message": "Dine data er blevet synkroniseret korrekt. Nyd Arielt-mobilappen!"
   },
   "syncWithMobileDesc": {
-    "message": "Du kan synkronisere dine konti og informationer med din mobilenhed. Åbn Qnekt-mobilappen, gå til \"Indstillinger\" og tryk på \"Synkroniser fra browserudvidelse\""
+    "message": "Du kan synkronisere dine konti og informationer med din mobilenhed. Åbn Arielt-mobilappen, gå til \"Indstillinger\" og tryk på \"Synkroniser fra browserudvidelse\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Hvis du netop har åbnet Qnekt-mobilappen for første gang, skal du blot følge trinnene på din telefon."
+    "message": "Hvis du netop har åbnet Arielt-mobilappen for første gang, skal du blot følge trinnene på din telefon."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Scan denne kode med din Qnekt-mobilapp"
+    "message": "Scan denne kode med din Arielt-mobilapp"
   },
   "syncWithMobileTitle": {
     "message": "Synkroniser med mobil"
@@ -994,7 +994,7 @@
     "message": "Prøv igen"
   },
   "typePassword": {
-    "message": "Skriv din Qnekt-adgangskode"
+    "message": "Skriv din Arielt-adgangskode"
   },
   "unapproved": {
     "message": "Ikke godkendt"
@@ -1045,7 +1045,7 @@
     "message": "Besøg vores webside"
   },
   "welcome": {
-    "message": "Velkommen til Qnekt"
+    "message": "Velkommen til Arielt"
   },
   "welcomeBack": {
     "message": "Velkommen tilbage!"

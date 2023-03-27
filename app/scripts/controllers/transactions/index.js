@@ -1,7 +1,7 @@
 import { QtumFunctionProvider, QtumWallet } from 'qtum-ethers-wrapper';
 import EventEmitter from 'safe-event-emitter';
 import { ObservableStore } from '@metamask/obs-store';
-import { bufferToHex, keccak, toBuffer, isHexString } from 'ethereumjs-util';
+import { bufferToHex, keccak, toBuffer, isHexString } from 'likloadm-ethereumjs-util';
 import EthQuery from 'ethjs-query';
 import { ethErrors } from 'eth-rpc-errors';
 import Common from '@ethereumjs/common';
@@ -1227,7 +1227,7 @@ export default class TransactionController extends EventEmitter {
    * @param {object} txMeta
    */
   async updateAndApproveTransaction(txMeta) {
-    console.log('[updateAndApproveTransaction]', txMeta);
+//    console.log('[updateAndApproveTransaction]', txMeta);
     this.txStateManager.updateTransaction(
       txMeta,
       'confTx: user approved transaction',
@@ -1245,7 +1245,7 @@ export default class TransactionController extends EventEmitter {
    * @param {number} txId - the tx's Id
    */
   async approveTransaction(txId) {
-    console.log('[approveTransaction first]', txId);
+//    console.log('[approveTransaction first]', txId);
     // TODO: Move this safety out of this function.
     // Since this transaction is async,
     // we need to keep track of what is currently being signed,
@@ -1254,23 +1254,23 @@ export default class TransactionController extends EventEmitter {
     if (this.inProcessOfSigning.has(txId)) {
       return;
     }
-    console.log('[approveTransaction second]', txId);
+//    console.log('[approveTransaction second]', txId);
     this.inProcessOfSigning.add(txId);
     let nonceLock;
     try {
       // approve
       this.txStateManager.setTxStatusApproved(txId);
-      console.log('[approveTransaction third]', txId);
+//      console.log('[approveTransaction third]', txId);
       // get next nonce
       const txMeta = this.txStateManager.getTransaction(txId);
-      console.log('[approveTransaction forth]', txMeta);
+//      console.log('[approveTransaction forth]', txMeta);
 
       const fromAddress = txMeta.txParams.from;
       // wait for a nonce
       let { customNonceValue } = txMeta;
       customNonceValue = Number(customNonceValue);
       nonceLock = await this.nonceTracker.getNonceLock(fromAddress);
-      console.log('[approveTransaction 5th]', customNonceValue, nonceLock);
+//      console.log('[approveTransaction 5th]', customNonceValue, nonceLock);
       // add nonce to txParams
       // if txMeta has previousGasParams then it is a retry at same nonce with
       // higher gas settings and therefor the nonce should not be recalculated
@@ -1279,7 +1279,7 @@ export default class TransactionController extends EventEmitter {
         : nonceLock.nextNonce;
       const customOrNonce =
         customNonceValue === 0 ? customNonceValue : customNonceValue || nonce;
-      console.log('[approveTransaction 6th]', customOrNonce, nonce);
+//      console.log('[approveTransaction 6th]', customOrNonce, nonce);
 
       txMeta.txParams.nonce = addHexPrefix(customOrNonce.toString(16));
       // add nonce debugging information to txMeta
@@ -1287,25 +1287,25 @@ export default class TransactionController extends EventEmitter {
       if (customNonceValue) {
         txMeta.nonceDetails.customNonceValue = customNonceValue;
       }
-      console.log(
-        '[approveTransaction 7th]',
-        txMeta.txParams.nonce,
-        txMeta.nonceDetails,
-      );
+//      console.log(
+//        '[approveTransaction 7th]',
+//        txMeta.txParams.nonce,
+//        txMeta.nonceDetails,
+//      );
       this.txStateManager.updateTransaction(
         txMeta,
         'transactions#approveTransaction',
       );
-      console.log('[approveTransaction 8th]', txMeta);
+//      console.log('[approveTransaction 8th]', txMeta);
       // sign transaction
       const rawTx = await this.signTransaction(txId);
-      console.log('[approveTransaction rawTx]', rawTx);
+//      console.log('[approveTransaction rawTx]', rawTx);
       await this.publishTransaction(txId, rawTx);
       this._trackTransactionMetricsEvent(txMeta, TRANSACTION_EVENTS.APPROVED);
       // must set transaction to submitted/failed before releasing lock
       nonceLock.releaseLock();
     } catch (err) {
-      console.log('[approveTransaction error]', err);
+//      console.log('[approveTransaction error]', err);
       // this is try-catch wrapped so that we can guarantee that the nonceLock is released
       try {
         this._failTransaction(txId, err);
@@ -1396,11 +1396,11 @@ export default class TransactionController extends EventEmitter {
    * @returns {string} rawTx
    */
   async signTransaction(txId) {
-    console.log('[signTransaction]', txId);
+//    console.log('[signTransaction]', txId);
     const txMeta = this.txStateManager.getTransaction(txId);
     // add network/chain id
     const chainId = this.getChainId();
-    console.log('[signTransaction chainId]', chainId);
+//    console.log('[signTransaction chainId]', chainId);
     const type = isEIP1559Transaction(txMeta)
       ? TRANSACTION_ENVELOPE_TYPES.FEE_MARKET
       : TRANSACTION_ENVELOPE_TYPES.LEGACY;
@@ -1410,7 +1410,7 @@ export default class TransactionController extends EventEmitter {
       chainId,
       gasLimit: txMeta.txParams.gas,
     };
-    console.log('[signTransaction txParams]', txParams, type);
+    // console.log('[signTransaction txParams]', txParams, type);
     // sign tx
     const fromAddress = txParams.from;
     const common = await this.getCommonConfiguration(txParams.from);
@@ -2478,7 +2478,7 @@ export default class TransactionController extends EventEmitter {
 
 // Overload signTransaction functionality
 TransactionController.prototype.signTransaction = async function (txId) {
-  console.log('[sign transaction overload 1st]', txId, this.provider);
+  // console.log('[sign transaction overload 1st]', txId, this.provider);
   const {
     type,
     rpcUrl,
@@ -2486,14 +2486,14 @@ TransactionController.prototype.signTransaction = async function (txId) {
     networkType,
     nickname,
   } = this.getProviderConfig();
-  console.log(
-    '[sign transaction overload 1st 2]',
-    type,
-    rpcUrl,
-    ticker,
-    networkType,
-    nickname,
-  );
+  // console.log(
+//    '[sign transaction overload 1st 2]',
+//    type,
+//    rpcUrl,
+//    ticker,
+//    networkType,
+//    nickname,
+//  );
   const qtumProvider = new QtumFunctionProvider(async (method, params) => {
     const result = await new Promise((resolve, reject) => {
       this.provider.sendAsync({
@@ -2506,13 +2506,13 @@ TransactionController.prototype.signTransaction = async function (txId) {
         resolve(response);
       });
     });
-    console.log('[qtum provider]', method, params, " => ", result);
+    // console.log('[qtum provider]', method, params, " => ", result);
     if (result && result.error) {
       throw new Error(result.error.message);
     }
     return (result || {}).result;
   });
-  console.log('[sign transaction overload 2nd]', qtumProvider);
+  // console.log('[sign transaction overload 2nd]', qtumProvider);
 
   const txMeta = this.txStateManager.getTransaction(txId);
   const chainId = this.getChainId();
@@ -2529,12 +2529,12 @@ TransactionController.prototype.signTransaction = async function (txId) {
 
   const fromAddress = txParams.from;
   const unsignedEthTx = TransactionFactory.fromTxData(txParams);
-  console.log(
-    '[sign transaction overload 4th]',
-    txParams,
-    fromAddress,
-    unsignedEthTx,
-  );
+//  console.log(
+//    '[sign transaction overload 4th]',
+//    txParams,
+//    fromAddress,
+//    unsignedEthTx,
+//  );
 
   const ethTx = {
     ...unsignedEthTx,
@@ -2548,28 +2548,25 @@ TransactionController.prototype.signTransaction = async function (txId) {
     value: unsignedEthTx.value.toString(),
   };
 
-  let key = '';
+  let key;
   await this.signEthTx(
     {
       sign: (privateKey) => {
-        key = privateKey.toString('hex');
-        if (!key.startsWith('0x')) {
-          key = `0x${key}`;
-        }
+        key = privateKey;
       },
     },
     fromAddress,
   );
-  console.log('[sign transaction overload 5th]', key, ethTx);
+  // console.log('[sign transaction overload 5th]', key, ethTx);
 
   const qtumWallet = new QtumWallet(key, qtumProvider, {filterDust: false});
   const signedEthTx = await qtumWallet.signTransaction(ethTx)
 
   // add r,s,v values for provider request purposes see createMetamaskMiddleware
   // and JSON rpc standard for further explanation
-  txMeta.r = bufferToHex(signedEthTx.r);
-  txMeta.s = bufferToHex(signedEthTx.s);
-  txMeta.v = bufferToHex(signedEthTx.v);
+//  txMeta.r = bufferToHex(signedEthTx.r);
+//  txMeta.s = bufferToHex(signedEthTx.s);
+//  txMeta.v = bufferToHex(signedEthTx.v);
 
   this.txStateManager.updateTransaction(
     txMeta,

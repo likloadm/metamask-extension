@@ -33,7 +33,7 @@
     "message": "registre d'activitat"
   },
   "addAcquiredTokens": {
-    "message": "Afegeix les fitxes que has adquirit fent servir Qnekt"
+    "message": "Afegeix les fitxes que has adquirit fent servir Arielt"
   },
   "addAlias": {
     "message": "Afegeix un àlies"
@@ -57,19 +57,19 @@
     "message": "Quantitat"
   },
   "appDescription": {
-    "message": "Un Moneder Ethereum al teu Navegador",
+    "message": "Un Moneder Arielcoin al teu Navegador",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Temporitzador de tancament de sessió automàtic (minuts)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Configura el temps de repòs com minuts abans que Qnekt tanqui la sessió automàticament"
+    "message": "Configura el temps de repòs com minuts abans que Arielt tanqui la sessió automàticament"
   },
   "average": {
     "message": "Mitjana"
@@ -109,7 +109,7 @@
     "message": "Torna a Tot"
   },
   "backupApprovalInfo": {
-    "message": "Aquest codi secret es requereix per recuperar el teu moneder en cas que perdis el dispositiu, oblidis la teva contrasenya, hagis de reinstal·lar Qnekt, o vulguis accedir al teu moneder des d'un altre dispositiu."
+    "message": "Aquest codi secret es requereix per recuperar el teu moneder en cas que perdis el dispositiu, oblidis la teva contrasenya, hagis de reinstal·lar Arielt, o vulguis accedir al teu moneder des d'un altre dispositiu."
   },
   "backupApprovalNotice": {
     "message": "Fes una còpia de seguretat del teu codi Secret de Recuperació per mantenir el teu moneder i els teus fons segurs."
@@ -140,7 +140,7 @@
     "message": "Compra $1 amb Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre et permet utilitzar una targeta de crèdit per dipositar $1 directe al teu compte Qnekt."
+    "message": "Wyre et permet utilitzar una targeta de crèdit per dipositar $1 directe al teu compte Arielt."
   },
   "cancel": {
     "message": "Cancel·la"
@@ -155,7 +155,7 @@
     "message": "Cadena ID"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Necessites fer servir Qnekt amb Google Chrome per a connectar-te al teu Moneder Hardware."
+    "message": "Necessites fer servir Arielt amb Google Chrome per a connectar-te al teu Moneder Hardware."
   },
   "clickToRevealSeed": {
     "message": "Fes clic aquí per a revelar les paraules secretes"
@@ -194,7 +194,7 @@
     "message": "Conectant a la xarxa de Kovan Test"
   },
   "connectingToMainnet": {
-    "message": "Connectant a Xarxa Principal Ethereum"
+    "message": "Connectant a Xarxa Principal Arielcoin"
   },
   "connectingToRinkeby": {
     "message": "Connectant a la Xarxa de Prova Rinkeby"
@@ -314,19 +314,19 @@
     "message": "No comparteixis mai la frase amb ningú."
   },
   "endOfFlowMessage5": {
-    "message": "Estigues atent amb el phishing! Qnekt no et preguntarà mai espontàniament la teva frase de recuperació."
+    "message": "Estigues atent amb el phishing! Arielt no et preguntarà mai espontàniament la teva frase de recuperació."
   },
   "endOfFlowMessage6": {
     "message": "Si necessites fer una còpia de seguretat de la teva frase de recuperació una altra vegada, la pots trobar a Configuració-> Seguretat."
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt no pot recuperar la teva seedphrase. Descobreix per què."
+    "message": "Arielt no pot recuperar la teva seedphrase. Descobreix per què."
   },
   "endOfFlowMessage9": {
     "message": "Més informació."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "El nom ENS no s'ha trovat a la xarxa actual. Prova a cambiar a la xarxa principal d'Ethereum."
+    "message": "El nom ENS no s'ha trovat a la xarxa actual. Prova a cambiar a la xarxa principal d'Arielcoin."
   },
   "ensRegistrationError": {
     "message": "Error al registre de nom ENS"
@@ -341,10 +341,10 @@
     "message": "Temps de processament estimats"
   },
   "ethereumPublicAddress": {
-    "message": "Adreça Pública d'Ethereum"
+    "message": "Adreça Pública d'Arielcoin"
   },
   "etherscanView": {
-    "message": "Veure compte a Etherscan"
+    "message": "Veure compte a Arielscan"
   },
   "expandView": {
     "message": "Eixamplar Vista"
@@ -387,17 +387,17 @@
     "message": "Preu del Gas Extremadament Baix"
   },
   "gasPriceInfoTooltipContent": {
-    "message": "El preu del gas especifica la quantitat d'Ether que estàs disposat a pagar per cada unitat de gas."
+    "message": "El preu del gas especifica la quantitat d'Ariel que estàs disposat a pagar per cada unitat de gas."
   },
   "gasUsed": {
     "message": "Gas utilitzat"
   },
   "getEther": {
-    "message": "Aconsegueix Ether"
+    "message": "Aconsegueix Ariel"
   },
   "getEtherFromFaucet": {
-    "message": "Aconsegueix Ether d'una aixeta per $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "Aconsegueix Ariel d'una aixeta per $1",
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Comença"
@@ -415,7 +415,7 @@
     "message": "Connectar un moneder hardware"
   },
   "hardwareWalletsMsg": {
-    "message": "Selecciona una cartera de hardware que t'agradaria utilizar amb Qnekt"
+    "message": "Selecciona una cartera de hardware que t'agradaria utilizar amb Arielt"
   },
   "here": {
     "message": "aquí",
@@ -441,7 +441,7 @@
     "message": "Importa compte"
   },
   "importAccountMsg": {
-    "message": "Els comptes importats no s'associaran amb la teva frase de recuperació creada originalment a Qnekt. Aprèn més sobre els comptes importats"
+    "message": "Els comptes importats no s'associaran amb la teva frase de recuperació creada originalment a Arielt. Aprèn més sobre els comptes importats"
   },
   "importAccountSeedPhrase": {
     "message": "Importa un Compte amb Phrase de Recuperació"
@@ -472,7 +472,7 @@
     "message": "L'adreça del recipient no és vàlida"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "No hi ha xarxa ETH, posar en minúscules"
+    "message": "No hi ha xarxa ARL, posar en minúscules"
   },
   "invalidBlockExplorerURL": {
     "message": "URL de Block Explorer"
@@ -527,7 +527,7 @@
     "message": "Tanca la sessió"
   },
   "mainnet": {
-    "message": "Xarxa Ethereum principal"
+    "message": "Xarxa Arielcoin principal"
   },
   "memo": {
     "message": "notes"
@@ -539,10 +539,10 @@
     "message": "Missatge"
   },
   "metamaskDescription": {
-    "message": "Conectant-te a Ethereum i la web descentralitzada."
+    "message": "Conectant-te a Arielcoin i la web descentralitzada."
   },
   "metamaskVersion": {
-    "message": "Versió Qnekt"
+    "message": "Versió Arielt"
   },
   "mustSelectOne": {
     "message": "Has de seleccionar "
@@ -555,7 +555,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "No es poden enviar quantitats negatives de ETH."
+    "message": "No es poden enviar quantitats negatives de ARL."
   },
   "networkName": {
     "message": "Nom de la xarxa"
@@ -585,8 +585,8 @@
   "newPassword": {
     "message": "Nova contrasenya (mínim 8 caràcters)"
   },
-  "newToQnekt": {
-    "message": "Nou a Qnekt?"
+  "newToArielt": {
+    "message": "Nou a Arielt?"
   },
   "newTotal": {
     "message": "Nou total"
@@ -640,7 +640,7 @@
     "message": "Participar a MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Participa a MetaMetrics per ajudar-nos a fer Qnekt millor"
+    "message": "Participa a MetaMetrics per ajudar-nos a fer Arielt millor"
   },
   "password": {
     "message": "Contrasenya"
@@ -665,7 +665,7 @@
     "message": "Divisa principal"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Selecciona Natiu per a prioritzar la mostra de valors en la divisa nadiua de la cadena (p. ex. ETH). Selecciona Fiat per prioritzar la mostra de valors en la divisa fiduciària seleccionada."
+    "message": "Selecciona Natiu per a prioritzar la mostra de valors en la divisa nadiua de la cadena (p. ex. ARL). Selecciona Fiat per prioritzar la mostra de valors en la divisa fiduciària seleccionada."
   },
   "privacyMsg": {
     "message": "Política de privadesa"
@@ -780,7 +780,7 @@
     "message": "La teva frase de recuperació secreta facilita la còpia de seguretat i la recuperació del teu compte."
   },
   "secretBackupPhraseWarning": {
-    "message": "ATENCIÓ: No divulguis mai la teva frase de recuperació. Qualsevol amb aquesta frase pot utilitzar el teu Ether per sempre."
+    "message": "ATENCIÓ: No divulguis mai la teva frase de recuperació. Qualsevol amb aquesta frase pot utilitzar el teu Ariel per sempre."
   },
   "securityAndPrivacy": {
     "message": "Seguretat i privacitat"
@@ -903,16 +903,16 @@
     "message": "Assegura't que no hi ha ningú mirant la teva pantalla quan escanegis aquest codi"
   },
   "syncWithMobileComplete": {
-    "message": "Les teves dades s'han sincronitzat amb èxit. Disfruta de l'app mòbil de Qnekt!"
+    "message": "Les teves dades s'han sincronitzat amb èxit. Disfruta de l'app mòbil de Arielt!"
   },
   "syncWithMobileDesc": {
     "message": "Pots sincronitzar els teus comptes i la teva informació amb el teu dispositiu mòbil. Obre l'app mòbil de MetaTask, ves a \"Configuració\" i \"Sincronitzar desde l"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Si acabes d'obrir l'app mòbil Qnekt per primer cop, tan sols has de seguir els passos del teu telèfon."
+    "message": "Si acabes d'obrir l'app mòbil Arielt per primer cop, tan sols has de seguir els passos del teu telèfon."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Escaneja aquest codi amb la teva aplicació mòbil de Qnekt"
+    "message": "Escaneja aquest codi amb la teva aplicació mòbil de Arielt"
   },
   "syncWithMobileTitle": {
     "message": "Sincronitzar amb mòbil"
@@ -994,7 +994,7 @@
     "message": "Torna-ho a provar"
   },
   "typePassword": {
-    "message": "Tecleja la teva contrasenya de Qnekt"
+    "message": "Tecleja la teva contrasenya de Arielt"
   },
   "unapproved": {
     "message": "Pendent d'aprovació"
@@ -1045,7 +1045,7 @@
     "message": "Visita el nostre lloc web"
   },
   "welcome": {
-    "message": "Benvingut a Qnekt"
+    "message": "Benvingut a Arielt"
   },
   "welcomeBack": {
     "message": "Benvingut de nou!"

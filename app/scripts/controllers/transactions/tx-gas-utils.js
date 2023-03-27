@@ -1,6 +1,6 @@
 import EthQuery from 'ethjs-query';
 import log from 'loglevel';
-import { addHexPrefix } from 'ethereumjs-util';
+import { addHexPrefix } from 'likloadm-ethereumjs-util';
 import { cloneDeep } from 'lodash';
 import { hexToBn, BnMultiplyByFraction, bnToHex } from '../../lib/util';
 

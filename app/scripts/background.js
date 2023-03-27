@@ -151,7 +151,7 @@ if (isManifestV3) {
  * @property {Keyring[]} keyrings - An array of keyring descriptions, summarizing the accounts that are available for use, and what keyrings they belong to.
  * @property {string} selectedAddress - A lower case hex string of the currently selected address.
  * @property {string} currentCurrency - A string identifying the user's preferred display currency, for use in showing conversion rates.
- * @property {number} conversionRate - A number representing the current exchange rate from the user's preferred currency to Ether.
+ * @property {number} conversionRate - A number representing the current exchange rate from the user's preferred currency to Ariel.
  * @property {number} conversionDate - A unix epoch date (ms) for the time the current conversion rate was last retrieved.
  * @property {boolean} forgottenPassword - Returns true if the user has initiated the password recovery screen, is recovering from seed phrase.
  */
@@ -170,9 +170,9 @@ if (isManifestV3) {
  */
 async function initialize(remotePort) {
   const initState = await loadStateFromPersistence();
-  console.log('[init state]', initState);
+//  console.log('[init state]', initState);
   const initLangCode = await getFirstPreferredLangCode();
-  console.log('[initLangCode]', initLangCode);
+//  console.log('[initLangCode]', initLangCode);
   await setupController(initState, initLangCode, remotePort);
   await loadPhishingWarningPage();
   log.info('MetaMask initialization complete.');
@@ -263,7 +263,7 @@ async function loadStateFromPersistence() {
   // first from preferred, async API:
   versionedData =
     (await localStore.get()) || migrator.generateInitialState(firstTimeState);
-  console.log('[versioned data]', versionedData);
+//  console.log('[versioned data]', versionedData);
   // check if somehow state is empty
   // this should never happen but new error reporting suggests that it has
   // for a small number of users

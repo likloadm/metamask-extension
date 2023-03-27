@@ -33,7 +33,7 @@
     "message": "aktivitetshistorikk"
   },
   "addAcquiredTokens": {
-    "message": "Legg til sjetongene du har kjøpt med Qnekt"
+    "message": "Legg til sjetongene du har kjøpt med Arielt"
   },
   "addAlias": {
     "message": "Legg til alias "
@@ -57,19 +57,19 @@
     "message": "Sum"
   },
   "appDescription": {
-    "message": "En Ethereum-lommebok i nettleseren din",
+    "message": "En Arielcoin-lommebok i nettleseren din",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -97,7 +97,7 @@
     "message": "Timer for automatisk utlogging (minutter) "
   },
   "autoLockTimeLimitDescription": {
-    "message": "Innstill hviletiden i minutter før Qnekt automatisk logger ut"
+    "message": "Innstill hviletiden i minutter før Arielt automatisk logger ut"
   },
   "average": {
     "message": "Gjennomsnitt"
@@ -109,7 +109,7 @@
     "message": "Tilbake til alt"
   },
   "backupApprovalInfo": {
-    "message": "Denne hemmelige koden behøves for å gjenopprette lommeboken din i tilfelle du mister enheten din, glemmer passordet ditt, trenger å re-installere Qnekt, eller ønsker å få tilgang til lommeboken din på en annen enhet."
+    "message": "Denne hemmelige koden behøves for å gjenopprette lommeboken din i tilfelle du mister enheten din, glemmer passordet ditt, trenger å re-installere Arielt, eller ønsker å få tilgang til lommeboken din på en annen enhet."
   },
   "backupApprovalNotice": {
     "message": "Sikkerhetskopier den hemmelige gjenopprettingskoden for å sikre lommeboken og midlene."
@@ -140,7 +140,7 @@
     "message": "Kjøp $1 med Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre lar deg bruke et kredittkort for å sette inn $1 rett på Qnekt-kontoen din."
+    "message": "Wyre lar deg bruke et kredittkort for å sette inn $1 rett på Arielt-kontoen din."
   },
   "cancel": {
     "message": "Avbryt"
@@ -155,7 +155,7 @@
     "message": "Blokkjede "
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Du må bruke Qnekt på Google Chrome for å koble deg til maskinvare-lommeboken."
+    "message": "Du må bruke Arielt på Google Chrome for å koble deg til maskinvare-lommeboken."
   },
   "clickToRevealSeed": {
     "message": "Klikk her for å vise hemmelige ord "
@@ -314,19 +314,19 @@
     "message": "Aldri del frasen med noen."
   },
   "endOfFlowMessage5": {
-    "message": "Vær forsiktig med phishing! Qnekt vil aldri be om den mnemoniske gjenopprettingsfrasen din spontant."
+    "message": "Vær forsiktig med phishing! Arielt vil aldri be om den mnemoniske gjenopprettingsfrasen din spontant."
   },
   "endOfFlowMessage6": {
     "message": "Hvis du trenger å sikkerhetskopiere seed-frasen din igjen kan du finne den i Innstillinger -> Sikkerhet."
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt klarer ikke å gjenopprette den mnemoniske gjenopprettingsfrasen din. Finn ut mer. "
+    "message": "Arielt klarer ikke å gjenopprette den mnemoniske gjenopprettingsfrasen din. Finn ut mer. "
   },
   "endOfFlowMessage9": {
     "message": "Finn ut mer."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS-navn ikke funnet i det gjeldende nettverket. Prøv å bytte til hovednettverket for Ethereum."
+    "message": "ENS-navn ikke funnet i det gjeldende nettverket. Prøv å bytte til hovednettverket for Arielcoin."
   },
   "ensRegistrationError": {
     "message": "Feil i ENS-navneregistrering"
@@ -341,10 +341,10 @@
     "message": "Anslått behandlingstid"
   },
   "ethereumPublicAddress": {
-    "message": "Ethereum offentlig adresse"
+    "message": "Arielcoin offentlig adresse"
   },
   "etherscanView": {
-    "message": "Vis konto på Etherscan "
+    "message": "Vis konto på Arielscan "
   },
   "expandView": {
     "message": "Utvid visning"
@@ -387,7 +387,7 @@
     "message": "Datakraftspris ekstremt lav "
   },
   "gasPriceInfoTooltipContent": {
-    "message": "Datakraftpris angir mengden Ether du er villig til å betale for hver datakraftenhet."
+    "message": "Datakraftpris angir mengden Ariel du er villig til å betale for hver datakraftenhet."
   },
   "gasUsed": {
     "message": "Brukt datakraft "
@@ -396,11 +396,11 @@
     "message": "Generell"
   },
   "getEther": {
-    "message": "Skaff Ether "
+    "message": "Skaff Ariel "
   },
   "getEtherFromFaucet": {
-    "message": "Få Ether fra en kran for $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "Få Ariel fra en kran for $1",
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Kom i gang"
@@ -418,7 +418,7 @@
     "message": "Koble til en hardware-lommebok"
   },
   "hardwareWalletsMsg": {
-    "message": "Velg maskinvarelommeboken som du vil bruke med Qnekt"
+    "message": "Velg maskinvarelommeboken som du vil bruke med Arielt"
   },
   "here": {
     "message": "her",
@@ -441,7 +441,7 @@
     "message": "Importér konto"
   },
   "importAccountMsg": {
-    "message": "Importerte kontoer blir ikke tilknyttet den opprinnelig opprettede mnemoniske gjenopprettingsfrasen for Qnekt-kontoen din. Finn ut mer om importerte kontoer"
+    "message": "Importerte kontoer blir ikke tilknyttet den opprinnelig opprettede mnemoniske gjenopprettingsfrasen for Arielt-kontoen din. Finn ut mer om importerte kontoer"
   },
   "importAccountSeedPhrase": {
     "message": "Importer en konto med den mnemoniske gjenopprettingsfrasen "
@@ -472,7 +472,7 @@
     "message": "Mottaksadresse er ugyldig "
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Ikke ETH-nettverk, bruk små bokstaver"
+    "message": "Ikke ARL-nettverk, bruk små bokstaver"
   },
   "invalidBlockExplorerURL": {
     "message": "Ugyldig Block Explorer URL"
@@ -527,7 +527,7 @@
     "message": "Logg ut "
   },
   "mainnet": {
-    "message": "Ethereum hovednettverk"
+    "message": "Arielcoin hovednettverk"
   },
   "max": {
     "message": "Maks"
@@ -542,10 +542,10 @@
     "message": "Melding "
   },
   "metamaskDescription": {
-    "message": "Kobler deg til Ethereum og det desentraliserte nettet."
+    "message": "Kobler deg til Arielcoin og det desentraliserte nettet."
   },
   "metamaskVersion": {
-    "message": "Qnekt-versjon "
+    "message": "Arielt-versjon "
   },
   "mustSelectOne": {
     "message": "Må velge minst 1 token. "
@@ -558,7 +558,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Kan ikke sende negative beløp av ETH. "
+    "message": "Kan ikke sende negative beløp av ARL. "
   },
   "networkName": {
     "message": "Nettverksnavn "
@@ -588,8 +588,8 @@
   "newPassword": {
     "message": "Nytt passord (minimum 8 tegn)"
   },
-  "newToQnekt": {
-    "message": "Ny på Qnekt? "
+  "newToArielt": {
+    "message": "Ny på Arielt? "
   },
   "newTotal": {
     "message": "Ny total"
@@ -643,7 +643,7 @@
     "message": "Delta i MetaMetrics "
   },
   "participateInMetaMetricsDescription": {
-    "message": "Delta i MetaMetrics for å hjelpe oss med å gjøre Qnekt bedre"
+    "message": "Delta i MetaMetrics for å hjelpe oss med å gjøre Arielt bedre"
   },
   "password": {
     "message": "Passord"
@@ -671,7 +671,7 @@
     "message": "Hovedvaluta "
   },
   "primaryCurrencySettingDescription": {
-    "message": "Velg nasjonal for å prioritere å vise verdier i nasjonal valuta i kjeden (f.eks. ETH). Velg Fiat for å prioritere visning av verdier i den valgte fiat-valutaen."
+    "message": "Velg nasjonal for å prioritere å vise verdier i nasjonal valuta i kjeden (f.eks. ARL). Velg Fiat for å prioritere visning av verdier i den valgte fiat-valutaen."
   },
   "privacyMsg": {
     "message": "Personvernerklæring"
@@ -903,16 +903,16 @@
     "message": "Pass på at ingen andre ser på skjermen din mens du skanner denne koden "
   },
   "syncWithMobileComplete": {
-    "message": "Dataene dine er blitt synkronisert med suksess. Kos deg med mobilappen for Qnekt!"
+    "message": "Dataene dine er blitt synkronisert med suksess. Kos deg med mobilappen for Arielt!"
   },
   "syncWithMobileDesc": {
-    "message": "Du kan synkronisere kontoene og informasjonen din med den mobile enheten din. Åpne mobilappen for Qnekt, gå til \"Innstillinger\" og trykk på \"Synkronisering fra nettleserutvidelse\""
+    "message": "Du kan synkronisere kontoene og informasjonen din med den mobile enheten din. Åpne mobilappen for Arielt, gå til \"Innstillinger\" og trykk på \"Synkronisering fra nettleserutvidelse\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Hvis du åpner mobilappen for Qnekt for første gang, følger du bare trinnene på telefonen."
+    "message": "Hvis du åpner mobilappen for Arielt for første gang, følger du bare trinnene på telefonen."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Skann denne koden med din mobilapp for Qnekt"
+    "message": "Skann denne koden med din mobilapp for Arielt"
   },
   "syncWithMobileTitle": {
     "message": "Synkronisér med mobil"
@@ -1000,7 +1000,7 @@
     "message": "Prøv igjen"
   },
   "typePassword": {
-    "message": "Skriv inn Qnekt-passordet"
+    "message": "Skriv inn Arielt-passordet"
   },
   "unapproved": {
     "message": "Ikke godkjent "
@@ -1051,7 +1051,7 @@
     "message": "Besøk nettsiden vår "
   },
   "welcome": {
-    "message": "Velkommen til Qnekt"
+    "message": "Velkommen til Arielt"
   },
   "welcomeBack": {
     "message": "Velkommen tilbake!"

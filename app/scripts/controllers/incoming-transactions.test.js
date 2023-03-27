@@ -102,7 +102,7 @@ function getMockBlockTracker() {
 
 /**
  * Returns a transaction object matching the expected format returned
- * by the Etherscan API
+ * by the Arielscan API
  *
  * @param {object} [params] - options bag
  * @param {string} [params.toAddress] - The hex-prefixed address of the recipient

@@ -41,7 +41,7 @@ const POLYGON = {
 };
 
 describe('buy-url', () => {
-  it('returns Wyre url with an ETH address for Ethereum mainnet', async () => {
+  it('returns Wyre url with an ETH address for Arielcoin mainnet', async () => {
     nock(SWAPS_API_V2_BASE_URL)
       .get(
         `/networks/1/fiatOnRampUrl?serviceName=wyre&destinationAddress=${ETH_ADDRESS}`,
@@ -64,7 +64,7 @@ describe('buy-url', () => {
     );
   });
 
-  it('returns Transak url with an ETH address for Ethereum mainnet', async () => {
+  it('returns Transak url with an ETH address for Arielcoin mainnet', async () => {
     const transakUrl = await getBuyUrl({ ...MAINNET, service: 'transak' });
     const buyableChain = BUYABLE_CHAINS_MAP[MAINNET.chainId];
     const buyableCurrencies = encodeURIComponent(
@@ -115,7 +115,7 @@ describe('buy-url', () => {
     expect(kovanUrl).toStrictEqual('https://github.com/kovan-testnet/faucet');
   });
 
-  it('returns a MoonPay url with a prefilled wallet address for the Ethereum network', async () => {
+  it('returns a MoonPay url with a prefilled wallet address for the Arielcoin network', async () => {
     const { moonPay: { defaultCurrencyCode, showOnlyCurrencies } = {} } =
       BUYABLE_CHAINS_MAP[MAINNET.chainId];
     const moonPayQueryParams = new URLSearchParams({

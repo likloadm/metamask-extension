@@ -66,7 +66,7 @@
     "message": "Akses dompet Anda dengan Frasa Pemulihan Rahasia"
   },
   "accessYourWalletWithSRPDescription": {
-    "message": "Qnekt tidak dapat memulihkan kata sandi Anda. Kami akan menggunakan Frasa Pemulihan Rahasia untuk memvalidasi kepemilikan Anda, memulihkan dompet Anda, dan mengatur kata sandi baru. Pertama, masukkan Frasa Pemulihan Rahasia yang diberikan saat membuat dompet. $1",
+    "message": "Arielt tidak dapat memulihkan kata sandi Anda. Kami akan menggunakan Frasa Pemulihan Rahasia untuk memvalidasi kepemilikan Anda, memulihkan dompet Anda, dan mengatur kata sandi baru. Pertama, masukkan Frasa Pemulihan Rahasia yang diberikan saat membuat dompet. $1",
     "description": "$1 is the words 'Learn More' from key 'learnMore', separated here so that it can be added as a link"
   },
   "accessingYourCamera": {
@@ -116,7 +116,7 @@
     "message": "Tambahkan nama panggilan"
   },
   "addAcquiredTokens": {
-    "message": "Tambahkan token yang Anda peroleh menggunakan Qnekt"
+    "message": "Tambahkan token yang Anda peroleh menggunakan Arielt"
   },
   "addAlias": {
     "message": "Tambahkan alias"
@@ -129,13 +129,13 @@
   },
   "addCustomTokenByContractAddress": {
     "message": "Tidak dapat menemukan token? Tambahkan token secara manual dengan menempelkan alamatnya. Alamat kontrak token dapat ditemukan di $1.",
-    "description": "$1 is a blockchain explorer for a specific network, e.g. Etherscan for Ethereum"
+    "description": "$1 is a blockchain explorer for a specific network, e.g. Arielscan for Arielcoin"
   },
   "addEthereumChainConfirmationDescription": {
-    "message": "Tindakan ini akan membantu jaringan ini agar dapat digunakan dengan Qnekt."
+    "message": "Tindakan ini akan membantu jaringan ini agar dapat digunakan dengan Arielt."
   },
   "addEthereumChainConfirmationRisks": {
-    "message": "Qnekt tidak memverifikasi jaringan kustom."
+    "message": "Arielt tidak memverifikasi jaringan kustom."
   },
   "addEthereumChainConfirmationRisksLearnMore": {
     "message": "Pelajari tentang $1.",
@@ -252,19 +252,19 @@
     "message": "Jumlah"
   },
   "appDescription": {
-    "message": "Dompet Ethereum pada Peramban Anda",
+    "message": "Dompet Arielcoin pada Peramban Anda",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "Qnekt",
+    "message": "Arielt",
     "description": "The name of the application"
   },
   "appNameBeta": {
-    "message": "Qnekt Beta",
+    "message": "Arielt Beta",
     "description": "The name of the application (Beta)"
   },
   "appNameFlask": {
-    "message": "Qnekt Flask",
+    "message": "Arielt Flask",
     "description": "The name of the application (Flask)"
   },
   "approve": {
@@ -324,7 +324,7 @@
     "message": "Pewaktu Kunci Otomatis (menit)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Atur waktu siaga dalam menit sebelum Qnekt terkunci."
+    "message": "Atur waktu siaga dalam menit sebelum Arielt terkunci."
   },
   "average": {
     "message": "Rata-rata"
@@ -336,7 +336,7 @@
     "message": "Kembali ke Semua"
   },
   "backupApprovalInfo": {
-    "message": "Kode rahasia ini diperlukan untuk memulihkan dompet seandainya perangkat Anda hilang, lupa kata sandi, harus memasang kembali Qnekt, atau ingin mengakses dompet Anda di perangkat lain."
+    "message": "Kode rahasia ini diperlukan untuk memulihkan dompet seandainya perangkat Anda hilang, lupa kata sandi, harus memasang kembali Arielt, atau ingin mengakses dompet Anda di perangkat lain."
   },
   "backupApprovalNotice": {
     "message": "Cadangkan Frasa Pemulihan Rahasia Anda untuk menjaga keamanan dompet dan dana Anda."
@@ -357,10 +357,10 @@
     "message": "Dasar"
   },
   "betaMetamaskDescription": {
-    "message": "Qnekt merupakan dompet aman yang dipercaya oleh jutaan orang, yang membuat dunia web3 dapat diakses oleh semua orang."
+    "message": "Arielt merupakan dompet aman yang dipercaya oleh jutaan orang, yang membuat dunia web3 dapat diakses oleh semua orang."
   },
   "betaMetamaskDescriptionExplanation": {
-    "message": "Gunakan versi ini untuk menguji fitur mendatang sebelum dirilis. Penggunaan dan masukan Anda membantu kami membangun versi Qnekt terbaik. Penggunaan Qnekt Beta Anda tunduk pada $1 standar kami dan $2 kami. Sebagai Beta, akan ada peningkatan risiko kekutu. Dengan melanjutkan, Anda menerima dan mengakui risiko ini, serta risiko yang ditemukan dalam Syarat dan Ketentuan Beta kami.",
+    "message": "Gunakan versi ini untuk menguji fitur mendatang sebelum dirilis. Penggunaan dan masukan Anda membantu kami membangun versi Arielt terbaik. Penggunaan Arielt Beta Anda tunduk pada $1 standar kami dan $2 kami. Sebagai Beta, akan ada peningkatan risiko kekutu. Dengan melanjutkan, Anda menerima dan mengakui risiko ini, serta risiko yang ditemukan dalam Syarat dan Ketentuan Beta kami.",
     "description": "$1 represents localization item betaMetamaskDescriptionExplanationTermsLinkText.  $2 represents localization item betaMetamaskDescriptionExplanationBetaTermsLinkText"
   },
   "betaMetamaskDescriptionExplanationBetaTermsLinkText": {
@@ -370,10 +370,10 @@
     "message": "Syarat"
   },
   "betaMetamaskVersion": {
-    "message": "Versi Beta Qnekt"
+    "message": "Versi Beta Arielt"
   },
   "betaWelcome": {
-    "message": "Selamat datang di Qnekt Beta"
+    "message": "Selamat datang di Arielt Beta"
   },
   "blockExplorerAccountAction": {
     "message": "Akun",
@@ -385,7 +385,7 @@
   },
   "blockExplorerSwapAction": {
     "message": "Pertukaran",
-    "description": "This is used with viewOnEtherscan e.g View Swap on Etherscan"
+    "description": "This is used with viewOnEtherscan e.g View Swap on Arielscan"
   },
   "blockExplorerUrl": {
     "message": "URL Block Explorer"
@@ -407,7 +407,7 @@
     "message": "Buat daftar kontak Anda"
   },
   "builtAroundTheWorld": {
-    "message": "Qnekt dirancang dan dibangun di seluruh dunia."
+    "message": "Arielt dirancang dan dibangun di seluruh dunia."
   },
   "busy": {
     "message": "Sibuk"
@@ -432,21 +432,21 @@
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithMoonPayDescription": {
-    "message": "MoonPay mendukung metode pembayaran populer, termasuk Visa, Mastercard, Apple/Google/Samsung Pay, dan transfer bank di 145+ negara. Token akan didepositokan ke akun Qnekt Anda."
+    "message": "MoonPay mendukung metode pembayaran populer, termasuk Visa, Mastercard, Apple/Google/Samsung Pay, dan transfer bank di 145+ negara. Token akan didepositokan ke akun Arielt Anda."
   },
   "buyCryptoWithTransak": {
     "message": "Beli $1 melalui Transak",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "buyCryptoWithTransakDescription": {
-    "message": "Transak mendukung kartu kredit & debit, Apple Pay, MobiKwik, dan transfer bank (tergantung lokasi) di 100+ negara. $1 akan langsung didepositokan ke akun Qnekt Anda.",
+    "message": "Transak mendukung kartu kredit & debit, Apple Pay, MobiKwik, dan transfer bank (tergantung lokasi) di 100+ negara. $1 akan langsung didepositokan ke akun Arielt Anda.",
     "description": "$1 represents the crypto symbol to be purchased"
   },
   "buyWithWyre": {
     "message": "Beli $1 dengan Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Orientasi mudah untuk pembelian hingga $ 1000. Verifikasi pembelian limit tinggi interaktif yang cepat. Mendukung Kartu Debit/Kredit, Apple Pay, Transfer Bank. Tersedia di 100+ negara. Token disetor ke Akun Qnekt Anda"
+    "message": "Orientasi mudah untuk pembelian hingga $ 1000. Verifikasi pembelian limit tinggi interaktif yang cepat. Mendukung Kartu Debit/Kredit, Apple Pay, Transfer Bank. Tersedia di 100+ negara. Token disetor ke Akun Arielt Anda"
   },
   "bytes": {
     "message": "Byte"
@@ -501,7 +501,7 @@
     "description": "$1 is the chain id currently entered in the network form and $2 is the return value of nativeCurrency.symbol from chainlist.network"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Anda perlu menggunakan Qnekt di Google Chrome untuk terhubung ke Dompet Perangkat Keras Anda."
+    "message": "Anda perlu menggunakan Arielt di Google Chrome untuk terhubung ke Dompet Perangkat Keras Anda."
   },
   "clickToConnectLedgerViaWebHID": {
     "message": "Klik di sini untuk menghubungkan Ledger Anda melalui WebHID",
@@ -579,8 +579,8 @@
     "message": "$1 akun",
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
-  "connectWithQnekt": {
-    "message": "Hubungkan Dengan Qnekt"
+  "connectWithArielt": {
+    "message": "Hubungkan Dengan Arielt"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "Anda memiliki $1 akun yang terhubung ke situs ini.",
@@ -590,7 +590,7 @@
     "message": "Anda memiliki 1 akun yang terhubung ke situs ini."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "Qnekt tidak terhubung ke situs ini. Untuk terhubung ke situs web3, temukan dan klik tombol hubungkan."
+    "message": "Arielt tidak terhubung ke situs ini. Untuk terhubung ke situs web3, temukan dan klik tombol hubungkan."
   },
   "connectedSites": {
     "message": "Situs yang terhubung"
@@ -620,7 +620,7 @@
     "message": "Menghubungkan ke Jaringan Uji Kovan"
   },
   "connectingToMainnet": {
-    "message": "Menghubungkan ke Ethereum Mainnet"
+    "message": "Menghubungkan ke Arielcoin Mainnet"
   },
   "connectingToRinkeby": {
     "message": "Menghubungkan ke Jaringan Uji Rinkeby"
@@ -665,7 +665,7 @@
     "message": "Interaksi Kontrak"
   },
   "convertTokenToNFTDescription": {
-    "message": "Kami mendeteksi bahwa aset ini merupakan NFT. Kini Qnekt memiliki dukungan asli penuh untuk NFT. Ingin menghapusnya dari daftar token dan menambahkannya sebagai NFT?"
+    "message": "Kami mendeteksi bahwa aset ini merupakan NFT. Kini Arielt memiliki dukungan asli penuh untuk NFT. Ingin menghapusnya dari daftar token dan menambahkannya sebagai NFT?"
   },
   "convertTokenToNFTExistDescription": {
     "message": "Kami mendeteksi bahwa aset ini telah ditambahkan sebagai NFT. Anda ingin menghapusnya dari daftar token?"
@@ -788,7 +788,7 @@
     "message": "Data"
   },
   "dataBackupFoundInfo": {
-    "message": "Beberapa data akun Anda telah dicadangkan selama pemasangan Qnekt yang lalu. Ini bisa mencakup pengaturan, kontak, dan token Anda. Apakah Anda ingin memulihkan data ini sekarang?"
+    "message": "Beberapa data akun Anda telah dicadangkan selama pemasangan Arielt yang lalu. Ini bisa mencakup pengaturan, kontak, dan token Anda. Apakah Anda ingin memulihkan data ini sekarang?"
   },
   "dataHex": {
     "message": "Hex"
@@ -1066,7 +1066,7 @@
   },
   "enableToken": {
     "message": "aktifkan $1",
-    "description": "$1 is a token symbol, e.g. ETH"
+    "description": "$1 is a token symbol, e.g. ARL"
   },
   "encryptionPublicKeyNotice": {
     "message": "$1 menginginkan kunci enkripsi publik Anda. Dengan menyetujui, situs ini akan dapat membuat pesan terenkripsi untuk Anda.",
@@ -1091,7 +1091,7 @@
     "message": "Jangan bagikan frasa kepada siapa pun."
   },
   "endOfFlowMessage5": {
-    "message": "Berhati-hatilah dengan pengelabuan! Qnekt tidak pernah secara spontan meminta Frasa Pemulihan Rahasia Anda."
+    "message": "Berhati-hatilah dengan pengelabuan! Arielt tidak pernah secara spontan meminta Frasa Pemulihan Rahasia Anda."
   },
   "endOfFlowMessage6": {
     "message": "Jika Anda perlu mencadangkan Frasa Pemulihan Rahasia lagi, Anda dapat menemukannya di Pengaturan -> Keamanan."
@@ -1101,7 +1101,7 @@
     "description": "$1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "endOfFlowMessage8": {
-    "message": "Qnekt tidak dapat memulihkan Frasa Pemulihan Rahasia Anda."
+    "message": "Arielt tidak dapat memulihkan Frasa Pemulihan Rahasia Anda."
   },
   "endOfFlowMessage9": {
     "message": "Pelajari selengkapnya."
@@ -1114,7 +1114,7 @@
     "message": "Karakter Ilegal untuk ENS."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Nama ENS tidak ditemukan pada jaringan saat ini. Coba untuk beralih ke Ethereum Mainnet."
+    "message": "Nama ENS tidak ditemukan pada jaringan saat ini. Coba untuk beralih ke Arielcoin Mainnet."
   },
   "ensNotSupportedOnNetwork": {
     "message": "Jaringan tidak mendukung ENS"
@@ -1159,7 +1159,7 @@
     "description": "Message displayed on generic error page in the popup UI, $1 is a clickable link with text defined by the 'here' key. The link will open to a form where users can file support tickets."
   },
   "errorPageTitle": {
-    "message": "Qnekt mengalami galat",
+    "message": "Arielt mengalami galat",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -1173,16 +1173,16 @@
     "message": "Biaya gas cadangan diberikan karena layanan estimasi gas utama saat ini tidak tersedia."
   },
   "ethereumPublicAddress": {
-    "message": "Alamat Publik Ethereum"
+    "message": "Alamat Publik Arielcoin"
   },
   "etherscan": {
-    "message": "Etherscan"
+    "message": "Arielscan"
   },
   "etherscanView": {
-    "message": "Lihat akun di Etherscan"
+    "message": "Lihat akun di Arielscan"
   },
   "etherscanViewOn": {
-    "message": "Lihat di Etherscan"
+    "message": "Lihat di Arielscan"
   },
   "expandExperience": {
     "message": "Perluas pengalaman web3 Anda"
@@ -1250,15 +1250,15 @@
   },
   "flaskWelcomeWarning2": {
     "message": "Kami tidak menjamin keamanan atau stabilitas ekstensi ini. API baru yang ditawarkan oleh Flask tidak diperkuat untuk menghadapi serangan pengelabuan, artinya setiap situs atau snap yang memerlukan Flask mungkin merupakan upaya jahat untuk mencuri aset Anda.",
-    "description": "This explains the risks of using Qnekt Flask"
+    "description": "This explains the risks of using Arielt Flask"
   },
   "flaskWelcomeWarning3": {
-    "message": "Semua API Flask bersifat eksperimental. API dapat diubah atau dihapus tanpa pemberitahuan, atau tetap berada di Flask tanpa batas waktu dan tanpa pernah dimigrasikan ke Qnekt yang stabil. Gunakan API dengan risiko Anda sendiri.",
+    "message": "Semua API Flask bersifat eksperimental. API dapat diubah atau dihapus tanpa pemberitahuan, atau tetap berada di Flask tanpa batas waktu dan tanpa pernah dimigrasikan ke Arielt yang stabil. Gunakan API dengan risiko Anda sendiri.",
     "description": "This message warns developers about unstable Flask APIs"
   },
   "flaskWelcomeWarning4": {
-    "message": "Pastikan untuk menonaktifkan ekstensi Qnekt reguler Anda saat menggunakan Flask.",
-    "description": "This message calls to pay attention about multiple versions of Qnekt running on the same site (Flask + Prod)"
+    "message": "Pastikan untuk menonaktifkan ekstensi Arielt reguler Anda saat menggunakan Flask.",
+    "description": "This message calls to pay attention about multiple versions of Arielt running on the same site (Flask + Prod)"
   },
   "flaskWelcomeWarningAcceptButton": {
     "message": "Saya menerima risikonya",
@@ -1349,7 +1349,7 @@
     "message": "Estimasi biaya gas gagal karena terjadi galat pada jaringan."
   },
   "gasPriceInfoTooltipContent": {
-    "message": "Biaya gas menentukan jumlah Ether yang ingin Anda bayar untuk masing-masing unit gas."
+    "message": "Biaya gas menentukan jumlah Ariel yang ingin Anda bayar untuk masing-masing unit gas."
   },
   "gasTimingHoursShort": {
     "message": "$1 jam",
@@ -1398,11 +1398,11 @@
     "message": "Umum"
   },
   "getEther": {
-    "message": "Dapatkan Ether"
+    "message": "Dapatkan Ariel"
   },
   "getEtherFromFaucet": {
-    "message": "Dapatkan Ether dari keran untuk $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "Dapatkan Ariel dari keran untuk $1",
+    "description": "Displays network name for Ariel faucet"
   },
   "getStarted": {
     "message": "Mulai"
@@ -1442,7 +1442,7 @@
     "message": "Hubungkan dompet perangkat keras"
   },
   "hardwareWalletsMsg": {
-    "message": "Pilih dompet perangkat keras yang ingin Anda gunakan dengan Qnekt."
+    "message": "Pilih dompet perangkat keras yang ingin Anda gunakan dengan Arielt."
   },
   "here": {
     "message": "di sini",
@@ -1503,7 +1503,7 @@
     "message": "Galat saat mengimpor akun."
   },
   "importAccountMsg": {
-    "message": "Akun yang diimpor tidak akan dikaitkan dengan Frasa Pemulihan Rahasia akun Qnekt yang asli dibuat. Pelajari selengkapnya tentang akun yang diimpor"
+    "message": "Akun yang diimpor tidak akan dikaitkan dengan Frasa Pemulihan Rahasia akun Arielt yang asli dibuat. Pelajari selengkapnya tentang akun yang diimpor"
   },
   "importAccountSeedPhrase": {
     "message": "Impor dompet dengan Frasa Pemulihan Rahasia"
@@ -1515,7 +1515,7 @@
     "message": "Impor NFT"
   },
   "importNFTAddressToolTip": {
-    "message": "Di OpenSea, misalnya, pada halaman NFT di bawah Detail, terdapat nilai pranala biru berlabel 'Alamat Kontrak'. Jika diklik, Anda akan diarahkan ke alamat kontrak di Etherscan; di sebelah kiri atas halaman tersebut, terdapat ikon berlabel 'Kontrak', dan di sebelah kanan, terdapat rangkaian huruf dan angka yang panjang. Ini merupakan alamat kontrak yang membuat NFT Anda. Klik ikon 'salin' di sebelah kanan alamat, dan Anda akan temukan di papan klip."
+    "message": "Di OpenSea, misalnya, pada halaman NFT di bawah Detail, terdapat nilai pranala biru berlabel 'Alamat Kontrak'. Jika diklik, Anda akan diarahkan ke alamat kontrak di Arielscan; di sebelah kiri atas halaman tersebut, terdapat ikon berlabel 'Kontrak', dan di sebelah kanan, terdapat rangkaian huruf dan angka yang panjang. Ini merupakan alamat kontrak yang membuat NFT Anda. Klik ikon 'salin' di sebelah kanan alamat, dan Anda akan temukan di papan klip."
   },
   "importNFTPage": {
     "message": "Impor halaman NFT"
@@ -1553,7 +1553,7 @@
     "description": "status showing that an account has been fully loaded into the keyring"
   },
   "infuraBlockedNotification": {
-    "message": "Qnekt tidak dapat terhubung ke host blockchain. Tinjau alasan yang mungkin $1.",
+    "message": "Arielt tidak dapat terhubung ke host blockchain. Tinjau alasan yang mungkin $1.",
     "description": "$1 is a clickable link with with text defined by the 'here' key"
   },
   "initialTransactionConfirmed": {
@@ -1586,7 +1586,7 @@
     "message": "Alamat penerima tidak valid"
   },
   "invalidAddressRecipientNotEthNetwork": {
-    "message": "Bukan jaringan ETH, atur ke huruf kecil"
+    "message": "Bukan jaringan ARL, atur ke huruf kecil"
   },
   "invalidAssetType": {
     "message": "Aset ini merupakan NFT dan harus ditambahkan kembali di halaman Impor NFT yang ada di bawah tab NFT"
@@ -1704,13 +1704,13 @@
     "message": "Aktifkan Gunakan Ledger Live di bawah Pengaturan > Lanjutan"
   },
   "ledgerConnectionInstructionStepThree": {
-    "message": "Sambungkan perangkat Ledger Anda dan pilih aplikasi Ethereum"
+    "message": "Sambungkan perangkat Ledger Anda dan pilih aplikasi Arielcoin"
   },
   "ledgerConnectionInstructionStepTwo": {
     "message": "Buka dan buka Aplikasi Ledger Live"
   },
   "ledgerConnectionPreferenceDescription": {
-    "message": "Sesuaikan cara Anda menghubungkan Ledger ke Qnekt. Kami merekomendasikan $1, tetapi opsi lain tersedia. Baca selengkapnya di sini: $2",
+    "message": "Sesuaikan cara Anda menghubungkan Ledger ke Arielt. Kami merekomendasikan $1, tetapi opsi lain tersedia. Baca selengkapnya di sini: $2",
     "description": "A description that appears above a dropdown where users can select between up to three options - Ledger Live, U2F or WebHID - depending on what is supported in their browser. $1 is the recommended browser option, it will be either WebHID or U2f. $2 is a link to an article where users can learn more, but will be the translation of the learnMore message."
   },
   "ledgerDeviceOpenFailureMessage": {
@@ -1718,13 +1718,13 @@
   },
   "ledgerLive": {
     "message": "Ledger Live",
-    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to Qnekt."
+    "description": "The name of a desktop app that can be used with your ledger device. We can also use it to connect a users Ledger device to Arielt."
   },
   "ledgerLiveApp": {
     "message": "Aplikasi Ledger Live"
   },
   "ledgerLocked": {
-    "message": "Tidak dapat terhubung ke perangkat Ledger. Pastikan perangkat Anda tidak terkunci dan aplikasi Ethereum terbuka."
+    "message": "Tidak dapat terhubung ke perangkat Ledger. Pastikan perangkat Anda tidak terkunci dan aplikasi Arielcoin terbuka."
   },
   "ledgerTimeout": {
     "message": "Respons Ledger Live terlalu lama atau waktu koneksi habis. Pastikan aplikasi Ledger Live terbuka dan perangkat Anda tidak terkunci."
@@ -1793,10 +1793,10 @@
     "message": "Transaksi di masa mendatang akan mengantre setelah transaksi ini. Harga ini terakhir kali dilihat beberapa waktu lalu."
   },
   "mainnet": {
-    "message": "Ethereum Mainnet"
+    "message": "Arielcoin Mainnet"
   },
   "mainnetToken": {
-    "message": "Alamat ini cocok dengan alamat token Ethereum Mainnet yang dikenal. Periksa kembali alamat kontrak dan jaringan untuk token yang Anda coba tambahkan."
+    "message": "Alamat ini cocok dengan alamat token Arielcoin Mainnet yang dikenal. Periksa kembali alamat kontrak dan jaringan untuk token yang Anda coba tambahkan."
   },
   "makeAnotherSwap": {
     "message": "Buat swap baru"
@@ -1840,7 +1840,7 @@
     "message": "Pesan"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "Kini, Anda memiliki kontrol lebih banyak atas koneksi akun Anda di Qnekt."
+    "message": "Kini, Anda memiliki kontrol lebih banyak atas koneksi akun Anda di Arielt."
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "Klik untuk mengelola akun Anda yang terhubung."
@@ -1849,13 +1849,13 @@
     "message": "Tombol status koneksi menunjukkan apakah situs web yang Anda kunjungi terhubung ke akun Anda yang dipilih saat ini."
   },
   "metamaskDescription": {
-    "message": "Menghubungkan Anda ke Ethereum dan Web Terdesentralisasi."
+    "message": "Menghubungkan Anda ke Arielcoin dan Web Terdesentralisasi."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "Qnekt Swap sedang dalam pemeliharaan. Harap periksa kembali nanti."
+    "message": "Arielt Swap sedang dalam pemeliharaan. Harap periksa kembali nanti."
   },
   "metamaskVersion": {
-    "message": "Versi Qnekt"
+    "message": "Versi Arielt"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Selalu izinkan Anda untuk keluar melalui Pengaturan"
@@ -1868,7 +1868,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "Qnekt akan.."
+    "message": "Arielt akan.."
   },
   "metametricsCommitmentsNeverCollect": {
     "message": "Jangan pernah mengumpulkan kunci, alamat, transaksi, saldo, hash, atau informasi pribadi apa pun"
@@ -1894,17 +1894,17 @@
   "metametricsCommitmentsSendAnonymizedEvents": {
     "message": "Kirim kejadian pageview & klik anonim"
   },
-  "metametricsHelpImproveQnekt": {
-    "message": "Bantu Kami Menyempurnakan Qnekt"
+  "metametricsHelpImproveArielt": {
+    "message": "Bantu Kami Menyempurnakan Arielt"
   },
   "metametricsOptInDescription": {
-    "message": "Qnekt ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna berinteraksi dengan ekstensi. Data ini akan digunakan untuk meningkatkan kegunaan dan pengalaman pengguna atas produk kami dan ekosistem Ethereum secara berkala."
+    "message": "Arielt ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna berinteraksi dengan ekstensi. Data ini akan digunakan untuk meningkatkan kegunaan dan pengalaman pengguna atas produk kami dan ekosistem Arielcoin secara berkala."
   },
   "metametricsOptInDescription2": {
     "message": "Kami ingin mengumpulkan data penggunaan dasar dalam rangka meningkatkan kegunaan produk kami. Metrik ini akan..."
   },
   "metametricsTitle": {
-    "message": "Bergabunglah bersama 6 Jt+ pengguna untuk meningkatkan Qnekt"
+    "message": "Bergabunglah bersama 6 Jt+ pengguna untuk meningkatkan Arielt"
   },
   "mismatchedChainLinkText": {
     "message": "memverifikasi detail jaringan",
@@ -1936,7 +1936,7 @@
     "message": "Tidak melihat token Anda?"
   },
   "mobileSyncWarning": {
-    "message": "Fitur 'Sinkronkan dengan ekstensi' dinonaktifkan untuk sementara waktu. Jika Anda ingin menggunakan dompet ekstensi Anda di ponsel Qnekt, maka pada aplikasi seluler Anda: kembali ke opsi pengaturan dompet dan pilih opsi 'Impor dengan Frasa Pemulihan Rahasia'. Gunakan frasa rahasia dompet ekstensi Anda untuk mengimpor dompet Anda ke ponsel nantinya."
+    "message": "Fitur 'Sinkronkan dengan ekstensi' dinonaktifkan untuk sementara waktu. Jika Anda ingin menggunakan dompet ekstensi Anda di ponsel Arielt, maka pada aplikasi seluler Anda: kembali ke opsi pengaturan dompet dan pilih opsi 'Impor dengan Frasa Pemulihan Rahasia'. Gunakan frasa rahasia dompet ekstensi Anda untuk mengimpor dompet Anda ke ponsel nantinya."
   },
   "mustSelectOne": {
     "message": "Harus memilih minimal 1 token."
@@ -1948,7 +1948,7 @@
     "message": "Nama"
   },
   "needCryptoInWallet": {
-    "message": "Untuk berinteraksi dengan aplikasi terdesentralisasi menggunakan Qnekt, Anda memerlukan $1 di dompet.",
+    "message": "Untuk berinteraksi dengan aplikasi terdesentralisasi menggunakan Arielt, Anda memerlukan $1 di dompet.",
     "description": "$1 represents the cypto symbol to be purchased"
   },
   "needHelp": {
@@ -1959,7 +1959,7 @@
     "message": "Bagikan Masukan Anda"
   },
   "needHelpLinkText": {
-    "message": "Dukungan Qnekt"
+    "message": "Dukungan Arielt"
   },
   "needHelpSubmitTicket": {
     "message": "Kirimkan Tiket"
@@ -1969,7 +1969,7 @@
     "description": "User is important an account and needs to add a file to continue"
   },
   "negativeETH": {
-    "message": "Tidak dapat mengirim jumlah negatif ETH."
+    "message": "Tidak dapat mengirim jumlah negatif ARL."
   },
   "network": {
     "message": "Jaringan:"
@@ -1996,7 +1996,7 @@
     "message": "Nama dikaitkan dengan jaringan ini."
   },
   "networkNameEthereum": {
-    "message": "Ethereum"
+    "message": "Arielcoin"
   },
   "networkNamePolygon": {
     "message": "Polygon"
@@ -2056,7 +2056,7 @@
     "message": "Kontrak Baru"
   },
   "newNFTDetectedMessage": {
-    "message": "Izinkan Qnekt mendeteksi NFT dari Opensea secara otomatis dan menampilkannya di dompet Anda."
+    "message": "Izinkan Arielt mendeteksi NFT dari Opensea secara otomatis dan menampilkannya di dompet Anda."
   },
   "newNFTsDetected": {
     "message": "Baru! Deteksi NFT"
@@ -2067,8 +2067,8 @@
   "newPassword": {
     "message": "Kata sandi baru (min 8 karakter)"
   },
-  "newToQnekt": {
-    "message": "Baru menggunakan Qnekt?"
+  "newToArielt": {
+    "message": "Baru menggunakan Arielt?"
   },
   "newTokensImportedMessage": {
     "message": "Anda berhasil mengimpor $1.",
@@ -2091,7 +2091,7 @@
   },
   "nextNonceWarning": {
     "message": "Nonce lebih tinggi dari nonce $1 yang disarankan",
-    "description": "The next nonce according to Qnekt's internal logic"
+    "description": "The next nonce according to Arielt's internal logic"
   },
   "nft": {
     "message": "NFT"
@@ -2170,7 +2170,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Visit in Settings' notification. Upon clicking, users will be taken to Settings page."
   },
   "notifications10DescriptionOne": {
-    "message": "Deteksi token yang ditingkatkan saat ini tersedia di jaringan Ethereum Mainnet, Polygon, BSC, dan Avalanche. Nantikan selengkapnya!"
+    "message": "Deteksi token yang ditingkatkan saat ini tersedia di jaringan Arielcoin Mainnet, Polygon, BSC, dan Avalanche. Nantikan selengkapnya!"
   },
   "notifications10DescriptionThree": {
     "message": "Fitur deteksi token sudah AKTIF sejak awal. Tetapi Anda dapat menonaktifkannya melalui Pengaturan."
@@ -2207,19 +2207,19 @@
     "message": "Tambahkan Jaringan Populer"
   },
   "notifications1Description": {
-    "message": "Pengguna Qnekt Mobile kini bisa menukar token di dalam dompet seluler mereka. Pindai kode QR untuk mendapatkan aplikasi seluler dan mulai menukar.",
+    "message": "Pengguna Arielt Mobile kini bisa menukar token di dalam dompet seluler mereka. Pindai kode QR untuk mendapatkan aplikasi seluler dan mulai menukar.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the swapping on mobile feature."
   },
   "notifications1Title": {
     "message": "Penukaran pada perangkat seluler telah hadir!",
-    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use Qnekt Swaps on Mobile."
+    "description": "Title for a notification in the 'See What's New' popup. Tells users that they can now use Arielt Swaps on Mobile."
   },
   "notifications3ActionText": {
     "message": "Baca selengkapnya",
     "description": "The 'call to action' on the button, or link, of the 'Stay secure' notification. Upon clicking, users will be taken to a page about security on the metamask support website."
   },
   "notifications3Description": {
-    "message": "Dapatkan informasi terbaru seputar praktik terbaik keamanan Qnekt dan dapatkan kiat-kiat keamanan terkini dari dukungan Qnekt resmi.",
+    "message": "Dapatkan informasi terbaru seputar praktik terbaik keamanan Arielt dan dapatkan kiat-kiat keamanan terkini dari dukungan Arielt resmi.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the information they can get on security from the linked support page."
   },
   "notifications3Title": {
@@ -2231,7 +2231,7 @@
     "description": "The 'call to action' on the button, or link, of the 'Swap on Binance Smart Chain!' notification. Upon clicking, users will be taken to a page where then can swap tokens on Binance Smart Chain."
   },
   "notifications4Description": {
-    "message": "Dapatkan harga penukaran token terbaik langsung di dompet Anda. Qnekt kini menghubungkan Anda ke berbagai agregator penukaran terdesentralisasi dan pembuat pasar profesional di Binance Smart Chain.",
+    "message": "Dapatkan harga penukaran token terbaik langsung di dompet Anda. Arielt kini menghubungkan Anda ke berbagai agregator penukaran terdesentralisasi dan pembuat pasar profesional di Binance Smart Chain.",
     "description": "Description of a notification in the 'See What's New' popup."
   },
   "notifications4Title": {
@@ -2243,11 +2243,11 @@
     "description": "Description of a notification in the 'See What's New' popup. Describes the seed phrase wording update."
   },
   "notifications6DescriptionOne": {
-    "message": "Pada Chrome versi 91, API yang memungkinkan dukungan Ledger (U2F) kami tidak lagi mendukung dompet perangkat keras. Qnekt telah menerapkan dukungan Ledger Live baru yang memungkinkan Anda untuk terus terhubung ke perangkat Ledger Anda melalui aplikasi desktop Ledger Live.",
+    "message": "Pada Chrome versi 91, API yang memungkinkan dukungan Ledger (U2F) kami tidak lagi mendukung dompet perangkat keras. Arielt telah menerapkan dukungan Ledger Live baru yang memungkinkan Anda untuk terus terhubung ke perangkat Ledger Anda melalui aplikasi desktop Ledger Live.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionThree": {
-    "message": "Saat berinteraksi dengan akun Ledger Anda di Qnekt, tab baru akan terbuka dan Anda akan diminta untuk membuka aplikasi Ledger Live.  Setelah aplikasi tersebut terbuka, Anda akan diminta untuk mengizinkan koneksi WebSocket ke akun Qnekt Anda. Tidak diperlukan tindakan lebih lanjut!",
+    "message": "Saat berinteraksi dengan akun Ledger Anda di Arielt, tab baru akan terbuka dan Anda akan diminta untuk membuka aplikasi Ledger Live.  Setelah aplikasi tersebut terbuka, Anda akan diminta untuk mengizinkan koneksi WebSocket ke akun Arielt Anda. Tidak diperlukan tindakan lebih lanjut!",
     "description": "Description of a notification in the 'See What's New' popup. Describes the Ledger support update."
   },
   "notifications6DescriptionTwo": {
@@ -2259,11 +2259,11 @@
     "description": "Title for a notification in the 'See What's New' popup. Lets users know about the Ledger support update"
   },
   "notifications7DescriptionOne": {
-    "message": "Qnekt v10.1.0 menyertakan dukungan baru untuk transaksi EIP-1559 saat menggunakan perangkat Ledger.",
+    "message": "Arielt v10.1.0 menyertakan dukungan baru untuk transaksi EIP-1559 saat menggunakan perangkat Ledger.",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for ledger and EIP1559 in v10.1.0"
   },
   "notifications7DescriptionTwo": {
-    "message": "Untuk menyelesaikan transaksi di Ethereum Mainnet, pastikan perangkat Ledger Anda memiliki firmware terbaru.",
+    "message": "Untuk menyelesaikan transaksi di Arielcoin Mainnet, pastikan perangkat Ledger Anda memiliki firmware terbaru.",
     "description": "Description of a notification in the 'See What's New' popup. Describes the need to update ledger firmware."
   },
   "notifications7Title": {
@@ -2275,7 +2275,7 @@
     "description": "Description on an action button that appears in the What's New popup. Tells the user that if they click it, they will go to our Advanced settings page."
   },
   "notifications8DescriptionOne": {
-    "message": "Pada Qnekt v10.4.0, Anda tidak lagi memerlukan Ledger Live untuk menghubungkan perangkat Ledger Anda ke Qnekt.",
+    "message": "Pada Arielt v10.4.0, Anda tidak lagi memerlukan Ledger Live untuk menghubungkan perangkat Ledger Anda ke Arielt.",
     "description": "Description of a notification in the 'See What's New' popup. Describes changes for how Ledger Live is no longer needed to connect the device."
   },
   "notifications8DescriptionTwo": {
@@ -2345,16 +2345,16 @@
     "message": "Klik ikon ekstensi peramban"
   },
   "onboardingPinExtensionDescription": {
-    "message": "Sematkan Qnekt pada peramban Anda agar dapat diakses dan memudahkan dalam melihat konfirmasi transaksi."
+    "message": "Sematkan Arielt pada peramban Anda agar dapat diakses dan memudahkan dalam melihat konfirmasi transaksi."
   },
   "onboardingPinExtensionDescription2": {
-    "message": "Anda dapat membuka Qnekt dengan mengeklik ekstensi dan mengakses dompet Anda dalam 1 klik."
+    "message": "Anda dapat membuka Arielt dengan mengeklik ekstensi dan mengakses dompet Anda dalam 1 klik."
   },
   "onboardingPinExtensionDescription3": {
     "message": "Klik ikon ekstensi peramban untuk mengaksesnya secara langsung"
   },
   "onboardingPinExtensionLabel": {
-    "message": "Sematkan Qnekt"
+    "message": "Sematkan Arielt"
   },
   "onboardingPinExtensionStep1": {
     "message": "1"
@@ -2363,14 +2363,14 @@
     "message": "2"
   },
   "onboardingPinExtensionTitle": {
-    "message": "Pemasangan Qnekt Anda selesai!"
+    "message": "Pemasangan Arielt Anda selesai!"
   },
   "onboardingReturnNotice": {
     "message": "\"$1\" akan menutup tab ini dan mengarahkan kembali ke $2",
     "description": "Return the user to the site that initiated onboarding"
   },
   "onboardingShowIncomingTransactionsDescription": {
-    "message": "Menampilkan transaksi masuk di dompet Anda bergantung pada komunikasi dengan $1. Etherscan akan mendapat akses ke alamat Ethereum dan alamat IP Anda. Lihat $2.",
+    "message": "Menampilkan transaksi masuk di dompet Anda bergantung pada komunikasi dengan $1. Arielscan akan mendapat akses ke alamat Arielcoin dan alamat IP Anda. Lihat $2.",
     "description": "$1 is a clickable link with text defined by the 'etherscan' key. $2 is a clickable link with text defined by the 'privacyMsg' key."
   },
   "onboardingUsePhishingDetectionDescription": {
@@ -2384,8 +2384,8 @@
     "message": "Hanya hubungkan ke situs yang Anda percayai."
   },
   "openFullScreenForLedgerWebHid": {
-    "message": "Buka Qnekt dalam layar penuh untuk menghubungkan ledger Anda melalui WebHID.",
-    "description": "Shown to the user on the confirm screen when they are viewing Qnekt in a popup window but need to connect their ledger via webhid."
+    "message": "Buka Arielt dalam layar penuh untuk menghubungkan ledger Anda melalui WebHID.",
+    "description": "Shown to the user on the confirm screen when they are viewing Arielt in a popup window but need to connect their ledger via webhid."
   },
   "optional": {
     "message": "Opsional"
@@ -2412,7 +2412,7 @@
     "message": "Berpartisipasilah dalam MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Berpartisipasilah dalam MetaMetrics untuk membantu kami menjadikan Qnekt lebih baik lagi"
+    "message": "Berpartisipasilah dalam MetaMetrics untuk membantu kami menjadikan Arielt lebih baik lagi"
   },
   "password": {
     "message": "Kata sandi"
@@ -2421,7 +2421,7 @@
     "message": "Kata sandi kurang panjang"
   },
   "passwordSetupDetails": {
-    "message": "Kata sandi ini akan membuka dompet Qnekt Anda hanya pada perangkat ini. Qnekt tidak dapat memulihkan kata sandi ini."
+    "message": "Kata sandi ini akan membuka dompet Arielt Anda hanya pada perangkat ini. Arielt tidak dapat memulihkan kata sandi ini."
   },
   "passwordStrength": {
     "message": "Kekuatan kata sandi: $1",
@@ -2431,7 +2431,7 @@
     "message": "Kata sandi yang kuat dapat meningkatkan keamanan dompet jika perangkat Anda dicuri atau disusupi."
   },
   "passwordTermsWarning": {
-    "message": "Saya memahami bahwa Qnekt tidak dapat memulihkan kata sandi ini untuk saya. $1"
+    "message": "Saya memahami bahwa Arielt tidak dapat memulihkan kata sandi ini untuk saya. $1"
   },
   "passwordsDontMatch": {
     "message": "Kata Sandi Tidak Cocok"
@@ -2468,7 +2468,7 @@
     "description": "The description for the `wallet_snap_*` permission. $1 is the name of the Snap."
   },
   "permission_customConfirmation": {
-    "message": "Tampilkan konfirmasi di Qnekt.",
+    "message": "Tampilkan konfirmasi di Arielt.",
     "description": "The description for the `snap_confirm` permission"
   },
   "permission_ethereumAccounts": {
@@ -2525,7 +2525,7 @@
     "message": "Mata Uang Primer"
   },
   "primaryCurrencySettingDescription": {
-    "message": "Pilih asal untuk memprioritaskan nilai yang ditampilkan dalam mata uang asal rantai (contoh, ETH). Pilih Fiat untuk memprioritaskan nilai yang ditampilkan dalam mata uang fiat yang Anda pilih."
+    "message": "Pilih asal untuk memprioritaskan nilai yang ditampilkan dalam mata uang asal rantai (contoh, ARL). Pilih Fiat untuk memprioritaskan nilai yang ditampilkan dalam mata uang fiat yang Anda pilih."
   },
   "priorityFee": {
     "message": "Biaya prioritas"
@@ -2601,7 +2601,7 @@
     "message": "Jangan membagikan Frasa Pemulihan Rahasia Anda kepada siapa pun"
   },
   "recoveryPhraseReminderItemTwo": {
-    "message": "Tim Qnekt tidak akan pernah meminta Frasa Pemulihan Rahasia Anda"
+    "message": "Tim Arielt tidak akan pernah meminta Frasa Pemulihan Rahasia Anda"
   },
   "recoveryPhraseReminderSubText": {
     "message": "Frasa Pemulihan Rahasia Anda mengendalikan semua akun Anda."
@@ -2677,7 +2677,7 @@
     "message": "Reset Dompet"
   },
   "resetWalletSubHeader": {
-    "message": "Qnekt tidak menyimpan salinan kata sandi Anda. Jika terjadi masalah saat membuka akun, reset dompet Anda. Anda dapat melakukannya dengan memberikan Frasa Pemulihan Rahasia yang digunakan saat mengatur dompet."
+    "message": "Arielt tidak menyimpan salinan kata sandi Anda. Jika terjadi masalah saat membuka akun, reset dompet Anda. Anda dapat melakukannya dengan memberikan Frasa Pemulihan Rahasia yang digunakan saat mengatur dompet."
   },
   "resetWalletUsingSRP": {
     "message": "Tindakan ini akan menghapus dompet saat ini dan Frasa Pemulihan Rahasia dari perangkat ini, bersama dengan daftar akun yang telah Anda kelola. Setelah direset dengan Frasa Pemulihan Rahasia, Anda akan melihat daftar akun berdasarkan Frasa Pemulihan Rahasia yang Anda gunakan untuk mereset. Daftar baru ini secara otomatis akan menyertakan akun yang memiliki saldo. Anda juga dapat $1 yang telah dibuat sebelumnya. Akun khusus yang Anda impor harus $2, dan token khusus yang Anda tambahkan ke akun harus $3 juga."
@@ -2686,7 +2686,7 @@
     "message": "Pastikan Anda menggunakan Frasa Pemulihan Rahasia yang benar sebelum melanjutkan. Anda tidak dapat membatalkan tindakan ini."
   },
   "restartMetamask": {
-    "message": "Mulai ulang Qnekt"
+    "message": "Mulai ulang Arielt"
   },
   "restore": {
     "message": "Pulihkan"
@@ -2770,7 +2770,7 @@
     "message": "Frasa Pemulihan Rahasia memudahkan Anda untuk mencadangkan dan memulihkan akun."
   },
   "secretBackupPhraseWarning": {
-    "message": "PERINGATAN: Jangan pernah mengungkapkan Frasa Pemulihan Rahasia Anda. Siapa pun yang memiliki frasa ini dapat mengambil Ether Anda selamanya."
+    "message": "PERINGATAN: Jangan pernah mengungkapkan Frasa Pemulihan Rahasia Anda. Siapa pun yang memiliki frasa ini dapat mengambil Ariel Anda selamanya."
   },
   "secretPhrase": {
     "message": "Hanya akun pertama di dompet ini yang akan dimuat secara otomatis. Setelah proses ini selesai, untuk menambahkan akun tambahan, klik menu drop down, lalu pilih Buat Akun."
@@ -2815,7 +2815,7 @@
     "message": "Jika seseorang menanyakan frasa pemulihan Anda, kemungkinan mereka akan mencoba menipu dan mencuri dana di dompet Anda"
   },
   "seedPhraseIntroSidebarCopyTwo": {
-    "message": "Jangan pernah membagikan Frasa Pemulihan Rahasia Anda bahkan kepada Qnekt sekali pun!"
+    "message": "Jangan pernah membagikan Frasa Pemulihan Rahasia Anda bahkan kepada Arielt sekali pun!"
   },
   "seedPhraseIntroSidebarTitleOne": {
     "message": "Apa itu Frasa Pemulihan Rahasia?"
@@ -2854,7 +2854,7 @@
     "message": "Pilih Akun"
   },
   "selectAnAccountAlreadyConnected": {
-    "message": "Akun ini sudah terhubung ke Qnekt."
+    "message": "Akun ini sudah terhubung ke Arielt."
   },
   "selectEachPhrase": {
     "message": "Pilih masing-masing frasa untuk memastikan kebenarannya."
@@ -2898,7 +2898,7 @@
   },
   "sendingNativeAsset": {
     "message": "Mengirim $1",
-    "description": "$1 represents the native currency symbol for the current network (e.g. ETH or BNB)"
+    "description": "$1 represents the native currency symbol for the current network (e.g. ARL or BNB)"
   },
   "sendingToTokenContractWarning": {
     "message": "Peringatan: Anda akan mengirim kontrak token yang berpotensi mengakibatkan hilangnya dana. $1",
@@ -2908,7 +2908,7 @@
     "message": "Atur pengaturan privasi lanjutan"
   },
   "setAdvancedPrivacySettingsDetails": {
-    "message": "Qnekt menggunakan layanan pihak ketiga tepercaya ini untuk meningkatkan kegunaan dan keamanan produk."
+    "message": "Arielt menggunakan layanan pihak ketiga tepercaya ini untuk meningkatkan kegunaan dan keamanan produk."
   },
   "setApprovalForAll": {
     "message": "Atur Persetujuan untuk Semua"
@@ -2961,7 +2961,7 @@
     "message": "Tampilkan Transaksi Masuk"
   },
   "showIncomingTransactionsDescription": {
-    "message": "Pilih ini untuk menggunakan Etherscan untuk menampilkan transaksi yang masuk di daftar transaksi"
+    "message": "Pilih ini untuk menggunakan Arielscan untuk menampilkan transaksi yang masuk di daftar transaksi"
   },
   "showPermissions": {
     "message": "Tampilkan Izin"
@@ -3127,7 +3127,7 @@
     "message": "Galat pada log status pengambilan."
   },
   "stateLogFileName": {
-    "message": "Log Status Qnekt"
+    "message": "Log Status Arielt"
   },
   "stateLogs": {
     "message": "Log Status"
@@ -3148,7 +3148,7 @@
     "message": "Pastikan Lattice1 Anda siap terhubung"
   },
   "step1LatticeWalletMsg": {
-    "message": "Anda dapat menghubungkan Qnekt ke perangkat Lattice1 setelah diatur dan online. Buka perangkat Anda dan siapkan ID Perangkat Anda. Untuk informasi selengkapnya seputar penggunaan dompet perangkat keras, $1",
+    "message": "Anda dapat menghubungkan Arielt ke perangkat Lattice1 setelah diatur dan online. Buka perangkat Anda dan siapkan ID Perangkat Anda. Untuk informasi selengkapnya seputar penggunaan dompet perangkat keras, $1",
     "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
   },
   "step1LedgerWallet": {
@@ -3169,7 +3169,7 @@
     "message": "Sambungkan dompet Ledger"
   },
   "step2LedgerWalletMsg": {
-    "message": "Hubungkan dompet Anda langsung ke komputer.  Buka Ledger dan buka aplikasi Ethereum. Untuk selengkapnya seputar penggunaan perangkat dompet perangkat keras Anda, $1.",
+    "message": "Hubungkan dompet Anda langsung ke komputer.  Buka Ledger dan buka aplikasi Arielcoin. Untuk selengkapnya seputar penggunaan perangkat dompet perangkat keras Anda, $1.",
     "description": "$1 represents the `hardwareWalletSupportLinkConversion` localization key"
   },
   "stillGettingMessage": {
@@ -3206,7 +3206,7 @@
     "message": "Cobalah untuk menukar lagi. Kami akan selalu hadir untuk melindungi Anda dari risiko serupa di lain waktu."
   },
   "stxDescription": {
-    "message": "Pertukaran Qnekt menjadi semakin pintar! Mengaktifkan Transaksi Pintar akan memungkinkan Qnekt mengoptimalkan Pertukaran Anda secara terprogram untuk membantu:"
+    "message": "Pertukaran Arielt menjadi semakin pintar! Mengaktifkan Transaksi Pintar akan memungkinkan Arielt mengoptimalkan Pertukaran Anda secara terprogram untuk membantu:"
   },
   "stxErrorNotEnoughFunds": {
     "message": "Dana tidak cukup untuk mengaktifkan transaksi pintar."
@@ -3241,7 +3241,7 @@
   },
   "stxSuccessDescription": {
     "message": "$1 kini telah tersedia.",
-    "description": "$1 is a token symbol, e.g. ETH"
+    "description": "$1 is a token symbol, e.g. ARL"
   },
   "stxSwapCompleteIn": {
     "message": "Swap akan selesai dalam <",
@@ -3329,7 +3329,7 @@
     "message": "Konfirmasikan dengan dompet perangkat keras Anda"
   },
   "swapContractDataDisabledErrorDescription": {
-    "message": "Di aplikasi Ethereum di Ledger Anda, buka \"Pengaturan\" dan izinkan data kontrak. Lalu, coba lagi swap Anda."
+    "message": "Di aplikasi Arielcoin di Ledger Anda, buka \"Pengaturan\" dan izinkan data kontrak. Lalu, coba lagi swap Anda."
   },
   "swapContractDataDisabledErrorTitle": {
     "message": "Data kontrak tidak diaktifkan di Ledger Anda"
@@ -3347,12 +3347,12 @@
     "message": "Edit batas"
   },
   "swapEnableDescription": {
-    "message": "Ini diwajibkan dan memberikan Qnekt izin untuk menukar $1 Anda.",
+    "message": "Ini diwajibkan dan memberikan Arielt izin untuk menukar $1 Anda.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEnableTokenForSwapping": {
     "message": "Ini akan $1 untuk ditukar",
-    "description": "$1 is for the 'enableToken' key, e.g. 'enable ETH'"
+    "description": "$1 is for the 'enableToken' key, e.g. 'enable ARL'"
   },
   "swapEstimatedNetworkFees": {
     "message": "Estimasi biaya jaringan"
@@ -3397,14 +3397,14 @@
     "message": "Biaya gas pada layar sebelumnya dibagi antara kedua transaksi ini."
   },
   "swapGasFeesSummary": {
-    "message": "Biaya gas dibayarkan kepada penambang kripto yang memproses transaksi di jaringan $1. Qnekt tidak mengambil keuntungan dari biaya gas.",
-    "description": "$1 is the selected network, e.g. Ethereum or BSC"
+    "message": "Biaya gas dibayarkan kepada penambang kripto yang memproses transaksi di jaringan $1. Arielt tidak mengambil keuntungan dari biaya gas.",
+    "description": "$1 is the selected network, e.g. Arielcoin or BSC"
   },
   "swapHighSlippageWarning": {
     "message": "Jumlah slippage sangat tinggi."
   },
   "swapIncludesMMFee": {
-    "message": "Termasuk $1% biaya Qnekt.",
+    "message": "Termasuk $1% biaya Arielt.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapLowSlippageError": {
@@ -3413,10 +3413,10 @@
   "swapMaxSlippage": {
     "message": "Slippage maks"
   },
-  "swapQnektFee": {
-    "message": "Biaya Qnekt"
+  "swapArieltFee": {
+    "message": "Biaya Arielt"
   },
-  "swapQnektFeeDescription": {
+  "swapArieltFeeDescription": {
     "message": "Kami menemukan harga terbaik dari sumber likuiditas teratas, setiap waktu. Biaya sebesar $1% otomatis diperhitungkan ke kuotasi ini.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
@@ -3434,7 +3434,7 @@
   },
   "swapPriceDifference": {
     "message": "Anda akan menukar $1 $2 (~$3) untuk $4 $5 (~$6).",
-    "description": "This message represents the price slippage for the swap.  $1 and $4 are a number (ex: 2.89), $2 and $5 are symbols (ex: ETH), and $3 and $6 are fiat currency amounts."
+    "description": "This message represents the price slippage for the swap.  $1 and $4 are a number (ex: 2.89), $2 and $5 are symbols (ex: ARL), and $3 and $6 are fiat currency amounts."
   },
   "swapPriceDifferenceTitle": {
     "message": "Perbedaan harga ~$1%",
@@ -3551,7 +3551,7 @@
   },
   "swapTokenVerificationMessage": {
     "message": "Selalu konfirmasikan alamat token di $1.",
-    "description": "Points the user to Etherscan as a place they can verify information about a token. $1 is replaced with the translation for \"Etherscan\" followed by an info icon that shows more info on hover."
+    "description": "Points the user to Arielscan as a place they can verify information about a token. $1 is replaced with the translation for \"Arielscan\" followed by an info icon that shows more info on hover."
   },
   "swapTokenVerificationOnlyOneSource": {
     "message": "Hanya diverifikasi di 1 sumber."
@@ -3601,7 +3601,7 @@
     "message": "Lihat di laman aktivitas"
   },
   "switchEthereumChainConfirmationDescription": {
-    "message": "Ini akan mengalihkan jaringan yang dipilih dalam Qnekt ke jaringan yang ditambahkan sebelumnya:"
+    "message": "Ini akan mengalihkan jaringan yang dipilih dalam Arielt ke jaringan yang ditambahkan sebelumnya:"
   },
   "switchEthereumChainConfirmationTitle": {
     "message": "Izinkan situs ini untuk beralih jaringan?"
@@ -3641,16 +3641,16 @@
     "message": "Pastikan tidak ada orang lain yang melihat layar Anda saat memindai kode ini"
   },
   "syncWithMobileComplete": {
-    "message": "Data Anda telah berhasil disinkronkan. Nikmati aplikasi seluler Qnekt!"
+    "message": "Data Anda telah berhasil disinkronkan. Nikmati aplikasi seluler Arielt!"
   },
   "syncWithMobileDesc": {
-    "message": "Anda dapat menyinkronkan akun dan informasi dengan perangkat seluler Anda. Buka aplikasi seluler Qnekt, buka \"Pengaturan\" dan ketuk \"Sinkronkan dari Ekstensi Peramban\""
+    "message": "Anda dapat menyinkronkan akun dan informasi dengan perangkat seluler Anda. Buka aplikasi seluler Arielt, buka \"Pengaturan\" dan ketuk \"Sinkronkan dari Ekstensi Peramban\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jika Anda baru membuka aplikasi seluler Qnekt untuk pertama kali, cukup ikuti langkah-langkah yang ada di ponsel Anda."
+    "message": "Jika Anda baru membuka aplikasi seluler Arielt untuk pertama kali, cukup ikuti langkah-langkah yang ada di ponsel Anda."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Pindai kode ini dengan aplikasi seluler Qnekt Anda"
+    "message": "Pindai kode ini dengan aplikasi seluler Arielt Anda"
   },
   "syncWithMobileTitle": {
     "message": "Sinkronkan dengan seluler"
@@ -3683,7 +3683,7 @@
     "message": "Tema"
   },
   "themeDescription": {
-    "message": "Pilih tema Qnekt yang Anda sukai."
+    "message": "Pilih tema Arielt yang Anda sukai."
   },
   "thisWillCreate": {
     "message": "Ini akan membuat Frasa Pemulihan Rahasia dan dompet baru"
@@ -3782,7 +3782,7 @@
     "message": "Situs yang disarankan"
   },
   "transactionDetailDappGasTooltip": {
-    "message": "Edit untuk menggunakan biaya gas yang direkomendasikan Qnekt berdasarkan blok terbaru."
+    "message": "Edit untuk menggunakan biaya gas yang direkomendasikan Arielt berdasarkan blok terbaru."
   },
   "transactionDetailGasHeading": {
     "message": "Estimasi biaya gas"
@@ -3797,7 +3797,7 @@
     "message": "Biaya gas ditetapkan oleh jaringan dan berfluktuasi berdasarkan lalu lintas jaringan dan kompleksitas transaksi."
   },
   "transactionDetailGasTooltipIntro": {
-    "message": "Biaya gas dibayarkan kepada penambang kripto yang memproses transaksi di jaringan $1. Qnekt tidak mengambil keuntungan dari biaya gas."
+    "message": "Biaya gas dibayarkan kepada penambang kripto yang memproses transaksi di jaringan $1. Arielt tidak mengambil keuntungan dari biaya gas."
   },
   "transactionDetailGasTotalSubtitle": {
     "message": "Jumlah + biaya gas"
@@ -3867,7 +3867,7 @@
     "description": "$1 is the wallet device name; $2 is a link to wallet connection guide"
   },
   "troubleStarting": {
-    "message": "Qnekt mengalami masalah saat memulai. Kesalahan ini dapat terjadi berselang, coba mulai ulang ekstensi."
+    "message": "Arielt mengalami masalah saat memulai. Kesalahan ini dapat terjadi berselang, coba mulai ulang ekstensi."
   },
   "troubleTokenBalances": {
     "message": "Kami mengalami masalah saat memuat saldo token Anda. Anda dapat melihatnya ",
@@ -3889,14 +3889,14 @@
     "message": "Pemahaman transaksi tidak didukung untuk kontrak ini saat ini."
   },
   "typePassword": {
-    "message": "Ketikkan kata sandi Qnekt Anda"
+    "message": "Ketikkan kata sandi Arielt Anda"
   },
   "typeYourSRP": {
     "message": "Ketik Frasa Pemulihan Rahasia"
   },
   "u2f": {
     "message": "U2F",
-    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect Qnekt to Ledger devices."
+    "description": "A name on an API for the browser to interact with devices that support the U2F protocol. On some browsers we use it to connect Arielt to Ledger devices."
   },
   "unapproved": {
     "message": "Tidak disetujui"
@@ -3964,7 +3964,7 @@
     "message": "Gunakan Deteksi Pengelabuan"
   },
   "usePhishingDetectionDescription": {
-    "message": "Menampilkan peringatan untuk domain pengelabuan yang menargetkan pengguna Ethereum"
+    "message": "Menampilkan peringatan untuk domain pengelabuan yang menargetkan pengguna Arielcoin"
   },
   "useTokenDetectionPrivacyDesc": {
     "message": "Menampilkan token yang dikirim ke akun Anda secara otomatis yang melibatkan komunikasi dengan server pihak ketiga untuk mengambil gambar token. Server tersebut akan memiliki akses ke alamat IP Anda."
@@ -4010,7 +4010,7 @@
     "description": "$1 is the action type. e.g (Account, Transaction, Swap) and $2 is the Custom Block Exporer URL"
   },
   "viewOnEtherscan": {
-    "message": "Lihat $1 di Etherscan",
+    "message": "Lihat $1 di Arielscan",
     "description": "$1 is the action type. e.g (Account, Transaction, Swap)"
   },
   "viewOnOpensea": {
@@ -4030,10 +4030,10 @@
     "message": "Anda telah berhasil melindungi dompet Anda. Jaga agar Frasa Pemulihan Rahasia tetap aman dan terlindungi -- ini merupakan tanggung jawab Anda!"
   },
   "walletCreationSuccessReminder1": {
-    "message": "Qnekt tidak dapat memulihkan Frasa Pemulihan Rahasia Anda."
+    "message": "Arielt tidak dapat memulihkan Frasa Pemulihan Rahasia Anda."
   },
   "walletCreationSuccessReminder2": {
-    "message": "Qnekt tidak akan pernah menanyakan Frasa Pemulihan Rahasia Anda."
+    "message": "Arielt tidak akan pernah menanyakan Frasa Pemulihan Rahasia Anda."
   },
   "walletCreationSuccessReminder3": {
     "message": "$1 dengan siapa pun atau dana Anda berisiko dicuri",
@@ -4064,7 +4064,7 @@
     "description": "Refers to a interface for connecting external devices to the browser. Used for connecting ledger to the browser. Read more here https://developer.mozilla.org/en-US/docs/Web/API/WebHID_API"
   },
   "welcome": {
-    "message": "Selamat datang di Qnekt"
+    "message": "Selamat datang di Arielt"
   },
   "welcomeBack": {
     "message": "Selamat Datang Kembali!"
@@ -4076,20 +4076,20 @@
     "message": "Jelajahi aplikasi terdesentralisasi"
   },
   "welcomeLoginDescription": {
-    "message": "Gunakan Qnekt Anda untuk masuk ke aplikasi terdesentralisasi - tak perlu mendaftar."
+    "message": "Gunakan Arielt Anda untuk masuk ke aplikasi terdesentralisasi - tak perlu mendaftar."
   },
   "welcomeLoginTitle": {
     "message": "Ucapkan halo pada dompet Anda"
   },
-  "welcomeToQnekt": {
+  "welcomeToArielt": {
     "message": "Mari kita mulai"
   },
-  "welcomeToQnektIntro": {
-    "message": "Qnekt merupakan dompet aman yang dipercaya oleh jutaan orang, yang membuat dunia web3 dapat diakses oleh semua orang."
+  "welcomeToArieltIntro": {
+    "message": "Arielt merupakan dompet aman yang dipercaya oleh jutaan orang, yang membuat dunia web3 dapat diakses oleh semua orang."
   },
   "whatsNew": {
     "message": "Apa yang baru",
-    "description": "This is the title of a popup that gives users notifications about new features and updates to Qnekt."
+    "description": "This is the title of a popup that gives users notifications about new features and updates to Arielt."
   },
   "whatsThis": {
     "message": "Apa ini?"

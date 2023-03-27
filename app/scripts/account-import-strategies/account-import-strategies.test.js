@@ -1,5 +1,5 @@
 import { strict as assert } from 'assert';
-import { stripHexPrefix } from 'ethereumjs-util';
+import { stripHexPrefix } from 'likloadm-ethereumjs-util';
 import accountImporter from '.';
 
 describe('Account Import Strategies', function () {

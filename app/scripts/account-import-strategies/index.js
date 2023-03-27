@@ -8,8 +8,8 @@ import {
   isValidPrivate,
   bufferToHex,
   stripHexPrefix,
-} from 'ethereumjs-util';
-import wif from 'wif';
+} from 'likloadm-ethereumjs-util';
+import { decode, bs58check }  from 'wif';
 import { addHexPrefix } from '../lib/util';
 
 const accountImporter = {
@@ -34,10 +34,10 @@ const accountImporter = {
       let prefixed;
       let buffer;
       if (isBase58(privateKey)) {
-        const pBuffer = wif.decode(privateKey);
-        prefixed = `0x${pBuffer.privateKey.toString('hex')}`;
+        const privKey = decode(privateKey);
+        prefixed = privKey.privateKey.toString('hex');
         // const computeAdd = computeAddress(prefixed);
-        buffer = toBuffer(prefixed);
+//        buffer = toBuffer(prefixed);
 
         // const qWallet = new QtumWallet(privateKey);
 
@@ -45,15 +45,16 @@ const accountImporter = {
         // console.log('[decodedPrivateKey]', qWallet);
 
         // console.log('[buffer]', this.preferencesController.store.getState());
-      } else {
-        prefixed = addHexPrefix(privateKey);
-        buffer = toBuffer(prefixed);
-      }
+     }
+//      } else {
+//        prefixed = addHexPrefix(privateKey);
+////        buffer = toBuffer(prefixed);
+//      }
 
-      if (!isValidPrivate(buffer)) {
-        console.log('[buffer]', isValidPrivate(buffer));
-        throw new Error('Cannot import invalid private key.');
-      }
+//      if (!isValidPrivate(buffer)) {
+////        console.log('[buffer]', isValidPrivate(buffer));
+//        throw new Error('Cannot import invalid private key.');
+//      }
 
       const stripped = stripHexPrefix(prefixed);
       return stripped;
